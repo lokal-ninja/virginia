@@ -1,0 +1,4 @@
+---
+title: "Modern Barber Shop"
+url: /blacksburg/modern-barber-shop/
+---

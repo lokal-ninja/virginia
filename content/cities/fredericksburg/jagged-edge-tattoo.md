@@ -1,0 +1,4 @@
+---
+title: "Jagged Edge Tattoo"
+url: /fredericksburg/jagged-edge-tattoo/
+---

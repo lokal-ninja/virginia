@@ -1,0 +1,4 @@
+---
+title: "Cube Smart Self Storage"
+url: /fredericksburg/cube-smart-self-storage-2/
+---

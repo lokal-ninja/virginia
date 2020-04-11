@@ -1,0 +1,4 @@
+---
+title: "Trivett Furniture"
+url: /fredericksburg/trivett-furniture/
+---
