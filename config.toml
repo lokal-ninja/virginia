@@ -1,7 +1,7 @@
 baseURL = "https://shoogle.us/virginia"
 languageCode = "en-US"
 title = "Virginia"
-theme = "ln-base-en"
+theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
