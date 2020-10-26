@@ -1,6 +1,6 @@
 ---
 title: Saluda
 url: /saluda/
-latitude: 37.6059738
-longitude: -76.5949538
+latitude: 37.6061278
+longitude: -76.59506520000001
 ---

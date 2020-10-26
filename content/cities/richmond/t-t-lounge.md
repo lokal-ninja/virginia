@@ -1,4 +1,4 @@
 ---
-title: "T T Lounge"
+title: "T. T. Lounge"
 url: /richmond/t-t-lounge/
 ---

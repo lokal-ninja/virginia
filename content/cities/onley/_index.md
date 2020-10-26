@@ -1,6 +1,6 @@
 ---
 title: Onley
 url: /onley/
-latitude: 37.6909641
-longitude: -75.7160405
+latitude: 37.690851300000006
+longitude: -75.7161703
 ---

@@ -1,4 +1,4 @@
 ---
-title: "GOLD N DIAMONDS"
+title: "Gold N Diamonds"
 url: /hampton/gold-n-diamonds/
 ---

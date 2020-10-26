@@ -1,6 +1,6 @@
 id: 2368799281
 type: node
-shop: department store
+shop: outdoor
 latitude: 37.359572
 longitude: -79.96103500000001
 postcode: "24019"
@@ -8,6 +8,5 @@ city: Roanoke
 street: "Gander Way"
 housenumber: 8195
 phone: "+1-540-362-3658"
-opening_hours: "Mo-Sa 09:00-21:00
-Su 09:00-18:00"
+opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-18:00"
 website: ""
