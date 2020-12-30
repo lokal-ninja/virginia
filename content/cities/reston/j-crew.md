@@ -1,4 +1,4 @@
 ---
-title: "J Crew"
+title: "J.Crew"
 url: /reston/j-crew/
 ---

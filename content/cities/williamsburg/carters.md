@@ -1,4 +1,4 @@
 ---
-title: "carter's"
+title: "Carter's"
 url: /williamsburg/carters/
 ---

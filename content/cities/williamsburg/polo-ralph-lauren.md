@@ -1,4 +1,4 @@
 ---
-title: "Polo/Ralph Lauren"
+title: "Polo Ralph Lauren"
 url: /williamsburg/polo-ralph-lauren/
 ---
