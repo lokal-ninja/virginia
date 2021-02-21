@@ -1,6 +1,6 @@
 ---
 title: Big Stone Gap
 url: /big-stone-gap/
-latitude: 36.881764000000004
-longitude: -82.74710490000001
+latitude: 36.8636908
+longitude: -82.77874820000001
 ---

@@ -1,12 +1,11 @@
-id: 2441037231
-type: node
-shop: convenience
-latitude: 38.831413500000004
-longitude: -77.0850643
-postcode: "22302"
+id: 584946807
+type: way
+latitude: 38.784521000000005
+longitude: -77.1300526
+postcode: "22310"
 city: Alexandria
-street: "North Quaker Lane"
-housenumber: 1639
-phone: "+1 (703) 998-6014"
-opening_hours: "06:00-23:00"
+street: "Franconia Road"
+housenumber: 5514
+phone: ""
+opening_hours: "Tu 06:00-23:59"
 website: ""

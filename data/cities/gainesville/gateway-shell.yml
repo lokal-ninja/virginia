@@ -1,12 +1,11 @@
-id: 45580387
-type: way
-shop: convenience
-latitude: 38.796800000000005
-longitude: -77.6060369
+id: 4226770953
+type: node
+latitude: 38.7967035
+longitude: -77.60600310000001
 postcode: "20155"
 city: Gainesville
 street: "Gateway Center Drive"
 housenumber: 13246
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+1-703-754-1180"
+opening_hours: "Mo-Fr 08:00-17:00; Sa 07:00-13:00"
+website: "http://www.gatewayshellandservicecenter.com/"

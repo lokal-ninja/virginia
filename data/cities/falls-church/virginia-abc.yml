@@ -1,12 +1,11 @@
-id: 282276692
-type: way
-shop: alcohol
-latitude: 38.864858000000005
-longitude: -77.1970876
-postcode: ""
+id: 3839562401
+type: node
+latitude: 38.879501600000005
+longitude: -77.1712104
+postcode: "22046"
 city: Falls Church
-street: "Arlington Boulevard"
-housenumber: 7263
-phone: "+1-703-207-7372"
-opening_hours: "Mo-Sa 10:00-21:00, Su 13:00-18:00"
-website: ""
+street: "Hillwood Avenue"
+housenumber: 167
+phone: ""
+opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
+website: "https://www.abc.virginia.gov/"

@@ -1,6 +1,5 @@
 id: 386111795
 type: way
-shop: art
 latitude: 38.0299849
 longitude: -78.4779864
 postcode: "22902"
@@ -8,5 +7,5 @@ city: Charlottesville
 street: "East Main Street"
 housenumber: 503
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 12:00-17:00"
 website: ""

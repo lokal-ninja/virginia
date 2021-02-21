@@ -1,6 +1,5 @@
 id: 1652573042
 type: node
-shop: supermarket
 latitude: 38.8305189
 longitude: -77.19204140000001
 postcode: "22003"
@@ -9,4 +8,4 @@ street: "Columbia Pike"
 housenumber: 7137
 phone: "+1 703 354 5081"
 opening_hours: "Mo-Sa 06:00-24:00; Su 06:00-23:00"
-website: "https://giantfood.com/our_stores/locator/store_details.htm?storeNumber=0749"
+website: "https://stores.giantfood.com/va/annandale/7137-columbia-pike"
