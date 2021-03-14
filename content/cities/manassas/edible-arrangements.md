@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /manassas/edible-arrangements/
-shop: confectionery
+shop: gift
 ---
