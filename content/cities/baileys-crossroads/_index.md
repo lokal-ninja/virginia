@@ -1,6 +1,6 @@
 ---
-title: Baileys Crossroads
+title: Bailey's Crossroads
 url: /baileys-crossroads/
-latitude: 
-longitude: 
+latitude: 38.8503902
+longitude: -77.1297016
 ---
