@@ -1,11 +1,11 @@
-id: 2653007053
-type: node
-latitude: 36.7147888
-longitude: -76.23748970000001
-postcode: "23322"
+id: 384591558
+type: way
+latitude: 36.7447053
+longitude: -76.2423552
+postcode: "23320"
 city: Chesapeake
-street: "Battlefield Boulevard South"
-housenumber: 237
+street: "Battlefield Boulevard North"
+housenumber: 701
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: ""
 website: ""
