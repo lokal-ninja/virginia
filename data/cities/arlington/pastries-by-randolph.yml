@@ -7,5 +7,5 @@ city: Arlington
 street: "North Lee Highway"
 housenumber: 4500
 phone: "703-243-0070"
-opening_hours: "Mo-Fr 07:00-18:00 Sa 08:00-17:00 Su 08:00-13:00"
+opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-17:00"
 website: "https://www.pastriesbyrandolph.com/"

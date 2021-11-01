@@ -1,5 +1,5 @@
 ---
-title: "L. L. Bean"
+title: "L.L.Bean"
 url: /mclean/l-l-bean/
 shop: outdoor
 ---

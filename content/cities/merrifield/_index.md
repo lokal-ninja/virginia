@@ -1,6 +1,6 @@
 ---
 title: Merrifield
 url: /merrifield/
-latitude: 38.874261100000005
-longitude: -77.2266208
+latitude: 38.8741399
+longitude: -77.2274879
 ---
