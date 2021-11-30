@@ -1,5 +1,5 @@
 ---
 title: "Pastries By Randolph"
 url: /arlington/pastries-by-randolph/
-shop: bakery
+shop: pastry
 ---
