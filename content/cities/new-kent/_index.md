@@ -1,6 +1,6 @@
 ---
 title: New Kent
 url: /new-kent/
-latitude: 37.4971441
-longitude: -76.9964301
+latitude: 37.4974701
+longitude: -76.9990453
 ---
