@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /culpeper/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

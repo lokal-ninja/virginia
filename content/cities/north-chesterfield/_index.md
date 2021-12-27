@@ -1,6 +1,6 @@
 ---
 title: North Chesterfield
 url: /north-chesterfield/
-latitude: 
-longitude: 
+latitude: 37.505
+longitude: -77.575
 ---

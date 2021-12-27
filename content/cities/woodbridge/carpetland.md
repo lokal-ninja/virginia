@@ -1,5 +1,5 @@
 ---
 title: "Carpetland"
 url: /woodbridge/carpetland/
-shop: carpet
+shop: Teppiche
 ---

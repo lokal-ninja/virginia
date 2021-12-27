@@ -1,6 +1,6 @@
 ---
 title: Roanokev
 url: /roanokev/
-latitude: 
-longitude: 
+latitude: 37.271
+longitude: -79.944
 ---

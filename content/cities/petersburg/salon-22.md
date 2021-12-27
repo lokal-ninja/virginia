@@ -1,5 +1,5 @@
 ---
 title: "Salon 22"
 url: /petersburg/salon-22/
-shop: hairdresser
+shop: Friseur
 ---

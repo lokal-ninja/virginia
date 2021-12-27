@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /fredericksburg/petsmart/
-shop: pet
+shop: Tiere
 ---

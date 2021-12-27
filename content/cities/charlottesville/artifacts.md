@@ -1,5 +1,5 @@
 ---
 title: "Artifacts"
 url: /charlottesville/artifacts/
-shop: antiques
+shop: Antiquitäten
 ---

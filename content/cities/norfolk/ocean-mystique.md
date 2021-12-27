@@ -1,5 +1,5 @@
 ---
 title: "Ocean Mystique"
 url: /norfolk/ocean-mystique/
-shop: tattoo
+shop: Tattoo
 ---

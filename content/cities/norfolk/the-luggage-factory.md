@@ -1,5 +1,5 @@
 ---
 title: "The Luggage Factory"
 url: /norfolk/the-luggage-factory/
-shop: bag
+shop: Taschen & Koffer
 ---

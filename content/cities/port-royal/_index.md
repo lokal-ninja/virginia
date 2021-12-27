@@ -1,6 +1,6 @@
 ---
 title: Port Royal
 url: /port-royal/
-latitude: 38.1717974
-longitude: -77.1910885
+latitude: 38.162
+longitude: -77.197
 ---

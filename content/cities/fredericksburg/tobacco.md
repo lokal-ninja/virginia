@@ -1,5 +1,5 @@
 ---
 title: "Tobacco +"
 url: /fredericksburg/tobacco/
-shop: tobacco
+shop: Tabak
 ---

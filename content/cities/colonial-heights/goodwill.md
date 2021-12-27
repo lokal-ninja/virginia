@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /colonial-heights/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

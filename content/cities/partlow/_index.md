@@ -1,6 +1,6 @@
 ---
 title: Partlow
 url: /partlow/
-latitude: 38.038748000000005
-longitude: -77.6388764
+latitude: 38.042
+longitude: -77.646
 ---

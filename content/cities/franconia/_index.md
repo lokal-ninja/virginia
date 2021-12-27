@@ -1,6 +1,6 @@
 ---
 title: Franconia
 url: /franconia/
-latitude: 38.7819762
-longitude: -77.1461045
+latitude: 38.766
+longitude: -77.153
 ---

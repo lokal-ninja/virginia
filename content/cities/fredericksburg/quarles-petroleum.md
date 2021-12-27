@@ -1,5 +1,5 @@
 ---
 title: "Quarles Petroleum"
 url: /fredericksburg/quarles-petroleum/
-shop: gas
+shop: Gasflaschen
 ---

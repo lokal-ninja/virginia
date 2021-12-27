@@ -1,6 +1,6 @@
 ---
 title: Floyd
 url: /floyd/
-latitude: 36.9157056
-longitude: -80.3876889
+latitude: 36.912
+longitude: -80.324
 ---

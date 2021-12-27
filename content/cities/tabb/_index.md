@@ -1,6 +1,6 @@
 ---
 title: Tabb
 url: /tabb/
-latitude: 37.125395100000006
-longitude: -76.45609060000001
+latitude: 37.114
+longitude: -76.467
 ---

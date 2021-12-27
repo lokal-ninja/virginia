@@ -1,6 +1,6 @@
 ---
 title: Elliston
 url: /elliston/
-latitude: 37.2165215
-longitude: -80.23254270000001
+latitude: 37.217
+longitude: -80.231
 ---

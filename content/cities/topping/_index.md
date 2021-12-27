@@ -1,6 +1,6 @@
 ---
 title: Topping
 url: /topping/
-latitude: 37.5881938
-longitude: -76.47439340000001
+latitude: 37.599
+longitude: -76.45
 ---

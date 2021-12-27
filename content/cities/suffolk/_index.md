@@ -1,6 +1,6 @@
 ---
 title: Suffolk
 url: /suffolk/
-latitude: 36.7282096
-longitude: -76.5835703
+latitude: 36.88
+longitude: -76.427
 ---

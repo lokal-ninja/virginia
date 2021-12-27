@@ -1,6 +1,6 @@
 ---
 title: Pound
 url: /pound/
-latitude: 37.1237146
-longitude: -82.60126670000001
+latitude: 37.118
+longitude: -82.599
 ---

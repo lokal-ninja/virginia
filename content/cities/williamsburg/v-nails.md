@@ -1,5 +1,5 @@
 ---
 title: "V Nails"
 url: /williamsburg/v-nails/
-shop: beauty
+shop: Kosmetik
 ---

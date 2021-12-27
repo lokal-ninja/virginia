@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /richmond/whole-foods-market/
-shop: supermarket
+shop: Supermarkt
 ---

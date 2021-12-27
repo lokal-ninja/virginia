@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /williamsburg/guess/
-shop: clothes
+shop: Kleidung
 ---

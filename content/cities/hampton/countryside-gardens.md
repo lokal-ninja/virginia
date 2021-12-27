@@ -1,5 +1,5 @@
 ---
 title: "Countryside Gardens"
 url: /hampton/countryside-gardens/
-shop: garden centre
+shop: Garten-Center
 ---

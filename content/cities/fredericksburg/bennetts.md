@@ -1,5 +1,5 @@
 ---
 title: "Bennetts"
 url: /fredericksburg/bennetts/
-shop: tyres
+shop: Reifen
 ---

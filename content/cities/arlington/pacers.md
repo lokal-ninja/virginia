@@ -1,5 +1,5 @@
 ---
 title: "Pacers"
 url: /arlington/pacers/
-shop: shoes
+shop: Schuhe
 ---

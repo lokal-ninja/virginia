@@ -1,6 +1,6 @@
 ---
 title: Sperryville
 url: /sperryville/
-latitude: 38.657065100000004
-longitude: -78.2261122
+latitude: 38.657
+longitude: -78.235
 ---

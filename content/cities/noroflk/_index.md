@@ -1,6 +1,6 @@
 ---
 title: Noroflk
 url: /noroflk/
-latitude: 
-longitude: 
+latitude: 36.862
+longitude: -76.286
 ---

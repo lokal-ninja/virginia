@@ -1,6 +1,6 @@
 ---
 title: Linden
 url: /linden/
-latitude: 38.909000400000004
-longitude: -78.0755534
+latitude: 38.914
+longitude: -78.101
 ---

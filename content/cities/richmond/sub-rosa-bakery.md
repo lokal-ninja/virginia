@@ -1,5 +1,5 @@
 ---
 title: "Sub Rosa Bakery"
 url: /richmond/sub-rosa-bakery/
-shop: bakery
+shop: Bäckerei
 ---

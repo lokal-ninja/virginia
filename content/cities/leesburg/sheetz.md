@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /leesburg/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

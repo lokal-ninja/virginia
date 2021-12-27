@@ -1,5 +1,5 @@
 ---
 title: "SPCA Thrift Store"
 url: /winchester/spca-thrift-store/
-shop: charity
+shop: Gebrauchtwaren
 ---

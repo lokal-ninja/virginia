@@ -1,6 +1,6 @@
 ---
 title: Ashburn
 url: /ashburn/
-latitude: 39.043719200000005
-longitude: -77.4874899
+latitude: 39.009
+longitude: -77.503
 ---

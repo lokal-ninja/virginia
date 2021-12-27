@@ -1,5 +1,5 @@
 ---
 title: "Evergreen Cleaners"
 url: /springfield/evergreen-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

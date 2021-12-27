@@ -1,6 +1,6 @@
 ---
 title: Brambleton
 url: /brambleton/
-latitude: 36.8482034
-longitude: -76.271051
+latitude: 38.983
+longitude: -77.539
 ---

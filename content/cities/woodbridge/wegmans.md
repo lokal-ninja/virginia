@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /woodbridge/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

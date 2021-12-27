@@ -1,5 +1,5 @@
 ---
 title: "Pembroke Mall"
 url: /virginia-beach/pembroke-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

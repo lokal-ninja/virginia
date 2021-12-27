@@ -1,5 +1,5 @@
 ---
 title: "Tri-County Furniture"
 url: /covington/tri-county-furniture/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Texas Tires"
 url: /lynchburg/texas-tires/
-shop: tyres
+shop: Reifen
 ---

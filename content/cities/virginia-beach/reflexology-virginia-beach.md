@@ -1,5 +1,5 @@
 ---
 title: "Reflexology Virginia Beach"
 url: /virginia-beach/reflexology-virginia-beach/
-shop: massage
+shop: Massage
 ---

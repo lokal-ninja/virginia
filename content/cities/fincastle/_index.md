@@ -1,6 +1,6 @@
 ---
 title: Fincastle
 url: /fincastle/
-latitude: 37.499304800000004
-longitude: -79.87726190000001
+latitude: 37.503
+longitude: -79.838
 ---

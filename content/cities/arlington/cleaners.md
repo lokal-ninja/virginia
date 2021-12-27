@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /arlington/cleaners/
-shop: laundry
+shop: Wäscherei
 ---

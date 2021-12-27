@@ -1,5 +1,5 @@
 ---
 title: "Fas Mart #125"
 url: /blacksburg/fas-mart-125/
-shop: convenience
+shop: Lebensmittel
 ---

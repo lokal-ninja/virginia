@@ -1,5 +1,5 @@
 ---
 title: "Cutting Edge Water Sports"
 url: /chesapeake/cutting-edge-water-sports/
-shop: sports
+shop: Sport
 ---

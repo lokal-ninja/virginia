@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /annandale/giant/
-shop: supermarket
+shop: Supermarkt
 ---

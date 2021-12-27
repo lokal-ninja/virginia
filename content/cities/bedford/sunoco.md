@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /bedford/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

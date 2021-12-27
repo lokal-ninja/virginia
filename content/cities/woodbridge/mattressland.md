@@ -1,5 +1,5 @@
 ---
 title: "Mattressland"
 url: /woodbridge/mattressland/
-shop: bed
+shop: Betten
 ---

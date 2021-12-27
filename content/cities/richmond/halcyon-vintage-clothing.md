@@ -1,5 +1,5 @@
 ---
 title: "Halcyon Vintage Clothing"
 url: /richmond/halcyon-vintage-clothing/
-shop: clothes
+shop: Kleidung
 ---

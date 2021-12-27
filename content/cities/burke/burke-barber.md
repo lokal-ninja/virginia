@@ -1,5 +1,5 @@
 ---
 title: "Burke Barber"
 url: /burke/burke-barber/
-shop: hairdresser
+shop: Friseur
 ---

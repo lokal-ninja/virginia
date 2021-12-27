@@ -1,6 +1,6 @@
 ---
 title: Crimora
 url: /crimora/
-latitude: 38.1540237
-longitude: -78.8503063
+latitude: 38.152
+longitude: -78.841
 ---

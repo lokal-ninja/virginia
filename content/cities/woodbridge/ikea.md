@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /woodbridge/ikea/
-shop: furniture
+shop: Möbel
 ---

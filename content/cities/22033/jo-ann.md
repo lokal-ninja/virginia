@@ -1,5 +1,5 @@
 ---
 title: "Jo-Ann"
 url: /22033/jo-ann/
-shop: craft
+shop: Basteln
 ---

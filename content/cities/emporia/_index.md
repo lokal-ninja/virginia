@@ -1,6 +1,6 @@
 ---
 title: Emporia
 url: /emporia/
-latitude: 36.685982800000005
-longitude: -77.5424808
+latitude: 36.686
+longitude: -77.543
 ---

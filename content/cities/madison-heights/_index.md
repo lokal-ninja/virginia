@@ -1,6 +1,6 @@
 ---
 title: Madison Heights
 url: /madison-heights/
-latitude: 37.4317056
-longitude: -79.1237392
+latitude: 37.461
+longitude: -79.119
 ---

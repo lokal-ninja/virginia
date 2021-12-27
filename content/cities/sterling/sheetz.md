@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /sterling/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

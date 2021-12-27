@@ -1,6 +1,6 @@
 ---
 title: goode
 url: /goode/
-latitude: 
-longitude: 
+latitude: 37.3
+longitude: -79.353
 ---

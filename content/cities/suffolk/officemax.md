@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /suffolk/officemax/
-shop: office supplies
+shop: Schreibwaren
 ---

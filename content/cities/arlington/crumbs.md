@@ -1,5 +1,5 @@
 ---
 title: "Crumbs"
 url: /arlington/crumbs/
-shop: bakery
+shop: Bäckerei
 ---

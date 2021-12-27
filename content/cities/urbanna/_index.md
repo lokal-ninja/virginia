@@ -1,6 +1,6 @@
 ---
 title: Urbanna
 url: /urbanna/
-latitude: 37.6376421
-longitude: -76.5744009
+latitude: 37.636
+longitude: -76.579
 ---

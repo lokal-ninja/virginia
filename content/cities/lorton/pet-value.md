@@ -1,5 +1,5 @@
 ---
 title: "Pet Value"
 url: /lorton/pet-value/
-shop: pet
+shop: Tiere
 ---

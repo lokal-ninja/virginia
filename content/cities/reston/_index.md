@@ -1,6 +1,6 @@
 ---
 title: Reston
 url: /reston/
-latitude: 
-longitude: 
+latitude: 38.959
+longitude: -77.357
 ---

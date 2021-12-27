@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /quinton/shell/
-shop: convenience
+shop: Lebensmittel
 ---

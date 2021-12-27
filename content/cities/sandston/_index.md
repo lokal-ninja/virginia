@@ -1,6 +1,6 @@
 ---
 title: Sandston
 url: /sandston/
-latitude: 37.5234794
-longitude: -77.3158118
+latitude: 37.522
+longitude: -77.28
 ---

@@ -1,6 +1,6 @@
 ---
 title: James City County
 url: /james-city-county/
-latitude: 
-longitude: 
+latitude: 37.251
+longitude: -76.766
 ---

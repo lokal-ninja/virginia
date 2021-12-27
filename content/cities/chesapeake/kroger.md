@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /chesapeake/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

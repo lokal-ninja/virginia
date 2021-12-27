@@ -1,6 +1,6 @@
 ---
 title: Hot Springs
 url: /hot-springs/
-latitude: 37.9995703
-longitude: -79.8317193
+latitude: 37.999
+longitude: -79.832
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dutton
 url: /dutton/
-latitude: 37.4979152
-longitude: -76.4574477
+latitude: 37.496
+longitude: -76.412
 ---

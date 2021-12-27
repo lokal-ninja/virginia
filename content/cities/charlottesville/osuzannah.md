@@ -1,5 +1,5 @@
 ---
 title: "O'Suzannah"
 url: /charlottesville/osuzannah/
-shop: clothes
+shop: Kleidung
 ---

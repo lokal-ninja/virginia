@@ -1,6 +1,6 @@
 ---
 title: Huddleston
 url: /huddleston/
-latitude: 37.1568109
-longitude: -79.4744732
+latitude: 37.116
+longitude: -79.571
 ---

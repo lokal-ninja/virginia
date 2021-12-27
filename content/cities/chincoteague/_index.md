@@ -1,6 +1,6 @@
 ---
 title: Chincoteague
 url: /chincoteague/
-latitude: 37.9331799
-longitude: -75.3788141
+latitude: 37.929
+longitude: -75.365
 ---

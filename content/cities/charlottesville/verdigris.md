@@ -1,5 +1,5 @@
 ---
 title: "Verdigris"
 url: /charlottesville/verdigris/
-shop: clothes
+shop: Kleidung
 ---

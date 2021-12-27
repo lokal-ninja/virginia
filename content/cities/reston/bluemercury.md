@@ -1,5 +1,5 @@
 ---
 title: "Bluemercury"
 url: /reston/bluemercury/
-shop: beauty
+shop: Kosmetik
 ---

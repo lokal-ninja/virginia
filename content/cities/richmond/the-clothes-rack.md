@@ -1,5 +1,5 @@
 ---
 title: "The Clothes Rack"
 url: /richmond/the-clothes-rack/
-shop: charity
+shop: Gebrauchtwaren
 ---

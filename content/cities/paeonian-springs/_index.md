@@ -1,6 +1,6 @@
 ---
 title: Paeonian Springs
 url: /paeonian-springs/
-latitude: 39.149271600000006
-longitude: -77.61915760000001
+latitude: 39.149
+longitude: -77.616
 ---

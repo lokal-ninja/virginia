@@ -1,6 +1,6 @@
 ---
 title: Grafton
 url: /grafton/
-latitude: 37.559026800000005
-longitude: -76.4702264
+latitude: 37.139
+longitude: -76.456
 ---

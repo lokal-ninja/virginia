@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /norfolk/gap/
-shop: clothes
+shop: Kleidung
 ---

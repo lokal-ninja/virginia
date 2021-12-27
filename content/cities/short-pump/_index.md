@@ -1,6 +1,6 @@
 ---
 title: Short Pump
 url: /short-pump/
-latitude: 37.650609200000005
-longitude: -77.6119457
+latitude: 37.658
+longitude: -77.634
 ---

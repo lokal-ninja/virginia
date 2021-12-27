@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /haymarket/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

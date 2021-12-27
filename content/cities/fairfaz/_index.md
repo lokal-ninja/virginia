@@ -1,6 +1,6 @@
 ---
 title: Fairfaz
 url: /fairfaz/
-latitude: 
-longitude: 
+latitude: 38.855
+longitude: -77.331
 ---

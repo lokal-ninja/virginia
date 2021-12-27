@@ -1,5 +1,5 @@
 ---
 title: "Botaloca"
 url: /manasas/botaloca/
-shop: shoes
+shop: Schuhe
 ---

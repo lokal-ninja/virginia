@@ -1,5 +1,5 @@
 ---
 title: "Crocs"
 url: /norfolk/crocs/
-shop: shoes
+shop: Schuhe
 ---

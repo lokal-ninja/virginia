@@ -1,6 +1,6 @@
 ---
 title: Christiansburg
 url: /christiansburg/
-latitude: 37.1298517
-longitude: -80.40893890000001
+latitude: 37.163
+longitude: -80.423
 ---

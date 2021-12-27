@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /woodbridge/cleaners/
-shop: laundry
+shop: Wäscherei
 ---

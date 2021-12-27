@@ -1,5 +1,5 @@
 ---
 title: "Whittingham"
 url: /fredericksburg/whittingham/
-shop: antiques
+shop: Antiquitäten
 ---

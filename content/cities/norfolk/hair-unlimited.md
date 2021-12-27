@@ -1,5 +1,5 @@
 ---
 title: "Hair Unlimited"
 url: /norfolk/hair-unlimited/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /bedford/radioshack/
-shop: electronics
+shop: Elektronik
 ---

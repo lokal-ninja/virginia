@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /woodbridge/michaels/
-shop: craft
+shop: Basteln
 ---

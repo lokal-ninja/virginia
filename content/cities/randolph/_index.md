@@ -1,6 +1,6 @@
 ---
 title: Randolph
 url: /randolph/
-latitude: 37.543211400000004
-longitude: -77.4655469
+latitude: 36.833
+longitude: -78.668
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carol Lee"
 url: /blacksburg/carol-lee/
-shop: bakery
+shop: Bäckerei
 ---

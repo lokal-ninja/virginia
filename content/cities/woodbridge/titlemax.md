@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /woodbridge/titlemax/
-shop: pawnbroker
+shop: Leiher
 ---

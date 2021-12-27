@@ -1,5 +1,5 @@
 ---
 title: "Avenue"
 url: /woodbridge/avenue/
-shop: clothes
+shop: Kleidung
 ---

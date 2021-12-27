@@ -1,6 +1,6 @@
 ---
 title: Ringgold
 url: /ringgold/
-latitude: 36.608194000000005
-longitude: -79.2952978
+latitude: 36.581
+longitude: -79.303
 ---

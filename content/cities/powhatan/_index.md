@@ -1,6 +1,6 @@
 ---
 title: Powhatan
 url: /powhatan/
-latitude: 37.5531622
-longitude: -77.9112655
+latitude: 37.539
+longitude: -77.887
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mount Sidney
 url: /mount-sidney/
-latitude: 38.2573517
-longitude: -78.9594723
+latitude: 38.259
+longitude: -78.958
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ReThreads"
 url: /charlottesville/rethreads/
-shop: clothes
+shop: Kleidung
 ---

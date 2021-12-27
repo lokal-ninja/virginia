@@ -1,5 +1,5 @@
 ---
 title: "Heather"
 url: /fredericksburg/heather/
-shop: clothes
+shop: Kleidung
 ---

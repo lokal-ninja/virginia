@@ -1,6 +1,6 @@
 ---
 title: Deltaville
 url: /deltaville/
-latitude: 37.5548568
-longitude: -76.3368883
+latitude: 37.56
+longitude: -76.318
 ---

@@ -1,5 +1,5 @@
 ---
 title: "E-Z Way Laundry"
 url: /blacksburg/e-z-way-laundry/
-shop: laundry
+shop: Wäscherei
 ---

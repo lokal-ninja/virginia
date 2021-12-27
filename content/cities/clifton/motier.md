@@ -1,5 +1,5 @@
 ---
 title: "Môtier"
 url: /clifton/motier/
-shop: bakery
+shop: Bäckerei
 ---

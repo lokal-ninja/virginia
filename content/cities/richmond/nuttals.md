@@ -1,5 +1,5 @@
 ---
 title: "Nuttals"
 url: /richmond/nuttals/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /fredericksburg/aldi-2/
-shop: supermarket
+shop: Supermarkt
 ---

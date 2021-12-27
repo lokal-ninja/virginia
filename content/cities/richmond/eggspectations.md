@@ -1,5 +1,5 @@
 ---
 title: "Eggspectations"
 url: /richmond/eggspectations/
-shop: shop
+shop: Allgemein
 ---

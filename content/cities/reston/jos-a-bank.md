@@ -1,5 +1,5 @@
 ---
 title: "JoS. A. Bank"
 url: /reston/jos-a-bank/
-shop: clothes
+shop: Kleidung
 ---

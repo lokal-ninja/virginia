@@ -1,6 +1,6 @@
 ---
 title: Falmouth
 url: /falmouth/
-latitude: 38.3240166
-longitude: -77.4683177
+latitude: 38.34
+longitude: -77.456
 ---

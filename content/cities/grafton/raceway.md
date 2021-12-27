@@ -1,5 +1,5 @@
 ---
 title: "RaceWay"
 url: /grafton/raceway/
-shop: convenience
+shop: Lebensmittel
 ---

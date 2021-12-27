@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /fredericksburg/sherwin-williams-2/
-shop: paint
+shop: Farben
 ---

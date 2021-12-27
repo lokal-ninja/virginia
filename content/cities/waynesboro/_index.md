@@ -1,6 +1,6 @@
 ---
 title: Waynesboro
 url: /waynesboro/
-latitude: 38.0686668
-longitude: -78.8893999
+latitude: 38.068
+longitude: -78.929
 ---

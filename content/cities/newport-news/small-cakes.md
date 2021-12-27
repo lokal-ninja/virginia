@@ -1,5 +1,5 @@
 ---
 title: "Small Cakes"
 url: /newport-news/small-cakes/
-shop: confectionery
+shop: Süßwaren
 ---

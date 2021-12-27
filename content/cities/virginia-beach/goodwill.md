@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /virginia-beach/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

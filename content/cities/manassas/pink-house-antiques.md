@@ -1,5 +1,5 @@
 ---
 title: "Pink House Antiques"
 url: /manassas/pink-house-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

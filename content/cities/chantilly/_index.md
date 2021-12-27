@@ -1,6 +1,6 @@
 ---
 title: Chantilly
 url: /chantilly/
-latitude: 38.894154300000004
-longitude: -77.43115130000001
+latitude: 38.933
+longitude: -77.528
 ---

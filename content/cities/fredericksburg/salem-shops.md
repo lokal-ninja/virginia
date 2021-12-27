@@ -1,5 +1,5 @@
 ---
 title: "Salem Shops"
 url: /fredericksburg/salem-shops/
-shop: antiques
+shop: Antiquitäten
 ---

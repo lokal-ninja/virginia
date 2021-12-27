@@ -1,6 +1,6 @@
 ---
 title: Vint Hill
 url: /vint-hill/
-latitude: 
-longitude: 
+latitude: 38.744
+longitude: -77.676
 ---

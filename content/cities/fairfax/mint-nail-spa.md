@@ -1,5 +1,5 @@
 ---
 title: "Mint Nail Spa"
 url: /fairfax/mint-nail-spa/
-shop: beauty
+shop: Kosmetik
 ---

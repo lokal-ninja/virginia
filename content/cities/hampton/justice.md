@@ -1,5 +1,5 @@
 ---
 title: "Justice"
 url: /hampton/justice/
-shop: clothes
+shop: Kleidung
 ---

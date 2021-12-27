@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /christiansburg/best-buy/
-shop: electronics
+shop: Elektronik
 ---

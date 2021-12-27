@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /falls-church/rei/
-shop: outdoor
+shop: Outdoor
 ---

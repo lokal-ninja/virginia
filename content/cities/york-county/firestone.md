@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /york-county/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

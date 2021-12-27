@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /norfolk/aeropostale/
-shop: clothes
+shop: Kleidung
 ---

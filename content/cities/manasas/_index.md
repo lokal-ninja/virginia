@@ -1,6 +1,6 @@
 ---
 title: Manasas
 url: /manasas/
-latitude: 
-longitude: 
+latitude: 38.754
+longitude: -77.492
 ---

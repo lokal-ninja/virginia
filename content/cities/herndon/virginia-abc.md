@@ -1,5 +1,5 @@
 ---
 title: "Virginia ABC"
 url: /herndon/virginia-abc/
-shop: alcohol
+shop: Spirituosen
 ---

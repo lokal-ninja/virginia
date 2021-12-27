@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /suffolk/petco/
-shop: pet
+shop: Tiere
 ---

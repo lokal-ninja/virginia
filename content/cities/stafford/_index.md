@@ -1,6 +1,6 @@
 ---
 title: Stafford
 url: /stafford/
-latitude: 38.4167265
-longitude: -77.45797830000001
+latitude: 38.459
+longitude: -77.405
 ---

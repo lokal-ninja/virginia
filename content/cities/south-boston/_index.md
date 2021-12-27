@@ -1,6 +1,6 @@
 ---
 title: South Boston
 url: /south-boston/
-latitude: 36.698749400000004
-longitude: -78.9013987
+latitude: 36.731
+longitude: -78.92
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /blacksburg/rite-aid/
-shop: chemist
+shop: Drogerie
 ---

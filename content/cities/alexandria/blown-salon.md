@@ -1,5 +1,5 @@
 ---
 title: "Blown Salon"
 url: /alexandria/blown-salon/
-shop: hairdresser
+shop: Friseur
 ---

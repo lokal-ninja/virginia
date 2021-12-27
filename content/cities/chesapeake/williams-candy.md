@@ -1,5 +1,5 @@
 ---
 title: "Williams Candy"
 url: /chesapeake/williams-candy/
-shop: confectionery
+shop: Süßwaren
 ---

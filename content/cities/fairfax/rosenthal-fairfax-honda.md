@@ -1,5 +1,5 @@
 ---
 title: "Rosenthal Fairfax HONDA"
 url: /fairfax/rosenthal-fairfax-honda/
-shop: car
+shop: Autohaus
 ---

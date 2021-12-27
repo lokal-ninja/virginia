@@ -1,5 +1,5 @@
 ---
 title: "Weiss"
 url: /fredericksburg/weiss/
-shop: supermarket
+shop: Supermarkt
 ---

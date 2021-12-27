@@ -1,6 +1,6 @@
 ---
 title: Woobridge
 url: /woobridge/
-latitude: 
-longitude: 
+latitude: 38.651
+longitude: -77.297
 ---

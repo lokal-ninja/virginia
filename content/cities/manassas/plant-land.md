@@ -1,5 +1,5 @@
 ---
 title: "Plant Land"
 url: /manassas/plant-land/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rumors"
 url: /richmond/rumors/
-shop: clothes
+shop: Kleidung
 ---

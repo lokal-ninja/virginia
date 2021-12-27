@@ -1,5 +1,5 @@
 ---
 title: "The Cake House"
 url: /smithfield/the-cake-house/
-shop: bakery
+shop: Bäckerei
 ---

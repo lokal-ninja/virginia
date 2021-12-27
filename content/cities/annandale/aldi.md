@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /annandale/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

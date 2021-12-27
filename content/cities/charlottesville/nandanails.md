@@ -1,5 +1,5 @@
 ---
 title: "NandaNails"
 url: /charlottesville/nandanails/
-shop: beauty
+shop: Kosmetik
 ---

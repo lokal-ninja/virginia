@@ -1,5 +1,5 @@
 ---
 title: "Liberty"
 url: /dublin/liberty/
-shop: convenience
+shop: Lebensmittel
 ---

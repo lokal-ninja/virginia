@@ -1,5 +1,5 @@
 ---
 title: "Sylvia's Pets"
 url: /harrisonburg/sylvias-pets/
-shop: pet
+shop: Tiere
 ---

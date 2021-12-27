@@ -1,5 +1,5 @@
 ---
 title: "Virginia ABC"
 url: /arlington/virginia-abc/
-shop: alcohol
+shop: Spirituosen
 ---

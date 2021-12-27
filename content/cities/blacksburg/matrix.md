@@ -1,5 +1,5 @@
 ---
 title: "Matrix"
 url: /blacksburg/matrix/
-shop: shop
+shop: Allgemein
 ---

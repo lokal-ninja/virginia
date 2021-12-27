@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /herndon/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

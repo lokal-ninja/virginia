@@ -1,5 +1,5 @@
 ---
 title: "Batleys"
 url: /deltaville/batleys/
-shop: seafood
+shop: Fisch
 ---

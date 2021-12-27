@@ -1,5 +1,5 @@
 ---
 title: "Bangla Bazar"
 url: /arlington/bangla-bazar/
-shop: supermarket
+shop: Supermarkt
 ---

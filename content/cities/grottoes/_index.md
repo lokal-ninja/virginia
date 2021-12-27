@@ -1,6 +1,6 @@
 ---
 title: Grottoes
 url: /grottoes/
-latitude: 38.2673517
-longitude: -78.82585850000001
+latitude: 38.263
+longitude: -78.831
 ---

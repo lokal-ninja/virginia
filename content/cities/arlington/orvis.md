@@ -1,5 +1,5 @@
 ---
 title: "Orvis"
 url: /arlington/orvis/
-shop: clothes
+shop: Kleidung
 ---

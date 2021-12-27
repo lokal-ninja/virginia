@@ -1,5 +1,5 @@
 ---
 title: "Levys"
 url: /richmond/levys/
-shop: clothes
+shop: Kleidung
 ---

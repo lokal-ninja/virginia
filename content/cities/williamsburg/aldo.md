@@ -1,5 +1,5 @@
 ---
 title: "Aldo"
 url: /williamsburg/aldo/
-shop: shoes
+shop: Schuhe
 ---

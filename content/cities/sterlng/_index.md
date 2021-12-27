@@ -1,6 +1,6 @@
 ---
 title: Sterlng
 url: /sterlng/
-latitude: 
-longitude: 
+latitude: 39.023
+longitude: -77.414
 ---

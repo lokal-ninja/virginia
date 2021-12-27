@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /williamsburg/michaels/
-shop: craft
+shop: Basteln
 ---

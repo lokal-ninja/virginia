@@ -1,5 +1,5 @@
 ---
 title: "Chilla"
 url: /woodbridge/chilla/
-shop: tobacco
+shop: Tabak
 ---

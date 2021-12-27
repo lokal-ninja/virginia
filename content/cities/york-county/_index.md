@@ -1,6 +1,6 @@
 ---
 title: York County
 url: /york-county/
-latitude: 
-longitude: 
+latitude: 37.173
+longitude: -76.473
 ---

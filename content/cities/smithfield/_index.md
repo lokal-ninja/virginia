@@ -1,6 +1,6 @@
 ---
 title: Smithfield
 url: /smithfield/
-latitude: 36.982331300000006
-longitude: -76.6310242
+latitude: 36.905
+longitude: -76.645
 ---

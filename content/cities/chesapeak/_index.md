@@ -1,6 +1,6 @@
 ---
 title: Chesapeak
 url: /chesapeak/
-latitude: 
-longitude: 
+latitude: 36.865
+longitude: -76.42
 ---

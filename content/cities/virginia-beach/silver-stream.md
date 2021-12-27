@@ -1,5 +1,5 @@
 ---
 title: "Silver Stream"
 url: /virginia-beach/silver-stream/
-shop: jewelry
+shop: Schmuck
 ---

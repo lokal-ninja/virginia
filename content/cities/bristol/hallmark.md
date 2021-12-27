@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /bristol/hallmark/
-shop: gift
+shop: Andenken
 ---

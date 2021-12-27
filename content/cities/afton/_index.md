@@ -1,6 +1,6 @@
 ---
 title: Afton
 url: /afton/
-latitude: 37.3895932
-longitude: -77.48470760000001
+latitude: 37.923
+longitude: -78.842
 ---

@@ -1,6 +1,6 @@
 ---
 title: Herndon
 url: /herndon/
-latitude: 38.9695316
-longitude: -77.3859479
+latitude: 38.908
+longitude: -77.407
 ---

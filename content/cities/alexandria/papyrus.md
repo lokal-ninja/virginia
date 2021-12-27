@@ -1,5 +1,5 @@
 ---
 title: "Papyrus"
 url: /alexandria/papyrus/
-shop: gift
+shop: Andenken
 ---

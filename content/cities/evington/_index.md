@@ -1,6 +1,6 @@
 ---
 title: Evington
 url: /evington/
-latitude: 37.2337555
-longitude: -79.28946880000001
+latitude: 37.213
+longitude: -79.2
 ---

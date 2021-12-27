@@ -1,6 +1,6 @@
 ---
 title: Ennice
 url: /ennice/
-latitude: 
-longitude: 
+latitude: 36.56
+longitude: -80.944
 ---

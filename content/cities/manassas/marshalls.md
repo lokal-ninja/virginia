@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /manassas/marshalls/
-shop: department store
+shop: Warenhaus
 ---

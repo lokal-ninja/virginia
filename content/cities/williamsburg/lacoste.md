@@ -1,5 +1,5 @@
 ---
 title: "Lacoste"
 url: /williamsburg/lacoste/
-shop: clothes
+shop: Kleidung
 ---

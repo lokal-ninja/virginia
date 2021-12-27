@@ -1,6 +1,6 @@
 ---
 title: Front Royal
 url: /front-royal/
-latitude: 38.9178538
-longitude: -78.1917718
+latitude: 38.916
+longitude: -78.194
 ---

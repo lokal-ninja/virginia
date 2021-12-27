@@ -1,6 +1,6 @@
 ---
 title: Massanutten
 url: /massanutten/
-latitude: 38.4095701
-longitude: -78.73780040000001
+latitude: 38.404
+longitude: -78.755
 ---

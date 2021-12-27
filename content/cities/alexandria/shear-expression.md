@@ -1,5 +1,5 @@
 ---
 title: "Shear Expression"
 url: /alexandria/shear-expression/
-shop: beauty
+shop: Kosmetik
 ---

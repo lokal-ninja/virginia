@@ -1,6 +1,6 @@
 ---
 title: Nokesville
 url: /nokesville/
-latitude: 38.6988399
-longitude: -77.5807553
+latitude: 38.7
+longitude: -77.584
 ---

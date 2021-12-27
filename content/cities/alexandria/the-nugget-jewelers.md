@@ -1,5 +1,5 @@
 ---
 title: "The Nugget Jewelers"
 url: /alexandria/the-nugget-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

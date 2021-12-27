@@ -1,6 +1,6 @@
 ---
 title: Gore
 url: /gore/
-latitude: 39.263991100000005
-longitude: -78.3319494
+latitude: 39.264
+longitude: -78.331
 ---

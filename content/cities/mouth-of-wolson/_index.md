@@ -1,6 +1,6 @@
 ---
 title: Mouth Of Wolson
 url: /mouth-of-wolson/
-latitude: 
-longitude: 
+latitude: 36.576
+longitude: -81.397
 ---

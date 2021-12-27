@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /salem/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

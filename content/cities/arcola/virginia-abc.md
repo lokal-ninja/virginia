@@ -1,5 +1,5 @@
 ---
 title: "Virginia ABC"
 url: /arcola/virginia-abc/
-shop: alcohol
+shop: Spirituosen
 ---

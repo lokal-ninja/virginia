@@ -1,5 +1,5 @@
 ---
 title: "JazCutz"
 url: /manassas/jazcutz/
-shop: hairdresser
+shop: Friseur
 ---

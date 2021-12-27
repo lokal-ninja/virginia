@@ -1,5 +1,5 @@
 ---
 title: "Ham Radio Outlet"
 url: /woodbridge/ham-radio-outlet/
-shop: electronics
+shop: Elektronik
 ---

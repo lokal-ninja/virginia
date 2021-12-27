@@ -1,5 +1,5 @@
 ---
 title: "Salon Bisoux"
 url: /alexandria/salon-bisoux/
-shop: hairdresser
+shop: Friseur
 ---

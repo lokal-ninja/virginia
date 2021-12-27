@@ -1,5 +1,5 @@
 ---
 title: "Qwik Mart"
 url: /petersburg/qwik-mart/
-shop: convenience
+shop: Lebensmittel
 ---

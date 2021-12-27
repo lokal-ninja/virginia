@@ -1,5 +1,5 @@
 ---
 title: "Virginia ABC"
 url: /fairfax/virginia-abc/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /vienna/tesla/
-shop: car
+shop: Autohaus
 ---

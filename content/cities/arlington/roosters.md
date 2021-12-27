@@ -1,5 +1,5 @@
 ---
 title: "Roosters"
 url: /arlington/roosters/
-shop: hairdresser
+shop: Friseur
 ---

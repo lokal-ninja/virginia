@@ -1,5 +1,5 @@
 ---
 title: "Fas Mart"
 url: /fredericksburg/fas-mart/
-shop: convenience
+shop: Lebensmittel
 ---

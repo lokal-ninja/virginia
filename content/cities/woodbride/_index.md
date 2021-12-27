@@ -1,6 +1,6 @@
 ---
 title: Woodbride
 url: /woodbride/
-latitude: 
-longitude: 
+latitude: 38.65
+longitude: -77.294
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bagel Uprising"
 url: /alexandria/bagel-uprising/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Manssas
 url: /manssas/
-latitude: 
-longitude: 
+latitude: 38.751
+longitude: -77.471
 ---
