@@ -1,5 +1,5 @@
 ---
 title: "Monument"
 url: /richmond/monument/
-shop: Kleidung
+shop: clothes
 ---

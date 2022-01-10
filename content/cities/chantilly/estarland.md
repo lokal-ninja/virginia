@@ -1,5 +1,5 @@
 ---
 title: "eStarland"
 url: /chantilly/estarland/
-shop: Videospiele
+shop: video games
 ---

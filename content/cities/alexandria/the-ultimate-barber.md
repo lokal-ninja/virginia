@@ -1,5 +1,5 @@
 ---
 title: "The Ultimate Barber"
 url: /alexandria/the-ultimate-barber/
-shop: Friseur
+shop: hairdresser
 ---

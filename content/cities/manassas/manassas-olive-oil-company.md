@@ -1,5 +1,5 @@
 ---
 title: "Manassas Olive Oil Company"
 url: /manassas/manassas-olive-oil-company/
-shop: Supermarkt
+shop: supermarket
 ---

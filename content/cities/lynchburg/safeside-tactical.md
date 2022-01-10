@@ -1,5 +1,5 @@
 ---
 title: "SafeSide Tactical"
 url: /lynchburg/safeside-tactical/
-shop: Allgemein
+shop: shop
 ---

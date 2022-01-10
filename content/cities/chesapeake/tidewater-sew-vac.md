@@ -1,5 +1,5 @@
 ---
 title: "Tidewater Sew-Vac"
 url: /chesapeake/tidewater-sew-vac/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

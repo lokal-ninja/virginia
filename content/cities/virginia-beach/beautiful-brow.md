@@ -1,5 +1,5 @@
 ---
 title: "Beautiful Brow"
 url: /virginia-beach/beautiful-brow/
-shop: Kosmetik
+shop: beauty
 ---

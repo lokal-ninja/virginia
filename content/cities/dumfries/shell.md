@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /dumfries/shell/
-shop: Lebensmittel
+shop: convenience
 ---

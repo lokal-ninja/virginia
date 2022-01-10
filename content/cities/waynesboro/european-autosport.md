@@ -1,5 +1,5 @@
 ---
 title: "European Autosport"
 url: /waynesboro/european-autosport/
-shop: Autowerkstatt
+shop: car repair
 ---

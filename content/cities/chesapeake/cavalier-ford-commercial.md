@@ -1,5 +1,5 @@
 ---
 title: "Cavalier Ford Commercial"
 url: /chesapeake/cavalier-ford-commercial/
-shop: Autohaus
+shop: car
 ---

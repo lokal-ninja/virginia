@@ -1,5 +1,5 @@
 ---
 title: "Claire's"
 url: /virginia-beach/claires/
-shop: Allgemein
+shop: shop
 ---

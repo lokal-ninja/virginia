@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /williamsburg/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

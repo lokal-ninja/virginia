@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /christiansburg/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

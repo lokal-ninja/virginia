@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight"
 url: /richmond/harbor-freight/
-shop: Eisenwaren
+shop: hardware
 ---

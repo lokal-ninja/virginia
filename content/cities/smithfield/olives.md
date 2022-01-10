@@ -1,5 +1,5 @@
 ---
 title: "Olive's"
 url: /smithfield/olives/
-shop: Andenken
+shop: gift
 ---

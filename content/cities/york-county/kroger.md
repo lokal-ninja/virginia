@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /york-county/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

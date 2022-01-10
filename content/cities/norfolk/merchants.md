@@ -1,5 +1,5 @@
 ---
 title: "Merchant's"
 url: /norfolk/merchants/
-shop: Autowerkstatt
+shop: car repair
 ---

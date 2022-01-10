@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /woodbridge/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

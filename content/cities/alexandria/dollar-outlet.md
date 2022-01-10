@@ -1,5 +1,5 @@
 ---
 title: "Dollar Outlet"
 url: /alexandria/dollar-outlet/
-shop: Kramladen
+shop: variety store
 ---

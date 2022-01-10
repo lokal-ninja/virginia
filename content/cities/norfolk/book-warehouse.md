@@ -1,5 +1,5 @@
 ---
 title: "Book Warehouse"
 url: /norfolk/book-warehouse/
-shop: Bücher
+shop: books
 ---

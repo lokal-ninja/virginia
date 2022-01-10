@@ -1,5 +1,5 @@
 ---
 title: "Saigon USA"
 url: /falls-church/saigon-usa/
-shop: Handy
+shop: mobile phone
 ---

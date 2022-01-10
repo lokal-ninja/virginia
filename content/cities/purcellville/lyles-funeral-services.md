@@ -1,5 +1,5 @@
 ---
 title: "Lyle's Funeral Services"
 url: /purcellville/lyles-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

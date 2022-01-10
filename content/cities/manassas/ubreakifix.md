@@ -1,5 +1,5 @@
 ---
 title: "UBreakIFix"
 url: /manassas/ubreakifix/
-shop: Elektronik
+shop: electronics
 ---

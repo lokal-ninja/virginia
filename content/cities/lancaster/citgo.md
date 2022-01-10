@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /lancaster/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

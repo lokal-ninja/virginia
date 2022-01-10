@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /manassas/hair-cuttery/
-shop: Friseur
+shop: hairdresser
 ---

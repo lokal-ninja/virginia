@@ -1,5 +1,5 @@
 ---
 title: "The Artisans"
 url: /mclean/the-artisans/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Plus"
 url: /alexandria/dollar-plus/
-shop: Lebensmittel
+shop: convenience
 ---

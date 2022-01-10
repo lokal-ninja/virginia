@@ -1,5 +1,5 @@
 ---
 title: "Rita's Relics"
 url: /spotsylvania/ritas-relics/
-shop: Sammler
+shop: collector
 ---

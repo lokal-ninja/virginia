@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /manassas/sprint/
-shop: Handy
+shop: mobile phone
 ---

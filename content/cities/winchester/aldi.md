@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /winchester/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

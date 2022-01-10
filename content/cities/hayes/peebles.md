@@ -1,5 +1,5 @@
 ---
 title: "Peebles"
 url: /hayes/peebles/
-shop: Warenhaus
+shop: department store
 ---

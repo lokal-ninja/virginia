@@ -1,5 +1,5 @@
 ---
 title: "Kulture"
 url: /richmond/kulture/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boston Auto Repair"
 url: /richmond/boston-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

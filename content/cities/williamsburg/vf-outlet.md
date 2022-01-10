@@ -1,5 +1,5 @@
 ---
 title: "VF Outlet"
 url: /williamsburg/vf-outlet/
-shop: Kleidung
+shop: clothes
 ---

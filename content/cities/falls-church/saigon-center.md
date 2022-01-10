@@ -1,5 +1,5 @@
 ---
 title: "Saigon Center"
 url: /falls-church/saigon-center/
-shop: Reisebüro
+shop: travel agency
 ---

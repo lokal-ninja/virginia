@@ -1,5 +1,5 @@
 ---
 title: "Subaru"
 url: /virginia-beach/subaru/
-shop: Autohaus
+shop: car
 ---

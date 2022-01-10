@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /falls-church/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

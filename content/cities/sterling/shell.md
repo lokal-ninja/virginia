@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /sterling/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /manassas/giant/
-shop: Supermarkt
+shop: supermarket
 ---

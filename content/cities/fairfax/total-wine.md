@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /fairfax/total-wine/
-shop: Spirituosen
+shop: alcohol
 ---

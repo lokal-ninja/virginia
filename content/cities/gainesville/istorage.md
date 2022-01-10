@@ -1,5 +1,5 @@
 ---
 title: "iStorage"
 url: /gainesville/istorage/
-shop: Mieten
+shop: storage rental
 ---

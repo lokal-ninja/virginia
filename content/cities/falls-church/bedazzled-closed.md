@@ -1,5 +1,5 @@
 ---
 title: "Bedazzled (closed)"
 url: /falls-church/bedazzled-closed/
-shop: Andenken
+shop: gift
 ---

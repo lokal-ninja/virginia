@@ -1,5 +1,5 @@
 ---
 title: "Mario's Motors"
 url: /stephens-city/marios-motors/
-shop: Autohaus
+shop: car
 ---

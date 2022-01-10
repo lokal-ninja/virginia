@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /front-royal/cvs-pharmacy/
-shop: Lebensmittel
+shop: convenience
 ---

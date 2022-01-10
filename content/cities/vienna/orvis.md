@@ -1,5 +1,5 @@
 ---
 title: "Orvis"
 url: /vienna/orvis/
-shop: Kleidung
+shop: clothes
 ---

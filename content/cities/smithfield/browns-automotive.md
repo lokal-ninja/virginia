@@ -1,5 +1,5 @@
 ---
 title: "Brown's Automotive"
 url: /smithfield/browns-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

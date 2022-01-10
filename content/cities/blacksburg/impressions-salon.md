@@ -1,5 +1,5 @@
 ---
 title: "Impressions Salon"
 url: /blacksburg/impressions-salon/
-shop: Friseur
+shop: hairdresser
 ---

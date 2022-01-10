@@ -1,5 +1,5 @@
 ---
 title: "Asian Auto"
 url: /alexandria/asian-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

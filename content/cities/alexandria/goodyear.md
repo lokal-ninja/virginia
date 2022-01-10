@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /alexandria/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nansemond Auto Body"
 url: /suffolk/nansemond-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Covington Cash"
 url: /covington/covington-cash/
-shop: Leiher
+shop: pawnbroker
 ---

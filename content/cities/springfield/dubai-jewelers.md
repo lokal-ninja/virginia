@@ -1,5 +1,5 @@
 ---
 title: "Dubai Jewelers"
 url: /springfield/dubai-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

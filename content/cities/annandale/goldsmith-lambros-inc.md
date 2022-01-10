@@ -1,5 +1,5 @@
 ---
 title: "Goldsmith Lambros, Inc"
 url: /annandale/goldsmith-lambros-inc/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Apple Ford"
 url: /lynchburg/apple-ford/
-shop: Autohaus
+shop: car
 ---

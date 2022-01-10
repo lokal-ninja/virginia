@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /burke/giant/
-shop: Supermarkt
+shop: supermarket
 ---

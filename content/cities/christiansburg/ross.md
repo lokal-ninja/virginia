@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /christiansburg/ross/
-shop: Warenhaus
+shop: department store
 ---

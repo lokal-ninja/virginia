@@ -1,5 +1,5 @@
 ---
 title: "Chico's Outlet"
 url: /williamsburg/chicos-outlet/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hailey's Appliance"
 url: /lynchburg/haileys-appliance/
-shop: Allgemein
+shop: shop
 ---

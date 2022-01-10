@@ -1,5 +1,5 @@
 ---
 title: "Perfumaina"
 url: /williamsburg/perfumaina/
-shop: Drogerie
+shop: chemist
 ---

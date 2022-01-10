@@ -1,5 +1,5 @@
 ---
 title: "Hickory Creek Antiques"
 url: /ashland/hickory-creek-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

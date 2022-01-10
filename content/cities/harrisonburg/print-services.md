@@ -1,5 +1,5 @@
 ---
 title: "Print Services"
 url: /harrisonburg/print-services/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CGX"
 url: /chesapeake/cgx/
-shop: Warenhaus
+shop: department store
 ---

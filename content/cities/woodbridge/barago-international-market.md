@@ -1,5 +1,5 @@
 ---
 title: "Barago International Market"
 url: /woodbridge/barago-international-market/
-shop: Supermarkt
+shop: supermarket
 ---

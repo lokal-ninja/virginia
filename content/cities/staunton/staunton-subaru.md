@@ -1,5 +1,5 @@
 ---
 title: "Staunton Subaru"
 url: /staunton/staunton-subaru/
-shop: Autohaus
+shop: car
 ---

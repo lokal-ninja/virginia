@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /williamsburg/fossil/
-shop: Uhren
+shop: watches
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /virginia-beach/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Powerhouse Equipment"
 url: /smithfield/powerhouse-equipment/
-shop: Allgemein
+shop: shop
 ---

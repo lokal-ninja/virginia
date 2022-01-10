@@ -1,5 +1,5 @@
 ---
 title: "Royal Nails Spa"
 url: /smithfield/royal-nails-spa/
-shop: Kosmetik
+shop: beauty
 ---

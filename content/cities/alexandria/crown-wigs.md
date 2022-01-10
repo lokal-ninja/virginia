@@ -1,5 +1,5 @@
 ---
 title: "Crown Wigs"
 url: /alexandria/crown-wigs/
-shop: Kosmetik
+shop: beauty
 ---

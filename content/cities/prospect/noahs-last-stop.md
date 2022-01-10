@@ -1,5 +1,5 @@
 ---
 title: "Noah's Last Stop"
 url: /prospect/noahs-last-stop/
-shop: Tiere
+shop: pet
 ---

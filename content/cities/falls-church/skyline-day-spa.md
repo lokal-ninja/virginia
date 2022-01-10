@@ -1,5 +1,5 @@
 ---
 title: "Skyline Day Spa"
 url: /falls-church/skyline-day-spa/
-shop: Kosmetik
+shop: beauty
 ---

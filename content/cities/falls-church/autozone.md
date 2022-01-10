@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /falls-church/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Francesca's Collections"
 url: /norfolk/francescas-collections/
-shop: Allgemein
+shop: shop
 ---

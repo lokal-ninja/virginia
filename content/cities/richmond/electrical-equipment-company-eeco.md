@@ -1,5 +1,5 @@
 ---
 title: "Electrical Equipment Company | EECO"
 url: /richmond/electrical-equipment-company-eeco/
-shop: Elektrisch
+shop: electrical
 ---

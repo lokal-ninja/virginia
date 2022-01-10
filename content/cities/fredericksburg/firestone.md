@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /fredericksburg/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

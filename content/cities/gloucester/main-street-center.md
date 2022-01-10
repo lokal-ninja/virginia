@@ -1,5 +1,5 @@
 ---
 title: "Main Street Center"
 url: /gloucester/main-street-center/
-shop: Einkaufszentrum
+shop: mall
 ---

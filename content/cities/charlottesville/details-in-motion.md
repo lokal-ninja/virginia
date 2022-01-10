@@ -1,5 +1,5 @@
 ---
 title: "Details In Motion"
 url: /charlottesville/details-in-motion/
-shop: Autoteile
+shop: car parts
 ---

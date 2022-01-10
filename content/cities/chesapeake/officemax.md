@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /chesapeake/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

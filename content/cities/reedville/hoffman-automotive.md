@@ -1,5 +1,5 @@
 ---
 title: "Hoffman Automotive"
 url: /reedville/hoffman-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

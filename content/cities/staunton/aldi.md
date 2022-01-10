@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /staunton/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

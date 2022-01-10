@@ -1,5 +1,5 @@
 ---
 title: "Unleashed"
 url: /arlington/unleashed/
-shop: Tiere
+shop: pet
 ---

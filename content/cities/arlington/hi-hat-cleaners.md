@@ -1,5 +1,5 @@
 ---
 title: "Hi-Hat Cleaners"
 url: /arlington/hi-hat-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

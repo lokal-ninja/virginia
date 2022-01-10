@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lynchburg/autozone/
-shop: Autoteile
+shop: car parts
 ---

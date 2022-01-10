@@ -1,5 +1,5 @@
 ---
 title: "Peebles"
 url: /pulaski/peebles/
-shop: Warenhaus
+shop: department store
 ---

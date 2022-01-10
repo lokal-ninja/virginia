@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /gainesville/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /alexandria/bp-2/
-shop: Autowerkstatt
+shop: car repair
 ---

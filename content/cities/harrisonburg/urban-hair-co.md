@@ -1,5 +1,5 @@
 ---
 title: "Urban Hair Co"
 url: /harrisonburg/urban-hair-co/
-shop: Friseur
+shop: hairdresser
 ---

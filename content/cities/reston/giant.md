@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /reston/giant/
-shop: Supermarkt
+shop: supermarket
 ---

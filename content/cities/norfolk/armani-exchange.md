@@ -1,5 +1,5 @@
 ---
 title: "Armani Exchange"
 url: /norfolk/armani-exchange/
-shop: Kleidung
+shop: clothes
 ---

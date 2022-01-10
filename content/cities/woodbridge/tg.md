@@ -1,5 +1,5 @@
 ---
 title: "TG"
 url: /woodbridge/tg/
-shop: Friseur
+shop: hairdresser
 ---

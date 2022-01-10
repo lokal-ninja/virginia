@@ -1,5 +1,5 @@
 ---
 title: "HANESbrands"
 url: /norfolk/hanesbrands/
-shop: Allgemein
+shop: shop
 ---

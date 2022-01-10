@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /blacksburg/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

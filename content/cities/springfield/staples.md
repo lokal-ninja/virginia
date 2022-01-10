@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /springfield/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

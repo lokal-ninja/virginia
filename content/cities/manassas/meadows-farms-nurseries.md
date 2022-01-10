@@ -1,5 +1,5 @@
 ---
 title: "Meadows Farms Nurseries"
 url: /manassas/meadows-farms-nurseries/
-shop: Garten-Center
+shop: garden centre
 ---

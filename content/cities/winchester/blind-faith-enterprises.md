@@ -1,5 +1,5 @@
 ---
 title: "Blind Faith Enterprises"
 url: /winchester/blind-faith-enterprises/
-shop: Elektronik
+shop: electronics
 ---

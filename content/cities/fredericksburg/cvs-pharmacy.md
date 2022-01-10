@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /fredericksburg/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferrara Equipment Co."
 url: /ashland/ferrara-equipment-co/
-shop: Baustoffe
+shop: trade
 ---

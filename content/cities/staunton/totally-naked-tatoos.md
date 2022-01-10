@@ -1,5 +1,5 @@
 ---
 title: "Totally Naked Tatoos"
 url: /staunton/totally-naked-tatoos/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /manassas/best-buy/
-shop: Elektronik
+shop: electronics
 ---

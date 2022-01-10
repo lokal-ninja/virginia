@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /fredericksburg/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Terminix"
 url: /smithfield/terminix/
-shop: Schädlingsbekämpfung
+shop: pest control
 ---

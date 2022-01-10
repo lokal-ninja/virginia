@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /virginia-beach/jared/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Expedia CruiseShipCenters"
 url: /gainesville/expedia-cruiseshipcenters/
-shop: Reisebüro
+shop: travel agency
 ---

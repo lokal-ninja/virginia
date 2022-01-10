@@ -1,5 +1,5 @@
 ---
 title: "Pungo Off-Road"
 url: /virginia-beach/pungo-off-road/
-shop: Autowerkstatt
+shop: car repair
 ---

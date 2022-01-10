@@ -1,5 +1,5 @@
 ---
 title: "Come Together"
 url: /virginia-beach/come-together/
-shop: Kleidung
+shop: clothes
 ---

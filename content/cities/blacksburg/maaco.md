@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /blacksburg/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

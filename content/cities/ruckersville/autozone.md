@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /ruckersville/autozone/
-shop: Autoteile
+shop: car parts
 ---

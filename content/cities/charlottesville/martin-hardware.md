@@ -1,5 +1,5 @@
 ---
 title: "Martin Hardware"
 url: /charlottesville/martin-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

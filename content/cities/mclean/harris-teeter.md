@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /mclean/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colley Marine"
 url: /virginia-beach/colley-marine/
-shop: Allgemein
+shop: shop
 ---

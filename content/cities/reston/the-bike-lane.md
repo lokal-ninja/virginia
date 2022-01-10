@@ -1,5 +1,5 @@
 ---
 title: "The Bike Lane"
 url: /reston/the-bike-lane/
-shop: Fahrrad
+shop: bicycle
 ---

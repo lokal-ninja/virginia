@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /christiansburg/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
 url: /falls-church/nothing-bundt-cakes/
-shop: Bäckerei
+shop: bakery
 ---

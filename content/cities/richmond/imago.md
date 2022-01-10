@@ -1,5 +1,5 @@
 ---
 title: "Imago"
 url: /richmond/imago/
-shop: Friseur
+shop: hairdresser
 ---

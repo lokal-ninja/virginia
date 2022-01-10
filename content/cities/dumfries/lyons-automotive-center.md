@@ -1,5 +1,5 @@
 ---
 title: "Lyons Automotive Center"
 url: /dumfries/lyons-automotive-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "One Of A Kind Jewelers"
 url: /blacksburg/one-of-a-kind-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

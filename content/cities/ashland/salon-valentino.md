@@ -1,5 +1,5 @@
 ---
 title: "Salon Valentino"
 url: /ashland/salon-valentino/
-shop: Friseur
+shop: hairdresser
 ---

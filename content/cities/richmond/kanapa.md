@@ -1,5 +1,5 @@
 ---
 title: "Kanapa"
 url: /richmond/kanapa/
-shop: Hanf
+shop: cannabis
 ---

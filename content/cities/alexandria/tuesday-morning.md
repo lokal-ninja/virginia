@@ -1,5 +1,5 @@
 ---
 title: "Tuesday Morning"
 url: /alexandria/tuesday-morning/
-shop: Haushaltsartikel
+shop: houseware
 ---

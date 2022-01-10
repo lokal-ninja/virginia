@@ -1,5 +1,5 @@
 ---
 title: "Naturalizer Outlet"
 url: /williamsburg/naturalizer-outlet/
-shop: Schuhe
+shop: shoes
 ---

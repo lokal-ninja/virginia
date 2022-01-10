@@ -1,5 +1,5 @@
 ---
 title: "Autoland"
 url: /manasas/autoland/
-shop: Autohaus
+shop: car
 ---

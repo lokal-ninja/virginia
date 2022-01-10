@@ -1,5 +1,5 @@
 ---
 title: "Kim Sơn"
 url: /falls-church/kim-son/
-shop: Kosmetik
+shop: beauty
 ---

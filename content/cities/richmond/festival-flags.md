@@ -1,5 +1,5 @@
 ---
 title: "Festival Flags"
 url: /richmond/festival-flags/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rush Truck Center"
 url: /fredericksburg/rush-truck-center/
-shop: Autowerkstatt
+shop: car repair
 ---

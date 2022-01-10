@@ -1,5 +1,5 @@
 ---
 title: "Serendipity Boutique"
 url: /bristol/serendipity-boutique/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ed's Automotive"
 url: /lynchburg/eds-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

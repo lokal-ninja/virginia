@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /norfolk/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /manassas/autozone/
-shop: Autoteile
+shop: car parts
 ---

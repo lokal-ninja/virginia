@@ -1,5 +1,5 @@
 ---
 title: "Havertys"
 url: /woodbridge/havertys/
-shop: Möbel
+shop: furniture
 ---

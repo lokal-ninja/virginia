@@ -1,5 +1,5 @@
 ---
 title: "Boonsboro Exxon"
 url: /lynchburg/boonsboro-exxon/
-shop: Autowerkstatt
+shop: car repair
 ---

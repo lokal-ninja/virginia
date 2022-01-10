@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /dublin/walmart-supercenter/
-shop: Warenhaus
+shop: department store
 ---

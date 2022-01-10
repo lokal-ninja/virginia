@@ -1,5 +1,5 @@
 ---
 title: "Fraiche"
 url: /richmond/fraiche/
-shop: Andenken
+shop: gift
 ---

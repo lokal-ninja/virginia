@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /reston/loft/
-shop: Kleidung
+shop: clothes
 ---

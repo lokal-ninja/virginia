@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /arlington/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

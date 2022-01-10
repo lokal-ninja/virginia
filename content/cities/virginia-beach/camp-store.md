@@ -1,5 +1,5 @@
 ---
 title: "Camp Store"
 url: /virginia-beach/camp-store/
-shop: Lebensmittel
+shop: convenience
 ---

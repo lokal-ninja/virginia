@@ -1,5 +1,5 @@
 ---
 title: "Esp Liquid Products Equipment"
 url: /blacksburg/esp-liquid-products-equipment/
-shop: Baustoffe
+shop: trade
 ---

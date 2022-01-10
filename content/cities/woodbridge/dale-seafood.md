@@ -1,5 +1,5 @@
 ---
 title: "Dale Seafood"
 url: /woodbridge/dale-seafood/
-shop: Fisch
+shop: seafood
 ---

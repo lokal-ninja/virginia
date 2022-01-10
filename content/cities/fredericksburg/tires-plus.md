@@ -1,5 +1,5 @@
 ---
 title: "Tires Plus"
 url: /fredericksburg/tires-plus/
-shop: Autowerkstatt
+shop: tyres
 ---

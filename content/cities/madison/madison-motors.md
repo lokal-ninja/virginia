@@ -1,5 +1,5 @@
 ---
 title: "Madison Motors"
 url: /madison/madison-motors/
-shop: Autohaus
+shop: car
 ---

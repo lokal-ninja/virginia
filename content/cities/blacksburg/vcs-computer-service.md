@@ -1,5 +1,5 @@
 ---
 title: "Vcs Computer Service"
 url: /blacksburg/vcs-computer-service/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /norfolk/skechers/
-shop: Schuhe
+shop: shoes
 ---

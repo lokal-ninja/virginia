@@ -1,5 +1,5 @@
 ---
 title: "C-Ville Imports"
 url: /charlottesville/c-ville-imports/
-shop: Autowerkstatt
+shop: car repair
 ---

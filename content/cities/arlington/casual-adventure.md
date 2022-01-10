@@ -1,5 +1,5 @@
 ---
 title: "Casual Adventure"
 url: /arlington/casual-adventure/
-shop: Outdoor
+shop: outdoor
 ---

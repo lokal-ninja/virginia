@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /portsmouth/autozone/
-shop: Autoteile
+shop: car parts
 ---

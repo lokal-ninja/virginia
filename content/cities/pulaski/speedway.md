@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /pulaski/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

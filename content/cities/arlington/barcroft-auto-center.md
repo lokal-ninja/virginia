@@ -1,5 +1,5 @@
 ---
 title: "Barcroft Auto Center"
 url: /arlington/barcroft-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /luray/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

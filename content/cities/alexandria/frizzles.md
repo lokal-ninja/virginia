@@ -1,5 +1,5 @@
 ---
 title: "Frizzles"
 url: /alexandria/frizzles/
-shop: Friseur
+shop: hairdresser
 ---

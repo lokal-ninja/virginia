@@ -1,5 +1,5 @@
 ---
 title: "Latitudes Fair Trade Store"
 url: /warrenton/latitudes-fair-trade-store/
-shop: Andenken
+shop: gift
 ---

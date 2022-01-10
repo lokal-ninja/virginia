@@ -1,5 +1,5 @@
 ---
 title: "Paris"
 url: /manassas/paris/
-shop: Kosmetik
+shop: beauty
 ---

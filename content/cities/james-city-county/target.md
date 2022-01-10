@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /james-city-county/target/
-shop: Warenhaus
+shop: department store
 ---

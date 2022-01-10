@@ -1,5 +1,5 @@
 ---
 title: "Crown Flooring Center"
 url: /mclean/crown-flooring-center/
-shop: Raumausstattung
+shop: interior decoration
 ---

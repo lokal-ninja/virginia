@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /leesburg/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

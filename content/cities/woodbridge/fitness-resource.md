@@ -1,5 +1,5 @@
 ---
 title: "Fitness Resource"
 url: /woodbridge/fitness-resource/
-shop: Allgemein
+shop: shop
 ---

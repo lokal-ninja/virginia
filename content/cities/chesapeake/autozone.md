@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /chesapeake/autozone/
-shop: Autoteile
+shop: car parts
 ---

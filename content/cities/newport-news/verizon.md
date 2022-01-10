@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /newport-news/verizon/
-shop: Handy
+shop: mobile phone
 ---

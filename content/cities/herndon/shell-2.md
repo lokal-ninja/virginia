@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /herndon/shell-2/
-shop: Lebensmittel
+shop: convenience
 ---

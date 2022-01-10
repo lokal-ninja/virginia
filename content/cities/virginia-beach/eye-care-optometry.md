@@ -1,5 +1,5 @@
 ---
 title: "Eye Care Optometry"
 url: /virginia-beach/eye-care-optometry/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farrish Subaru"
 url: /fairfax/farrish-subaru/
-shop: Autohaus
+shop: car
 ---

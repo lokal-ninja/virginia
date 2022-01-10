@@ -1,5 +1,5 @@
 ---
 title: "Dulles Town Center"
 url: /dulles/dulles-town-center/
-shop: Einkaufszentrum
+shop: mall
 ---

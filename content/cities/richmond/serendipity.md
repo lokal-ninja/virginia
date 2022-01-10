@@ -1,5 +1,5 @@
 ---
 title: "Serendipity"
 url: /richmond/serendipity/
-shop: Kleidung
+shop: clothes
 ---

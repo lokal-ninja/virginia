@@ -1,5 +1,5 @@
 ---
 title: "The Picket Post"
 url: /fredericksburg/the-picket-post/
-shop: Antiquitäten
+shop: antiques
 ---

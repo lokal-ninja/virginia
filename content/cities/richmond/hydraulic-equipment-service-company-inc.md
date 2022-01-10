@@ -1,5 +1,5 @@
 ---
 title: "Hydraulic Equipment Service Company Inc."
 url: /richmond/hydraulic-equipment-service-company-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /fredericksburg/sprint/
-shop: Handy
+shop: mobile phone
 ---

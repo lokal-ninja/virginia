@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /springfield/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daedalus Bookshop"
 url: /charlottesville/daedalus-bookshop/
-shop: Bücher
+shop: books
 ---

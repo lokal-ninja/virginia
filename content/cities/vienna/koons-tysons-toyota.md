@@ -1,5 +1,5 @@
 ---
 title: "Koons Tyson’s Toyota"
 url: /vienna/koons-tysons-toyota/
-shop: Autohaus
+shop: car
 ---

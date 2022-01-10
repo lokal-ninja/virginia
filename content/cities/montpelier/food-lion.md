@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /montpelier/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

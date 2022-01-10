@@ -1,5 +1,5 @@
 ---
 title: "Hoàng Thơ II"
 url: /falls-church/hoang-tho-ii/
-shop: Friseur
+shop: hairdresser
 ---

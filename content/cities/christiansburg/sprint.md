@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /christiansburg/sprint/
-shop: Handy
+shop: mobile phone
 ---

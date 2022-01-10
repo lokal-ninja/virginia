@@ -1,5 +1,5 @@
 ---
 title: "St George Interior Decoration"
 url: /alexandria/st-george-interior-decoration/
-shop: Raumausstattung
+shop: interior decoration
 ---

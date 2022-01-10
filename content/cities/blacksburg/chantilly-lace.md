@@ -1,5 +1,5 @@
 ---
 title: "Chantilly Lace"
 url: /blacksburg/chantilly-lace/
-shop: Kleidung
+shop: clothes
 ---

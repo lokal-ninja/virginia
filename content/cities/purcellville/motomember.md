@@ -1,5 +1,5 @@
 ---
 title: "MotoMember"
 url: /purcellville/motomember/
-shop: Motorrad
+shop: motorcycle
 ---

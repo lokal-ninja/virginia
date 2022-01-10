@@ -1,5 +1,5 @@
 ---
 title: "Pro Camera, Inc"
 url: /charlottesville/pro-camera-inc/
-shop: Foto
+shop: photo
 ---

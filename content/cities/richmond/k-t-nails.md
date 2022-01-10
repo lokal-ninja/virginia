@@ -1,5 +1,5 @@
 ---
 title: "K T Nails"
 url: /richmond/k-t-nails/
-shop: Kosmetik
+shop: beauty
 ---

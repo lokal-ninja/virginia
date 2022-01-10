@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /galax/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

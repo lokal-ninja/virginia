@@ -1,5 +1,5 @@
 ---
 title: "Roger's Antiques"
 url: /front-royal/rogers-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harborside Market"
 url: /woodbridge/harborside-market/
-shop: Lebensmittel
+shop: convenience
 ---

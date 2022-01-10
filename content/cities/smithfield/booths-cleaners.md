@@ -1,5 +1,5 @@
 ---
 title: "Booths Cleaners"
 url: /smithfield/booths-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

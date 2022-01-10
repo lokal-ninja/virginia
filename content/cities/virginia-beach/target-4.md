@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /virginia-beach/target-4/
-shop: Warenhaus
+shop: department store
 ---

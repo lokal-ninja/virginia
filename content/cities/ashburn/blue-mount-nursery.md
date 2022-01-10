@@ -1,5 +1,5 @@
 ---
 title: "Blue Mount Nursery"
 url: /ashburn/blue-mount-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

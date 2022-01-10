@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /woodbridge/gamestop/
-shop: Videospiele
+shop: video games
 ---

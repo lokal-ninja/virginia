@@ -1,5 +1,5 @@
 ---
 title: "At Home"
 url: /leesburg/at-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

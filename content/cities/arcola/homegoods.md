@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /arcola/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

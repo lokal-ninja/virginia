@@ -1,5 +1,5 @@
 ---
 title: "Blue Ridge Country Store"
 url: /charlottesville/blue-ridge-country-store/
-shop: Supermarkt
+shop: supermarket
 ---

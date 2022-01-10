@@ -1,5 +1,5 @@
 ---
 title: "The Tasting Room"
 url: /reston/the-tasting-room/
-shop: Wein
+shop: wine
 ---

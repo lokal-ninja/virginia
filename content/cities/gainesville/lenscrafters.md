@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /gainesville/lenscrafters/
-shop: Optiker
+shop: optician
 ---

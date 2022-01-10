@@ -1,5 +1,5 @@
 ---
 title: "Ironworks"
 url: /glen-allen/ironworks/
-shop: Allgemein
+shop: shop
 ---

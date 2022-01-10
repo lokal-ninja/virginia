@@ -1,5 +1,5 @@
 ---
 title: "Commissary"
 url: /hampton/commissary/
-shop: Supermarkt
+shop: supermarket
 ---

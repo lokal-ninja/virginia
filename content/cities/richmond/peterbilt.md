@@ -1,5 +1,5 @@
 ---
 title: "Peterbilt"
 url: /richmond/peterbilt/
-shop: Autohaus
+shop: car
 ---

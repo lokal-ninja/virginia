@@ -1,5 +1,5 @@
 ---
 title: "Emerson's Cigars"
 url: /hampton/emersons-cigars/
-shop: Tabak
+shop: tobacco
 ---

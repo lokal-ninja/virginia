@@ -1,5 +1,5 @@
 ---
 title: "Linh Gems"
 url: /falls-church/linh-gems/
-shop: Schmuck
+shop: jewelry
 ---

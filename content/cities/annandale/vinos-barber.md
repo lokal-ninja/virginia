@@ -1,5 +1,5 @@
 ---
 title: "Vino's Barber"
 url: /annandale/vinos-barber/
-shop: Friseur
+shop: hairdresser
 ---

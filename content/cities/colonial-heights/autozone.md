@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /colonial-heights/autozone/
-shop: Autoteile
+shop: car parts
 ---

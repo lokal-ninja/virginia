@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /fredericksburg/sheetz-3/
-shop: Lebensmittel
+shop: convenience
 ---

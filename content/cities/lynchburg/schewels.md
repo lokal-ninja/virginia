@@ -1,5 +1,5 @@
 ---
 title: "Schewels"
 url: /lynchburg/schewels/
-shop: Möbel
+shop: furniture
 ---

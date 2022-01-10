@@ -1,5 +1,5 @@
 ---
 title: "Twiford Funeral Home"
 url: /chesapeake/twiford-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

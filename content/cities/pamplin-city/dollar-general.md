@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /pamplin-city/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

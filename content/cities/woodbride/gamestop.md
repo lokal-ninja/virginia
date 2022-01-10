@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /woodbride/gamestop/
-shop: Videospiele
+shop: video games
 ---

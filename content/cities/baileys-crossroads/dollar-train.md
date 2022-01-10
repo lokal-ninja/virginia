@@ -1,5 +1,5 @@
 ---
 title: "Dollar Train"
 url: /baileys-crossroads/dollar-train/
-shop: Kramladen
+shop: variety store
 ---

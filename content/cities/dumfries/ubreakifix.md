@@ -1,5 +1,5 @@
 ---
 title: "UBreakIFix"
 url: /dumfries/ubreakifix/
-shop: Elektronik
+shop: electronics
 ---

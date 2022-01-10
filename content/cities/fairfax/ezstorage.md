@@ -1,5 +1,5 @@
 ---
 title: "ezStorage"
 url: /fairfax/ezstorage/
-shop: Mieten
+shop: storage rental
 ---

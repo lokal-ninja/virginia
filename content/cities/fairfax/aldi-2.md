@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /fairfax/aldi-2/
-shop: Supermarkt
+shop: supermarket
 ---

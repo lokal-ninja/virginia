@@ -1,5 +1,5 @@
 ---
 title: "Jagged Edge Tattoo"
 url: /fredericksburg/jagged-edge-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

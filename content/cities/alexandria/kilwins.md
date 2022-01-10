@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /alexandria/kilwins/
-shop: Süßwaren
+shop: confectionery
 ---

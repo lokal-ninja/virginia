@@ -1,5 +1,5 @@
 ---
 title: "US Cleaners"
 url: /fairfax/us-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /dumfries/sprint/
-shop: Handy
+shop: mobile phone
 ---

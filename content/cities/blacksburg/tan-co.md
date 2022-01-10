@@ -1,5 +1,5 @@
 ---
 title: "Tan Co."
 url: /blacksburg/tan-co/
-shop: Kosmetik
+shop: beauty
 ---

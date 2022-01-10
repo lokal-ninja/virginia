@@ -1,5 +1,5 @@
 ---
 title: "Suffolk Title"
 url: /suffolk/suffolk-title/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quality Car Care"
 url: /norton/quality-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

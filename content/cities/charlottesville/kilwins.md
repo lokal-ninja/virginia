@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /charlottesville/kilwins/
-shop: Süßwaren
+shop: confectionery
 ---

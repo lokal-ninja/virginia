@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /suffolk/autozone/
-shop: Autoteile
+shop: car parts
 ---

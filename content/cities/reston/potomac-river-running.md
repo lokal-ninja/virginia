@@ -1,5 +1,5 @@
 ---
 title: "Potomac River Running"
 url: /reston/potomac-river-running/
-shop: Sport
+shop: sports
 ---

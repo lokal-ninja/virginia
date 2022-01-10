@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /manassas/visionworks/
-shop: Optiker
+shop: optician
 ---

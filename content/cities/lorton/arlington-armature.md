@@ -1,5 +1,5 @@
 ---
 title: "Arlington Armature"
 url: /lorton/arlington-armature/
-shop: Autoteile
+shop: car parts
 ---

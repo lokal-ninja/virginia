@@ -1,5 +1,5 @@
 ---
 title: "Miracles"
 url: /arlington/miracles/
-shop: Friseur
+shop: hairdresser
 ---

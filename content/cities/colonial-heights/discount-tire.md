@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /colonial-heights/discount-tire/
-shop: Reifen
+shop: tyres
 ---

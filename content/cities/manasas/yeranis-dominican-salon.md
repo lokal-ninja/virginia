@@ -1,5 +1,5 @@
 ---
 title: "Yeranis Dominican Salon"
 url: /manasas/yeranis-dominican-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Willow Lawn Service Center"
 url: /richmond/willow-lawn-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

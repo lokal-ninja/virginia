@@ -1,5 +1,5 @@
 ---
 title: "The Shoe Hive"
 url: /alexandria/the-shoe-hive/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sustain"
 url: /charlottesville/sustain/
-shop: Kleidung
+shop: clothes
 ---

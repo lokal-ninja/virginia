@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /virginia-beach/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

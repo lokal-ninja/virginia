@@ -1,5 +1,5 @@
 ---
 title: "Salvation Army Thrift Store"
 url: /chesapeake/salvation-army-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

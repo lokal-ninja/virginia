@@ -1,5 +1,5 @@
 ---
 title: "Window and Door Showplace"
 url: /mclean/window-and-door-showplace/
-shop: Jalousien
+shop: window blind
 ---

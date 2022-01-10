@@ -1,5 +1,5 @@
 ---
 title: "Bacon Street Bagel"
 url: /lynchburg/bacon-street-bagel/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pola Dot Potter"
 url: /winchester/pola-dot-potter/
-shop: Töpferei
+shop: pottery
 ---

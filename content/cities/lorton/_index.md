@@ -1,6 +1,6 @@
 ---
 title: Lorton
 url: /lorton/
-latitude: 38.732
-longitude: -77.188
+latitude: 38.715
+longitude: -77.262
 ---

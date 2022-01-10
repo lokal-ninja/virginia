@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /portsmouth/food-lion-2/
-shop: Supermarkt
+shop: supermarket
 ---

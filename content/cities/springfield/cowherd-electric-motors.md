@@ -1,5 +1,5 @@
 ---
 title: "Cowherd electric Motors"
 url: /springfield/cowherd-electric-motors/
-shop: Allgemein
+shop: shop
 ---

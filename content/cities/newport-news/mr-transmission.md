@@ -1,5 +1,5 @@
 ---
 title: "Mr. Transmission"
 url: /newport-news/mr-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

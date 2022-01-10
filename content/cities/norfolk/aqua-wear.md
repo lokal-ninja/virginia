@@ -1,5 +1,5 @@
 ---
 title: "Aqua Wear"
 url: /norfolk/aqua-wear/
-shop: Kleidung
+shop: clothes
 ---

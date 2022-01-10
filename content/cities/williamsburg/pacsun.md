@@ -1,5 +1,5 @@
 ---
 title: "PacSun"
 url: /williamsburg/pacsun/
-shop: Kleidung
+shop: clothes
 ---

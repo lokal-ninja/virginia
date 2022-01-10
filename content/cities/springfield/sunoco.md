@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /springfield/sunoco/
-shop: Autowerkstatt
+shop: car repair
 ---

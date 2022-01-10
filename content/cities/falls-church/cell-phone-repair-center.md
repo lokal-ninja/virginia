@@ -1,5 +1,5 @@
 ---
 title: "Cell Phone Repair Center"
 url: /falls-church/cell-phone-repair-center/
-shop: Allgemein
+shop: shop
 ---

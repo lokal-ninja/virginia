@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /stafford/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

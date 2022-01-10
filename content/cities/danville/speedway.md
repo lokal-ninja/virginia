@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /danville/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

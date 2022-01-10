@@ -1,5 +1,5 @@
 ---
 title: "Wallace Subaru"
 url: /bristol/wallace-subaru/
-shop: Autohaus
+shop: car
 ---

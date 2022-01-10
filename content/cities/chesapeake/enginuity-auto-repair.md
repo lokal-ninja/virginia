@@ -1,5 +1,5 @@
 ---
 title: "Enginuity Auto Repair"
 url: /chesapeake/enginuity-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

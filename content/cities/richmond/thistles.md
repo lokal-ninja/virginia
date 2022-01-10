@@ -1,5 +1,5 @@
 ---
 title: "Thistles"
 url: /richmond/thistles/
-shop: Leder
+shop: leather
 ---

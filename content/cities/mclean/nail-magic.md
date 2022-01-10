@@ -1,5 +1,5 @@
 ---
 title: "Nail Magic"
 url: /mclean/nail-magic/
-shop: Kosmetik
+shop: beauty
 ---

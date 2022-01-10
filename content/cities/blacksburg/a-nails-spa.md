@@ -1,5 +1,5 @@
 ---
 title: "A Nails/Spa"
 url: /blacksburg/a-nails-spa/
-shop: Kosmetik
+shop: beauty
 ---

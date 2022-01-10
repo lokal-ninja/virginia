@@ -1,5 +1,5 @@
 ---
 title: "Peoples Drug Store"
 url: /strasburg/peoples-drug-store/
-shop: Drogerie
+shop: chemist
 ---

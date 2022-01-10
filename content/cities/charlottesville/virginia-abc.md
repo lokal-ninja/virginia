@@ -1,5 +1,5 @@
 ---
 title: "Virginia ABC"
 url: /charlottesville/virginia-abc/
-shop: Spirituosen
+shop: alcohol
 ---

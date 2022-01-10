@@ -1,5 +1,5 @@
 ---
 title: "Calico"
 url: /arlington/calico/
-shop: Textil
+shop: fabric
 ---

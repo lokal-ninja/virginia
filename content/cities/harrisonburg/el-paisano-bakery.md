@@ -1,5 +1,5 @@
 ---
 title: "El Paisano Bakery"
 url: /harrisonburg/el-paisano-bakery/
-shop: Bäckerei
+shop: bakery
 ---

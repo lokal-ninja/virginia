@@ -1,5 +1,5 @@
 ---
 title: "ezStorage"
 url: /gainesville/ezstorage/
-shop: Mieten
+shop: storage rental
 ---

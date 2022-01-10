@@ -1,5 +1,5 @@
 ---
 title: "Winchester Book Gallery"
 url: /winchester/winchester-book-gallery/
-shop: Bücher
+shop: books
 ---

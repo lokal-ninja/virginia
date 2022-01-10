@@ -1,5 +1,5 @@
 ---
 title: "Anchors Away Home Decor and More"
 url: /west-point/anchors-away-home-decor-and-more/
-shop: Raumausstattung
+shop: interior decoration
 ---

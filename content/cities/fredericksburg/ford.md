@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /fredericksburg/ford/
-shop: Autohaus
+shop: car
 ---

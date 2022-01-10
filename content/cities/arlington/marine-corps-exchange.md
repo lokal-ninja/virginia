@@ -1,5 +1,5 @@
 ---
 title: "Marine Corps Exchange"
 url: /arlington/marine-corps-exchange/
-shop: Warenhaus
+shop: department store
 ---

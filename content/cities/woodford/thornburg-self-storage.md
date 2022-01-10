@@ -1,5 +1,5 @@
 ---
 title: "Thornburg Self Storage"
 url: /woodford/thornburg-self-storage/
-shop: Mieten
+shop: storage rental
 ---

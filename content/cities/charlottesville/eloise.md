@@ -1,5 +1,5 @@
 ---
 title: "Eloise"
 url: /charlottesville/eloise/
-shop: Kleidung
+shop: clothes
 ---

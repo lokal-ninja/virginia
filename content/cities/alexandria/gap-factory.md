@@ -1,5 +1,5 @@
 ---
 title: "Gap Factory"
 url: /alexandria/gap-factory/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pampered Pets"
 url: /charlottesville/pampered-pets/
-shop: Tiere
+shop: pet
 ---

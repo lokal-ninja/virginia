@@ -1,5 +1,5 @@
 ---
 title: "VABC"
 url: /newport-news/vabc/
-shop: Spirituosen
+shop: alcohol
 ---

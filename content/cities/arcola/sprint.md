@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /arcola/sprint/
-shop: Handy
+shop: mobile phone
 ---

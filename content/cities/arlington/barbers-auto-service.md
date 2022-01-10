@@ -1,5 +1,5 @@
 ---
 title: "Barber's Auto Service"
 url: /arlington/barbers-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

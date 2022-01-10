@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /chesapeake/aarons/
-shop: Möbel
+shop: furniture
 ---

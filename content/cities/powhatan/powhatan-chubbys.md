@@ -1,5 +1,5 @@
 ---
 title: "Powhatan Chubbys"
 url: /powhatan/powhatan-chubbys/
-shop: Lebensmittel
+shop: convenience
 ---

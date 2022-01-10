@@ -1,5 +1,5 @@
 ---
 title: "Hibbett Sports"
 url: /blacksburg/hibbett-sports/
-shop: Sport
+shop: sports
 ---

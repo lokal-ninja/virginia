@@ -1,5 +1,5 @@
 ---
 title: "Travis's Auto Repair"
 url: /carrollton/traviss-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

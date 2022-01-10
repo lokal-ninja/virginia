@@ -1,5 +1,5 @@
 ---
 title: "Criket Wireless Authorized Retailer"
 url: /winchester/criket-wireless-authorized-retailer/
-shop: Handy
+shop: mobile phone
 ---

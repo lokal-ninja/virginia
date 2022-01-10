@@ -1,5 +1,5 @@
 ---
 title: "Today's Cargo"
 url: /alexandria/todays-cargo/
-shop: Schmuck
+shop: jewelry
 ---

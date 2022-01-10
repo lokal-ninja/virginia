@@ -1,5 +1,5 @@
 ---
 title: "OptimEYES"
 url: /ashburn/optimeyes/
-shop: Optiker
+shop: optician
 ---

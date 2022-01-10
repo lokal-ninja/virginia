@@ -1,5 +1,5 @@
 ---
 title: "Cardinal Bicycle"
 url: /roanoke/cardinal-bicycle/
-shop: Fahrrad
+shop: bicycle
 ---

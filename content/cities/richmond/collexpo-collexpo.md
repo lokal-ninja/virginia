@@ -1,5 +1,5 @@
 ---
 title: "Collexpo Collexpo"
 url: /richmond/collexpo-collexpo/
-shop: Antiquitäten
+shop: antiques
 ---

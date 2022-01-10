@@ -1,5 +1,5 @@
 ---
 title: "Coach Factory"
 url: /williamsburg/coach-factory/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunlight Travel"
 url: /falls-church/sunlight-travel/
-shop: Reisebüro
+shop: travel agency
 ---

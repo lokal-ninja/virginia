@@ -1,5 +1,5 @@
 ---
 title: "Southern States"
 url: /purcellville/southern-states/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

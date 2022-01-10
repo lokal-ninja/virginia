@@ -1,5 +1,5 @@
 ---
 title: "Danforth Pewter"
 url: /williamsburg/danforth-pewter/
-shop: Andenken
+shop: gift
 ---

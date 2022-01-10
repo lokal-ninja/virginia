@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /fredericksburg/valero-2/
-shop: Lebensmittel
+shop: convenience
 ---

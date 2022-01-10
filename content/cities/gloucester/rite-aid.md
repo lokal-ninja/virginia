@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /gloucester/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

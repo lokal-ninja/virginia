@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /alexandria/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

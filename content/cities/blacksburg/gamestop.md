@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /blacksburg/gamestop/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /stafford/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Village Square Cleaners"
 url: /reston/village-square-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

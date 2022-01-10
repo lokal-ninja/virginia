@@ -1,5 +1,5 @@
 ---
 title: "Thiện Mỹ Hair Design"
 url: /falls-church/thien-my-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

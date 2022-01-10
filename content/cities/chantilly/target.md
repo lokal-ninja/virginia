@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /chantilly/target/
-shop: Warenhaus
+shop: department store
 ---

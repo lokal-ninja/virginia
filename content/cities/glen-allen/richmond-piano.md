@@ -1,5 +1,5 @@
 ---
 title: "Richmond Piano"
 url: /glen-allen/richmond-piano/
-shop: Instrumente
+shop: musical instrument
 ---

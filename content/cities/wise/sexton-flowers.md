@@ -1,5 +1,5 @@
 ---
 title: "Sexton Flowers"
 url: /wise/sexton-flowers/
-shop: Blumen
+shop: florist
 ---

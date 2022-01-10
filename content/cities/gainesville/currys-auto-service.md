@@ -1,5 +1,5 @@
 ---
 title: "Curry's Auto Service"
 url: /gainesville/currys-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

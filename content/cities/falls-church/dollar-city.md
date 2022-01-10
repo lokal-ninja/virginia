@@ -1,5 +1,5 @@
 ---
 title: "Dollar City"
 url: /falls-church/dollar-city/
-shop: Kramladen
+shop: variety store
 ---

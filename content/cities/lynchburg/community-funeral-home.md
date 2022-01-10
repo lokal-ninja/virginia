@@ -1,5 +1,5 @@
 ---
 title: "Community Funeral Home"
 url: /lynchburg/community-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

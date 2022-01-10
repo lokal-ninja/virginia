@@ -1,5 +1,5 @@
 ---
 title: "Tosche Station"
 url: /springfield/tosche-station/
-shop: Spielzeug
+shop: toys
 ---

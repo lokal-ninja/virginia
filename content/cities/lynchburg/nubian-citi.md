@@ -1,5 +1,5 @@
 ---
 title: "Nubian Citi"
 url: /lynchburg/nubian-citi/
-shop: Friseur
+shop: hairdresser
 ---

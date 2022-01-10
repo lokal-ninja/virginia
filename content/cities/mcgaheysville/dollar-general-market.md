@@ -1,5 +1,5 @@
 ---
 title: "Dollar General Market"
 url: /mcgaheysville/dollar-general-market/
-shop: Supermarkt
+shop: supermarket
 ---

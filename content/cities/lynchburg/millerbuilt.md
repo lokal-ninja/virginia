@@ -1,5 +1,5 @@
 ---
 title: "MillerBuilt"
 url: /lynchburg/millerbuilt/
-shop: Allgemein
+shop: shop
 ---

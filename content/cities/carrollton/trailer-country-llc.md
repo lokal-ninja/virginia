@@ -1,5 +1,5 @@
 ---
 title: "Trailer Country LLC"
 url: /carrollton/trailer-country-llc/
-shop: Anhänger
+shop: trailer
 ---

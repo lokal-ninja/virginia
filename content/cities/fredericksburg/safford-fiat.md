@@ -1,5 +1,5 @@
 ---
 title: "Safford Fiat"
 url: /fredericksburg/safford-fiat/
-shop: Autohaus
+shop: car
 ---

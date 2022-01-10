@@ -1,5 +1,5 @@
 ---
 title: "Blue Groove Sounds"
 url: /arlington/blue-groove-sounds/
-shop: Musik
+shop: music
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mufflers Shocks"
 url: /lynchburg/mufflers-shocks/
-shop: Autowerkstatt
+shop: car repair
 ---

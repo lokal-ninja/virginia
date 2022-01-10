@@ -1,5 +1,5 @@
 ---
 title: "Lee Barber Shop"
 url: /arlington/lee-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

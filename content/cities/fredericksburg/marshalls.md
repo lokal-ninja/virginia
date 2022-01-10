@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /fredericksburg/marshalls/
-shop: Warenhaus
+shop: department store
 ---
