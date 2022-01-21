@@ -1,6 +1,6 @@
 ---
 title: Zion Crossroads
 url: /zion-crossroads/
-latitude: 37.977
-longitude: -78.21
+latitude: 37.978
+longitude: -78.211
 ---
