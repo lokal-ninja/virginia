@@ -1,5 +1,5 @@
 ---
 title: "Virginia Outdoor Power Equipment"
 url: /springfield/virginia-outdoor-power-equipment/
-shop: shop
+shop: groundskeeping
 ---
