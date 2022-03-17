@@ -1,6 +1,6 @@
 ---
 title: Ruckersville
 url: /ruckersville/
-latitude: 38.236
-longitude: -78.372
+latitude: 38.234
+longitude: -78.368
 ---
