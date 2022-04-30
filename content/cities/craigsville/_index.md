@@ -1,6 +1,6 @@
 ---
-title: Craigsville
+title: CRAIGSVILLE
 url: /craigsville/
-latitude: 38.078
-longitude: -79.384
+latitude: 38.077
+longitude: -79.386
 ---
