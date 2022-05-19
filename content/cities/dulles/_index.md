@@ -1,6 +1,6 @@
 ---
 title: Dulles
 url: /dulles/
-latitude: 39.026
-longitude: -77.418
+latitude: 38.945
+longitude: -77.447
 ---
