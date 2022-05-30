@@ -1,6 +1,6 @@
 ---
 title: Bristow
 url: /bristow/
-latitude: 38.732
-longitude: -77.547
+latitude: 38.733
+longitude: -77.551
 ---

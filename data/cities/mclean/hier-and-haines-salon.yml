@@ -7,5 +7,5 @@ city: McLean
 street: "Old Dominion Drive"
 housenumber: 6236
 phone: ""
-opening_hours: "Tu 08:00-20:00 We 08:00-20:00 Th 08:00-20:00 Fr 07:30-17:00 Sa 07:00-17:00 Su closed Mo closed"
+opening_hours: "Tu-Th 08:00-20:00; Fr 07:30-17:00; Sa 07:00-17:00; Su-Mo off"
 website: ""
