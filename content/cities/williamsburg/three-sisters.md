@@ -1,5 +1,5 @@
 ---
 title: "Three Sisters"
 url: /williamsburg/three-sisters/
-shop: boutique
+shop: clothes
 ---
