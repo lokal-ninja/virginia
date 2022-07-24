@@ -1,6 +1,6 @@
 ---
 title: Stuarts Draft
 url: /stuarts-draft/
-latitude: 38.033
-longitude: -79.042
+latitude: 38.038
+longitude: -79.026
 ---
