@@ -1,6 +1,6 @@
 ---
 title: Tappahannock
 url: /tappahannock/
-latitude: 37.904
-longitude: -76.867
+latitude: 37.903
+longitude: -76.866
 ---
