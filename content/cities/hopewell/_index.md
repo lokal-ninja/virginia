@@ -1,6 +1,6 @@
 ---
 title: Hopewell
 url: /hopewell/
-latitude: 37.291
-longitude: -77.294
+latitude: 37.262
+longitude: -77.325
 ---
