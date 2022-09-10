@@ -1,6 +1,6 @@
 ---
 title: Roseland
 url: /roseland/
-latitude: 37.871
-longitude: -78.917
+latitude: 37.875
+longitude: -78.936
 ---
