@@ -1,6 +1,6 @@
 ---
 title: Daleville
 url: /daleville/
-latitude: 37.397
-longitude: -79.911
+latitude: 37.393
+longitude: -79.907
 ---
