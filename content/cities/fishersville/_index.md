@@ -1,6 +1,6 @@
 ---
 title: Fishersville
 url: /fishersville/
-latitude: 38.081
-longitude: -78.99
+latitude: 38.127
+longitude: -78.948
 ---
