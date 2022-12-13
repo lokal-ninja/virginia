@@ -1,5 +1,5 @@
 ---
 title: "Someday"
 url: /richmond/someday/
-shop: shop
+shop: interior decoration
 ---
