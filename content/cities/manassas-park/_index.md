@@ -1,6 +1,6 @@
 ---
 title: Manassas Park
 url: /manassas-park/
-latitude: 38.773
-longitude: -77.453
+latitude: 38.759
+longitude: -77.435
 ---
