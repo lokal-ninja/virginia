@@ -1,6 +1,6 @@
 ---
 title: Disputanta
 url: /disputanta/
-latitude: 37.157
-longitude: -77.274
+latitude: 37.138
+longitude: -77.248
 ---
