@@ -2,5 +2,5 @@
 title: Timberville
 url: /timberville/
 latitude: 38.63
-longitude: -78.776
+longitude: -78.775
 ---
