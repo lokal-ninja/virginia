@@ -1,6 +1,6 @@
 ---
 title: Wise
 url: /wise/
-latitude: 36.973
-longitude: -82.592
+latitude: 36.97
+longitude: -82.597
 ---
