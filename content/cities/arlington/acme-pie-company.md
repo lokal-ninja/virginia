@@ -1,5 +1,5 @@
 ---
-title: "Acme pie company"
+title: "ACME Pie Company"
 url: /arlington/acme-pie-company/
 shop: bakery
 ---
