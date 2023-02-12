@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
-url: /virginia-beach/firestone-2/
+url: /virginia-beach/firestone/
 shop: car repair
 ---

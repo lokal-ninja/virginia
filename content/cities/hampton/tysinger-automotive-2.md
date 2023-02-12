@@ -1,5 +1,5 @@
 ---
 title: "Tysinger Automotive"
-url: /hampton/tysinger-automotive-2/
+url: /hampton/tysinger-automotive/
 shop: car
 ---

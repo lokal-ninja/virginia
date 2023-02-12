@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
-url: /chesapeake/best-buy-2/
+url: /chesapeake/best-buy/
 shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
-url: /chesapeake/old-navy-2/
+url: /chesapeake/old-navy/
 shop: clothes
 ---

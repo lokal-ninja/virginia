@@ -1,11 +1,11 @@
 id: 937150356
 type: node
-latitude: 37.22784
-longitude: -80.41213
-postcode: ""
+latitude: 37.22782
+longitude: -80.41217
+postcode: "24060"
 city: Blacksburg
-street: "North Main Street"
-housenumber: 101
-phone: ""
-opening_hours: ""
-website: ""
+street: "South Main Street"
+housenumber: 301
+phone: "+1-540-953-1000"
+opening_hours: "Mo-Fr 10:00-17:00; Sa 11:00-16:00"
+website: "https://www.caponesjewelry.com/"
