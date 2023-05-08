@@ -1,6 +1,6 @@
 ---
 title: Harrisonburg
 url: /harrisonburg/
-latitude: 38.428
-longitude: -78.858
+latitude: 38.478
+longitude: -78.821
 ---
