@@ -1,5 +1,5 @@
 ---
 title: "Zapatat"
 url: /arlington/zapatat/
-shop: shop
+shop: beauty
 ---
