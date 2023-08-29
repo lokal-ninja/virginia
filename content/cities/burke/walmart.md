@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /burke/walmart/
-shop: department store
+shop: supermarket
 ---
