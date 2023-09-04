@@ -1,6 +1,6 @@
 ---
 title: Lynchburg
 url: /lynchburg/
-latitude: 37.447
-longitude: -79.218
+latitude: 37.368
+longitude: -79.184
 ---
