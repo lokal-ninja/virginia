@@ -1,6 +1,6 @@
 ---
 title: Louisa
 url: /louisa/
-latitude: 38.02
-longitude: -77.991
+latitude: 38.019
+longitude: -77.99
 ---
