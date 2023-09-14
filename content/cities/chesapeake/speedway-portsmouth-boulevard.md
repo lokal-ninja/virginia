@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /chesapeake/speedway/
+url: /chesapeake/speedway-portsmouth-boulevard/
 shop: convenience
 ---

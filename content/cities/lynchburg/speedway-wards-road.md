@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lynchburg/speedway/
+url: /lynchburg/speedway-wards-road/
 shop: convenience
 ---

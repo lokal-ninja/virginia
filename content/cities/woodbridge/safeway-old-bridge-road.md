@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /woodbridge/safeway/
+url: /woodbridge/safeway-old-bridge-road/
 shop: supermarket
 ---

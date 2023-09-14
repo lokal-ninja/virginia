@@ -1,5 +1,5 @@
 ---
 title: "Unleashed"
-url: /arlington/unleashed/
+url: /arlington/unleashed-langston-boulevard/
 shop: pet
 ---

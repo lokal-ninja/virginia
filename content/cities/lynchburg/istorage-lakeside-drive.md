@@ -1,5 +1,5 @@
 ---
 title: "iStorage"
-url: /lynchburg/istorage/
+url: /lynchburg/istorage-lakeside-drive/
 shop: storage rental
 ---

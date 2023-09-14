@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /leesburg/giant/
+url: /leesburg/giant-potomac-station-drive-northeast/
 shop: supermarket
 ---

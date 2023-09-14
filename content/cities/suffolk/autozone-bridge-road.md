@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /suffolk/autozone/
+url: /suffolk/autozone-bridge-road/
 shop: car parts
 ---

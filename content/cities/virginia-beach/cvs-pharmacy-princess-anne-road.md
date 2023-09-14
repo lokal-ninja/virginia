@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /virginia-beach/cvs-pharmacy/
+url: /virginia-beach/cvs-pharmacy-princess-anne-road/
 shop: chemist
 ---

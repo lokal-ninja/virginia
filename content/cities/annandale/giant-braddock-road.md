@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /annandale/giant/
+url: /annandale/giant-braddock-road/
 shop: supermarket
 ---

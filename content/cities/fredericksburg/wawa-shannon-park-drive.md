@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /fredericksburg/wawa/
+url: /fredericksburg/wawa-shannon-park-drive/
 shop: convenience
 ---

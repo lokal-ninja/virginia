@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /ridgeway/speedway/
+url: /ridgeway/speedway-greensboro-road/
 shop: convenience
 ---

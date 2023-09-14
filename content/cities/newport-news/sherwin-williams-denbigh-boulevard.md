@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
-url: /newport-news/sherwin-williams/
+url: /newport-news/sherwin-williams-denbigh-boulevard/
 shop: paint
 ---

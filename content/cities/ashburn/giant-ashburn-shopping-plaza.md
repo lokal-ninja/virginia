@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /ashburn/giant/
+url: /ashburn/giant-ashburn-shopping-plaza/
 shop: supermarket
 ---

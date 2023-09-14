@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /alexandria/autozone/
+url: /alexandria/autozone-richmond-highway-2/
 shop: car parts
 ---

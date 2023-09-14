@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /fredericksburg/sheetz/
+url: /fredericksburg/sheetz-hospital-boulevard/
 shop: convenience
 ---

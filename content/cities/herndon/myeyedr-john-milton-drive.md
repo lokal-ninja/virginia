@@ -1,5 +1,5 @@
 ---
 title: "MyEyeDr."
-url: /herndon/myeyedr/
+url: /herndon/myeyedr-john-milton-drive/
 shop: optician
 ---

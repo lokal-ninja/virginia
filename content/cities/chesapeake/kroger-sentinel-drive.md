@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /chesapeake/kroger/
+url: /chesapeake/kroger-sentinel-drive/
 shop: supermarket
 ---

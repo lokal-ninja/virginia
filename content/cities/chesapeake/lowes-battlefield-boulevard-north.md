@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /chesapeake/lowes/
+url: /chesapeake/lowes-battlefield-boulevard-north/
 shop: doityourself
 ---

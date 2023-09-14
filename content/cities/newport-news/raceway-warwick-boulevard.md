@@ -1,5 +1,5 @@
 ---
 title: "RaceWay"
-url: /newport-news/raceway/
+url: /newport-news/raceway-warwick-boulevard/
 shop: convenience
 ---

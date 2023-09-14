@@ -1,5 +1,5 @@
 ---
 title: "Virginia ABC"
-url: /arlington/virginia-abc/
+url: /arlington/virginia-abc-langston-boulevard/
 shop: alcohol
 ---

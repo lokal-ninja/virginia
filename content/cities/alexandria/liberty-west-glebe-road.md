@@ -1,5 +1,5 @@
 ---
 title: "Liberty"
-url: /alexandria/liberty/
+url: /alexandria/liberty-west-glebe-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /alexandria/giant/
+url: /alexandria/giant-richmond-highway/
 shop: supermarket
 ---

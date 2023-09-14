@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /woodbridge/autozone/
+url: /woodbridge/autozone-cheshire-station-plaza/
 shop: car parts
 ---

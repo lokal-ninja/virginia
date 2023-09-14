@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /lynchburg/verizon/
+url: /lynchburg/verizon-timberlake-road/
 shop: mobile phone
 ---

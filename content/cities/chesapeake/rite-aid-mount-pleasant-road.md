@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
-url: /chesapeake/rite-aid/
+url: /chesapeake/rite-aid-mount-pleasant-road/
 shop: chemist
 ---

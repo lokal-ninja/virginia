@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /portsmouth/wawa/
+url: /portsmouth/wawa-london-street/
 shop: convenience
 ---

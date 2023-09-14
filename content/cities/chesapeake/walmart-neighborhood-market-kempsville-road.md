@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /chesapeake/walmart-neighborhood-market/
+url: /chesapeake/walmart-neighborhood-market-kempsville-road/
 shop: supermarket
 ---

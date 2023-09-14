@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /virginia-beach/kroger/
+url: /virginia-beach/kroger-republic-road/
 shop: supermarket
 ---

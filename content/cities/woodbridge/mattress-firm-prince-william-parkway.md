@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /woodbridge/mattress-firm/
+url: /woodbridge/mattress-firm-prince-william-parkway/
 shop: bed
 ---

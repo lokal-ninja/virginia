@@ -1,5 +1,5 @@
 ---
 title: "BP"
-url: /alexandria/bp/
+url: /alexandria/bp-edsall-road/
 shop: car repair
 ---

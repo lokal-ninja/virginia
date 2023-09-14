@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
-url: /ashburn/harris-teeter/
+url: /ashburn/harris-teeter-creek-view-plaza/
 shop: supermarket
 ---

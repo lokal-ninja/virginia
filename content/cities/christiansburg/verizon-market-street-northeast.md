@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /christiansburg/verizon/
+url: /christiansburg/verizon-market-street-northeast/
 shop: mobile phone
 ---

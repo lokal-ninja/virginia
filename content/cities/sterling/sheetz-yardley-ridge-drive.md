@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /sterling/sheetz/
+url: /sterling/sheetz-yardley-ridge-drive/
 shop: convenience
 ---

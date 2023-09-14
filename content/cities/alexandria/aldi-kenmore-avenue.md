@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /alexandria/aldi/
+url: /alexandria/aldi-kenmore-avenue/
 shop: supermarket
 ---

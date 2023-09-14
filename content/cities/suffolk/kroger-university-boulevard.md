@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /suffolk/kroger/
+url: /suffolk/kroger-university-boulevard/
 shop: supermarket
 ---

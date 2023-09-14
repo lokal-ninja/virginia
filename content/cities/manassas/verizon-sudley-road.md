@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /manassas/verizon/
+url: /manassas/verizon-sudley-road/
 shop: mobile phone
 ---

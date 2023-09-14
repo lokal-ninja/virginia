@@ -1,5 +1,5 @@
 ---
 title: "Ledbury"
-url: /richmond/ledbury/
+url: /richmond/ledbury-west-broad-street/
 shop: clothes
 ---

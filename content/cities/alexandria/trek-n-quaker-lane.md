@@ -1,5 +1,5 @@
 ---
 title: "Trek"
-url: /alexandria/trek/
+url: /alexandria/trek-n-quaker-lane/
 shop: bicycle
 ---

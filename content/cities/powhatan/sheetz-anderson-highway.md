@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /powhatan/sheetz/
+url: /powhatan/sheetz-anderson-highway/
 shop: convenience
 ---

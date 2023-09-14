@@ -1,5 +1,5 @@
 ---
 title: "Fas Mart"
-url: /spotsylvania/fas-mart/
+url: /spotsylvania/fas-mart-plank-road/
 shop: convenience
 ---

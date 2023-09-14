@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /leesburg/sheetz/
+url: /leesburg/sheetz-california-drive-ne/
 shop: convenience
 ---

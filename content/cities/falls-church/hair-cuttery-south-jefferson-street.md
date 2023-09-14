@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
-url: /falls-church/hair-cuttery/
+url: /falls-church/hair-cuttery-south-jefferson-street/
 shop: hairdresser
 ---

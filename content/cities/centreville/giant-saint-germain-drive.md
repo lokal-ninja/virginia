@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /centreville/giant/
+url: /centreville/giant-saint-germain-drive/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /fredericksburg/goodwill/
+url: /fredericksburg/goodwill-harrison-road/
 shop: charity
 ---

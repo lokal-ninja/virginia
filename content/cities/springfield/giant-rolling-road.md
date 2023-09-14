@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /springfield/giant/
+url: /springfield/giant-rolling-road/
 shop: supermarket
 ---

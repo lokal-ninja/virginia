@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /herndon/shell/
+url: /herndon/shell-leesburg-pike/
 shop: convenience
 ---

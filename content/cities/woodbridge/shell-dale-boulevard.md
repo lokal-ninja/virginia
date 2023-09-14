@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /woodbridge/shell/
+url: /woodbridge/shell-dale-boulevard/
 shop: convenience
 ---

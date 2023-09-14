@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /chesapeake/walmart-supercenter/
+url: /chesapeake/walmart-supercenter-hillcrest-parkway/
 shop: supermarket
 ---

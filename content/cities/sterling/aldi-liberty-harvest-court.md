@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /sterling/aldi/
+url: /sterling/aldi-liberty-harvest-court/
 shop: supermarket
 ---

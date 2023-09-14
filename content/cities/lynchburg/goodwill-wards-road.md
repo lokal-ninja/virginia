@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /lynchburg/goodwill/
+url: /lynchburg/goodwill-wards-road/
 shop: charity
 ---

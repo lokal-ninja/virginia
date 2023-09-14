@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /bassett/speedway/
+url: /bassett/speedway-virginia-avenue/
 shop: convenience
 ---

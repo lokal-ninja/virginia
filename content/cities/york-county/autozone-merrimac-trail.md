@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /york-county/autozone/
+url: /york-county/autozone-merrimac-trail/
 shop: car parts
 ---

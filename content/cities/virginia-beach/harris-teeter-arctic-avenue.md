@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
-url: /virginia-beach/harris-teeter/
+url: /virginia-beach/harris-teeter-arctic-avenue/
 shop: supermarket
 ---

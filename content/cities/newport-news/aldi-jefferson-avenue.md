@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /newport-news/aldi/
+url: /newport-news/aldi-jefferson-avenue/
 shop: supermarket
 ---

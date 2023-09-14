@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
-url: /virginia-beach/food-lion/
+url: /virginia-beach/food-lion-princess-anne-road/
 shop: supermarket
 ---

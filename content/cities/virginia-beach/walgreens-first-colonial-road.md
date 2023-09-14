@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /virginia-beach/walgreens/
+url: /virginia-beach/walgreens-first-colonial-road/
 shop: chemist
 ---

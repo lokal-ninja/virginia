@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
-url: /chesapeake/firestone/
+url: /chesapeake/firestone-hillcrest-parkway/
 shop: car repair
 ---

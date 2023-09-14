@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
-url: /chesapeake/hallmark/
+url: /chesapeake/hallmark-greenbrier-parkway/
 shop: gift
 ---

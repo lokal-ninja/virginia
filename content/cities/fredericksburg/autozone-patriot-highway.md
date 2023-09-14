@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /fredericksburg/autozone/
+url: /fredericksburg/autozone-patriot-highway/
 shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Virginia ABC"
-url: /manassas/virginia-abc/
+url: /manassas/virginia-abc-galveston-court/
 shop: alcohol
 ---

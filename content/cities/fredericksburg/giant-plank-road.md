@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /fredericksburg/giant/
+url: /fredericksburg/giant-plank-road/
 shop: supermarket
 ---

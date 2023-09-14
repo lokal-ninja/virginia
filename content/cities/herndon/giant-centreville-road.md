@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /herndon/giant/
+url: /herndon/giant-centreville-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weis"
-url: /fredericksburg/weis/
+url: /fredericksburg/weis-tidewater-trail/
 shop: supermarket
 ---

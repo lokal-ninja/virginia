@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
-url: /suffolk/food-lion/
+url: /suffolk/food-lion-godwin-boulevard/
 shop: supermarket
 ---

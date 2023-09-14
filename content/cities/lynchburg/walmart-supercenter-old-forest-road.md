@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /lynchburg/walmart-supercenter/
+url: /lynchburg/walmart-supercenter-old-forest-road/
 shop: supermarket
 ---

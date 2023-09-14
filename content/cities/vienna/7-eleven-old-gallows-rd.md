@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /vienna/7-eleven/
+url: /vienna/7-eleven-old-gallows-rd/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /winchester/sunoco/
+url: /winchester/sunoco-south-loudoun-street/
 shop: convenience
 ---

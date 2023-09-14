@@ -1,5 +1,5 @@
 ---
 title: "Cardinal Bicycle"
-url: /roanoke/cardinal-bicycle/
+url: /roanoke/cardinal-bicycle-winborne-street-southwest/
 shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autos Direct"
-url: /fredericksburg/autos-direct/
+url: /fredericksburg/autos-direct-patriot-highway/
 shop: car
 ---

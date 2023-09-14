@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /chesapeake/aldi/
+url: /chesapeake/aldi-executive-boulevard/
 shop: supermarket
 ---

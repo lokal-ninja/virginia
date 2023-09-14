@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
-url: /fredericksburg/hair-cuttery/
+url: /fredericksburg/hair-cuttery-southpoint-parkway/
 shop: hairdresser
 ---

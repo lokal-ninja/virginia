@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
-url: /manassas/u-haul/
+url: /manassas/u-haul-dumfries-road/
 shop: storage rental
 ---

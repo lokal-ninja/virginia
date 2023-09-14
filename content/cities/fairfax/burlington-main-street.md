@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
-url: /fairfax/burlington/
+url: /fairfax/burlington-main-street/
 shop: department store
 ---

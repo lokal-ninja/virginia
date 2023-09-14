@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /newport-news/wawa/
+url: /newport-news/wawa-jefferson-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /virginia-beach/wawa/
+url: /virginia-beach/wawa-2/
 shop: convenience
 ---

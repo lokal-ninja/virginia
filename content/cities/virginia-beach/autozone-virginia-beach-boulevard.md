@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /virginia-beach/autozone/
+url: /virginia-beach/autozone-virginia-beach-boulevard/
 shop: car parts
 ---

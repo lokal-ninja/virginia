@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
-url: /woodbridge/titlemax/
+url: /woodbridge/titlemax-prince-william-parkway/
 shop: pawnbroker
 ---

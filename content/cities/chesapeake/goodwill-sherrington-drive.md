@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /chesapeake/goodwill/
+url: /chesapeake/goodwill-sherrington-drive/
 shop: charity
 ---

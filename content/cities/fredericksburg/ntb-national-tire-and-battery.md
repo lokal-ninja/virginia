@@ -1,5 +1,5 @@
 ---
 title: "NTB - National Tire & Battery"
 url: /fredericksburg/ntb-national-tire-and-battery/
-shop: tyres
+shop: car repair
 ---

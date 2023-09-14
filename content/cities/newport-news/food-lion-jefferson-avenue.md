@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
-url: /newport-news/food-lion/
+url: /newport-news/food-lion-jefferson-avenue/
 shop: supermarket
 ---
