@@ -1,6 +1,6 @@
 ---
 title: Keysville
 url: /keysville/
-latitude: 37.04
-longitude: -78.484
+latitude: 37.037
+longitude: -78.477
 ---
