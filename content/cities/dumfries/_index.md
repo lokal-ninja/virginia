@@ -1,6 +1,6 @@
 ---
 title: Dumfries
 url: /dumfries/
-latitude: 38.582
-longitude: -77.33
+latitude: 38.603
+longitude: -77.341
 ---

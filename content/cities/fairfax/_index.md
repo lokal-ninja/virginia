@@ -1,6 +1,6 @@
 ---
 title: Fairfax
 url: /fairfax/
-latitude: 38.845
-longitude: -77.274
+latitude: 38.818
+longitude: -77.276
 ---

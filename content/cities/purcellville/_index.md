@@ -1,6 +1,6 @@
 ---
 title: Purcellville
 url: /purcellville/
-latitude: 39.138
-longitude: -77.707
+latitude: 39.137
+longitude: -77.724
 ---
