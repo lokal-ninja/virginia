@@ -1,6 +1,6 @@
 ---
 title: Franklin
 url: /franklin/
-latitude: 36.669
-longitude: -76.956
+latitude: 36.612
+longitude: -76.929
 ---

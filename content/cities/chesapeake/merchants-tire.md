@@ -1,5 +1,5 @@
 ---
-title: "Merchants Tire"
+title: "Merchant's Tire"
 url: /chesapeake/merchants-tire/
-shop: tyres
+shop: car repair
 ---
