@@ -1,6 +1,6 @@
 ---
 title: Altavista
 url: /altavista/
-latitude: 37.11
-longitude: -79.29
+latitude: 37.111
+longitude: -79.289
 ---
