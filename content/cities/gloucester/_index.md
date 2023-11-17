@@ -1,6 +1,6 @@
 ---
 title: Gloucester
 url: /gloucester/
-latitude: 37.424
-longitude: -76.487
+latitude: 37.385
+longitude: -76.535
 ---

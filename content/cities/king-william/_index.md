@@ -1,6 +1,6 @@
 ---
 title: King William
 url: /king-william/
-latitude: 37.708
-longitude: -77.155
+latitude: 37.734
+longitude: -77.137
 ---
