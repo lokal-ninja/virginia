@@ -1,6 +1,6 @@
 ---
 title: Dillwyn
 url: /dillwyn/
-latitude: 37.47
-longitude: -78.567
+latitude: 37.542
+longitude: -78.474
 ---
