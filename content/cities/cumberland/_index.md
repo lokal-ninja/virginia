@@ -1,6 +1,6 @@
 ---
 title: Cumberland
 url: /cumberland/
-latitude: 37.49
-longitude: -78.252
+latitude: 37.499
+longitude: -78.241
 ---
