@@ -1,6 +1,6 @@
 ---
 title: Dinwiddie
 url: /dinwiddie/
-latitude: 37.08
-longitude: -77.585
+latitude: 37.078
+longitude: -77.586
 ---

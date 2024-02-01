@@ -7,5 +7,5 @@ city: Richmond City
 street: "West Cary Street"
 housenumber: 3136
 phone: "+1 804-359-5645"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00; Jan 1, Jan 2 closed; easter closed; easter + 1 day closed; May Mo[-1] closed; Jul 4 closed; Sep Mo[1] closed; Nov Th[4] closed; Dec 25 closed; Dec 26 closed; Dec 24 15:00-24:00 closed; Dec 31 17:00-24:00 closed"
+opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00; Jan 01,02 closed; easter closed; easter +1 day closed; May Mo[-1] closed; Jul 04 closed; Sep Mo[1] closed; Nov Th[4] closed; Dec 25 closed; Dec 26 closed; Dec 24 15:00-24:00 closed; Dec 31 17:00-24:00 closed"
 website: "http://love-choc.com/"

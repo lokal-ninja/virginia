@@ -7,5 +7,5 @@ city: Fredericksburg
 street: "Caroline Street"
 housenumber: 726
 phone: "+1 540-373-1888"
-opening_hours: "Mo-Sa 10:00-18:00; Su 13:00-17:00"
+opening_hours: "Mo-Th,Su 11:00-17:00; Fr-Sa 11:00-18:00"
 website: "https://sugarandspruce.com/"
