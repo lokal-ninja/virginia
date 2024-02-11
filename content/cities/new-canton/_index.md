@@ -1,6 +1,6 @@
 ---
 title: New Canton
 url: /new-canton/
-latitude: 37.651
-longitude: -78.356
+latitude: 37.629
+longitude: -78.364
 ---
