@@ -1,6 +1,6 @@
 ---
 title: Stuart
 url: /stuart/
-latitude: 36.641
-longitude: -80.244
+latitude: 36.635
+longitude: -80.206
 ---
