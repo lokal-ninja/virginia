@@ -1,6 +1,6 @@
 ---
 title: Luray
 url: /luray/
-latitude: 38.661
-longitude: -78.498
+latitude: 38.665
+longitude: -78.464
 ---
