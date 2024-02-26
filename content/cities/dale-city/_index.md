@@ -1,6 +1,6 @@
 ---
 title: Dale City
 url: /dale-city/
-latitude: 38.645
-longitude: -77.338
+latitude: 38.628
+longitude: -77.3
 ---
