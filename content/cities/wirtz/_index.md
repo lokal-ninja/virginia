@@ -1,6 +1,6 @@
 ---
 title: Wirtz
 url: /wirtz/
-latitude: 37.105
-longitude: -79.815
+latitude: 37.106
+longitude: -79.816
 ---
