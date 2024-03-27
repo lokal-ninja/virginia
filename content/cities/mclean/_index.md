@@ -1,6 +1,6 @@
 ---
-title: McLean
+title: Mclean
 url: /mclean/
-latitude: 38.933
-longitude: -77.181
+latitude: 38.923
+longitude: -77.202
 ---

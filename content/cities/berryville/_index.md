@@ -1,6 +1,6 @@
 ---
 title: Berryville
 url: /berryville/
-latitude: 39.167
-longitude: -78.003
+latitude: 39.143
+longitude: -77.988
 ---
