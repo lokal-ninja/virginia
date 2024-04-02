@@ -1,6 +1,6 @@
 ---
 title: Yorktown
 url: /yorktown/
-latitude: 37.115
-longitude: -76.463
+latitude: 37.173
+longitude: -76.473
 ---
