@@ -1,6 +1,6 @@
 ---
 title: Mount Crawford
 url: /mount-crawford/
-latitude: 38.352
-longitude: -78.9
+latitude: 38.357
+longitude: -78.924
 ---
