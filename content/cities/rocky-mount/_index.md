@@ -1,6 +1,6 @@
 ---
 title: Rocky Mount
 url: /rocky-mount/
-latitude: 37.011
-longitude: -79.866
+latitude: 37.012
+longitude: -79.87
 ---
