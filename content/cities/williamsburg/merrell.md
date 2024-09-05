@@ -1,5 +1,5 @@
 ---
 title: "Merrell"
 url: /williamsburg/merrell/
-shop: shoes
+shop: Schuhe
 ---

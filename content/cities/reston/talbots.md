@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /reston/talbots/
-shop: clothes
+shop: Kleidung
 ---

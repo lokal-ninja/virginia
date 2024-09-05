@@ -1,5 +1,5 @@
 ---
 title: "APlus"
 url: /sterling/aplus/
-shop: convenience
+shop: Lebensmittel
 ---

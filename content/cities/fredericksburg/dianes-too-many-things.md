@@ -1,5 +1,5 @@
 ---
 title: "Dianes Too Many Things"
 url: /fredericksburg/dianes-too-many-things/
-shop: antiques
+shop: Antiquitäten
 ---

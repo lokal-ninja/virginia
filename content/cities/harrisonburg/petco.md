@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /harrisonburg/petco/
-shop: pet
+shop: Tiere
 ---

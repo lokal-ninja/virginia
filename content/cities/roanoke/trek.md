@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /roanoke/trek/
-shop: bicycle
+shop: Fahrrad
 ---

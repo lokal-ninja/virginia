@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /chantilly/petsmart/
-shop: pet
+shop: Tiere
 ---

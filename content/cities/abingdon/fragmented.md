@@ -1,5 +1,5 @@
 ---
 title: "Fragmented"
 url: /abingdon/fragmented/
-shop: art
+shop: Kunst
 ---

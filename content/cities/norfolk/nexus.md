@@ -1,5 +1,5 @@
 ---
 title: "Nexus"
 url: /norfolk/nexus/
-shop: shop
+shop: Allgemein
 ---

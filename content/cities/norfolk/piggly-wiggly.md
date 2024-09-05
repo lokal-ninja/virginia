@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /norfolk/piggly-wiggly/
-shop: supermarket
+shop: Supermarkt
 ---

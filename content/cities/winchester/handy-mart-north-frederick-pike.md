@@ -1,5 +1,5 @@
 ---
 title: "Handy Mart"
 url: /winchester/handy-mart-north-frederick-pike/
-shop: convenience
+shop: Lebensmittel
 ---

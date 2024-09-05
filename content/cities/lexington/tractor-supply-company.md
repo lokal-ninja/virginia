@@ -1,5 +1,5 @@
 ---
 title: "Tractor Supply Company"
 url: /lexington/tractor-supply-company/
-shop: general
+shop: Dorfladen
 ---

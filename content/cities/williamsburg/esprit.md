@@ -1,5 +1,5 @@
 ---
 title: "Esprit"
 url: /williamsburg/esprit/
-shop: clothes
+shop: Kleidung
 ---

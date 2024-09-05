@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /vinton/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

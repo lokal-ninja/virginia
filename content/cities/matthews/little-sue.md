@@ -1,5 +1,5 @@
 ---
 title: "Little Sue"
 url: /matthews/little-sue/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /vienna/michaels/
-shop: craft
+shop: Basteln
 ---

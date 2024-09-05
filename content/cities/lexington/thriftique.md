@@ -1,5 +1,5 @@
 ---
 title: "Thriftique"
 url: /lexington/thriftique/
-shop: charity
+shop: Gebrauchtwaren
 ---

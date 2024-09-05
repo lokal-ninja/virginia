@@ -1,5 +1,5 @@
 ---
 title: "Best Laundromat"
 url: /falls-church/best-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

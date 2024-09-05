@@ -1,5 +1,5 @@
 ---
 title: "Carytown Tobacco"
 url: /mechanicsville/carytown-tobacco/
-shop: tobacco
+shop: Tabak
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GB"
 url: /staunton/gb/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /james-city-county/7-eleven-jamestown-road/
-shop: convenience
+shop: Lebensmittel
 ---

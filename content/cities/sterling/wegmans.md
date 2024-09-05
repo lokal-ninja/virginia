@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /sterling/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

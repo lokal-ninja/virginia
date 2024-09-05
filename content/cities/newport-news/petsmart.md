@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /newport-news/petsmart/
-shop: pet
+shop: Tiere
 ---

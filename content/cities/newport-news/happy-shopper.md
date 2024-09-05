@@ -1,5 +1,5 @@
 ---
 title: "Happy Shopper"
 url: /newport-news/happy-shopper/
-shop: convenience
+shop: Lebensmittel
 ---

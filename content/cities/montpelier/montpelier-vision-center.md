@@ -1,5 +1,5 @@
 ---
 title: "Montpelier Vision Center"
 url: /montpelier/montpelier-vision-center/
-shop: optician
+shop: Optiker
 ---

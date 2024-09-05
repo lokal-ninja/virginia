@@ -1,5 +1,5 @@
 ---
 title: "Sumdat Farm Market"
 url: /roanoke/sumdat-farm-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

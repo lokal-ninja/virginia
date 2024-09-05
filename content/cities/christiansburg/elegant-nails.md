@@ -1,5 +1,5 @@
 ---
 title: "Elegant Nails"
 url: /christiansburg/elegant-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "7 Express"
 url: /partlow/7-express/
-shop: convenience
+shop: Lebensmittel
 ---

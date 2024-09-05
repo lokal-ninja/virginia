@@ -1,5 +1,5 @@
 ---
 title: "Wave Riding Vehicles"
 url: /virginia-beach/wave-riding-vehicles/
-shop: clothes
+shop: Kleidung
 ---

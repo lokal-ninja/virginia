@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /williamsburg/skechers/
-shop: shoes
+shop: Schuhe
 ---

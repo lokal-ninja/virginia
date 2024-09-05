@@ -1,5 +1,5 @@
 ---
 title: "Autotym Inc."
 url: /fredericksburg/autotym-inc/
-shop: car
+shop: Autohaus
 ---

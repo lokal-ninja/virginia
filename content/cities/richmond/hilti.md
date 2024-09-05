@@ -1,5 +1,5 @@
 ---
 title: "Hilti"
 url: /richmond/hilti/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Luxury Nails"
 url: /south-hill/luxury-nails/
-shop: beauty
+shop: Kosmetik
 ---

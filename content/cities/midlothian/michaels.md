@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /midlothian/michaels/
-shop: craft
+shop: Basteln
 ---

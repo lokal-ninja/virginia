@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /richmond/kroger-north-lombardy-street/
-shop: supermarket
+shop: Supermarkt
 ---

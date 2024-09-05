@@ -1,5 +1,5 @@
 ---
 title: "Laundry Land"
 url: /lynchburg/laundry-land/
-shop: laundry
+shop: Wäscherei
 ---

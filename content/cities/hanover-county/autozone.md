@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /hanover-county/autozone/
-shop: car parts
+shop: Autoteile
 ---

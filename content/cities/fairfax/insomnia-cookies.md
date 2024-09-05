@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /fairfax/insomnia-cookies/
-shop: pastry
+shop: Konditorei
 ---

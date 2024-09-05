@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /bristol/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

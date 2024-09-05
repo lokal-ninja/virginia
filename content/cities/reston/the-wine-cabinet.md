@@ -1,5 +1,5 @@
 ---
 title: "The Wine Cabinet"
 url: /reston/the-wine-cabinet/
-shop: wine
+shop: Wein
 ---

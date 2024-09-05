@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /blacksburg/speedway-south-main-street/
-shop: convenience
+shop: Lebensmittel
 ---

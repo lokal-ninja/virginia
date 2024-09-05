@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /chantilly/cleaners/
-shop: laundry
+shop: Wäscherei
 ---

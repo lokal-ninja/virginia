@@ -1,5 +1,5 @@
 ---
 title: "Phillips Discount Furniture"
 url: /charlottesville/phillips-discount-furniture/
-shop: furniture
+shop: Möbel
 ---

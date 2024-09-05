@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /warrenton/bp/
-shop: convenience
+shop: Lebensmittel
 ---

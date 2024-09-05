@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /fredericksburg/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

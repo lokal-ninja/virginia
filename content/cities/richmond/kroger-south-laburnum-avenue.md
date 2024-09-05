@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /richmond/kroger-south-laburnum-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

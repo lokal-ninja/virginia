@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /staunton/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

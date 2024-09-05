@@ -1,5 +1,5 @@
 ---
 title: "Zoots Dry Cleaning"
 url: /chesapeake/zoots-dry-cleaning/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /suffolk/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

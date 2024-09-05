@@ -1,5 +1,5 @@
 ---
 title: "Tweed"
 url: /richmond/tweed/
-shop: clothes
+shop: Kleidung
 ---

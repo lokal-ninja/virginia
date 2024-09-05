@@ -1,5 +1,5 @@
 ---
 title: "Shivers Funeral Chapel"
 url: /smithfield/shivers-funeral-chapel/
-shop: funeral directors
+shop: Bestattungen
 ---

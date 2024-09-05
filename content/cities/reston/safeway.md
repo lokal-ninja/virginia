@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /reston/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

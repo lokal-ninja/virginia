@@ -1,5 +1,5 @@
 ---
 title: "Arepas on Wheels"
 url: /charlottesville/arepas-on-wheels/
-shop: vacant
+shop: Leerstehend
 ---

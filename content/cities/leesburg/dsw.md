@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /leesburg/dsw/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scissors Hair Studio"
 url: /richmond-city/scissors-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

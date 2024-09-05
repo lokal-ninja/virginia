@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /manassas/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

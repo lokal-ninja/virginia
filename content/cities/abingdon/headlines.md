@@ -1,5 +1,5 @@
 ---
 title: "Headlines"
 url: /abingdon/headlines/
-shop: hairdresser
+shop: Friseur
 ---

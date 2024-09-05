@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /winchester/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /leesburg/petco/
-shop: pet
+shop: Tiere
 ---

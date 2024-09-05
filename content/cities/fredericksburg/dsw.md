@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /fredericksburg/dsw/
-shop: shoes
+shop: Schuhe
 ---

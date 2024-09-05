@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /lynchburg/ashley-homestore/
-shop: furniture
+shop: Möbel
 ---

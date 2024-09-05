@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /franconia/homesense/
-shop: interior decoration
+shop: Raumausstattung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /forest/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Endeavor Cycles"
 url: /charlottesville/endeavor-cycles-fontaine-avenue/
-shop: bicycle
+shop: Fahrrad
 ---

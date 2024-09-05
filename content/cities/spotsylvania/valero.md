@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /spotsylvania/valero/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /glen-allen/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

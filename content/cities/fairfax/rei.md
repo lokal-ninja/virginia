@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /fairfax/rei/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Keysville Family Pawn"
 url: /keysville/keysville-family-pawn/
-shop: pawnbroker
+shop: Leiher
 ---

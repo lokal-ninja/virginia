@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /manassas/bp/
-shop: convenience
+shop: Lebensmittel
 ---

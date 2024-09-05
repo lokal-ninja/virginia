@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /manassas/mattress-firm-liberia-avenue/
-shop: bed
+shop: Betten
 ---

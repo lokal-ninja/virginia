@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /newport-news/michaels/
-shop: craft
+shop: Basteln
 ---

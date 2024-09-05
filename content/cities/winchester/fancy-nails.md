@@ -1,5 +1,5 @@
 ---
 title: "Fancy Nails"
 url: /winchester/fancy-nails/
-shop: beauty
+shop: Kosmetik
 ---

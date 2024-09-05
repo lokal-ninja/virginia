@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /fredericksburg/sheetz-smith-station-road/
-shop: convenience
+shop: Lebensmittel
 ---

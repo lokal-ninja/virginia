@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /alexandria/cvs-pharmacy-lockheed-boulevard/
-shop: chemist
+shop: Drogerie
 ---

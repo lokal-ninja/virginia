@@ -1,5 +1,5 @@
 ---
 title: "Prospect Market BP"
 url: /charlottesville/prospect-market-bp/
-shop: convenience
+shop: Lebensmittel
 ---

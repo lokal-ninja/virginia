@@ -1,5 +1,5 @@
 ---
 title: "Options Hairstyling"
 url: /chesapeake/options-hairstyling/
-shop: hairdresser
+shop: Friseur
 ---

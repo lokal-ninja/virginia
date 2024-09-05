@@ -1,5 +1,5 @@
 ---
 title: "GhostStop"
 url: /lynchburg/ghoststop/
-shop: esoteric
+shop: Esoterik
 ---

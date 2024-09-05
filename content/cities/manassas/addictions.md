@@ -1,5 +1,5 @@
 ---
 title: "Addictions"
 url: /manassas/addictions/
-shop: tattoo
+shop: Tattoo
 ---

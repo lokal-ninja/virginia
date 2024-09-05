@@ -1,5 +1,5 @@
 ---
 title: "Johnsons Gardens"
 url: /suffolk/johnsons-gardens/
-shop: garden centre
+shop: Garten-Center
 ---

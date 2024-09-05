@@ -1,5 +1,5 @@
 ---
 title: "Old Town Golden Treasures"
 url: /mechanicsville/old-town-golden-treasures/
-shop: jewelry
+shop: Schmuck
 ---

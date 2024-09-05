@@ -1,5 +1,5 @@
 ---
 title: "DKNY"
 url: /leesburg/dkny/
-shop: clothes
+shop: Kleidung
 ---

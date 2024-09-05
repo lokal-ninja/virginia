@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /culpeper/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

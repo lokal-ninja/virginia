@@ -1,5 +1,5 @@
 ---
 title: "Star Quality Auto Body"
 url: /lynchburg/star-quality-auto-body/
-shop: car repair
+shop: Autowerkstatt
 ---

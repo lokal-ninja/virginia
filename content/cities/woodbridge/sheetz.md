@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /woodbridge/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

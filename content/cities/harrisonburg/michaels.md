@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /harrisonburg/michaels/
-shop: craft
+shop: Basteln
 ---

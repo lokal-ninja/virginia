@@ -1,5 +1,5 @@
 ---
 title: "Hanesbrands"
 url: /norfolk/hanesbrands/
-shop: clothes
+shop: Kleidung
 ---

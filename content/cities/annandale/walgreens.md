@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /annandale/walgreens/
-shop: chemist
+shop: Drogerie
 ---

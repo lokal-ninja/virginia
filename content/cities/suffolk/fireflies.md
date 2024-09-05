@@ -1,5 +1,5 @@
 ---
 title: "Fireflies"
 url: /suffolk/fireflies/
-shop: gift
+shop: Andenken
 ---

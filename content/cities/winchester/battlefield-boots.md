@@ -1,5 +1,5 @@
 ---
 title: "Battlefield Boots"
 url: /winchester/battlefield-boots/
-shop: shoes
+shop: Schuhe
 ---

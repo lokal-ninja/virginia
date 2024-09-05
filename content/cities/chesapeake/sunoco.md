@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /chesapeake/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

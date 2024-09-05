@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /charlottesville/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

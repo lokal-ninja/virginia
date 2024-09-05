@@ -1,5 +1,5 @@
 ---
 title: "Meadows Farms Nurseries and Landscape"
 url: /leesburg/meadows-farms-nurseries-and-landscape/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "James Charles Winery"
 url: /winchester/james-charles-winery/
-shop: alcohol
+shop: Spirituosen
 ---

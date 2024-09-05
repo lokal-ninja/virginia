@@ -1,5 +1,5 @@
 ---
 title: "Royal Bazaar"
 url: /henrico/royal-bazaar/
-shop: supermarket
+shop: Supermarkt
 ---

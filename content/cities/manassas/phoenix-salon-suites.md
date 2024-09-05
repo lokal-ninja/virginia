@@ -1,5 +1,5 @@
 ---
 title: "Phoenix Salon Suites"
 url: /manassas/phoenix-salon-suites/
-shop: hairdresser
+shop: Friseur
 ---

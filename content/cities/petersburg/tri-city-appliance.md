@@ -1,5 +1,5 @@
 ---
 title: "Tri City Appliance"
 url: /petersburg/tri-city-appliance/
-shop: appliance
+shop: Haushaltsgeräte
 ---

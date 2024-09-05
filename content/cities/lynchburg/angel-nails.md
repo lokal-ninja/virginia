@@ -1,5 +1,5 @@
 ---
 title: "Angel Nails"
 url: /lynchburg/angel-nails/
-shop: beauty
+shop: Kosmetik
 ---

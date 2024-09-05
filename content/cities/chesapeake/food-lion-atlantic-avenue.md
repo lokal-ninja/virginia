@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /chesapeake/food-lion-atlantic-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

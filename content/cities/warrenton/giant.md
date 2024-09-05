@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /warrenton/giant/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /norfolk/wawa-hampton-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /midlothian/dsw/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stuckey's"
 url: /ivor/stuckeys/
-shop: convenience
+shop: Lebensmittel
 ---

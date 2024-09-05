@@ -1,5 +1,5 @@
 ---
 title: "Deep Groove Records"
 url: /richmond-city/deep-groove-records/
-shop: music
+shop: Musik
 ---

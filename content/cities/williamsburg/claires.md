@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /williamsburg/claires/
-shop: boutique
+shop: Modehaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dominion Village Cleaner"
 url: /mclean/dominion-village-cleaner/
-shop: laundry
+shop: Wäscherei
 ---

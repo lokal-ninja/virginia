@@ -1,5 +1,5 @@
 ---
 title: "The Elderberry"
 url: /charlottesville/the-elderberry/
-shop: herbalist
+shop: Kräuter
 ---

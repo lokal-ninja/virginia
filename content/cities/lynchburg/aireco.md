@@ -1,5 +1,5 @@
 ---
 title: "Aireco"
 url: /lynchburg/aireco/
-shop: wholesale
+shop: Großhandel
 ---

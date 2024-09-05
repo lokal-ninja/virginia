@@ -1,5 +1,5 @@
 ---
 title: "Kiskadee"
 url: /alexandria/kiskadee/
-shop: clothes
+shop: Kleidung
 ---

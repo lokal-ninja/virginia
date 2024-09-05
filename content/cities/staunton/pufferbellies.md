@@ -1,5 +1,5 @@
 ---
 title: "Pufferbellies"
 url: /staunton/pufferbellies/
-shop: toys
+shop: Spielzeug
 ---

@@ -1,5 +1,5 @@
 ---
 title: "This n' That Amish Outlet"
 url: /leesburg/this-n-that-amish-outlet/
-shop: furniture
+shop: Möbel
 ---

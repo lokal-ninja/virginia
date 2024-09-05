@@ -1,5 +1,5 @@
 ---
 title: "Fringe Benefit"
 url: /blacksburg/fringe-benefit/
-shop: clothes
+shop: Kleidung
 ---

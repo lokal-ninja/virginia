@@ -1,5 +1,5 @@
 ---
 title: "Green's Barber Shop"
 url: /yorktown/greens-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

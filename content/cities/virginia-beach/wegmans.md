@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /virginia-beach/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

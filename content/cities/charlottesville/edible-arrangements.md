@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /charlottesville/edible-arrangements/
-shop: gift
+shop: Andenken
 ---

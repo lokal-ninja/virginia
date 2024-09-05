@@ -1,5 +1,5 @@
 ---
 title: "Ferrellgas"
 url: /fredericksburg/ferrellgas/
-shop: gas
+shop: Gasflaschen
 ---

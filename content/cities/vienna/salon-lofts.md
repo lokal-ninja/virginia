@@ -1,5 +1,5 @@
 ---
 title: "Salon Lofts"
 url: /vienna/salon-lofts/
-shop: hairdresser
+shop: Friseur
 ---

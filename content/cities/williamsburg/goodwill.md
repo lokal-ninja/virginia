@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /williamsburg/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

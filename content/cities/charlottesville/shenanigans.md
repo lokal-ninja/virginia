@@ -1,5 +1,5 @@
 ---
 title: "Shenanigans"
 url: /charlottesville/shenanigans/
-shop: toys
+shop: Spielzeug
 ---

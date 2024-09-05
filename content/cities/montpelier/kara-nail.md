@@ -1,5 +1,5 @@
 ---
 title: "Kara Nail"
 url: /montpelier/kara-nail/
-shop: beauty
+shop: Kosmetik
 ---

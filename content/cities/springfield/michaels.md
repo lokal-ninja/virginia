@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /springfield/michaels/
-shop: craft
+shop: Basteln
 ---

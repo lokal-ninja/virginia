@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /virginia-beach/wawa-rosemont-road/
-shop: convenience
+shop: Lebensmittel
 ---

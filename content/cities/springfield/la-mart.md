@@ -1,5 +1,5 @@
 ---
 title: "La Mart"
 url: /springfield/la-mart/
-shop: supermarket
+shop: Supermarkt
 ---

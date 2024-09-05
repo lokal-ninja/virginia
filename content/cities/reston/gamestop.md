@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /reston/gamestop/
-shop: video games
+shop: Videospiele
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /fairfax/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

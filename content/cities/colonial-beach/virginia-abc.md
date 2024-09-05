@@ -1,5 +1,5 @@
 ---
 title: "Virginia ABC"
 url: /colonial-beach/virginia-abc/
-shop: alcohol
+shop: Spirituosen
 ---

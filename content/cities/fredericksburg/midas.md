@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /fredericksburg/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

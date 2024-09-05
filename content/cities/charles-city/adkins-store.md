@@ -1,5 +1,5 @@
 ---
 title: "Adkins Store"
 url: /charles-city/adkins-store/
-shop: convenience
+shop: Lebensmittel
 ---

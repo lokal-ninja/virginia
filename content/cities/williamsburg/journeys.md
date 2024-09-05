@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
 url: /williamsburg/journeys/
-shop: shoes
+shop: Schuhe
 ---

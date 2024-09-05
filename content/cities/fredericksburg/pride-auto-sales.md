@@ -1,5 +1,5 @@
 ---
 title: "Pride Auto Sales"
 url: /fredericksburg/pride-auto-sales/
-shop: car
+shop: Autohaus
 ---

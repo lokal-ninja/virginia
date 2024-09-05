@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /chesapeake/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

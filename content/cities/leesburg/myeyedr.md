@@ -1,5 +1,5 @@
 ---
 title: "MyEyeDr."
 url: /leesburg/myeyedr/
-shop: optician
+shop: Optiker
 ---

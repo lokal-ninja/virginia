@@ -1,5 +1,5 @@
 ---
 title: "Tan'n Time"
 url: /hopewell/tann-time/
-shop: beauty
+shop: Kosmetik
 ---

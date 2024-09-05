@@ -1,5 +1,5 @@
 ---
 title: "Drybar"
 url: /reston/drybar/
-shop: hairdresser
+shop: Friseur
 ---

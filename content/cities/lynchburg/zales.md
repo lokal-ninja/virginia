@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /lynchburg/zales/
-shop: jewelry
+shop: Schmuck
 ---

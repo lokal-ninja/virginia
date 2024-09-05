@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /mechanicsville/dollar-general/
-shop: variety store
+shop: Kramladen
 ---

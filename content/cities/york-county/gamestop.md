@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /york-county/gamestop/
-shop: video games
+shop: Videospiele
 ---

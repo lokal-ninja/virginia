@@ -1,5 +1,5 @@
 ---
 title: "VIP Nails"
 url: /newport-news/vip-nails/
-shop: beauty
+shop: Kosmetik
 ---

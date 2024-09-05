@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /vienna/giant/
-shop: supermarket
+shop: Supermarkt
 ---

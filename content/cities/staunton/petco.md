@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /staunton/petco/
-shop: pet
+shop: Tiere
 ---

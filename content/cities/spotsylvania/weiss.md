@@ -1,5 +1,5 @@
 ---
 title: "Weiss"
 url: /spotsylvania/weiss/
-shop: supermarket
+shop: Supermarkt
 ---

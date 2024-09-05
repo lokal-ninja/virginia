@@ -1,5 +1,5 @@
 ---
 title: "Virginia ABC"
 url: /keysville/virginia-abc/
-shop: alcohol
+shop: Spirituosen
 ---

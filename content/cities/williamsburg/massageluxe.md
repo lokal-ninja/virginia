@@ -1,5 +1,5 @@
 ---
 title: "MassageLuXe"
 url: /williamsburg/massageluxe/
-shop: massage
+shop: Massage
 ---

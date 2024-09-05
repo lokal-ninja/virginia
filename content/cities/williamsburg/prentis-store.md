@@ -1,5 +1,5 @@
 ---
 title: "Prentis Store"
 url: /williamsburg/prentis-store/
-shop: gift
+shop: Andenken
 ---

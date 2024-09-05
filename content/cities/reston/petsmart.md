@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /reston/petsmart/
-shop: pet
+shop: Tiere
 ---

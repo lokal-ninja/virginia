@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /chesapeake/walgreens/
-shop: chemist
+shop: Drogerie
 ---

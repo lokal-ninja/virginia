@@ -1,5 +1,5 @@
 ---
 title: "Whisk"
 url: /richmond-city/whisk/
-shop: bakery
+shop: Bäckerei
 ---

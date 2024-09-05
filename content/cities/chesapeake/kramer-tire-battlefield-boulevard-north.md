@@ -1,5 +1,5 @@
 ---
 title: "Kramer Tire"
 url: /chesapeake/kramer-tire-battlefield-boulevard-north/
-shop: tyres
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /midlothian/kia/
-shop: car
+shop: Autohaus
 ---

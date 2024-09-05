@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
 url: /lynchburg/journeys/
-shop: shoes
+shop: Schuhe
 ---

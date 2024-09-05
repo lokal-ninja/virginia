@@ -1,5 +1,5 @@
 ---
 title: "Aerie"
 url: /richmond/aerie/
-shop: clothes
+shop: Kleidung
 ---

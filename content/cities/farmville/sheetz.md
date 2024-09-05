@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /farmville/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

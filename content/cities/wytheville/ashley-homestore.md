@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /wytheville/ashley-homestore/
-shop: furniture
+shop: Möbel
 ---

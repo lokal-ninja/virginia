@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /falls-church/giant-seven-corners-center/
-shop: supermarket
+shop: Supermarkt
 ---

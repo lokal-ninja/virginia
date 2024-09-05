@@ -1,5 +1,5 @@
 ---
 title: "ASICS"
 url: /leesburg/asics/
-shop: shoes
+shop: Schuhe
 ---

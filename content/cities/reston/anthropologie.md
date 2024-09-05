@@ -1,5 +1,5 @@
 ---
 title: "Anthropologie"
 url: /reston/anthropologie/
-shop: clothes
+shop: Kleidung
 ---

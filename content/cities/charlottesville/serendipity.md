@@ -1,5 +1,5 @@
 ---
 title: "Serendipity"
 url: /charlottesville/serendipity/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Virginia ABC"
 url: /harrisonburg/virginia-abc/
-shop: alcohol
+shop: Spirituosen
 ---

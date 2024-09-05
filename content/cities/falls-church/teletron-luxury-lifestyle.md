@@ -1,5 +1,5 @@
 ---
 title: "Teletron Luxury Lifestyle"
 url: /falls-church/teletron-luxury-lifestyle/
-shop: appliance
+shop: Haushaltsgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /front-royal/speedway-south-commerce-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movado"
 url: /williamsburg/movado/
-shop: watches
+shop: Uhren
 ---

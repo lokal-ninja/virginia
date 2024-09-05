@@ -1,5 +1,5 @@
 ---
 title: "The Shed Man"
 url: /atlett/the-shed-man/
-shop: shop
+shop: Allgemein
 ---

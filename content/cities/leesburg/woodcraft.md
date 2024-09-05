@@ -1,5 +1,5 @@
 ---
 title: "Woodcraft"
 url: /leesburg/woodcraft/
-shop: craft
+shop: Basteln
 ---

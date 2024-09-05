@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /arlington/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

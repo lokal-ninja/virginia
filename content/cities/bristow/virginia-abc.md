@@ -1,5 +1,5 @@
 ---
 title: "Virginia ABC"
 url: /bristow/virginia-abc/
-shop: alcohol
+shop: Spirituosen
 ---

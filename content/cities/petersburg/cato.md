@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /petersburg/cato/
-shop: clothes
+shop: Kleidung
 ---

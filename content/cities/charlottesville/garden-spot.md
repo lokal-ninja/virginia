@@ -1,5 +1,5 @@
 ---
 title: "Garden Spot"
 url: /charlottesville/garden-spot/
-shop: garden centre
+shop: Garten-Center
 ---

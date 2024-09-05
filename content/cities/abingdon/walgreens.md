@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /abingdon/walgreens/
-shop: chemist
+shop: Drogerie
 ---

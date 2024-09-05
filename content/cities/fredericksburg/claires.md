@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /fredericksburg/claires/
-shop: boutique
+shop: Modehaus
 ---

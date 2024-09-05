@@ -1,5 +1,5 @@
 ---
 title: "PINK"
 url: /centreville/pink/
-shop: clothes
+shop: Kleidung
 ---

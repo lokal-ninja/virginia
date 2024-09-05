@@ -1,5 +1,5 @@
 ---
 title: "Philosophie"
 url: /richmond-city/philosophie/
-shop: clothes
+shop: Kleidung
 ---

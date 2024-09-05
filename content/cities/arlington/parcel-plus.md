@@ -1,5 +1,5 @@
 ---
 title: "Parcel Plus"
 url: /arlington/parcel-plus/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Visual Treats"
 url: /fredericksburg/visual-treats/
-shop: gift
+shop: Andenken
 ---

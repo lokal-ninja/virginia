@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /falls-church/party-city/
-shop: party
+shop: Partyzubehör
 ---

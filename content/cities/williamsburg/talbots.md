@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /williamsburg/talbots/
-shop: clothes
+shop: Kleidung
 ---

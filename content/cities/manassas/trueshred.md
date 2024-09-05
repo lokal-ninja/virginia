@@ -1,5 +1,5 @@
 ---
 title: "TrueShred"
 url: /manassas/trueshred/
-shop: clothes
+shop: Kleidung
 ---

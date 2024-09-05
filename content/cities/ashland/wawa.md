@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /ashland/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

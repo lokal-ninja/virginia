@@ -1,5 +1,5 @@
 ---
 title: "South Creek Vape"
 url: /powhatan/south-creek-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

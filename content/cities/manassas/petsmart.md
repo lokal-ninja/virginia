@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /manassas/petsmart/
-shop: pet
+shop: Tiere
 ---

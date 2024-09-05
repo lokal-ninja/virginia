@@ -1,5 +1,5 @@
 ---
 title: "On A Whim"
 url: /leesburg/on-a-whim/
-shop: antiques
+shop: Antiquitäten
 ---

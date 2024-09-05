@@ -1,5 +1,5 @@
 ---
 title: "Barren Ridge Winery"
 url: /fishersville/barren-ridge-winery/
-shop: wine
+shop: Wein
 ---

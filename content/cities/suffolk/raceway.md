@@ -1,5 +1,5 @@
 ---
 title: "RaceWay"
 url: /suffolk/raceway/
-shop: convenience
+shop: Lebensmittel
 ---

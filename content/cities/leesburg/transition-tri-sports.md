@@ -1,5 +1,5 @@
 ---
 title: "Transition Tri Sports"
 url: /leesburg/transition-tri-sports/
-shop: bicycle
+shop: Fahrrad
 ---

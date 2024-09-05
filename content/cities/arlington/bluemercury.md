@@ -1,5 +1,5 @@
 ---
 title: "bluemercury"
 url: /arlington/bluemercury/
-shop: beauty
+shop: Kosmetik
 ---

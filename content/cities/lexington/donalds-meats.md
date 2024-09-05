@@ -1,5 +1,5 @@
 ---
 title: "Donald's Meats"
 url: /lexington/donalds-meats/
-shop: butcher
+shop: Metzgerei
 ---

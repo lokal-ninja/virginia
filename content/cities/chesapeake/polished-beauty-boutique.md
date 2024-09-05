@@ -1,5 +1,5 @@
 ---
 title: "Polished Beauty Boutique"
 url: /chesapeake/polished-beauty-boutique/
-shop: beauty
+shop: Kosmetik
 ---

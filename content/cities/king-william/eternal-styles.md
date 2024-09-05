@@ -1,5 +1,5 @@
 ---
 title: "Eternal Styles"
 url: /king-william/eternal-styles/
-shop: clothes
+shop: Kleidung
 ---

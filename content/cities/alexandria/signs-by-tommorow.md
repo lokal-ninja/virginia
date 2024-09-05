@@ -1,5 +1,5 @@
 ---
 title: "Signs By Tommorow"
 url: /alexandria/signs-by-tommorow/
-shop: copyshop
+shop: Kopieren
 ---

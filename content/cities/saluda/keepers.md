@@ -1,5 +1,5 @@
 ---
 title: "Keepers"
 url: /saluda/keepers/
-shop: fishing
+shop: Angeln
 ---

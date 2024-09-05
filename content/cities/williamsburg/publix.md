@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /williamsburg/publix/
-shop: supermarket
+shop: Supermarkt
 ---

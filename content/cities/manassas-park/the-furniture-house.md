@@ -1,5 +1,5 @@
 ---
 title: "The Furniture House"
 url: /manassas-park/the-furniture-house/
-shop: furniture
+shop: Möbel
 ---

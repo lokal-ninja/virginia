@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /lynchburg/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

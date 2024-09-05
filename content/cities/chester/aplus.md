@@ -1,5 +1,5 @@
 ---
 title: "APlus"
 url: /chester/aplus/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miller's Jewelry"
 url: /altavista/millers-jewelry/
-shop: jewelry
+shop: Schmuck
 ---

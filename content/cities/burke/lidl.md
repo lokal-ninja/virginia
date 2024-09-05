@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /burke/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

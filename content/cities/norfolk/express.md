@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /norfolk/express/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /dumfries/target/
-shop: department store
+shop: Warenhaus
 ---

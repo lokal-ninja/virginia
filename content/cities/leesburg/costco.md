@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /leesburg/costco/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /charlottesville/giant/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /appomattox/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

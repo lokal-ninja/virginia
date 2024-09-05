@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /rocky-mount/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

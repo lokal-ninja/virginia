@@ -1,5 +1,5 @@
 ---
 title: "Elite Nails"
 url: /yorktown/elite-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /fredericksburg/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

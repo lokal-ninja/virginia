@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /charlottesville/gnc/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

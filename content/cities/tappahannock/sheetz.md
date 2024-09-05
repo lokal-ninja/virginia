@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /tappahannock/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

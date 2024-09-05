@@ -1,5 +1,5 @@
 ---
 title: "U Beauty Supply"
 url: /lynchburg/u-beauty-supply/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /chesapeake/ashley-homestore/
-shop: furniture
+shop: Möbel
 ---

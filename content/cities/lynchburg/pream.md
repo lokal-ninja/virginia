@@ -1,5 +1,5 @@
 ---
 title: "PREAM"
 url: /lynchburg/pream/
-shop: garden centre
+shop: Garten-Center
 ---

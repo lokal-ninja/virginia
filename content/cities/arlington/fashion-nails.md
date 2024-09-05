@@ -1,5 +1,5 @@
 ---
 title: "Fashion Nails"
 url: /arlington/fashion-nails/
-shop: beauty
+shop: Kosmetik
 ---

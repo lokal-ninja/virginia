@@ -1,5 +1,5 @@
 ---
 title: "Best Buy Fairlakes"
 url: /fairfax/best-buy-fairlakes/
-shop: electronics
+shop: Elektronik
 ---

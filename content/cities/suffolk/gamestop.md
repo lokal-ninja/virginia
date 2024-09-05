@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /suffolk/gamestop/
-shop: video games
+shop: Videospiele
 ---

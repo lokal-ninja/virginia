@@ -1,5 +1,5 @@
 ---
 title: "The Salon"
 url: /charlottesville/the-salon/
-shop: hairdresser
+shop: Friseur
 ---

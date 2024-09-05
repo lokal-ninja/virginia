@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /woodbridge/shell/
-shop: convenience
+shop: Lebensmittel
 ---

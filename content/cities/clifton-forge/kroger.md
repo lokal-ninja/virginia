@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /clifton-forge/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

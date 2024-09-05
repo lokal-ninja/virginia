@@ -1,5 +1,5 @@
 ---
 title: "The Wine Attic"
 url: /clifton/the-wine-attic/
-shop: wine
+shop: Wein
 ---

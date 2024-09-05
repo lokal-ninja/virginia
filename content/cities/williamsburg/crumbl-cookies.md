@@ -1,5 +1,5 @@
 ---
 title: "Crumbl Cookies"
 url: /williamsburg/crumbl-cookies/
-shop: pastry
+shop: Konditorei
 ---

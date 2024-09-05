@@ -1,5 +1,5 @@
 ---
 title: "Select Cars of Thornburg"
 url: /fredericksburg/select-cars-of-thornburg/
-shop: car
+shop: Autohaus
 ---

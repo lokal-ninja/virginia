@@ -1,5 +1,5 @@
 ---
 title: "Lee Nails"
 url: /martinsville/lee-nails/
-shop: beauty
+shop: Kosmetik
 ---

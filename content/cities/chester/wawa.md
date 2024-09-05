@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /chester/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /gainesville/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

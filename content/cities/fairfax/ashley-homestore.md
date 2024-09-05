@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /fairfax/ashley-homestore/
-shop: furniture
+shop: Möbel
 ---

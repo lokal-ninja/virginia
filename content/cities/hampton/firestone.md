@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /hampton/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

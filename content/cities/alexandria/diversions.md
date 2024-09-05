@@ -1,5 +1,5 @@
 ---
 title: "Diversions"
 url: /alexandria/diversions/
-shop: gift
+shop: Andenken
 ---

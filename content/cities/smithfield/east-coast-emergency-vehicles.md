@@ -1,5 +1,5 @@
 ---
 title: "East Coast Emergency Vehicles"
 url: /smithfield/east-coast-emergency-vehicles/
-shop: car parts
+shop: Autoteile
 ---

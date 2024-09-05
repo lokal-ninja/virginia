@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /arlington/costco/
-shop: wholesale
+shop: Großhandel
 ---

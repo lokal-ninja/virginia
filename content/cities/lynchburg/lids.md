@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /lynchburg/lids/
-shop: clothes
+shop: Kleidung
 ---

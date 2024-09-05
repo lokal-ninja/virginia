@@ -1,5 +1,5 @@
 ---
 title: "Travelpro"
 url: /norfolk/travelpro/
-shop: bag
+shop: Taschen & Koffer
 ---

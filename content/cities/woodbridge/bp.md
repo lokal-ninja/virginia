@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /woodbridge/bp/
-shop: convenience
+shop: Lebensmittel
 ---

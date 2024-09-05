@@ -1,5 +1,5 @@
 ---
 title: "Hunters Woods Barbershop"
 url: /reston/hunters-woods-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

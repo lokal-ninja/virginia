@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /colonial-heights-city/mattress-firm/
-shop: bed
+shop: Betten
 ---

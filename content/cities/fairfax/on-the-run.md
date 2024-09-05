@@ -1,5 +1,5 @@
 ---
 title: "On the Run"
 url: /fairfax/on-the-run/
-shop: convenience
+shop: Lebensmittel
 ---
