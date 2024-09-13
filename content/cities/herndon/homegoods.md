@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /herndon/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

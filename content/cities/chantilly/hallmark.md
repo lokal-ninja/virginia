@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /chantilly/hallmark/
-shop: Andenken
+shop: gift
 ---

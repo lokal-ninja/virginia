@@ -1,5 +1,5 @@
 ---
 title: "Huguenot-Robious Mini Storage"
 url: /richmond/huguenot-robious-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

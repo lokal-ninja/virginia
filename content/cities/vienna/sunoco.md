@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /vienna/sunoco/
-shop: Autowerkstatt
+shop: car repair
 ---

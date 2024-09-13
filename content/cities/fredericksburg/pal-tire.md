@@ -1,5 +1,5 @@
 ---
 title: "PAL Tire"
 url: /fredericksburg/pal-tire/
-shop: Autoteile
+shop: car parts
 ---

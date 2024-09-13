@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /smithfield/sherwin-williams/
-shop: Farben
+shop: paint
 ---

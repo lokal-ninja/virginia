@@ -1,5 +1,5 @@
 ---
 title: "Affinity Funeral Service"
 url: /mechanicsville/affinity-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

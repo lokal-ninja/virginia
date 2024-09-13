@@ -1,5 +1,5 @@
 ---
 title: "MyEyeLab"
 url: /chesapeake/myeyelab/
-shop: Optiker
+shop: optician
 ---

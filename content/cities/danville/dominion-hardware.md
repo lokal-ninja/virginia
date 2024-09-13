@@ -1,5 +1,5 @@
 ---
 title: "Dominion Hardware"
 url: /danville/dominion-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

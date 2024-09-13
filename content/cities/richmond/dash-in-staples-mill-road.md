@@ -1,5 +1,5 @@
 ---
 title: "Dash In"
 url: /richmond/dash-in-staples-mill-road/
-shop: Lebensmittel
+shop: convenience
 ---

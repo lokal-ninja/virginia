@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /christiansburg/advance-auto-parts-roanoke-street/
-shop: Autoteile
+shop: car parts
 ---

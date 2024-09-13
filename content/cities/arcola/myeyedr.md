@@ -1,5 +1,5 @@
 ---
 title: "MyEyeDr."
 url: /arcola/myeyedr/
-shop: Optiker
+shop: optician
 ---

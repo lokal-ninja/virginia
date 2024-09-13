@@ -1,5 +1,5 @@
 ---
 title: "PostNet"
 url: /bristow/postnet/
-shop: Kopieren
+shop: copyshop
 ---

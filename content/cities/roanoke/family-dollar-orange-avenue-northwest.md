@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /roanoke/family-dollar-orange-avenue-northwest/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /martinsville/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valley Finds"
 url: /front-royal/valley-finds/
-shop: Raumausstattung
+shop: interior decoration
 ---

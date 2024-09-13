@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /harrisonburg/best-buy/
-shop: Elektronik
+shop: electronics
 ---

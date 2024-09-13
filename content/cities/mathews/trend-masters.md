@@ -1,5 +1,5 @@
 ---
 title: "Trend Masters"
 url: /mathews/trend-masters/
-shop: Friseur
+shop: hairdresser
 ---

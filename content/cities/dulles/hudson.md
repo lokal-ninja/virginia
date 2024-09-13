@@ -1,5 +1,5 @@
 ---
 title: "Hudson"
 url: /dulles/hudson/
-shop: Lebensmittel
+shop: convenience
 ---

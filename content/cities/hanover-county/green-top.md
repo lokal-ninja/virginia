@@ -1,5 +1,5 @@
 ---
 title: "Green Top"
 url: /hanover-county/green-top/
-shop: Outdoor
+shop: outdoor
 ---

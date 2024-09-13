@@ -1,5 +1,5 @@
 ---
 title: "Safelite AutoGlass"
 url: /manassas/safelite-autoglass/
-shop: Autowerkstatt
+shop: car repair
 ---

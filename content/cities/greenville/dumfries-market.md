@@ -1,5 +1,5 @@
 ---
 title: "Dumfries Market"
 url: /greenville/dumfries-market/
-shop: Lebensmittel
+shop: convenience
 ---

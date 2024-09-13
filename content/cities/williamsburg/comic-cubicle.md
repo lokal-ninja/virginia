@@ -1,5 +1,5 @@
 ---
 title: "Comic Cubicle"
 url: /williamsburg/comic-cubicle/
-shop: Sammler
+shop: collector
 ---

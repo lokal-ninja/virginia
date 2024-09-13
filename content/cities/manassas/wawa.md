@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /manassas/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

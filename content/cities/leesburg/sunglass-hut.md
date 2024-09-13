@@ -1,5 +1,5 @@
 ---
 title: "Sunglass Hut"
 url: /leesburg/sunglass-hut/
-shop: Optiker
+shop: optician
 ---

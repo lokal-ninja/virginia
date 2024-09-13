@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /williamsburg/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

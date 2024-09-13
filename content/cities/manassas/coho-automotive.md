@@ -1,5 +1,5 @@
 ---
 title: "CoHo Automotive"
 url: /manassas/coho-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

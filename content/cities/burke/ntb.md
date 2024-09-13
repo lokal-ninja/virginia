@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /burke/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

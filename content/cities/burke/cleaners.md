@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /burke/cleaners/
-shop: Wäscherei
+shop: laundry
 ---

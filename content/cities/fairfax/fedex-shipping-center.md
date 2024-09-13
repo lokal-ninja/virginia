@@ -1,5 +1,5 @@
 ---
 title: "FedEx Shipping Center"
 url: /fairfax/fedex-shipping-center/
-shop: Kopieren
+shop: copyshop
 ---

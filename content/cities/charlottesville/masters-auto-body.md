@@ -1,5 +1,5 @@
 ---
 title: "Masters Auto Body"
 url: /charlottesville/masters-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

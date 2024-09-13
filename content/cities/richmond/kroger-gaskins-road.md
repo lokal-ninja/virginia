@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /richmond/kroger-gaskins-road/
-shop: Supermarkt
+shop: supermarket
 ---

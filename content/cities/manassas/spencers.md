@@ -1,5 +1,5 @@
 ---
 title: "Spencer's"
 url: /manassas/spencers/
-shop: Andenken
+shop: gift
 ---

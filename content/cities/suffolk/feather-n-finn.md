@@ -1,5 +1,5 @@
 ---
 title: "Feather N Finn"
 url: /suffolk/feather-n-finn/
-shop: Tiere
+shop: pet
 ---

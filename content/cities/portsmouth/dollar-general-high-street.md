@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /portsmouth/dollar-general-high-street/
-shop: Kramladen
+shop: variety store
 ---

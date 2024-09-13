@@ -1,5 +1,5 @@
 ---
 title: "Smithfield Carts"
 url: /smithfield/smithfield-carts/
-shop: Allgemein
+shop: shop
 ---

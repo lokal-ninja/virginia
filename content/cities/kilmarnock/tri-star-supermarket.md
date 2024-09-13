@@ -1,5 +1,5 @@
 ---
 title: "Tri-Star Supermarket"
 url: /kilmarnock/tri-star-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /williamsburg/autozone/
-shop: Autoteile
+shop: car parts
 ---

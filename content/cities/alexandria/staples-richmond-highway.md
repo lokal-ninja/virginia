@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /alexandria/staples-richmond-highway/
-shop: Schreibwaren
+shop: office supplies
 ---

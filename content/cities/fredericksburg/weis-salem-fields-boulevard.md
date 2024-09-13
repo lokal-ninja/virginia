@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /fredericksburg/weis-salem-fields-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

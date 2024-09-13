@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /fredericksburg/sheetz-washington-square-plaza/
-shop: Lebensmittel
+shop: convenience
 ---

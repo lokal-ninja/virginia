@@ -1,5 +1,5 @@
 ---
 title: "Vienna Arsenal"
 url: /vienna/vienna-arsenal/
-shop: Sport
+shop: sports
 ---

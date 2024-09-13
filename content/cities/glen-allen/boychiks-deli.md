@@ -1,5 +1,5 @@
 ---
 title: "Boychik's Deli"
 url: /glen-allen/boychiks-deli/
-shop: Feinkost
+shop: deli
 ---

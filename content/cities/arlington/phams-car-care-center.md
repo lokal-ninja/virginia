@@ -1,5 +1,5 @@
 ---
 title: "Pham's Car Care Center"
 url: /arlington/phams-car-care-center/
-shop: Autowerkstatt
+shop: car repair
 ---

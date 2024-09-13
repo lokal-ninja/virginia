@@ -1,5 +1,5 @@
 ---
 title: "SalonVIP"
 url: /mechanicsville/salonvip/
-shop: Friseur
+shop: hairdresser
 ---

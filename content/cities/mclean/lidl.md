@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /mclean/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

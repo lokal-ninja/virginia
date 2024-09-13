@@ -1,5 +1,5 @@
 ---
 title: "Affordable Auto Repair"
 url: /smithfield/affordable-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

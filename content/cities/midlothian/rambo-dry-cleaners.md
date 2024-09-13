@@ -1,5 +1,5 @@
 ---
 title: "Rambo Dry Cleaners"
 url: /midlothian/rambo-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

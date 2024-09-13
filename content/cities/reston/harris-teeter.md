@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /reston/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

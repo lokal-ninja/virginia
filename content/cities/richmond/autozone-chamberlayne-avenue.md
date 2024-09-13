@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /richmond/autozone-chamberlayne-avenue/
-shop: Autoteile
+shop: car parts
 ---

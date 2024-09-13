@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /kingstowne/kohls/
-shop: Warenhaus
+shop: department store
 ---

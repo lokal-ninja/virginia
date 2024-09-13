@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /newport-news/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

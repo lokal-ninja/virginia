@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /charlottesville-city/autozone/
-shop: Autoteile
+shop: car parts
 ---

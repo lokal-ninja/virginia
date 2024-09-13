@@ -1,5 +1,5 @@
 ---
 title: "The UPS Store"
 url: /ashburn/the-ups-store-junction-plaza/
-shop: Kopieren
+shop: copyshop
 ---

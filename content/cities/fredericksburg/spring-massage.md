@@ -1,5 +1,5 @@
 ---
 title: "Spring Massage"
 url: /fredericksburg/spring-massage/
-shop: Massage
+shop: massage
 ---

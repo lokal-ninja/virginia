@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /richmond/oreilly-auto-parts-hull-street-road/
-shop: Autoteile
+shop: car parts
 ---

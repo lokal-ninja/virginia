@@ -1,5 +1,5 @@
 ---
 title: "RainbowFrog Boutique"
 url: /damascus/rainbowfrog-boutique/
-shop: Kleidung
+shop: clothes
 ---

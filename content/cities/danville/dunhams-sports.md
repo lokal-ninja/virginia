@@ -1,5 +1,5 @@
 ---
 title: "Dunham's Sports"
 url: /danville/dunhams-sports/
-shop: Sport
+shop: sports
 ---

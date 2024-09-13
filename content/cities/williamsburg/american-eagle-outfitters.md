@@ -1,5 +1,5 @@
 ---
 title: "American Eagle Outfitters"
 url: /williamsburg/american-eagle-outfitters/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kia Lynchburg"
 url: /lynchburg/kia-lynchburg/
-shop: Autohaus
+shop: car
 ---

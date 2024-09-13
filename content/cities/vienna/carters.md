@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /vienna/carters/
-shop: Kleidung
+shop: clothes
 ---

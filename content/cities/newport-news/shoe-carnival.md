@@ -1,5 +1,5 @@
 ---
 title: "Shoe Carnival"
 url: /newport-news/shoe-carnival/
-shop: Schuhe
+shop: shoes
 ---

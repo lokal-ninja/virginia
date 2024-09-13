@@ -1,5 +1,5 @@
 ---
 title: "Jimmy's Automotive"
 url: /lynchburg/jimmys-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Birch Salon"
 url: /richmond-city/birch-salon/
-shop: Friseur
+shop: hairdresser
 ---

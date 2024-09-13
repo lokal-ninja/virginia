@@ -1,5 +1,5 @@
 ---
 title: "BookHolders"
 url: /blacksburg/bookholders/
-shop: Bücher
+shop: books
 ---

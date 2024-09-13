@@ -1,5 +1,5 @@
 ---
 title: "Tractor Supply Company"
 url: /warrenton/tractor-supply-company/
-shop: Dorfladen
+shop: general
 ---

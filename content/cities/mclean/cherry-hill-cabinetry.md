@@ -1,5 +1,5 @@
 ---
 title: "Cherry Hill Cabinetry"
 url: /mclean/cherry-hill-cabinetry/
-shop: Raumausstattung
+shop: interior decoration
 ---

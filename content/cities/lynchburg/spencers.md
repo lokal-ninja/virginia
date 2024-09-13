@@ -1,5 +1,5 @@
 ---
 title: "Spencer's"
 url: /lynchburg/spencers/
-shop: Andenken
+shop: gift
 ---

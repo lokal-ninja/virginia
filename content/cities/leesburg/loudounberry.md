@@ -1,5 +1,5 @@
 ---
 title: "Loudounberry"
 url: /leesburg/loudounberry/
-shop: Hofladen
+shop: farm
 ---

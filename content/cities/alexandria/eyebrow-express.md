@@ -1,5 +1,5 @@
 ---
 title: "Eyebrow Express"
 url: /alexandria/eyebrow-express/
-shop: Kosmetik
+shop: beauty
 ---

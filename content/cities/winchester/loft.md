@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /winchester/loft/
-shop: Kleidung
+shop: clothes
 ---

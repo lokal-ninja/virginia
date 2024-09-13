@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /virginia-beach/wawa-lynnhaven-parkway/
-shop: Lebensmittel
+shop: convenience
 ---

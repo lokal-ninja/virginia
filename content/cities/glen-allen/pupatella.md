@@ -1,5 +1,5 @@
 ---
 title: "Pupatella"
 url: /glen-allen/pupatella/
-shop: Allgemein
+shop: shop
 ---

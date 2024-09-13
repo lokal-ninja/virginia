@@ -1,5 +1,5 @@
 ---
 title: "Pretlow Funeral Home"
 url: /chesapeake/pretlow-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Artbeat Gallery"
 url: /manassas/artbeat-gallery/
-shop: Kunst
+shop: art
 ---

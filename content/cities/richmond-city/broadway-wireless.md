@@ -1,5 +1,5 @@
 ---
 title: "Broadway Wireless"
 url: /richmond-city/broadway-wireless/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Angel Massage Spa"
 url: /hayes/angel-massage-spa/
-shop: Massage
+shop: massage
 ---

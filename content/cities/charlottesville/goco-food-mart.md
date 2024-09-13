@@ -1,5 +1,5 @@
 ---
 title: "Goco Food Mart"
 url: /charlottesville/goco-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

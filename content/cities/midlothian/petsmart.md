@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /midlothian/petsmart/
-shop: Tiere
+shop: pet
 ---

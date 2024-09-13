@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /fredericksburg/wawa-butler-road/
-shop: Lebensmittel
+shop: convenience
 ---

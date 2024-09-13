@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /fredericksburg/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

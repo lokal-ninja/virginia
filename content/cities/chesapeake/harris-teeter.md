@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /chesapeake/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

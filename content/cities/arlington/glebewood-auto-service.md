@@ -1,5 +1,5 @@
 ---
 title: "Glebewood Auto Service"
 url: /arlington/glebewood-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Angelico Violins"
 url: /chesapeake/angelico-violins/
-shop: Instrumente
+shop: musical instrument
 ---

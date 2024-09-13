@@ -1,5 +1,5 @@
 ---
 title: "Crown Jewelers"
 url: /fredericksburg/crown-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

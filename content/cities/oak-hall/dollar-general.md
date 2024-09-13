@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /oak-hall/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

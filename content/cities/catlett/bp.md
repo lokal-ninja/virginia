@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /catlett/bp/
-shop: Lebensmittel
+shop: convenience
 ---

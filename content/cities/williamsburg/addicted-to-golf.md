@@ -1,5 +1,5 @@
 ---
 title: "Addicted to Golf"
 url: /williamsburg/addicted-to-golf/
-shop: Sport
+shop: sports
 ---

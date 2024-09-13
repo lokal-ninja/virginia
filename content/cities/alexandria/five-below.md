@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /alexandria/five-below/
-shop: Kramladen
+shop: variety store
 ---

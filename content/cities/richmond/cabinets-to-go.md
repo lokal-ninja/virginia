@@ -1,5 +1,5 @@
 ---
 title: "Cabinets To Go"
 url: /richmond/cabinets-to-go/
-shop: Möbel
+shop: furniture
 ---

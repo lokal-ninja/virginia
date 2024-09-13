@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /winchester/sheetz-berryville-pike/
-shop: Lebensmittel
+shop: convenience
 ---

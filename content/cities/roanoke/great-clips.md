@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /roanoke/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HobbyTown + RadioShack Express"
 url: /virginia-beach/hobbytown-radioshack-express/
-shop: Elektronik
+shop: electronics
 ---

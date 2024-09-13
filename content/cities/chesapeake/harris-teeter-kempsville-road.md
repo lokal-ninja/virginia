@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /chesapeake/harris-teeter-kempsville-road/
-shop: Supermarkt
+shop: supermarket
 ---

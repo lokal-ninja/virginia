@@ -1,5 +1,5 @@
 ---
 title: "Master Cleaners"
 url: /suffolk/master-cleaners-washington-street/
-shop: Wäscherei
+shop: laundry
 ---

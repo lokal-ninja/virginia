@@ -1,5 +1,5 @@
 ---
 title: "Coast Guard Exchange"
 url: /portsmouth/coast-guard-exchange/
-shop: Warenhaus
+shop: department store
 ---

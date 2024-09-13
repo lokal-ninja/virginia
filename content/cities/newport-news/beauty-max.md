@@ -1,5 +1,5 @@
 ---
 title: "Beauty Max"
 url: /newport-news/beauty-max/
-shop: Kosmetik
+shop: beauty
 ---

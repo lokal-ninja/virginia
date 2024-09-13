@@ -1,5 +1,5 @@
 ---
 title: "Food City"
 url: /chilhowie/food-city/
-shop: Supermarkt
+shop: supermarket
 ---

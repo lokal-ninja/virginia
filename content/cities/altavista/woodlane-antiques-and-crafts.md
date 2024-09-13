@@ -1,5 +1,5 @@
 ---
 title: "Woodlane Antiques and Crafts"
 url: /altavista/woodlane-antiques-and-crafts/
-shop: Antiquitäten
+shop: antiques
 ---

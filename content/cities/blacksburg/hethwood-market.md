@@ -1,5 +1,5 @@
 ---
 title: "Hethwood Market"
 url: /blacksburg/hethwood-market/
-shop: Lebensmittel
+shop: convenience
 ---

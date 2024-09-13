@@ -1,5 +1,5 @@
 ---
 title: "Wireless Zone"
 url: /hayes/wireless-zone/
-shop: Handy
+shop: mobile phone
 ---

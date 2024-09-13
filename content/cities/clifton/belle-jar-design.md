@@ -1,5 +1,5 @@
 ---
 title: "Belle Jar Design"
 url: /clifton/belle-jar-design/
-shop: Antiquitäten
+shop: antiques
 ---

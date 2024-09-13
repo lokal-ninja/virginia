@@ -1,5 +1,5 @@
 ---
 title: "Mr. Tire"
 url: /sterling/mr-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

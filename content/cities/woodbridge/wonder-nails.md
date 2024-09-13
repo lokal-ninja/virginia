@@ -1,5 +1,5 @@
 ---
 title: "Wonder Nails"
 url: /woodbridge/wonder-nails/
-shop: Kosmetik
+shop: beauty
 ---

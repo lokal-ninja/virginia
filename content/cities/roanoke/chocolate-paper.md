@@ -1,5 +1,5 @@
 ---
 title: "Chocolate Paper"
 url: /roanoke/chocolate-paper/
-shop: Andenken
+shop: gift
 ---

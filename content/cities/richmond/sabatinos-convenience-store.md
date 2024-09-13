@@ -1,5 +1,5 @@
 ---
 title: "Sabatino's Convenience Store"
 url: /richmond/sabatinos-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

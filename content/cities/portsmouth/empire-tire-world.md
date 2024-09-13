@@ -1,5 +1,5 @@
 ---
 title: "Empire Tire World"
 url: /portsmouth/empire-tire-world/
-shop: Autowerkstatt
+shop: car repair
 ---

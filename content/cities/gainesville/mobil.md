@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /gainesville/mobil/
-shop: Lebensmittel
+shop: convenience
 ---

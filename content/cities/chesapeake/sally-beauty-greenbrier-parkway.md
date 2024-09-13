@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /chesapeake/sally-beauty-greenbrier-parkway/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

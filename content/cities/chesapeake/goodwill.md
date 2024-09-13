@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /chesapeake/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uptown Christiansburg"
 url: /christiansburg/uptown-christiansburg/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ocean Storage"
 url: /suffolk/ocean-storage/
-shop: Mieten
+shop: storage rental
 ---

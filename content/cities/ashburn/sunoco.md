@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /ashburn/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

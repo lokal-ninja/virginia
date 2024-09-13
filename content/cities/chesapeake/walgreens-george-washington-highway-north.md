@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /chesapeake/walgreens-george-washington-highway-north/
-shop: Drogerie
+shop: chemist
 ---

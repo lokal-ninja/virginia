@@ -1,5 +1,5 @@
 ---
 title: "Parr Funeral Home"
 url: /suffolk/parr-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

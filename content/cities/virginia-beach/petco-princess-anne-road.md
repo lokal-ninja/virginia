@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /virginia-beach/petco-princess-anne-road/
-shop: Tiere
+shop: pet
 ---

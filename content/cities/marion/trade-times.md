@@ -1,5 +1,5 @@
 ---
 title: "Trade Times"
 url: /marion/trade-times/
-shop: Allgemein
+shop: shop
 ---

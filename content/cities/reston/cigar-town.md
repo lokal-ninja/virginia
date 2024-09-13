@@ -1,5 +1,5 @@
 ---
 title: "Cigar Town"
 url: /reston/cigar-town/
-shop: Tabak
+shop: tobacco
 ---

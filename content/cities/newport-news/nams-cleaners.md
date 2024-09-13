@@ -1,5 +1,5 @@
 ---
 title: "Nam's Cleaners"
 url: /newport-news/nams-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /falls-church/shell/
-shop: Lebensmittel
+shop: convenience
 ---

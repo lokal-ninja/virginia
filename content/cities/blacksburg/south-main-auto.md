@@ -1,5 +1,5 @@
 ---
 title: "South Main Auto"
 url: /blacksburg/south-main-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

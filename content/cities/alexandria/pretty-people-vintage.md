@@ -1,5 +1,5 @@
 ---
 title: "Pretty People Vintage"
 url: /alexandria/pretty-people-vintage/
-shop: Kleidung
+shop: clothes
 ---

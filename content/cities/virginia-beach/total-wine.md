@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /virginia-beach/total-wine/
-shop: Spirituosen
+shop: alcohol
 ---

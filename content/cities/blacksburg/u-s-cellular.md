@@ -1,5 +1,5 @@
 ---
 title: "U.S. Cellular"
 url: /blacksburg/u-s-cellular/
-shop: Handy
+shop: mobile phone
 ---

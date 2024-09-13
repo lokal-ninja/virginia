@@ -1,5 +1,5 @@
 ---
 title: "Schewel's"
 url: /waynesboro/schewels/
-shop: Möbel
+shop: furniture
 ---

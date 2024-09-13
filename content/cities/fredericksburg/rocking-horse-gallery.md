@@ -1,5 +1,5 @@
 ---
 title: "Rocking Horse Gallery"
 url: /fredericksburg/rocking-horse-gallery/
-shop: Sammler
+shop: collector
 ---

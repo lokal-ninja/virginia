@@ -1,5 +1,5 @@
 ---
 title: "Gentle Touch"
 url: /falls-church/gentle-touch/
-shop: Allgemein
+shop: shop
 ---

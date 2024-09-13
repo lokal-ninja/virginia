@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /manassas-park/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

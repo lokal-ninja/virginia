@@ -1,5 +1,5 @@
 ---
 title: "Langley Cleaners"
 url: /mclean/langley-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

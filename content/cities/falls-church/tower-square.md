@@ -1,5 +1,5 @@
 ---
 title: "Tower Square"
 url: /falls-church/tower-square/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advanced Transmission"
 url: /fredericksburg/advanced-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

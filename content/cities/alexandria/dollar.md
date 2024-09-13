@@ -1,5 +1,5 @@
 ---
 title: "Dollar+"
 url: /alexandria/dollar/
-shop: Kramladen
+shop: variety store
 ---

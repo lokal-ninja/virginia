@@ -1,5 +1,5 @@
 ---
 title: "Big Blast Fireworks"
 url: /mechanicsville/big-blast-fireworks/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

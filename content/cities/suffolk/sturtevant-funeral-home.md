@@ -1,5 +1,5 @@
 ---
 title: "Sturtevant Funeral Home"
 url: /suffolk/sturtevant-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

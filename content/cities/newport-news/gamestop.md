@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /newport-news/gamestop/
-shop: Videospiele
+shop: video games
 ---

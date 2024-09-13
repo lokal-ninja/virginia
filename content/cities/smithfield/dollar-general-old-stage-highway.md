@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /smithfield/dollar-general-old-stage-highway/
-shop: Kramladen
+shop: variety store
 ---

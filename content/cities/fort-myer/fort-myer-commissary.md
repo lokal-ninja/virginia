@@ -1,5 +1,5 @@
 ---
 title: "Fort Myer Commissary"
 url: /fort-myer/fort-myer-commissary/
-shop: Supermarkt
+shop: supermarket
 ---

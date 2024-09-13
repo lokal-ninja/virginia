@@ -1,5 +1,5 @@
 ---
 title: "Sportsman Liquidation"
 url: /bristol/sportsman-liquidation/
-shop: Sport
+shop: sports
 ---

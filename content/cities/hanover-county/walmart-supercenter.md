@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /hanover-county/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /christiansburg/autozone/
-shop: Autoteile
+shop: car parts
 ---

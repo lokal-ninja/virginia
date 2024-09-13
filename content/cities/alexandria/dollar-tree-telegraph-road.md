@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /alexandria/dollar-tree-telegraph-road/
-shop: Kramladen
+shop: variety store
 ---

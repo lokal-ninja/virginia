@@ -1,5 +1,5 @@
 ---
 title: "Mini Price Storage"
 url: /richmond-city/mini-price-storage/
-shop: Mieten
+shop: storage rental
 ---

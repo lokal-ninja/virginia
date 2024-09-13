@@ -1,5 +1,5 @@
 ---
 title: "Chrysler"
 url: /williamsburg/chrysler/
-shop: Autohaus
+shop: car
 ---

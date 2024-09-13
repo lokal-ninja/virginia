@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /chesapeake/advance-auto-parts-south-military-highway/
-shop: Autoteile
+shop: car parts
 ---

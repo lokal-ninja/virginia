@@ -1,5 +1,5 @@
 ---
 title: "Tysons Auto Specialties"
 url: /vienna/tysons-auto-specialties/
-shop: Autowerkstatt
+shop: car repair
 ---

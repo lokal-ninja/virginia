@@ -1,5 +1,5 @@
 ---
 title: "Mister Motor"
 url: /arlington/mister-motor/
-shop: Autohaus
+shop: car
 ---

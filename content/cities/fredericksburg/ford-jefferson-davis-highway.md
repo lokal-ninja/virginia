@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /fredericksburg/ford-jefferson-davis-highway/
-shop: Autohaus
+shop: car
 ---

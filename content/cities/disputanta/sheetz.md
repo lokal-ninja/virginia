@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /disputanta/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

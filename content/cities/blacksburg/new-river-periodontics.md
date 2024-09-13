@@ -1,5 +1,5 @@
 ---
 title: "New River Periodontics"
 url: /blacksburg/new-river-periodontics/
-shop: Allgemein
+shop: shop
 ---

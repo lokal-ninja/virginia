@@ -1,5 +1,5 @@
 ---
 title: "Smokey Shoppe"
 url: /manassas/smokey-shoppe/
-shop: Tabak
+shop: tobacco
 ---

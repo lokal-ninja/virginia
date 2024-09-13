@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /fairfax/costco/
-shop: Großhandel
+shop: wholesale
 ---

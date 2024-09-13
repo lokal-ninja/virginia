@@ -1,5 +1,5 @@
 ---
 title: "Evolution Home"
 url: /alexandria/evolution-home/
-shop: Antiquitäten
+shop: antiques
 ---

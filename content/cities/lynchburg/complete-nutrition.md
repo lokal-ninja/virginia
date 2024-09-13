@@ -1,5 +1,5 @@
 ---
 title: "Complete Nutrition"
 url: /lynchburg/complete-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

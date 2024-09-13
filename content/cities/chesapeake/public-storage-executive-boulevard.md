@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /chesapeake/public-storage-executive-boulevard/
-shop: Mieten
+shop: storage rental
 ---

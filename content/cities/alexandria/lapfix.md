@@ -1,5 +1,5 @@
 ---
 title: "LapFix"
 url: /alexandria/lapfix/
-shop: Computer
+shop: computer
 ---

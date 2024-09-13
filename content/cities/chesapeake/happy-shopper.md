@@ -1,5 +1,5 @@
 ---
 title: "Happy Shopper"
 url: /chesapeake/happy-shopper/
-shop: Lebensmittel
+shop: convenience
 ---

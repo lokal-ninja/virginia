@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /midlothian/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "purebare"
 url: /alexandria/purebare/
-shop: Kleidung
+shop: clothes
 ---

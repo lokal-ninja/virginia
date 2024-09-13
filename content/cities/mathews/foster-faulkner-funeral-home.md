@@ -1,5 +1,5 @@
 ---
 title: "Foster-Faulkner Funeral Home"
 url: /mathews/foster-faulkner-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

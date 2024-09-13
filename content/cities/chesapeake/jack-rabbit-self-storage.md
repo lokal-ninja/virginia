@@ -1,5 +1,5 @@
 ---
 title: "Jack Rabbit Self Storage"
 url: /chesapeake/jack-rabbit-self-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Integrity roll off"
 url: /fredericksburg/integrity-roll-off/
-shop: Mieten
+shop: storage rental
 ---

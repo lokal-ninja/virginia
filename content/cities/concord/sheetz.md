@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /concord/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

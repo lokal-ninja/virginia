@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /chesapeake/dollar-tree-south-military-highway-2/
-shop: Kramladen
+shop: variety store
 ---

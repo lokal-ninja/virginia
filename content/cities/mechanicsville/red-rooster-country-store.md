@@ -1,5 +1,5 @@
 ---
 title: "Red Rooster Country Store"
 url: /mechanicsville/red-rooster-country-store/
-shop: Kramladen
+shop: variety store
 ---

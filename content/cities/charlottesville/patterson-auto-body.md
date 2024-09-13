@@ -1,5 +1,5 @@
 ---
 title: "Patterson Auto Body"
 url: /charlottesville/patterson-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

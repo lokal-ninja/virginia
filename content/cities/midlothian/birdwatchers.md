@@ -1,5 +1,5 @@
 ---
 title: "Birdwatchers"
 url: /midlothian/birdwatchers/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

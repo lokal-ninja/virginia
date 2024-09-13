@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /chesapeake/target/
-shop: Warenhaus
+shop: department store
 ---

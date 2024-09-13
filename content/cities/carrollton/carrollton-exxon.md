@@ -1,5 +1,5 @@
 ---
 title: "Carrollton Exxon"
 url: /carrollton/carrollton-exxon/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Virginia Eye Center"
 url: /manassas/virginia-eye-center/
-shop: Optiker
+shop: optician
 ---

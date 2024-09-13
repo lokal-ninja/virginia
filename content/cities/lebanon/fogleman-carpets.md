@@ -1,5 +1,5 @@
 ---
 title: "Fogleman Carpets"
 url: /lebanon/fogleman-carpets/
-shop: Teppiche
+shop: carpet
 ---

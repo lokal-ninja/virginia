@@ -1,5 +1,5 @@
 ---
 title: "Stop Shop"
 url: /partlow/stop-shop/
-shop: Lebensmittel
+shop: convenience
 ---

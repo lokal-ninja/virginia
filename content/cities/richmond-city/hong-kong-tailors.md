@@ -1,5 +1,5 @@
 ---
 title: "Hong Kong Tailors"
 url: /richmond-city/hong-kong-tailors/
-shop: Schneiderei
+shop: tailor
 ---

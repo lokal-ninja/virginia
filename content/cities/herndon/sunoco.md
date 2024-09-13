@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /herndon/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

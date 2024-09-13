@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /powhatan/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

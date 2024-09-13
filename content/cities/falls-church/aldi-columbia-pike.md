@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /falls-church/aldi-columbia-pike/
-shop: Supermarkt
+shop: supermarket
 ---

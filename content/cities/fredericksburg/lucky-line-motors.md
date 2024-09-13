@@ -1,5 +1,5 @@
 ---
 title: "Lucky Line Motors"
 url: /fredericksburg/lucky-line-motors/
-shop: Autohaus
+shop: car
 ---

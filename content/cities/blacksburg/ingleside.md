@@ -1,5 +1,5 @@
 ---
 title: "Ingleside"
 url: /blacksburg/ingleside/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "May's Parlor"
 url: /norfolk/mays-parlor/
-shop: Bäckerei
+shop: bakery
 ---

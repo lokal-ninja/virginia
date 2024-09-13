@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /yorktown/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

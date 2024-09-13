@@ -1,5 +1,5 @@
 ---
 title: "Thrift Store City"
 url: /portsmouth/thrift-store-city/
-shop: Gebrauchtwaren
+shop: charity
 ---

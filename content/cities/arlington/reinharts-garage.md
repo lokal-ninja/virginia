@@ -1,5 +1,5 @@
 ---
 title: "Reinhart's Garage"
 url: /arlington/reinharts-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

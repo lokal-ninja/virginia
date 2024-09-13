@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /exmore/verizon/
-shop: Handy
+shop: mobile phone
 ---

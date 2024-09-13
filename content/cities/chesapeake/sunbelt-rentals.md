@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /chesapeake/sunbelt-rentals/
-shop: Werkzeuge
+shop: tools
 ---

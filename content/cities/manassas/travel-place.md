@@ -1,5 +1,5 @@
 ---
 title: "Travel Place"
 url: /manassas/travel-place/
-shop: Reisebüro
+shop: travel agency
 ---

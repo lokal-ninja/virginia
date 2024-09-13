@@ -1,5 +1,5 @@
 ---
 title: "Southern States"
 url: /stephens-city/southern-states/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

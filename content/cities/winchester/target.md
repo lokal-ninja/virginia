@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /winchester/target/
-shop: Warenhaus
+shop: department store
 ---

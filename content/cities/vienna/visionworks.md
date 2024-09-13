@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /vienna/visionworks/
-shop: Optiker
+shop: optician
 ---

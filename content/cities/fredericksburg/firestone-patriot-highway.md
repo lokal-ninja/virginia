@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /fredericksburg/firestone-patriot-highway/
-shop: Autowerkstatt
+shop: car repair
 ---

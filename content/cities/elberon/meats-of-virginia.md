@@ -1,5 +1,5 @@
 ---
 title: "Meats of Virginia"
 url: /elberon/meats-of-virginia/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winfrees"
 url: /yorktown/winfrees/
-shop: Waffen
+shop: weapons
 ---

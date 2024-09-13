@@ -1,5 +1,5 @@
 ---
 title: "Designing Flowers"
 url: /purcellville/designing-flowers/
-shop: Blumen
+shop: florist
 ---

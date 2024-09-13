@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /brookneal/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

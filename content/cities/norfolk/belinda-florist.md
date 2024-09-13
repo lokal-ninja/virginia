@@ -1,5 +1,5 @@
 ---
 title: "Belinda FLorist"
 url: /norfolk/belinda-florist/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conleys Mini Storage"
 url: /suffolk/conleys-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

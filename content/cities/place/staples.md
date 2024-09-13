@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /place/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

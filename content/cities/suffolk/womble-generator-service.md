@@ -1,5 +1,5 @@
 ---
 title: "Womble Generator Service"
 url: /suffolk/womble-generator-service/
-shop: Baustoffe
+shop: trade
 ---

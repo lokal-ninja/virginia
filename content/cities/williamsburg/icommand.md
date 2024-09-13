@@ -1,5 +1,5 @@
 ---
 title: "iCommand"
 url: /williamsburg/icommand/
-shop: Computer
+shop: computer
 ---

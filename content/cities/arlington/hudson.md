@@ -1,5 +1,5 @@
 ---
 title: "Hudson"
 url: /arlington/hudson/
-shop: Lebensmittel
+shop: convenience
 ---

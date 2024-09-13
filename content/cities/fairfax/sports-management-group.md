@@ -1,5 +1,5 @@
 ---
 title: "Sports Management Group"
 url: /fairfax/sports-management-group/
-shop: Sport
+shop: sports
 ---

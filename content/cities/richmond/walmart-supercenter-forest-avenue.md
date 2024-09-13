@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /richmond/walmart-supercenter-forest-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

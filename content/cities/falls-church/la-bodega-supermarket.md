@@ -1,5 +1,5 @@
 ---
 title: "La Bodega Supermarket"
 url: /falls-church/la-bodega-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

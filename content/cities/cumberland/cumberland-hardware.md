@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Hardware"
 url: /cumberland/cumberland-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

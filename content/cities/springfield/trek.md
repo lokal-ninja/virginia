@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /springfield/trek/
-shop: Fahrrad
+shop: bicycle
 ---

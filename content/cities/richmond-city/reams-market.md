@@ -1,5 +1,5 @@
 ---
 title: "Reams Market"
 url: /richmond-city/reams-market/
-shop: Lebensmittel
+shop: convenience
 ---

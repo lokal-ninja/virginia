@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /fredericksburg/valero-salem-church-road/
-shop: Lebensmittel
+shop: convenience
 ---

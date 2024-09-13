@@ -1,5 +1,5 @@
 ---
 title: "Rich's Stiches"
 url: /richmond/richs-stiches/
-shop: Kleidung
+shop: clothes
 ---

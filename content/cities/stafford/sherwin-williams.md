@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /stafford/sherwin-williams/
-shop: Farben
+shop: paint
 ---

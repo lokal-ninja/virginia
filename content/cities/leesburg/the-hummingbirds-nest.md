@@ -1,5 +1,5 @@
 ---
 title: "The Hummingbird's Nest"
 url: /leesburg/the-hummingbirds-nest/
-shop: Antiquitäten
+shop: antiques
 ---

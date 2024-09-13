@@ -1,5 +1,5 @@
 ---
 title: "Yoder's Country Market"
 url: /madison/yoders-country-market/
-shop: Supermarkt
+shop: supermarket
 ---

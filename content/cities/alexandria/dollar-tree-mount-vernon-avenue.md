@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /alexandria/dollar-tree-mount-vernon-avenue/
-shop: Kramladen
+shop: variety store
 ---

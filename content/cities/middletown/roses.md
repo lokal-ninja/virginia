@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /middletown/roses/
-shop: Kramladen
+shop: variety store
 ---

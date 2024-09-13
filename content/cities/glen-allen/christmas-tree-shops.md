@@ -1,5 +1,5 @@
 ---
 title: "Christmas Tree Shops"
 url: /glen-allen/christmas-tree-shops/
-shop: Kramladen
+shop: variety store
 ---

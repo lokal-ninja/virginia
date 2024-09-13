@@ -1,5 +1,5 @@
 ---
 title: "Custom Design Works"
 url: /york-county/custom-design-works/
-shop: Allgemein
+shop: shop
 ---

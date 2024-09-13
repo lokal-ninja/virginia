@@ -1,5 +1,5 @@
 ---
 title: "Architrade"
 url: /charlottesville/architrade/
-shop: Antiquitäten
+shop: antiques
 ---

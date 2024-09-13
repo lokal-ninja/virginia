@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /reston/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perry Pools and Spas"
 url: /lynchburg/perry-pools-and-spas/
-shop: Pool
+shop: swimming pool
 ---

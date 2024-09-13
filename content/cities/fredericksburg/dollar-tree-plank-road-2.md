@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /fredericksburg/dollar-tree-plank-road-2/
-shop: Kramladen
+shop: variety store
 ---

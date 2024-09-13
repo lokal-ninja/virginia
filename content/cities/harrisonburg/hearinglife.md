@@ -1,5 +1,5 @@
 ---
 title: "HearingLife"
 url: /harrisonburg/hearinglife/
-shop: Hörgeräte
+shop: hearing aids
 ---

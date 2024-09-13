@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /portsmouth/family-dollar-victory-boulevard/
-shop: Kramladen
+shop: variety store
 ---

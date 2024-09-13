@@ -1,5 +1,5 @@
 ---
 title: "Samsky's"
 url: /manassas/samskys/
-shop: Lebensmittel
+shop: convenience
 ---

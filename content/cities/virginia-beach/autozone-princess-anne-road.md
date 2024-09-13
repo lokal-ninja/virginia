@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /virginia-beach/autozone-princess-anne-road/
-shop: Autoteile
+shop: car parts
 ---

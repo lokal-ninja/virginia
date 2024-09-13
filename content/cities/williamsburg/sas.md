@@ -1,5 +1,5 @@
 ---
 title: "SAS"
 url: /williamsburg/sas/
-shop: Schuhe
+shop: shoes
 ---

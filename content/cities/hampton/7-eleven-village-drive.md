@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /hampton/7-eleven-village-drive/
-shop: Lebensmittel
+shop: convenience
 ---

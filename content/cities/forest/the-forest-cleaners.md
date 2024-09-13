@@ -1,5 +1,5 @@
 ---
 title: "The Forest Cleaners"
 url: /forest/the-forest-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kibbles on Main"
 url: /blacksburg/kibbles-on-main/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Richmond Harley-Davidson"
 url: /ashland/richmond-harley-davidson/
-shop: Motorrad
+shop: motorcycle
 ---

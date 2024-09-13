@@ -1,5 +1,5 @@
 ---
 title: "Southside Tire"
 url: /chesapeake/southside-tire/
-shop: Reifen
+shop: tyres
 ---

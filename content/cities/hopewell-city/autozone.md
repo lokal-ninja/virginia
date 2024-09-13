@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /hopewell-city/autozone/
-shop: Autoteile
+shop: car parts
 ---

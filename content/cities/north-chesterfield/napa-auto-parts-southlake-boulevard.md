@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /north-chesterfield/napa-auto-parts-southlake-boulevard/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Haggar"
 url: /williamsburg/haggar/
-shop: Kleidung
+shop: clothes
 ---

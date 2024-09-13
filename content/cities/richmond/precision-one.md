@@ -1,5 +1,5 @@
 ---
 title: "Precision One"
 url: /richmond/precision-one/
-shop: Autowerkstatt
+shop: car repair
 ---

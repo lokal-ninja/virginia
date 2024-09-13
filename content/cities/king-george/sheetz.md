@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /king-george/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

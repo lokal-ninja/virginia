@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /dumfries/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

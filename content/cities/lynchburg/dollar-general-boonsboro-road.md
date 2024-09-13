@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /lynchburg/dollar-general-boonsboro-road/
-shop: Kramladen
+shop: variety store
 ---

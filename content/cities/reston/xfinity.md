@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /reston/xfinity/
-shop: Handy
+shop: mobile phone
 ---

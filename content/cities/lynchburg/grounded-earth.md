@@ -1,5 +1,5 @@
 ---
 title: "Grounded Earth"
 url: /lynchburg/grounded-earth/
-shop: Esoterik
+shop: esoteric
 ---

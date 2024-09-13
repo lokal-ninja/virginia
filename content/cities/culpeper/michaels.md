@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /culpeper/michaels/
-shop: Basteln
+shop: craft
 ---

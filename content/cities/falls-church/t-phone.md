@@ -1,5 +1,5 @@
 ---
 title: "T-Phone"
 url: /falls-church/t-phone/
-shop: Handy
+shop: mobile phone
 ---

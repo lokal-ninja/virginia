@@ -1,5 +1,5 @@
 ---
 title: "Hite's Clothing Store"
 url: /clarksville/hites-clothing-store/
-shop: Kleidung
+shop: clothes
 ---

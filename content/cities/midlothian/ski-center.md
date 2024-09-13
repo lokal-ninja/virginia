@@ -1,5 +1,5 @@
 ---
 title: "Ski Center"
 url: /midlothian/ski-center/
-shop: Sport
+shop: sports
 ---

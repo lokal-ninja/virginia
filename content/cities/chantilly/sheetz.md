@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /chantilly/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

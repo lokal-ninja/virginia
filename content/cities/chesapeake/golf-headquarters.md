@@ -1,5 +1,5 @@
 ---
 title: "Golf Headquarters"
 url: /chesapeake/golf-headquarters/
-shop: Sport
+shop: sports
 ---

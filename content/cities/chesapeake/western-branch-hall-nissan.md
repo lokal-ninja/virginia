@@ -1,5 +1,5 @@
 ---
 title: "Western Branch Hall Nissan"
 url: /chesapeake/western-branch-hall-nissan/
-shop: Autohaus
+shop: car
 ---

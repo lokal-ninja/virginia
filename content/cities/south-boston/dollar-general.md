@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /south-boston/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /stafford/wawa-austin-park-drive/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /windsor/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hometown Auto Care"
 url: /winchester/hometown-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /prince-george/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

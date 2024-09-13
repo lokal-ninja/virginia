@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /lorton/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

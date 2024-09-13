@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /culpeper/weis/
-shop: Supermarkt
+shop: supermarket
 ---

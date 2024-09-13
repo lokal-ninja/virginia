@@ -1,5 +1,5 @@
 ---
 title: "Halsey Mechanic"
 url: /suffolk/halsey-mechanic/
-shop: Autowerkstatt
+shop: car repair
 ---

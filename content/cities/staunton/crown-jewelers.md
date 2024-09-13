@@ -1,5 +1,5 @@
 ---
 title: "Crown Jewelers"
 url: /staunton/crown-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

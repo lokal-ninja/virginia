@@ -1,5 +1,5 @@
 ---
 title: "B R Framing"
 url: /yorktown/b-r-framing/
-shop: Rahmen
+shop: frame
 ---

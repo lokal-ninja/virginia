@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /winchester/aarons/
-shop: Möbel
+shop: furniture
 ---

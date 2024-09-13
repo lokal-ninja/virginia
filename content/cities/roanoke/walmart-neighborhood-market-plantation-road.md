@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /roanoke/walmart-neighborhood-market-plantation-road/
-shop: Supermarkt
+shop: supermarket
 ---

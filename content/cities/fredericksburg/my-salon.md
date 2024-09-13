@@ -1,5 +1,5 @@
 ---
 title: "My Salon"
 url: /fredericksburg/my-salon/
-shop: Friseur
+shop: hairdresser
 ---

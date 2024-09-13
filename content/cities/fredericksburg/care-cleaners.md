@@ -1,5 +1,5 @@
 ---
 title: "Care Cleaners"
 url: /fredericksburg/care-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

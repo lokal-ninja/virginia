@@ -1,5 +1,5 @@
 ---
 title: "Icing"
 url: /fredericksburg/icing/
-shop: Schmuck
+shop: jewelry
 ---

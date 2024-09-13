@@ -1,5 +1,5 @@
 ---
 title: "Flowers Baking Co"
 url: /charlottesville/flowers-baking-co/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Virginia ABC"
 url: /falls-church/virginia-abc-south-jefferson-street/
-shop: Spirituosen
+shop: alcohol
 ---

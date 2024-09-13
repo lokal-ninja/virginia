@@ -1,5 +1,5 @@
 ---
 title: "Craigsville Funeral Home"
 url: /craigsville/craigsville-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

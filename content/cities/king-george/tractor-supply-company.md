@@ -1,5 +1,5 @@
 ---
 title: "Tractor Supply Company"
 url: /king-george/tractor-supply-company/
-shop: Dorfladen
+shop: general
 ---

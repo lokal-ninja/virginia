@@ -1,5 +1,5 @@
 ---
 title: "Nail Design"
 url: /ashburn/nail-design/
-shop: Kosmetik
+shop: beauty
 ---

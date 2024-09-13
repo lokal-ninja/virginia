@@ -1,5 +1,5 @@
 ---
 title: "Sullivan's Barbershop"
 url: /fredericksburg/sullivans-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

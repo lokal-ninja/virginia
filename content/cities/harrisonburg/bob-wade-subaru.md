@@ -1,5 +1,5 @@
 ---
 title: "Bob Wade Subaru"
 url: /harrisonburg/bob-wade-subaru/
-shop: Autohaus
+shop: car
 ---

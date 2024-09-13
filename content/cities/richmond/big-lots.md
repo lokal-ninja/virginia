@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /richmond/big-lots/
-shop: Warenhaus
+shop: department store
 ---

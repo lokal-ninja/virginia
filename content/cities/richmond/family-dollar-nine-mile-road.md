@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /richmond/family-dollar-nine-mile-road/
-shop: Kramladen
+shop: variety store
 ---

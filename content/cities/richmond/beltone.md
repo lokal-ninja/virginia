@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /richmond/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /newport-news/kohls/
-shop: Warenhaus
+shop: department store
 ---

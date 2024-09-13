@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /harrisonburg/walmart-supercenter-john-wayland-highway/
-shop: Supermarkt
+shop: supermarket
 ---

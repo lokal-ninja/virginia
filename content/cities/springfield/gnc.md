@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /springfield/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

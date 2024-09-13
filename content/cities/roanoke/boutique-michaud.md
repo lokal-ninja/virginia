@@ -1,5 +1,5 @@
 ---
 title: "Boutique Michaud"
 url: /roanoke/boutique-michaud/
-shop: Kleidung
+shop: clothes
 ---

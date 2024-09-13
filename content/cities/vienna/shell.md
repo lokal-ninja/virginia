@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /vienna/shell/
-shop: Lebensmittel
+shop: convenience
 ---

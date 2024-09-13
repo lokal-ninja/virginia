@@ -1,5 +1,5 @@
 ---
 title: "Cascades Pet Depot"
 url: /sterling/cascades-pet-depot/
-shop: Tiere
+shop: pet
 ---

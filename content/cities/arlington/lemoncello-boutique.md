@@ -1,5 +1,5 @@
 ---
 title: "Lemoncello Boutique"
 url: /arlington/lemoncello-boutique/
-shop: Kleidung
+shop: clothes
 ---

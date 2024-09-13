@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /woodbridge/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

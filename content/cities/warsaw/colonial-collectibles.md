@@ -1,5 +1,5 @@
 ---
 title: "Colonial Collectibles"
 url: /warsaw/colonial-collectibles/
-shop: Andenken
+shop: gift
 ---

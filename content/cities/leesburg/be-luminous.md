@@ -1,5 +1,5 @@
 ---
 title: "Be Luminous"
 url: /leesburg/be-luminous/
-shop: Kosmetik
+shop: beauty
 ---

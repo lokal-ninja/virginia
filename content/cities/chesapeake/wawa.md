@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /chesapeake/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /richmond/lidl-south-laburnum-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

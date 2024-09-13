@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /henrico/aldi-north-parham-road/
-shop: Supermarkt
+shop: supermarket
 ---

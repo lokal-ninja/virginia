@@ -1,5 +1,5 @@
 ---
 title: "Hawkins-Graves Inc."
 url: /lynchburg/hawkins-graves-inc/
-shop: Mieten
+shop: storage rental
 ---

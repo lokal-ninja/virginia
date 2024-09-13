@@ -1,5 +1,5 @@
 ---
 title: "Backyard Birder"
 url: /williamsburg/backyard-birder/
-shop: Tiere
+shop: pet
 ---

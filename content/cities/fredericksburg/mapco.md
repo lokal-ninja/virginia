@@ -1,5 +1,5 @@
 ---
 title: "Mapco"
 url: /fredericksburg/mapco/
-shop: Lebensmittel
+shop: convenience
 ---

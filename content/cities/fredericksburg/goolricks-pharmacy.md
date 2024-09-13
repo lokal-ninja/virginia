@@ -1,5 +1,5 @@
 ---
 title: "Goolrick's Pharmacy"
 url: /fredericksburg/goolricks-pharmacy/
-shop: Allgemein
+shop: shop
 ---

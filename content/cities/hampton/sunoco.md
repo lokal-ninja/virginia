@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /hampton/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

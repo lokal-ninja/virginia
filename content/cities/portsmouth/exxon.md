@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /portsmouth/exxon/
-shop: Lebensmittel
+shop: convenience
 ---

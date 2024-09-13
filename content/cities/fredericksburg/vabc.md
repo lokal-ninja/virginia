@@ -1,5 +1,5 @@
 ---
 title: "VABC"
 url: /fredericksburg/vabc/
-shop: Spirituosen
+shop: alcohol
 ---

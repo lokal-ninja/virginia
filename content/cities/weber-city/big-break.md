@@ -1,5 +1,5 @@
 ---
 title: "Big Break"
 url: /weber-city/big-break/
-shop: Lebensmittel
+shop: convenience
 ---

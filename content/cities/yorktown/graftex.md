@@ -1,5 +1,5 @@
 ---
 title: "Graftex"
 url: /yorktown/graftex/
-shop: Autowerkstatt
+shop: car repair
 ---

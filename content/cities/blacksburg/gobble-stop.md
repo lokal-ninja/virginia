@@ -1,5 +1,5 @@
 ---
 title: "Gobble Stop"
 url: /blacksburg/gobble-stop/
-shop: Lebensmittel
+shop: convenience
 ---

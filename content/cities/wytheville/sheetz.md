@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /wytheville/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

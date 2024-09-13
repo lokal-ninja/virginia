@@ -1,5 +1,5 @@
 ---
 title: "Towne Barbershop"
 url: /stafford/towne-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

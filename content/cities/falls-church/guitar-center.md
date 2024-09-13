@@ -1,5 +1,5 @@
 ---
 title: "Guitar Center"
 url: /falls-church/guitar-center/
-shop: Instrumente
+shop: musical instrument
 ---

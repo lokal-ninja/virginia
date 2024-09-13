@@ -1,5 +1,5 @@
 ---
 title: "Holic"
 url: /hampton/holic/
-shop: Allgemein
+shop: shop
 ---

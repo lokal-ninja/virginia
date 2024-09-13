@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /manassas/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

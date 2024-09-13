@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lynchburg/autozone-timberlake-road/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lou Lou Boutique"
 url: /alexandria/lou-lou-boutique/
-shop: Kleidung
+shop: clothes
 ---

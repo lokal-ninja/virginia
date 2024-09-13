@@ -1,5 +1,5 @@
 ---
 title: "OSAKA Auto Imports"
 url: /yorktown/osaka-auto-imports/
-shop: Autohaus
+shop: car
 ---

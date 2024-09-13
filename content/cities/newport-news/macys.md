@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /newport-news/macys/
-shop: Warenhaus
+shop: department store
 ---

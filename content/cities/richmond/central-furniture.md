@@ -1,5 +1,5 @@
 ---
 title: "Central Furniture"
 url: /richmond/central-furniture/
-shop: Möbel
+shop: furniture
 ---

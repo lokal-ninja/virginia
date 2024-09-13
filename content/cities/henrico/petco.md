@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /henrico/petco/
-shop: Tiere
+shop: pet
 ---

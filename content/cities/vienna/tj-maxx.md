@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /vienna/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thacker Ace Hardware"
 url: /petersburg/thacker-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

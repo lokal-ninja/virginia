@@ -1,5 +1,5 @@
 ---
 title: "Freedom Body Shop"
 url: /chesapeake/freedom-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

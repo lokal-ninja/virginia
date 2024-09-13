@@ -1,5 +1,5 @@
 ---
 title: "Bills Service Center"
 url: /fredericksburg/bills-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /richmond/food-lion-hull-street-road-2/
-shop: Supermarkt
+shop: supermarket
 ---

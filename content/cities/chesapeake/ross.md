@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /chesapeake/ross/
-shop: Warenhaus
+shop: department store
 ---

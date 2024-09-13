@@ -1,5 +1,5 @@
 ---
 title: "Border Station"
 url: /moyock/border-station/
-shop: Lebensmittel
+shop: convenience
 ---

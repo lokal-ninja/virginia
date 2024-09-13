@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /virginia-beach/u-haul-magic-hollow-boulevard/
-shop: Mieten
+shop: storage rental
 ---

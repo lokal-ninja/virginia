@@ -1,5 +1,5 @@
 ---
 title: "The Tile Shop"
 url: /springfield/the-tile-shop/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wood's Service Center"
 url: /vinton/woods-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

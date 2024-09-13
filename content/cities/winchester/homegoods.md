@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /winchester/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

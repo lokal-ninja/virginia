@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /king-george/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

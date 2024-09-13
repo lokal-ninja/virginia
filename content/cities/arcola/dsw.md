@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /arcola/dsw/
-shop: Schuhe
+shop: shoes
 ---

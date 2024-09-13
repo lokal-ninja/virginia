@@ -1,5 +1,5 @@
 ---
 title: "west elm"
 url: /richmond-city/west-elm/
-shop: Möbel
+shop: furniture
 ---

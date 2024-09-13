@@ -1,5 +1,5 @@
 ---
 title: "The Party Nook"
 url: /manassas/the-party-nook/
-shop: Partyzubehör
+shop: party
 ---

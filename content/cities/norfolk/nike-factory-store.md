@@ -1,5 +1,5 @@
 ---
 title: "Nike Factory Store"
 url: /norfolk/nike-factory-store/
-shop: Kleidung
+shop: clothes
 ---

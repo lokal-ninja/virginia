@@ -1,5 +1,5 @@
 ---
 title: "Bike Club"
 url: /falls-church/bike-club/
-shop: Fahrrad
+shop: bicycle
 ---

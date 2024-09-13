@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /henrico/wawa-west-broad-street/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "John B. Hayes Tobacconist"
 url: /winchester/john-b-hayes-tobacconist/
-shop: Tabak
+shop: tobacco
 ---

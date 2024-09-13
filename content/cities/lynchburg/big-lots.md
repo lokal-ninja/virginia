@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /lynchburg/big-lots/
-shop: Warenhaus
+shop: department store
 ---

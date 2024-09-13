@@ -1,5 +1,5 @@
 ---
 title: "Dabney Funeral Home"
 url: /hanover-county/dabney-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Hour"
 url: /alexandria/the-hour/
-shop: Raumausstattung
+shop: interior decoration
 ---

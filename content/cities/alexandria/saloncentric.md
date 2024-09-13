@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /alexandria/saloncentric/
-shop: Kosmetik
+shop: beauty
 ---

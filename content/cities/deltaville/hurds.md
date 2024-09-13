@@ -1,5 +1,5 @@
 ---
 title: "Hurds"
 url: /deltaville/hurds/
-shop: Eisenwaren
+shop: hardware
 ---

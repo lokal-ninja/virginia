@@ -1,5 +1,5 @@
 ---
 title: "Baird Automotive"
 url: /arlington/baird-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

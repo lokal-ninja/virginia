@@ -1,5 +1,5 @@
 ---
 title: "Puritan Cleaners"
 url: /richmond-city/puritan-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

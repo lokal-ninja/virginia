@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /annandale/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Secure Spa"
 url: /chesapeake/secure-spa/
-shop: Massage
+shop: massage
 ---

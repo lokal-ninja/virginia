@@ -1,5 +1,5 @@
 ---
 title: "Dick's Sporting Goods"
 url: /chesapeake/dicks-sporting-goods/
-shop: Sport
+shop: sports
 ---

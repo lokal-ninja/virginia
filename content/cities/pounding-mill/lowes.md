@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /pounding-mill/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /blacksburg/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

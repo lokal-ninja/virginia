@@ -1,5 +1,5 @@
 ---
 title: "FasMart"
 url: /richmond/fasmart/
-shop: Lebensmittel
+shop: convenience
 ---

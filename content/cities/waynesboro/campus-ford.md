@@ -1,5 +1,5 @@
 ---
 title: "Campus Ford"
 url: /waynesboro/campus-ford/
-shop: Autohaus
+shop: car
 ---

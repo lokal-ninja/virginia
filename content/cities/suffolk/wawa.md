@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /suffolk/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

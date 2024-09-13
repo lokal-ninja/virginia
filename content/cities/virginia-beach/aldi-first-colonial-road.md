@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /virginia-beach/aldi-first-colonial-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /fredericksburg/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

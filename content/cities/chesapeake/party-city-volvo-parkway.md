@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /chesapeake/party-city-volvo-parkway/
-shop: Partyzubehör
+shop: party
 ---

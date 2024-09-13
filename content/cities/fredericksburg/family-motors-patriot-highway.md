@@ -1,5 +1,5 @@
 ---
 title: "Family Motors"
 url: /fredericksburg/family-motors-patriot-highway/
-shop: Autohaus
+shop: car
 ---

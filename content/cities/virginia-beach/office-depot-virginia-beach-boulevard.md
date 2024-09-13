@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /virginia-beach/office-depot-virginia-beach-boulevard/
-shop: Schreibwaren
+shop: office supplies
 ---

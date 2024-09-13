@@ -1,5 +1,5 @@
 ---
 title: "Carter Auto Body"
 url: /york-county/carter-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

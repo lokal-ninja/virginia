@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /staunton/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

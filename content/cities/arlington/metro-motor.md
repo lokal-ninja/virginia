@@ -1,5 +1,5 @@
 ---
 title: "Metro Motor"
 url: /arlington/metro-motor/
-shop: Autowerkstatt
+shop: car repair
 ---

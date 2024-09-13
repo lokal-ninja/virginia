@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /fairfax/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

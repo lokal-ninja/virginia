@@ -1,6 +1,6 @@
 ---
 title: Jonesville
 url: /jonesville/
-latitude: 36.725
-longitude: -83.104
+latitude: 36.685
+longitude: -83.128
 ---

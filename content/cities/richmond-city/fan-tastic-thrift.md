@@ -1,5 +1,5 @@
 ---
 title: "Fan Tastic Thrift"
 url: /richmond-city/fan-tastic-thrift/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stylepod Suites"
 url: /richmond/stylepod-suites/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /halifax/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VEC, LLC"
 url: /charlottesville/vec-llc/
-shop: Elektrisch
+shop: electrical
 ---

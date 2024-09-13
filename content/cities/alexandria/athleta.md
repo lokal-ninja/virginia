@@ -1,5 +1,5 @@
 ---
 title: "Athleta"
 url: /alexandria/athleta/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /harrisonburg/mattress-firm/
-shop: Betten
+shop: bed
 ---

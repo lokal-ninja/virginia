@@ -1,5 +1,5 @@
 ---
 title: "Virginia ABC"
 url: /hayes/virginia-abc/
-shop: Spirituosen
+shop: alcohol
 ---

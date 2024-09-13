@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /dulles/dsw/
-shop: Schuhe
+shop: shoes
 ---

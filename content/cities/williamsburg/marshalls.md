@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /williamsburg/marshalls/
-shop: Warenhaus
+shop: department store
 ---

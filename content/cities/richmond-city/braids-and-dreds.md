@@ -1,5 +1,5 @@
 ---
 title: "Braids And Dreds"
 url: /richmond-city/braids-and-dreds/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /danville/autozone/
-shop: Autoteile
+shop: car parts
 ---

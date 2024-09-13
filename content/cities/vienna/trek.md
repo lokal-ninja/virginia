@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /vienna/trek/
-shop: Fahrrad
+shop: bicycle
 ---

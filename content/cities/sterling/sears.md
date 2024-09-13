@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /sterling/sears/
-shop: Warenhaus
+shop: department store
 ---

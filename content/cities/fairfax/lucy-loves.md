@@ -1,5 +1,5 @@
 ---
 title: "Lucy Loves"
 url: /fairfax/lucy-loves/
-shop: Kleidung
+shop: clothes
 ---

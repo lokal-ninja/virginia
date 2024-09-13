@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /sterling/target/
-shop: Warenhaus
+shop: department store
 ---

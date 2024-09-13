@@ -1,5 +1,5 @@
 ---
 title: "VIP Nails"
 url: /springfield/vip-nails/
-shop: Kosmetik
+shop: beauty
 ---

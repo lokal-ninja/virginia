@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /sterling/michaels/
-shop: Basteln
+shop: craft
 ---

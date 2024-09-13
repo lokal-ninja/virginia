@@ -1,5 +1,5 @@
 ---
 title: "Accents"
 url: /lynchburg/accents/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /virginia-beach/food-lion-ferrell-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

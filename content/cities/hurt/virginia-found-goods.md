@@ -1,5 +1,5 @@
 ---
 title: "Virginia Found Goods"
 url: /hurt/virginia-found-goods/
-shop: Antiquitäten
+shop: antiques
 ---

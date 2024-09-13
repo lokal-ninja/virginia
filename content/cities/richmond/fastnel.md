@@ -1,5 +1,5 @@
 ---
 title: "Fastnel"
 url: /richmond/fastnel/
-shop: Eisenwaren
+shop: hardware
 ---

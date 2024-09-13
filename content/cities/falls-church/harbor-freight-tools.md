@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /falls-church/harbor-freight-tools/
-shop: Eisenwaren
+shop: hardware
 ---

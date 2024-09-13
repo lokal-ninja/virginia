@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /hopewell/family-dollar-oaklawn-boulevard/
-shop: Kramladen
+shop: variety store
 ---

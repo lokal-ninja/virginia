@@ -1,5 +1,5 @@
 ---
 title: "Phone House"
 url: /falls-church/phone-house/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trager Brothers Coffee"
 url: /afton/trager-brothers-coffee/
-shop: Kaffee
+shop: coffee
 ---

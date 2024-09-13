@@ -1,5 +1,5 @@
 ---
 title: "Happy Grooming"
 url: /arlington/happy-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

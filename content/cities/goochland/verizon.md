@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /goochland/verizon/
-shop: Handy
+shop: mobile phone
 ---

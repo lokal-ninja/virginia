@@ -1,5 +1,5 @@
 ---
 title: "Mountain Sports Ltd"
 url: /bristol/mountain-sports-ltd/
-shop: Outdoor
+shop: outdoor
 ---

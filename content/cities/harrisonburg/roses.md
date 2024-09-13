@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /harrisonburg/roses/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ProTech Farm and Nursery"
 url: /barboursville/protech-farm-and-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

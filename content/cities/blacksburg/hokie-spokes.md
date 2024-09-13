@@ -1,5 +1,5 @@
 ---
 title: "Hokie Spokes"
 url: /blacksburg/hokie-spokes/
-shop: Fahrrad
+shop: bicycle
 ---

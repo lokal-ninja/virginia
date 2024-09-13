@@ -1,5 +1,5 @@
 ---
 title: "Slayton's Automotive"
 url: /lynchburg/slaytons-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

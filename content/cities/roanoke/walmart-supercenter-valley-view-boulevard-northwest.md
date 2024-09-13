@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /roanoke/walmart-supercenter-valley-view-boulevard-northwest/
-shop: Supermarkt
+shop: supermarket
 ---

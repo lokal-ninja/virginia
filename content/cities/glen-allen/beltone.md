@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /glen-allen/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

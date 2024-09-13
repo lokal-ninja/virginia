@@ -1,5 +1,5 @@
 ---
 title: "Foodway Supermarket"
 url: /bentonville/foodway-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

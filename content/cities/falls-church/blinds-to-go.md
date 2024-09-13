@@ -1,5 +1,5 @@
 ---
 title: "Blinds to Go"
 url: /falls-church/blinds-to-go/
-shop: Jalousien
+shop: window blind
 ---

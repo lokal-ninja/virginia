@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /front-royal/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

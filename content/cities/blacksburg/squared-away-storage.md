@@ -1,5 +1,5 @@
 ---
 title: "Squared Away Storage"
 url: /blacksburg/squared-away-storage/
-shop: Mieten
+shop: storage rental
 ---

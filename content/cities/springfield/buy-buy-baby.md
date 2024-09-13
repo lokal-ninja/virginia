@@ -1,5 +1,5 @@
 ---
 title: "Buy Buy Baby"
 url: /springfield/buy-buy-baby/
-shop: Babysachen
+shop: baby goods
 ---

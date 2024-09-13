@@ -1,5 +1,5 @@
 ---
 title: "Cannabist"
 url: /williamsburg/cannabist/
-shop: Hanf
+shop: cannabis
 ---

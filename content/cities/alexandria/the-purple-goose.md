@@ -1,5 +1,5 @@
 ---
 title: "The Purple Goose"
 url: /alexandria/the-purple-goose/
-shop: Kleidung
+shop: clothes
 ---

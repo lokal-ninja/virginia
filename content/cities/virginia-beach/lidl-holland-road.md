@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /virginia-beach/lidl-holland-road/
-shop: Supermarkt
+shop: supermarket
 ---

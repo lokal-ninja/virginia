@@ -1,5 +1,5 @@
 ---
 title: "Dinwiddies Convenience Store"
 url: /powhatan/dinwiddies-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /manassas/cleaners/
-shop: Wäscherei
+shop: laundry
 ---

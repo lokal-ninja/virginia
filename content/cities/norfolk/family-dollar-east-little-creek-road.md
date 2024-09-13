@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /norfolk/family-dollar-east-little-creek-road/
-shop: Kramladen
+shop: variety store
 ---

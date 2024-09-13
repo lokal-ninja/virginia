@@ -1,5 +1,5 @@
 ---
 title: "A-1 Auto"
 url: /chesapeake/a-1-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

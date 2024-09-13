@@ -1,5 +1,5 @@
 ---
 title: "Cash Express"
 url: /suffolk/cash-express/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /manassas/verizon/
-shop: Handy
+shop: mobile phone
 ---

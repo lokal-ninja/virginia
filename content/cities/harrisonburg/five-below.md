@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /harrisonburg/five-below/
-shop: Kramladen
+shop: variety store
 ---

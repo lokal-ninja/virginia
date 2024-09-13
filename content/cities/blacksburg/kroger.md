@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /blacksburg/kroger/
-shop: Lebensmittel
+shop: convenience
 ---

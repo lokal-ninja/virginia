@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /fredericksburg/walgreens/
-shop: Drogerie
+shop: chemist
 ---

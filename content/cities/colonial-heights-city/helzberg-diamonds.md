@@ -1,5 +1,5 @@
 ---
 title: "Helzberg Diamonds"
 url: /colonial-heights-city/helzberg-diamonds/
-shop: Schmuck
+shop: jewelry
 ---

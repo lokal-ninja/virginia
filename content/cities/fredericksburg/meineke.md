@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /fredericksburg/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

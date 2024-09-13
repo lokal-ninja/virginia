@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /manassas/valero/
-shop: Lebensmittel
+shop: convenience
 ---

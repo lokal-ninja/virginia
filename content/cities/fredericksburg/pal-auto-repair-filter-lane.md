@@ -1,5 +1,5 @@
 ---
 title: "PAL Auto Repair"
 url: /fredericksburg/pal-auto-repair-filter-lane/
-shop: Autowerkstatt
+shop: car repair
 ---

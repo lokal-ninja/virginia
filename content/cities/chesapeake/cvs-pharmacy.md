@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /chesapeake/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

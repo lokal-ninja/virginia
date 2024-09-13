@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /falls-church/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

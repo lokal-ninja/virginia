@@ -1,5 +1,5 @@
 ---
 title: "Meredith's Garage"
 url: /fancy-gap/merediths-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

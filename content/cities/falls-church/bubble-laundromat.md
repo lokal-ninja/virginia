@@ -1,5 +1,5 @@
 ---
 title: "Bubble Laundromat"
 url: /falls-church/bubble-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

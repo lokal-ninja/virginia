@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /woodbridge/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "English Motors"
 url: /york-county/english-motors/
-shop: Autoteile
+shop: car parts
 ---

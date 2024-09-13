@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /mclean/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

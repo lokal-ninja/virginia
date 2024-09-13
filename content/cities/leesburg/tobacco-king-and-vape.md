@@ -1,5 +1,5 @@
 ---
 title: "Tobacco King and Vape"
 url: /leesburg/tobacco-king-and-vape/
-shop: Tabak
+shop: tobacco
 ---

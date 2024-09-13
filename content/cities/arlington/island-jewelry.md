@@ -1,5 +1,5 @@
 ---
 title: "Island Jewelry"
 url: /arlington/island-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

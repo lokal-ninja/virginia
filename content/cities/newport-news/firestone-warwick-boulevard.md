@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /newport-news/firestone-warwick-boulevard/
-shop: Autowerkstatt
+shop: car repair
 ---

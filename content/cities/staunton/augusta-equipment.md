@@ -1,5 +1,5 @@
 ---
 title: "Augusta Equipment"
 url: /staunton/augusta-equipment/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

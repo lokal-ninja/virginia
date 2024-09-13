@@ -1,5 +1,5 @@
 ---
 title: "Guitars"
 url: /newport-news/guitars/
-shop: Instrumente
+shop: musical instrument
 ---

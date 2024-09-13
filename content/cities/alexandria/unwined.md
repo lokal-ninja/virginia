@@ -1,5 +1,5 @@
 ---
 title: "Unwined"
 url: /alexandria/unwined/
-shop: Wein
+shop: wine
 ---

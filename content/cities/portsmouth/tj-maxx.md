@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /portsmouth/tj-maxx/
-shop: Kleidung
+shop: clothes
 ---

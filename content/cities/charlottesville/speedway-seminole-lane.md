@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /charlottesville/speedway-seminole-lane/
-shop: Lebensmittel
+shop: convenience
 ---

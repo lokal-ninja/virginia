@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /manassas/sheetz-centreville-road/
-shop: Lebensmittel
+shop: convenience
 ---

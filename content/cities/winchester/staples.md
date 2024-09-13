@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /winchester/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

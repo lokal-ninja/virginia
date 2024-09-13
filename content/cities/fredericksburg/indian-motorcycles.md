@@ -1,5 +1,5 @@
 ---
 title: "Indian Motorcycles"
 url: /fredericksburg/indian-motorcycles/
-shop: Motorrad
+shop: motorcycle
 ---

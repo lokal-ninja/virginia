@@ -1,5 +1,5 @@
 ---
 title: "Tractor Supply Company"
 url: /galax/tractor-supply-company/
-shop: Dorfladen
+shop: general
 ---

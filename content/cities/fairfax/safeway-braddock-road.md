@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /fairfax/safeway-braddock-road/
-shop: Supermarkt
+shop: supermarket
 ---

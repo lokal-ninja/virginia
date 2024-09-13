@@ -1,5 +1,5 @@
 ---
 title: "Vans Outlet"
 url: /norfolk/vans-outlet/
-shop: Schuhe
+shop: shoes
 ---

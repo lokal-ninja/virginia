@@ -1,5 +1,5 @@
 ---
 title: "ProVape City"
 url: /manassas-park/provape-city/
-shop: Tabak
+shop: tobacco
 ---

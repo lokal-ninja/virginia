@@ -1,5 +1,5 @@
 ---
 title: "Hudson"
 url: /richmond/hudson/
-shop: Lebensmittel
+shop: convenience
 ---

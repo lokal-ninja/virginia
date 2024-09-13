@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /richmond/walmart-supercenter-nine-mile-road/
-shop: Supermarkt
+shop: supermarket
 ---

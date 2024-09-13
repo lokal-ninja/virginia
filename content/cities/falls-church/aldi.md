@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /falls-church/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

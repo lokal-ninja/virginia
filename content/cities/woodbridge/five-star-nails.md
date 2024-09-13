@@ -1,5 +1,5 @@
 ---
 title: "Five Star Nails"
 url: /woodbridge/five-star-nails/
-shop: Kosmetik
+shop: beauty
 ---

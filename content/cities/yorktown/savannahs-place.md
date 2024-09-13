@@ -1,5 +1,5 @@
 ---
 title: "Savannah's Place"
 url: /yorktown/savannahs-place/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /newport-news/autozone-jefferson-avenue/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peebles"
 url: /wise/peebles/
-shop: Warenhaus
+shop: department store
 ---

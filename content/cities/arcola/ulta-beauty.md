@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /arcola/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

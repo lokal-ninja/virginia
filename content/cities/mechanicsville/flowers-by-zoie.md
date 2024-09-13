@@ -1,5 +1,5 @@
 ---
 title: "Flowers By Zoie"
 url: /mechanicsville/flowers-by-zoie/
-shop: Blumen
+shop: florist
 ---

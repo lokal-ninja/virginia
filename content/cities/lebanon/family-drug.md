@@ -1,5 +1,5 @@
 ---
 title: "Family Drug"
 url: /lebanon/family-drug/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audiotronics"
 url: /blacksburg/audiotronics/
-shop: Elektronik
+shop: electronics
 ---

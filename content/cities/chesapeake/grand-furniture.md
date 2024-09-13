@@ -1,5 +1,5 @@
 ---
 title: "Grand Furniture"
 url: /chesapeake/grand-furniture/
-shop: Möbel
+shop: furniture
 ---

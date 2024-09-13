@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /stafford/weis/
-shop: Supermarkt
+shop: supermarket
 ---

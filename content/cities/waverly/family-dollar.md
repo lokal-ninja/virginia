@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /waverly/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

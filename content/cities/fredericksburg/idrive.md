@@ -1,5 +1,5 @@
 ---
 title: "iDRIVE"
 url: /fredericksburg/idrive/
-shop: Autohaus
+shop: car
 ---

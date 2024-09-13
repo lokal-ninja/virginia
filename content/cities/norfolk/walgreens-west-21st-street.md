@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /norfolk/walgreens-west-21st-street/
-shop: Drogerie
+shop: chemist
 ---

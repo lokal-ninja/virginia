@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /williamsburg/gamestop/
-shop: Videospiele
+shop: video games
 ---

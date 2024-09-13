@@ -1,5 +1,5 @@
 ---
 title: "Muddy Feet"
 url: /harrisonburg/muddy-feet/
-shop: Basteln
+shop: craft
 ---

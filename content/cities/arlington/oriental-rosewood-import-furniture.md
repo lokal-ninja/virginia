@@ -1,5 +1,5 @@
 ---
 title: "Oriental Rosewood Import Furniture"
 url: /arlington/oriental-rosewood-import-furniture/
-shop: Möbel
+shop: furniture
 ---

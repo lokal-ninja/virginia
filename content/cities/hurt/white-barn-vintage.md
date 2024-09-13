@@ -1,5 +1,5 @@
 ---
 title: "White Barn Vintage"
 url: /hurt/white-barn-vintage/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food City"
 url: /cedar-bluff/food-city/
-shop: Supermarkt
+shop: supermarket
 ---

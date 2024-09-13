@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /winchester/family-dollar-fort-collier-road/
-shop: Kramladen
+shop: variety store
 ---

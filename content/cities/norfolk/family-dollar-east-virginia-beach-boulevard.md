@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /norfolk/family-dollar-east-virginia-beach-boulevard/
-shop: Kramladen
+shop: variety store
 ---

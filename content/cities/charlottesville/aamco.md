@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /charlottesville/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Trim Design"
 url: /lynchburg/auto-trim-design/
-shop: Autowerkstatt
+shop: car repair
 ---

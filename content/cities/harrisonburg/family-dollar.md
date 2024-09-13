@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /harrisonburg/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

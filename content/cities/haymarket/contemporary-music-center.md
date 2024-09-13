@@ -1,5 +1,5 @@
 ---
 title: "Contemporary Music Center"
 url: /haymarket/contemporary-music-center/
-shop: Instrumente
+shop: musical instrument
 ---

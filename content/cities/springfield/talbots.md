@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /springfield/talbots/
-shop: Kleidung
+shop: clothes
 ---

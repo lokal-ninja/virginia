@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /glen-allen/west-marine/
-shop: Boot
+shop: boat
 ---

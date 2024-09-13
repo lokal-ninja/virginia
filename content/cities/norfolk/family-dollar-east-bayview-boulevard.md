@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /norfolk/family-dollar-east-bayview-boulevard/
-shop: Kramladen
+shop: variety store
 ---

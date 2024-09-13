@@ -1,5 +1,5 @@
 ---
 title: "Casey Honda"
 url: /newport-news/casey-honda/
-shop: Autohaus
+shop: car
 ---

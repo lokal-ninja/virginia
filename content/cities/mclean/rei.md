@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /mclean/rei/
-shop: Outdoor
+shop: outdoor
 ---

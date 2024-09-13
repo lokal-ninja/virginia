@@ -1,5 +1,5 @@
 ---
 title: "Baker-Post Funeral Home"
 url: /manassas/baker-post-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

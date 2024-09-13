@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /petersburg/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

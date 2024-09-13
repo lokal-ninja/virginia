@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /king-george/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

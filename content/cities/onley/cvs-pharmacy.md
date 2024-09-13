@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /onley/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

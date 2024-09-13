@@ -1,5 +1,5 @@
 ---
 title: "Cocolemon"
 url: /richmond/cocolemon/
-shop: Friseur
+shop: hairdresser
 ---

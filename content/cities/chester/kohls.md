@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /chester/kohls/
-shop: Warenhaus
+shop: department store
 ---

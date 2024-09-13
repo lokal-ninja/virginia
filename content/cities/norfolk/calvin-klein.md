@@ -1,5 +1,5 @@
 ---
 title: "Calvin Klein"
 url: /norfolk/calvin-klein/
-shop: Kleidung
+shop: clothes
 ---

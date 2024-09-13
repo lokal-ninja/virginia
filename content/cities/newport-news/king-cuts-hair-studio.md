@@ -1,5 +1,5 @@
 ---
 title: "King Cuts Hair Studio"
 url: /newport-news/king-cuts-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

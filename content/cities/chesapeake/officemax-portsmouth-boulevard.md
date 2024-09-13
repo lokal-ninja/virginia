@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /chesapeake/officemax-portsmouth-boulevard/
-shop: Schreibwaren
+shop: office supplies
 ---

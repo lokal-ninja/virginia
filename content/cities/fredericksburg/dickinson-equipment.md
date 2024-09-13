@@ -1,5 +1,5 @@
 ---
 title: "Dickinson Equipment"
 url: /fredericksburg/dickinson-equipment/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

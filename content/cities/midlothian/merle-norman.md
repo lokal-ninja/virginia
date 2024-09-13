@@ -1,5 +1,5 @@
 ---
 title: "Merle Norman"
 url: /midlothian/merle-norman/
-shop: Kosmetik
+shop: beauty
 ---

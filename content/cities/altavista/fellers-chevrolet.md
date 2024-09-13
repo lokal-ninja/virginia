@@ -1,5 +1,5 @@
 ---
 title: "Fellers Chevrolet"
 url: /altavista/fellers-chevrolet/
-shop: Autohaus
+shop: car
 ---

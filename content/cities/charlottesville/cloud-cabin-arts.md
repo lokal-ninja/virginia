@@ -1,5 +1,5 @@
 ---
 title: "Cloud Cabin Arts"
 url: /charlottesville/cloud-cabin-arts/
-shop: Möbel
+shop: furniture
 ---

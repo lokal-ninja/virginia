@@ -1,5 +1,5 @@
 ---
 title: "True Value"
 url: /lexington/true-value/
-shop: Eisenwaren
+shop: hardware
 ---

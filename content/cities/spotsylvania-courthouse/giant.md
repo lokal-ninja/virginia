@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /spotsylvania-courthouse/giant/
-shop: Supermarkt
+shop: supermarket
 ---

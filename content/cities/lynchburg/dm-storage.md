@@ -1,5 +1,5 @@
 ---
 title: "DM Storage"
 url: /lynchburg/dm-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /roanoke/exxon/
-shop: Lebensmittel
+shop: convenience
 ---

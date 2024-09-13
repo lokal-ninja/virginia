@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
 url: /newport-news/fedex/
-shop: Kopieren
+shop: copyshop
 ---

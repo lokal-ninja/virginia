@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /glen-allen/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

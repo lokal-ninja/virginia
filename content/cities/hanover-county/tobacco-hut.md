@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Hut"
 url: /hanover-county/tobacco-hut/
-shop: Tabak
+shop: tobacco
 ---

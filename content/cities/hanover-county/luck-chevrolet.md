@@ -1,5 +1,5 @@
 ---
 title: "Luck Chevrolet"
 url: /hanover-county/luck-chevrolet/
-shop: Autohaus
+shop: car
 ---

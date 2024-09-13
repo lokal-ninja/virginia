@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /sterling/petco/
-shop: Tiere
+shop: pet
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mineral
 url: /mineral/
-latitude: 38.082
-longitude: -77.853
+latitude: 37.78
+longitude: -77.892
 ---

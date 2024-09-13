@@ -1,5 +1,5 @@
 ---
 title: "Forever 21"
 url: /fairfax/forever-21/
-shop: Kleidung
+shop: clothes
 ---

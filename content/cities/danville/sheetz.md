@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /danville/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

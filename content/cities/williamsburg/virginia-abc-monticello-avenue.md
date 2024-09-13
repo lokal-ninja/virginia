@@ -1,5 +1,5 @@
 ---
 title: "Virginia ABC"
 url: /williamsburg/virginia-abc-monticello-avenue/
-shop: Spirituosen
+shop: alcohol
 ---

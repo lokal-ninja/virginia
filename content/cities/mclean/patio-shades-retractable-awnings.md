@@ -1,5 +1,5 @@
 ---
 title: "Patio Shades Retractable Awnings"
 url: /mclean/patio-shades-retractable-awnings/
-shop: Jalousien
+shop: window blind
 ---

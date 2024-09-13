@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /harrisonburg/petsmart/
-shop: Tiere
+shop: pet
 ---

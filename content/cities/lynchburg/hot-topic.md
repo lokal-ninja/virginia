@@ -1,5 +1,5 @@
 ---
 title: "Hot Topic"
 url: /lynchburg/hot-topic/
-shop: Kleidung
+shop: clothes
 ---

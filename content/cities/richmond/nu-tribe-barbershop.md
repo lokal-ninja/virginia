@@ -1,5 +1,5 @@
 ---
 title: "Nu Tribe Barbershop"
 url: /richmond/nu-tribe-barbershop/
-shop: Kosmetik
+shop: beauty
 ---

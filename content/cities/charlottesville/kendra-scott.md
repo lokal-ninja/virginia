@@ -1,5 +1,5 @@
 ---
 title: "Kendra Scott"
 url: /charlottesville/kendra-scott/
-shop: Schmuck
+shop: jewelry
 ---

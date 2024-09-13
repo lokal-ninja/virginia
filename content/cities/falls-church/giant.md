@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /falls-church/giant/
-shop: Supermarkt
+shop: supermarket
 ---

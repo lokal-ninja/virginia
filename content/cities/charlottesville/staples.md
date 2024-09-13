@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /charlottesville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

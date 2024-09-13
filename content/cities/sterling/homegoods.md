@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /sterling/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

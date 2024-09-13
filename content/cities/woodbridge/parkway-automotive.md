@@ -1,5 +1,5 @@
 ---
 title: "Parkway Automotive"
 url: /woodbridge/parkway-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

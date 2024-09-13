@@ -1,5 +1,5 @@
 ---
 title: "Mike's Place"
 url: /yorktown/mikes-place/
-shop: Friseur
+shop: hairdresser
 ---

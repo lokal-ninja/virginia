@@ -1,5 +1,5 @@
 ---
 title: "Standard Graphics"
 url: /arlington/standard-graphics/
-shop: Schreibwaren
+shop: office supplies
 ---

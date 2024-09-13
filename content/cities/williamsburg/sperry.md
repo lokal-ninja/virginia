@@ -1,5 +1,5 @@
 ---
 title: "Sperry"
 url: /williamsburg/sperry/
-shop: Schuhe
+shop: shoes
 ---

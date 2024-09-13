@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /gainesville/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

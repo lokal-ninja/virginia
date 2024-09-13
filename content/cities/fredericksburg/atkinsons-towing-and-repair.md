@@ -1,5 +1,5 @@
 ---
 title: "Atkinsons Towing and Repair"
 url: /fredericksburg/atkinsons-towing-and-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /richmond/marathon/
-shop: Autowerkstatt
+shop: car repair
 ---

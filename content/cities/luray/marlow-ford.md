@@ -1,5 +1,5 @@
 ---
 title: "Marlow Ford"
 url: /luray/marlow-ford/
-shop: Autohaus
+shop: car
 ---

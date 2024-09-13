@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /bristol/zales/
-shop: Schmuck
+shop: jewelry
 ---

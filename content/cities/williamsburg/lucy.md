@@ -1,5 +1,5 @@
 ---
 title: "Lucy"
 url: /williamsburg/lucy/
-shop: Kleidung
+shop: clothes
 ---

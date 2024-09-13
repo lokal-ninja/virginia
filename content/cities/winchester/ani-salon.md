@@ -1,5 +1,5 @@
 ---
 title: "Ani Salon"
 url: /winchester/ani-salon/
-shop: Friseur
+shop: hairdresser
 ---

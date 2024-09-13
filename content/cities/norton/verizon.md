@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /norton/verizon/
-shop: Handy
+shop: mobile phone
 ---

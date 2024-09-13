@@ -1,5 +1,5 @@
 ---
 title: "Laundrymat"
 url: /manassas/laundrymat/
-shop: Wäscherei
+shop: laundry
 ---

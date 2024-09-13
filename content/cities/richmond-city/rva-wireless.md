@@ -1,5 +1,5 @@
 ---
 title: "RVA Wireless"
 url: /richmond-city/rva-wireless/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /king-george/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

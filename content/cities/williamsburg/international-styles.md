@@ -1,5 +1,5 @@
 ---
 title: "International Styles"
 url: /williamsburg/international-styles/
-shop: Friseur
+shop: hairdresser
 ---

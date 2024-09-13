@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /harrisonburg/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

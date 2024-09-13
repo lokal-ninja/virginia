@@ -1,5 +1,5 @@
 ---
 title: "Bạch Tuyết"
 url: /falls-church/bach-tuyet/
-shop: Schmuck
+shop: jewelry
 ---

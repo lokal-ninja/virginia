@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /richmond/family-dollar-jefferson-davis-highway/
-shop: Kramladen
+shop: variety store
 ---

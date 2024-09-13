@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /springfield/verizon-rolling-road/
-shop: Handy
+shop: mobile phone
 ---

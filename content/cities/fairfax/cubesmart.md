@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /fairfax/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

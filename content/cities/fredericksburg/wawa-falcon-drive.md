@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /fredericksburg/wawa-falcon-drive/
-shop: Lebensmittel
+shop: convenience
 ---

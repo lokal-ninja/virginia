@@ -1,5 +1,5 @@
 ---
 title: "Irresistibles"
 url: /richmond/irresistibles/
-shop: Kleidung
+shop: clothes
 ---

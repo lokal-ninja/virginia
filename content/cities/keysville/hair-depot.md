@@ -1,5 +1,5 @@
 ---
 title: "Hair Depot"
 url: /keysville/hair-depot/
-shop: Friseur
+shop: hairdresser
 ---

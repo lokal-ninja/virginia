@@ -1,5 +1,5 @@
 ---
 title: "ABC Supply Company"
 url: /lynchburg/abc-supply-company/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JPA Fast Mart"
 url: /charlottesville/jpa-fast-mart/
-shop: Lebensmittel
+shop: convenience
 ---

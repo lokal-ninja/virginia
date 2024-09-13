@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /warrenton/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

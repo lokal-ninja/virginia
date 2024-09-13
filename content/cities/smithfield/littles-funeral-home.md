@@ -1,5 +1,5 @@
 ---
 title: "Little's Funeral Home"
 url: /smithfield/littles-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

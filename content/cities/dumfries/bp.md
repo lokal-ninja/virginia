@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /dumfries/bp/
-shop: Lebensmittel
+shop: convenience
 ---

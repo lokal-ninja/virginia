@@ -1,5 +1,5 @@
 ---
 title: "Eddins Ford"
 url: /madison/eddins-ford/
-shop: Autohaus
+shop: car
 ---

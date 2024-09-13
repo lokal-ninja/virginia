@@ -1,5 +1,5 @@
 ---
 title: "Beautifull"
 url: /richmond/beautifull/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

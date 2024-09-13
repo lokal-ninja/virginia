@@ -1,5 +1,5 @@
 ---
 title: "Encore Consignment Boutique"
 url: /alexandria/encore-consignment-boutique/
-shop: Kleidung
+shop: clothes
 ---

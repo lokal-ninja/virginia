@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /fredericksburg/target-carl-d-silver-parkway/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fab'rik"
 url: /richmond/fabrik/
-shop: Kleidung
+shop: clothes
 ---

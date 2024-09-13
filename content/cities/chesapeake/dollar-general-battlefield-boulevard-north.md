@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /chesapeake/dollar-general-battlefield-boulevard-north/
-shop: Kramladen
+shop: variety store
 ---

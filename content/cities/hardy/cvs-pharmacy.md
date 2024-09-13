@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /hardy/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

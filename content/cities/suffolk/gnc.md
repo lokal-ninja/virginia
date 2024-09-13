@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /suffolk/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

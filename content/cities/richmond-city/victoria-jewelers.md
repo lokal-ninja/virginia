@@ -1,5 +1,5 @@
 ---
 title: "Victoria Jewelers"
 url: /richmond-city/victoria-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

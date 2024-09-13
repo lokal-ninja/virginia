@@ -1,5 +1,5 @@
 ---
 title: "Mountain Patriots"
 url: /abingdon/mountain-patriots/
-shop: Andenken
+shop: gift
 ---

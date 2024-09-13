@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /chantilly/gamestop/
-shop: Videospiele
+shop: video games
 ---

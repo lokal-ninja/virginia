@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /winchester/best-buy/
-shop: Elektronik
+shop: electronics
 ---

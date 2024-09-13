@@ -1,5 +1,5 @@
 ---
 title: "Crème de la Crème"
 url: /richmond-city/creme-de-la-creme/
-shop: Raumausstattung
+shop: interior decoration
 ---

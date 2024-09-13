@@ -1,5 +1,5 @@
 ---
 title: "Scottsburg Auto Service"
 url: /scottsburg/scottsburg-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

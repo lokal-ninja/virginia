@@ -1,5 +1,5 @@
 ---
 title: "Autohaus"
 url: /york-county/autohaus/
-shop: Autohaus
+shop: car
 ---

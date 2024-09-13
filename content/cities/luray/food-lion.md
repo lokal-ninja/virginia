@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /luray/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

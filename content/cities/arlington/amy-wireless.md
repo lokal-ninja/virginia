@@ -1,5 +1,5 @@
 ---
 title: "Amy Wireless"
 url: /arlington/amy-wireless/
-shop: Handy
+shop: mobile phone
 ---

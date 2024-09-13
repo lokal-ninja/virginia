@@ -1,5 +1,5 @@
 ---
 title: "Asia Halal Supermarket"
 url: /arlington/asia-halal-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

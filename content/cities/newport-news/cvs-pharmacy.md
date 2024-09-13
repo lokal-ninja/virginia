@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /newport-news/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

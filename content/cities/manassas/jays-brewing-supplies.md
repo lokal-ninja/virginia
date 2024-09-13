@@ -1,5 +1,5 @@
 ---
 title: "Jay's Brewing Supplies"
 url: /manassas/jays-brewing-supplies/
-shop: Brauerei
+shop: brewery
 ---

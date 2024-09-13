@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /kingstowne/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

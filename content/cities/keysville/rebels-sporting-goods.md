@@ -1,5 +1,5 @@
 ---
 title: "Rebels Sporting Goods"
 url: /keysville/rebels-sporting-goods/
-shop: Sport
+shop: sports
 ---

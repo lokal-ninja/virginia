@@ -1,5 +1,5 @@
 ---
 title: "Yappie Cuttery"
 url: /manassas/yappie-cuttery/
-shop: Tiersalon
+shop: pet grooming
 ---

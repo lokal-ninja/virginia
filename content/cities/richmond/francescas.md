@@ -1,5 +1,5 @@
 ---
 title: "Francesca's"
 url: /richmond/francescas/
-shop: Kleidung
+shop: clothes
 ---

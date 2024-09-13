@@ -1,5 +1,5 @@
 ---
 title: "La Union Grocery"
 url: /arlington/la-union-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Court House Cleaners"
 url: /williamsburg/court-house-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

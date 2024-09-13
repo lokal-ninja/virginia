@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /virginia-beach/dollar-tree-diamond-springs-road/
-shop: Kramladen
+shop: variety store
 ---

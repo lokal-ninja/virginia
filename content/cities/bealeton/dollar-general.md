@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /bealeton/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

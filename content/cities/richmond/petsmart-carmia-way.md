@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /richmond/petsmart-carmia-way/
-shop: Tiere
+shop: pet
 ---

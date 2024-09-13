@@ -1,5 +1,5 @@
 ---
 title: "Harris Tire Company"
 url: /lynchburg/harris-tire-company-5th-street/
-shop: Autowerkstatt
+shop: car repair
 ---

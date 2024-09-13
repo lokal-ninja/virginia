@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /williamsburg/trek/
-shop: Fahrrad
+shop: bicycle
 ---

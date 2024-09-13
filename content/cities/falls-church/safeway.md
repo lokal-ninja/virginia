@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /falls-church/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

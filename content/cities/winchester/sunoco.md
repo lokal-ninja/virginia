@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /winchester/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

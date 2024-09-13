@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /chantilly/giant-riding-plaza/
-shop: Supermarkt
+shop: supermarket
 ---

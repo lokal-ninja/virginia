@@ -1,5 +1,5 @@
 ---
 title: "Old Dominion Guns"
 url: /carrollton/old-dominion-guns/
-shop: Waffen
+shop: weapons
 ---

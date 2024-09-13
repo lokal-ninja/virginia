@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /fairlawn/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

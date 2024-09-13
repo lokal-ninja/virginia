@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Market"
 url: /lynchburg/sunshine-market/
-shop: Lebensmittel
+shop: convenience
 ---

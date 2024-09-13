@@ -1,5 +1,5 @@
 ---
 title: "Clay Express Mart"
 url: /richmond-city/clay-express-mart/
-shop: Lebensmittel
+shop: convenience
 ---

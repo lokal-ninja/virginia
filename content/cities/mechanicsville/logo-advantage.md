@@ -1,5 +1,5 @@
 ---
 title: "Logo Advantage"
 url: /mechanicsville/logo-advantage/
-shop: Kleidung
+shop: clothes
 ---

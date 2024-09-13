@@ -1,5 +1,5 @@
 ---
 title: "Kramer's Market"
 url: /richmond-city/kramers-market/
-shop: Lebensmittel
+shop: convenience
 ---

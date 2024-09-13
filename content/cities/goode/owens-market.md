@@ -1,5 +1,5 @@
 ---
 title: "Owens Market"
 url: /goode/owens-market/
-shop: Lebensmittel
+shop: convenience
 ---

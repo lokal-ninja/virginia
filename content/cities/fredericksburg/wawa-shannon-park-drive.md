@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /fredericksburg/wawa-shannon-park-drive/
-shop: Lebensmittel
+shop: convenience
 ---

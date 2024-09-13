@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /portsmouth/walgreens-frederick-boulevard/
-shop: Drogerie
+shop: chemist
 ---

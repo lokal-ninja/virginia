@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /virginia-beach/burlington/
-shop: Warenhaus
+shop: department store
 ---

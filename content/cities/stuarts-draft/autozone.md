@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /stuarts-draft/autozone/
-shop: Autoteile
+shop: car parts
 ---

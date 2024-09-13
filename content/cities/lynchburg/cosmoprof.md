@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /lynchburg/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

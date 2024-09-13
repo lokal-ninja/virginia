@@ -1,5 +1,5 @@
 ---
 title: "JoAnn Agnone CMT"
 url: /charlottesville/joann-agnone-cmt/
-shop: Massage
+shop: massage
 ---

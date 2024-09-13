@@ -1,5 +1,5 @@
 ---
 title: "Southeastern Marine"
 url: /henrico/southeastern-marine/
-shop: Boot
+shop: boat
 ---

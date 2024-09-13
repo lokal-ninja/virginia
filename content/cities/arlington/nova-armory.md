@@ -1,5 +1,5 @@
 ---
 title: "NOVA Armory"
 url: /arlington/nova-armory/
-shop: Waffen
+shop: weapons
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roxie Daisy"
 url: /charlottesville/roxie-daisy/
-shop: Leerstehend
+shop: vacant
 ---

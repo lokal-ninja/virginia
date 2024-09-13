@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /falls-church/harris-teeter-columbia-pike/
-shop: Supermarkt
+shop: supermarket
 ---

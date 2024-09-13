@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /ashburn/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

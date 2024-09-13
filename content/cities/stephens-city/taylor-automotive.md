@@ -1,5 +1,5 @@
 ---
 title: "Taylor Automotive"
 url: /stephens-city/taylor-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

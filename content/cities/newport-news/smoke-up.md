@@ -1,5 +1,5 @@
 ---
 title: "Smoke Up"
 url: /newport-news/smoke-up/
-shop: Tabak
+shop: tobacco
 ---

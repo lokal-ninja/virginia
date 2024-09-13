@@ -1,5 +1,5 @@
 ---
 title: "Consuelo's"
 url: /manassas/consuelos/
-shop: Kosmetik
+shop: beauty
 ---

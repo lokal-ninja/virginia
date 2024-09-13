@@ -1,5 +1,5 @@
 ---
 title: "Le Nails"
 url: /newport-news/le-nails/
-shop: Kosmetik
+shop: beauty
 ---

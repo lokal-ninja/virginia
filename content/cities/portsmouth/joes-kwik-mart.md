@@ -1,5 +1,5 @@
 ---
 title: "Joe's Kwik Mart"
 url: /portsmouth/joes-kwik-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /front-royal/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

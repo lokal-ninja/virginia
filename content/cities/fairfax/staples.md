@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /fairfax/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /leesburg/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Southern States"
 url: /fredericksburg/southern-states/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

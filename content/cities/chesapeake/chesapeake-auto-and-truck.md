@@ -1,5 +1,5 @@
 ---
 title: "Chesapeake Auto and Truck"
 url: /chesapeake/chesapeake-auto-and-truck/
-shop: Autowerkstatt
+shop: car repair
 ---

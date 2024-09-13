@@ -1,5 +1,5 @@
 ---
 title: "Auto Experts"
 url: /blacksburg/auto-experts/
-shop: Autowerkstatt
+shop: car repair
 ---

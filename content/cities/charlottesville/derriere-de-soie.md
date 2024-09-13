@@ -1,5 +1,5 @@
 ---
 title: "Derriere De Soie"
 url: /charlottesville/derriere-de-soie/
-shop: Kleidung
+shop: clothes
 ---

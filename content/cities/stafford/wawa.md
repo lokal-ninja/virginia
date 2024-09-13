@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /stafford/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

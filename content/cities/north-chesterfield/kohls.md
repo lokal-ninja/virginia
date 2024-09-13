@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /north-chesterfield/kohls/
-shop: Warenhaus
+shop: department store
 ---

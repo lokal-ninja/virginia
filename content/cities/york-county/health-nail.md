@@ -1,5 +1,5 @@
 ---
 title: "Health Nail"
 url: /york-county/health-nail/
-shop: Kosmetik
+shop: beauty
 ---

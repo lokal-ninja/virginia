@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /virginia-beach/petsmart/
-shop: Tiere
+shop: pet
 ---

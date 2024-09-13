@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /virginia-beach/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

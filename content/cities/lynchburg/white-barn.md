@@ -1,5 +1,5 @@
 ---
 title: "White Barn"
 url: /lynchburg/white-barn/
-shop: Kerzen
+shop: candles
 ---

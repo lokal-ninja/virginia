@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /alexandria/ross-little-river-turnpike/
-shop: Warenhaus
+shop: department store
 ---

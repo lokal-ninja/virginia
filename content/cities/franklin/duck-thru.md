@@ -1,5 +1,5 @@
 ---
 title: "Duck Thru"
 url: /franklin/duck-thru/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /fredericksburg/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

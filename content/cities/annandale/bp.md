@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /annandale/bp/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coniston Classics"
 url: /cartersville/coniston-classics/
-shop: Autowerkstatt
+shop: car repair
 ---

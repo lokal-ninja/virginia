@@ -1,5 +1,5 @@
 ---
 title: "REEDS Jewelers"
 url: /newport-news/reeds-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

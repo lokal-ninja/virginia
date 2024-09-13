@@ -1,5 +1,5 @@
 ---
 title: "Commonwealth Lighting Of Virginia"
 url: /fredericksburg/commonwealth-lighting-of-virginia/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /richmond/staples-carmia-way/
-shop: Schreibwaren
+shop: office supplies
 ---

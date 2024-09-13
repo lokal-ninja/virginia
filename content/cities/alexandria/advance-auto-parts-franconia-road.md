@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /alexandria/advance-auto-parts-franconia-road/
-shop: Autoteile
+shop: car parts
 ---

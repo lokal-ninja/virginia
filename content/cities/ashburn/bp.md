@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /ashburn/bp/
-shop: Lebensmittel
+shop: convenience
 ---

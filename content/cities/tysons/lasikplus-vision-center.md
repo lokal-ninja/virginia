@@ -1,5 +1,5 @@
 ---
 title: "LasikPlus Vision Center"
 url: /tysons/lasikplus-vision-center/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /burke/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

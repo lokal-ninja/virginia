@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /hampton/public-storage/
-shop: Mieten
+shop: storage rental
 ---

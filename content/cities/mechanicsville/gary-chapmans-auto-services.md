@@ -1,5 +1,5 @@
 ---
 title: "Gary Chapman's Auto Services"
 url: /mechanicsville/gary-chapmans-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /alexandria/trek/
-shop: Fahrrad
+shop: bicycle
 ---

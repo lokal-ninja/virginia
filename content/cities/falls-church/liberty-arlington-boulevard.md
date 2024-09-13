@@ -1,5 +1,5 @@
 ---
 title: "Liberty"
 url: /falls-church/liberty-arlington-boulevard/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wax Moon"
 url: /richmond/wax-moon/
-shop: Musik
+shop: music
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seminary Cleaners"
 url: /alexandria/seminary-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WB Comics"
 url: /newport-news/wb-comics/
-shop: Bücher
+shop: books
 ---

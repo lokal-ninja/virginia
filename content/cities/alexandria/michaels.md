@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /alexandria/michaels/
-shop: Basteln
+shop: craft
 ---

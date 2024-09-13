@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /manassas/burlington/
-shop: Warenhaus
+shop: department store
 ---

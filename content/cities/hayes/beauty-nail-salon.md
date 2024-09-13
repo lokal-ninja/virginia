@@ -1,5 +1,5 @@
 ---
 title: "Beauty Nail Salon"
 url: /hayes/beauty-nail-salon/
-shop: Kosmetik
+shop: beauty
 ---

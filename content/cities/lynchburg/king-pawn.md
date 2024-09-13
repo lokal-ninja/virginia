@@ -1,5 +1,5 @@
 ---
 title: "King Pawn"
 url: /lynchburg/king-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

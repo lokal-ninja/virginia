@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /suffolk/lenscrafters/
-shop: Optiker
+shop: optician
 ---

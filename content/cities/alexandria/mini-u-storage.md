@@ -1,5 +1,5 @@
 ---
 title: "Mini U Storage"
 url: /alexandria/mini-u-storage/
-shop: Mieten
+shop: storage rental
 ---

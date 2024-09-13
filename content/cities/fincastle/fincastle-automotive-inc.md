@@ -1,5 +1,5 @@
 ---
 title: "Fincastle Automotive Inc."
 url: /fincastle/fincastle-automotive-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

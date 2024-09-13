@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /colonial-heights/burlington/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,6 +1,6 @@
 ---
 title: Goochland
 url: /goochland/
-latitude: 37.7
-longitude: -77.888
+latitude: 37.699
+longitude: -77.889
 ---

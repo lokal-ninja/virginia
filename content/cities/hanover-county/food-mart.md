@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /hanover-county/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

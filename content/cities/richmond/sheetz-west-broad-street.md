@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /richmond/sheetz-west-broad-street/
-shop: Lebensmittel
+shop: convenience
 ---

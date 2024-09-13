@@ -1,5 +1,5 @@
 ---
 title: "Plan9 Music"
 url: /charlottesville/plan9-music/
-shop: Musik
+shop: music
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corky's"
 url: /fredericksburg/corkys/
-shop: Militär
+shop: military
 ---

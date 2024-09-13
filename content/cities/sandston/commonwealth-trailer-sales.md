@@ -1,5 +1,5 @@
 ---
 title: "Commonwealth Trailer Sales"
 url: /sandston/commonwealth-trailer-sales/
-shop: Wohnwagen
+shop: caravan
 ---

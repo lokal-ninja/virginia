@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bedford/autozone/
-shop: Autoteile
+shop: car parts
 ---

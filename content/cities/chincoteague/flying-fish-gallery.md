@@ -1,5 +1,5 @@
 ---
 title: "Flying Fish Gallery"
 url: /chincoteague/flying-fish-gallery/
-shop: Kunst
+shop: art
 ---

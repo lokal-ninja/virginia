@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /williamsburg/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gold N Diamonds"
 url: /hampton/gold-n-diamonds/
-shop: Schmuck
+shop: jewelry
 ---

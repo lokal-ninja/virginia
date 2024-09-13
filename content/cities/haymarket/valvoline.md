@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /haymarket/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

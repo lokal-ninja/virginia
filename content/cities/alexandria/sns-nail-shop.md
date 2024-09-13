@@ -1,5 +1,5 @@
 ---
 title: "SNS Nail Shop"
 url: /alexandria/sns-nail-shop/
-shop: Kosmetik
+shop: beauty
 ---

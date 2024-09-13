@@ -1,5 +1,5 @@
 ---
 title: "First Virginia"
 url: /lynchburg/first-virginia/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Easter Island"
 url: /lynchburg/easter-island/
-shop: Andenken
+shop: gift
 ---

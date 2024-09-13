@@ -1,5 +1,5 @@
 ---
 title: "Fluvanna Self Storage East location"
 url: /palmyra/fluvanna-self-storage-east-location/
-shop: Mieten
+shop: storage rental
 ---

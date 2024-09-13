@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /dumfries/walgreens/
-shop: Drogerie
+shop: chemist
 ---

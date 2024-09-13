@@ -1,5 +1,5 @@
 ---
 title: "pOpshelf"
 url: /newport-news/popshelf/
-shop: Kramladen
+shop: variety store
 ---

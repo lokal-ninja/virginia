@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /james-city-county/trader-joes/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /fairfax/kia/
-shop: Autohaus
+shop: car
 ---

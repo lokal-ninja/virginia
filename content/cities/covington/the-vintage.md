@@ -1,5 +1,5 @@
 ---
 title: "The Vintage"
 url: /covington/the-vintage/
-shop: Blumen
+shop: florist
 ---

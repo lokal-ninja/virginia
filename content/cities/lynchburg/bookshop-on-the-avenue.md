@@ -1,5 +1,5 @@
 ---
 title: "Bookshop On The Avenue"
 url: /lynchburg/bookshop-on-the-avenue/
-shop: Bücher
+shop: books
 ---

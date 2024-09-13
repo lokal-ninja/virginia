@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /farmville/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /manassas/bp-dumfries-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /lynchburg/kohls/
-shop: Warenhaus
+shop: department store
 ---

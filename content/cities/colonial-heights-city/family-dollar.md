@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /colonial-heights-city/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

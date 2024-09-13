@@ -1,5 +1,5 @@
 ---
 title: "Jinny’s Spa"
 url: /henrico/jinnys-spa/
-shop: Massage
+shop: massage
 ---

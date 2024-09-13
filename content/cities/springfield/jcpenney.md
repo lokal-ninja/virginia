@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /springfield/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

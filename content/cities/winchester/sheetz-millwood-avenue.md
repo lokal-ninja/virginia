@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /winchester/sheetz-millwood-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

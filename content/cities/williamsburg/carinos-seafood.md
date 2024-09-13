@@ -1,5 +1,5 @@
 ---
 title: "Carino's Seafood"
 url: /williamsburg/carinos-seafood/
-shop: Fisch
+shop: seafood
 ---

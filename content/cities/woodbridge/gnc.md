@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /woodbridge/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

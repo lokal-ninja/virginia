@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /manassas/gamestop/
-shop: Videospiele
+shop: video games
 ---

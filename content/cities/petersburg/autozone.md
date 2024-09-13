@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /petersburg/autozone/
-shop: Autoteile
+shop: car parts
 ---

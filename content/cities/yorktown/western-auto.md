@@ -1,5 +1,5 @@
 ---
 title: "Western Auto"
 url: /yorktown/western-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

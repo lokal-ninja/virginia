@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /fredericksburg/verizon/
-shop: Handy
+shop: mobile phone
 ---

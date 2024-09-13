@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /sterling/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

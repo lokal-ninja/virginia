@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /woodbridge/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

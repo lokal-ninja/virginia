@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /lorton/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

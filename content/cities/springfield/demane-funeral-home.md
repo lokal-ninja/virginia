@@ -1,5 +1,5 @@
 ---
 title: "Demane Funeral Home"
 url: /springfield/demane-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

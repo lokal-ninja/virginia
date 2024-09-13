@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /chesapeake/firestone-north-battlefield-boulevard/
-shop: Autowerkstatt
+shop: car repair
 ---

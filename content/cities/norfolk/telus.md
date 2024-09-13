@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /norfolk/telus/
-shop: Handy
+shop: mobile phone
 ---

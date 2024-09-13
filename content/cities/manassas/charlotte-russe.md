@@ -1,5 +1,5 @@
 ---
 title: "Charlotte Russe"
 url: /manassas/charlotte-russe/
-shop: Kleidung
+shop: clothes
 ---

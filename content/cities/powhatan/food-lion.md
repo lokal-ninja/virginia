@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /powhatan/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

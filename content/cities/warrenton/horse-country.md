@@ -1,5 +1,5 @@
 ---
 title: "Horse Country"
 url: /warrenton/horse-country/
-shop: Tiere
+shop: pet
 ---

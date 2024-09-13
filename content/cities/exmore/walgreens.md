@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /exmore/walgreens/
-shop: Drogerie
+shop: chemist
 ---

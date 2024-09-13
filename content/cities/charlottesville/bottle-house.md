@@ -1,5 +1,5 @@
 ---
 title: "Bottle House"
 url: /charlottesville/bottle-house/
-shop: Wein
+shop: wine
 ---

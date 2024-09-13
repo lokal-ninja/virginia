@@ -1,5 +1,5 @@
 ---
 title: "Winchester"
 url: /winchester/winchester/
-shop: Kopieren
+shop: copyshop
 ---

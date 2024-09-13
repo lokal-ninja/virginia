@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /fairfax/michaels/
-shop: Basteln
+shop: craft
 ---

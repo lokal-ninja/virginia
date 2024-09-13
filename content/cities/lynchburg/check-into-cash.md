@@ -1,5 +1,5 @@
 ---
 title: "Check Into Cash"
 url: /lynchburg/check-into-cash/
-shop: Leiher
+shop: pawnbroker
 ---

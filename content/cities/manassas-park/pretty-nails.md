@@ -1,5 +1,5 @@
 ---
 title: "Pretty Nails"
 url: /manassas-park/pretty-nails/
-shop: Kosmetik
+shop: beauty
 ---

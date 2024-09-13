@@ -1,5 +1,5 @@
 ---
 title: "Bennett Funeral Home"
 url: /mechanicsville/bennett-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

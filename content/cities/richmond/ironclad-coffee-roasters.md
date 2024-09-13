@@ -1,5 +1,5 @@
 ---
 title: "Ironclad Coffee Roasters"
 url: /richmond/ironclad-coffee-roasters/
-shop: Kaffee
+shop: coffee
 ---

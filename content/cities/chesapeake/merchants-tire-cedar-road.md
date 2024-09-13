@@ -1,5 +1,5 @@
 ---
 title: "Merchants Tire"
 url: /chesapeake/merchants-tire-cedar-road/
-shop: Autowerkstatt
+shop: car repair
 ---

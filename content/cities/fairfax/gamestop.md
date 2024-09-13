@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /fairfax/gamestop/
-shop: Videospiele
+shop: video games
 ---

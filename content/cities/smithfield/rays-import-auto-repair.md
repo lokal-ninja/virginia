@@ -1,5 +1,5 @@
 ---
 title: "Ray's Import Auto Repair"
 url: /smithfield/rays-import-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

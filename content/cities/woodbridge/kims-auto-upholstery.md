@@ -1,5 +1,5 @@
 ---
 title: "Kim's Auto Upholstery"
 url: /woodbridge/kims-auto-upholstery/
-shop: Autowerkstatt
+shop: car repair
 ---

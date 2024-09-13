@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /hopewell/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

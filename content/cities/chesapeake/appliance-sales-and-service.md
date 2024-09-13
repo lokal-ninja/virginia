@@ -1,5 +1,5 @@
 ---
 title: "Appliance Sales and Service"
 url: /chesapeake/appliance-sales-and-service/
-shop: Haushaltsgeräte
+shop: appliance
 ---

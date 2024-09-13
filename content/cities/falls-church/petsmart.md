@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /falls-church/petsmart/
-shop: Tiere
+shop: pet
 ---

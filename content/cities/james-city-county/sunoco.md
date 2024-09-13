@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /james-city-county/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

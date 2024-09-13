@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /newport-news/roses/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /manassas/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

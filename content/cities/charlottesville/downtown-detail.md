@@ -1,5 +1,5 @@
 ---
 title: "Downtown Detail"
 url: /charlottesville/downtown-detail/
-shop: Autowerkstatt
+shop: car repair
 ---

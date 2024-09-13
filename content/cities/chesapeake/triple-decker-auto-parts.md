@@ -1,5 +1,5 @@
 ---
 title: "Triple Decker Auto Parts"
 url: /chesapeake/triple-decker-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

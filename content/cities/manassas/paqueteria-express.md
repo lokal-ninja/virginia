@@ -1,5 +1,5 @@
 ---
 title: "Paqueteria Express"
 url: /manassas/paqueteria-express/
-shop: Allgemein
+shop: shop
 ---

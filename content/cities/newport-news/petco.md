@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /newport-news/petco/
-shop: Tiere
+shop: pet
 ---

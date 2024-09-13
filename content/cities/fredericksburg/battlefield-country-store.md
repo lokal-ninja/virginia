@@ -1,5 +1,5 @@
 ---
 title: "Battlefield Country Store"
 url: /fredericksburg/battlefield-country-store/
-shop: Supermarkt
+shop: supermarket
 ---

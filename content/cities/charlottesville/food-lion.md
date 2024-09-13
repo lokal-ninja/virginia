@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /charlottesville/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

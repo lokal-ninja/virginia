@@ -1,5 +1,5 @@
 ---
 title: "Fruit Fixed"
 url: /richmond-city/fruit-fixed/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Powhatan Auto Repair"
 url: /powhatan/powhatan-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

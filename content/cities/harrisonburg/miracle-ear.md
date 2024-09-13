@@ -1,5 +1,5 @@
 ---
 title: "Miracle-Ear"
 url: /harrisonburg/miracle-ear/
-shop: Hörgeräte
+shop: hearing aids
 ---

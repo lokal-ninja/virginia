@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /christiansburg/gamestop/
-shop: Videospiele
+shop: video games
 ---

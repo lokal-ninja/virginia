@@ -1,5 +1,5 @@
 ---
 title: "ABC"
 url: /alexandria/abc/
-shop: Spirituosen
+shop: alcohol
 ---

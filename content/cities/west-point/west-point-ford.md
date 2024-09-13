@@ -1,5 +1,5 @@
 ---
 title: "West Point Ford"
 url: /west-point/west-point-ford/
-shop: Autohaus
+shop: car
 ---

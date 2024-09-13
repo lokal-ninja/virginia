@@ -1,5 +1,5 @@
 ---
 title: "Salon Eleven"
 url: /harrisonburg/salon-eleven/
-shop: Friseur
+shop: hairdresser
 ---

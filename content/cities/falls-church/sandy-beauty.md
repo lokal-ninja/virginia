@@ -1,5 +1,5 @@
 ---
 title: "Sandy Beauty"
 url: /falls-church/sandy-beauty/
-shop: Kosmetik
+shop: beauty
 ---

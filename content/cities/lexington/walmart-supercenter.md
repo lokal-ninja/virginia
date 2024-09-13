@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /lexington/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

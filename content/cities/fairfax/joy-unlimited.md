@@ -1,5 +1,5 @@
 ---
 title: "Joy Unlimited"
 url: /fairfax/joy-unlimited/
-shop: Bücher
+shop: books
 ---

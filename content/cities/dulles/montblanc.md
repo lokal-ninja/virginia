@@ -1,5 +1,5 @@
 ---
 title: "Montblanc"
 url: /dulles/montblanc/
-shop: Modehaus
+shop: boutique
 ---

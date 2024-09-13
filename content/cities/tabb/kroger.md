@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /tabb/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

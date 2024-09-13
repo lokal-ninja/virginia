@@ -1,5 +1,5 @@
 ---
 title: "FasMart"
 url: /spotsylvania/fasmart/
-shop: Lebensmittel
+shop: convenience
 ---

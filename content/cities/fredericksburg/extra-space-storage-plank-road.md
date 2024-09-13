@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
 url: /fredericksburg/extra-space-storage-plank-road/
-shop: Mieten
+shop: storage rental
 ---

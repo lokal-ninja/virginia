@@ -1,5 +1,5 @@
 ---
 title: "Premier Automotive"
 url: /petersburg/premier-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

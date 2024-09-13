@@ -1,5 +1,5 @@
 ---
 title: "Little Earles"
 url: /chesapeake/little-earles/
-shop: Lebensmittel
+shop: convenience
 ---

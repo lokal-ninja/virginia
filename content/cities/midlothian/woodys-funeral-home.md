@@ -1,5 +1,5 @@
 ---
 title: "Woody's Funeral Home"
 url: /midlothian/woodys-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

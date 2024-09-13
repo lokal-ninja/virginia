@@ -1,5 +1,5 @@
 ---
 title: "Torrid"
 url: /fairfax/torrid/
-shop: Kleidung
+shop: clothes
 ---

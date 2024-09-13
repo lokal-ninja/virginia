@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /manassas/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

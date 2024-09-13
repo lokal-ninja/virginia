@@ -1,5 +1,5 @@
 ---
 title: "Earth to Water"
 url: /chesapeake/earth-to-water/
-shop: Outdoor
+shop: outdoor
 ---

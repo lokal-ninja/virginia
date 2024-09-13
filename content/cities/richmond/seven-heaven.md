@@ -1,5 +1,5 @@
 ---
 title: "Seven Heaven"
 url: /richmond/seven-heaven/
-shop: Lebensmittel
+shop: convenience
 ---
