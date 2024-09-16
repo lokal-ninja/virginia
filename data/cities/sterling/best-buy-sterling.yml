@@ -1,11 +1,11 @@
 id: 48234472
-type: way
+type: node
 latitude: 39.0236
 longitude: -77.42253
 postcode: "20166"
 city: Sterling
-street: "Dulles Eastern Plaza"
-housenumber: 45575
-phone: "+1 703-430-2150"
+street: Dulles Eastern Plaza
+housenumber: "45575"
+phone: +1 703-430-2150
 opening_hours: ""
-website: "https://stores.bestbuy.com/va/sterling/45575-dulles-eastern-plz-146.html"
+website: https://stores.bestbuy.com/va/sterling/45575-dulles-eastern-plz-146.html

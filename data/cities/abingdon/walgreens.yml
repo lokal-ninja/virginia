@@ -1,11 +1,11 @@
 id: 972133677
-type: way
+type: node
 latitude: 36.70578
 longitude: -81.99546
 postcode: "24210"
 city: Abingdon
-street: "West Main Street"
-housenumber: 688
-phone: "+1-276-628-2300"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-668+W+MAIN+ST-Abingdon-VA-24210/id=9948"
+street: West Main Street
+housenumber: "688"
+phone: +1-276-628-2300
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-668+W+MAIN+ST-Abingdon-VA-24210/id=9948

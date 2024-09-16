@@ -1,11 +1,11 @@
 id: 704614991
-type: way
+type: node
 latitude: 37.62617
 longitude: -77.50369
 postcode: "23228"
 city: Henrico
-street: "Hermitage Road"
-housenumber: 9101
-phone: "+1 844-747-5435"
+street: Hermitage Road
+housenumber: "9101"
+phone: +1 844-747-5435
 opening_hours: ""
-website: "https://www.lidl.com"
+website: https://www.lidl.com

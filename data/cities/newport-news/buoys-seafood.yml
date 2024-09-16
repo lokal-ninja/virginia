@@ -1,11 +1,11 @@
 id: 333192727
-type: way
+type: node
 latitude: 36.9702
 longitude: -76.41459
 postcode: "23607"
 city: Newport News
-street: "Jefferson Avenue"
-housenumber: 807
-phone: "+1-757-245-4000"
-opening_hours: "Tu-Sa 09:00-17:00"
+street: Jefferson Avenue
+housenumber: "807"
+phone: +1-757-245-4000
+opening_hours: Tu-Sa 09:00-17:00
 website: ""

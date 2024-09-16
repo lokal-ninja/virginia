@@ -1,11 +1,11 @@
 id: 1083320202
-type: way
+type: node
 latitude: 37.44534
 longitude: -79.21363
 postcode: "24503"
 city: Lynchburg
-street: "Boonsboro Road"
-housenumber: 4706
-phone: "1 434 384 1214"
+street: Boonsboro Road
+housenumber: "4706"
+phone: 1 434 384 1214
 opening_hours: ""
 website: ""

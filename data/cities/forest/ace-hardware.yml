@@ -1,11 +1,11 @@
 id: 1083389208
-type: way
+type: node
 latitude: 37.36416
 longitude: -79.29333
-postcode: "24551-3900"
+postcode: 24551-3900
 city: Forest
-street: "Forest Road"
-housenumber: 15097
-phone: "+1 434-363-3797"
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:30; Su 11:00-17:30"
+street: Forest Road
+housenumber: "15097"
+phone: +1 434-363-3797
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:30; Su 11:00-17:30
 website: ""

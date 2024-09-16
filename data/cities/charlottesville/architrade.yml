@@ -1,11 +1,11 @@
 id: 385201561
-type: way
+type: node
 latitude: 38.02182
 longitude: -78.47262
 postcode: "22903"
 city: Charlottesville
-street: "Monticello Road"
-housenumber: 1116
+street: Monticello Road
+housenumber: "1116"
 phone: ""
 opening_hours: ""
 website: ""

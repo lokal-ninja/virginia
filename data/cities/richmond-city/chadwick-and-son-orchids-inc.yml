@@ -1,11 +1,11 @@
 id: 367736557
-type: way
+type: node
 latitude: 37.55674
 longitude: -77.47782
 postcode: "23221"
 city: Richmond City
-street: "North Belmont Avenue"
-housenumber: 203
-phone: "+1 804-359-6724"
-opening_hours: "Mo-Sa 10:00-18:00; Su off"
-website: "https://www.chadwickorchids.com/"
+street: North Belmont Avenue
+housenumber: "203"
+phone: +1 804-359-6724
+opening_hours: Mo-Sa 10:00-18:00; Su off
+website: https://www.chadwickorchids.com/

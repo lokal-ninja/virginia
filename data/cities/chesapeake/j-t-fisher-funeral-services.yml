@@ -1,11 +1,11 @@
 id: 312251783
-type: way
+type: node
 latitude: 36.78064
 longitude: -76.33676
 postcode: "23323"
 city: Chesapeake
-street: "George Washington Highway North"
-housenumber: 1080
+street: George Washington Highway North
+housenumber: "1080"
 phone: ""
 opening_hours: ""
 website: ""

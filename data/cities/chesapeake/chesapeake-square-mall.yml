@@ -1,11 +1,11 @@
 id: 312169762
-type: way
+type: node
 latitude: 36.82883
 longitude: -76.414
 postcode: "23321"
 city: Chesapeake
-street: "Portsmouth Boulevard"
-housenumber: 4200
+street: Portsmouth Boulevard
+housenumber: "4200"
 phone: ""
 opening_hours: ""
 website: ""

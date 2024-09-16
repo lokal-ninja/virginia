@@ -1,11 +1,11 @@
 id: 196400911
-type: way
+type: node
 latitude: 38.85655
 longitude: -77.39191
-postcode: "22033-5179"
+postcode: 22033-5179
 city: Fairfax
-street: "Fair Lakes Shop Center"
-housenumber: 13033
-phone: "+1 833-471-7086"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://stores.aldi.us/va/fairfax/13033-fair-lakes-shop-ctr"
+street: Fair Lakes Shop Center
+housenumber: "13033"
+phone: +1 833-471-7086
+opening_hours: Mo-Su 08:00-21:00
+website: https://stores.aldi.us/va/fairfax/13033-fair-lakes-shop-ctr

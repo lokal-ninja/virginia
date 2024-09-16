@@ -1,11 +1,11 @@
 id: 368379656
-type: way
+type: node
 latitude: 38.88544
 longitude: -77.11278
 postcode: "22201"
 city: Arlington
-street: "Washington Boulevard"
-housenumber: 4332
-phone: "+1 877-465-5224"
-opening_hours: "Mo-Sa 08:00-17:00"
-website: "https://www.safelite.com/stores/arlington"
+street: Washington Boulevard
+housenumber: "4332"
+phone: +1 877-465-5224
+opening_hours: Mo-Sa 08:00-17:00
+website: https://www.safelite.com/stores/arlington

@@ -1,11 +1,11 @@
 id: 1312089377
-type: way
+type: node
 latitude: 37.95895
 longitude: -76.75887
 postcode: "22572"
 city: Warsaw
-street: "West Richmond Road"
-housenumber: 5757
+street: West Richmond Road
+housenumber: "5757"
 phone: ""
 opening_hours: ""
 website: ""

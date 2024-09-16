@@ -4,8 +4,8 @@ latitude: 38.80542
 longitude: -77.04794
 postcode: "22314"
 city: Alexandria
-street: "North Columbus Street"
-housenumber: 101
+street: North Columbus Street
+housenumber: "101"
 phone: "7036353340"
-opening_hours: "24/7"
-website: "https://www.locksmithalexandria.com/"
+opening_hours: 24/7
+website: https://www.locksmithalexandria.com/

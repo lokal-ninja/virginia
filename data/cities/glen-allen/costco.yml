@@ -1,11 +1,11 @@
 id: 711597309
-type: way
+type: node
 latitude: 37.64305
 longitude: -77.56141
 postcode: "23060"
 city: Glen Allen
-street: "West Broad Street"
-housenumber: 9650
-phone: "+1 804-727-3050"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00; PH off"
-website: "https://www.costco.com/warehouse-locations/w-henrico-glen-allen-va-205.html"
+street: West Broad Street
+housenumber: "9650"
+phone: +1 804-727-3050
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00; PH off
+website: https://www.costco.com/warehouse-locations/w-henrico-glen-allen-va-205.html

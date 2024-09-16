@@ -1,11 +1,11 @@
 id: 414551499
-type: way
+type: node
 latitude: 36.8131
 longitude: -76.16625
 postcode: "23464"
 city: Virginia Beach
-street: "Providence Road"
-housenumber: 5201
+street: Providence Road
+housenumber: "5201"
 phone: ""
 opening_hours: ""
 website: ""

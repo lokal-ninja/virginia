@@ -1,11 +1,11 @@
 id: 705514587
-type: way
+type: node
 latitude: 37.60094
 longitude: -77.37671
 postcode: "23111"
 city: Mechanicsville
-street: "Mechanicsville Turnpike"
-housenumber: 8106
-phone: "+1 804-730-2665"
+street: Mechanicsville Turnpike
+housenumber: "8106"
+phone: +1 804-730-2665
 opening_hours: ""
-website: "https://booksbeadsmore.com/"
+website: https://booksbeadsmore.com/

@@ -1,11 +1,11 @@
 id: 186032042
-type: way
+type: node
 latitude: 38.79414
 longitude: -77.60379
 postcode: "20155"
 city: Gainesville
-street: "Gateway Center Drive"
-housenumber: 13093
-phone: "+1 571-248-4944"
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://stores.bestbuy.com/va/gainesville/13093-gateway-center-dr-1449.html"
+street: Gateway Center Drive
+housenumber: "13093"
+phone: +1 571-248-4944
+opening_hours: Mo-Su 11:00-19:00
+website: https://stores.bestbuy.com/va/gainesville/13093-gateway-center-dr-1449.html

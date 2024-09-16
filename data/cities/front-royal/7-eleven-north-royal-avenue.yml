@@ -1,11 +1,11 @@
 id: 1205457828
-type: way
+type: node
 latitude: 38.92662
 longitude: -78.19458
-postcode: "22630-2712"
+postcode: 22630-2712
 city: Front Royal
-street: "North Royal Avenue"
-housenumber: 606
-phone: "+1 540-635-4076"
+street: North Royal Avenue
+housenumber: "606"
+phone: +1 540-635-4076
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/front-royal/606-n-royal-ave-10649"
+website: https://www.7-eleven.com/locations/va/front-royal/606-n-royal-ave-10649

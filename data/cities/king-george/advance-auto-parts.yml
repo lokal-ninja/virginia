@@ -1,11 +1,11 @@
 id: 452768364
-type: way
+type: node
 latitude: 38.33876
 longitude: -77.07975
 postcode: "22485"
 city: King George
-street: "James Madison Parkway"
-housenumber: 5458
+street: James Madison Parkway
+housenumber: "5458"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
 website: ""

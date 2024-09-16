@@ -1,11 +1,11 @@
 id: 407401705
-type: way
+type: node
 latitude: 36.86097
 longitude: -76.28752
 postcode: "23510"
 city: Norfolk
-street: "Granby Street"
-housenumber: 1202
+street: Granby Street
+housenumber: "1202"
 phone: ""
 opening_hours: ""
 website: ""

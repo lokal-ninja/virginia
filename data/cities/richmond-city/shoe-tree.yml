@@ -1,11 +1,11 @@
 id: 321367835
-type: way
+type: node
 latitude: 37.54376
 longitude: -77.43914
 postcode: "23219"
 city: Richmond City
-street: "East Broad Street"
-housenumber: 305
+street: East Broad Street
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

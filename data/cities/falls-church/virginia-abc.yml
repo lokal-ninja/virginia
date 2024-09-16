@@ -4,8 +4,8 @@ latitude: 38.8795
 longitude: -77.17121
 postcode: "22046"
 city: Falls Church
-street: "Hillwood Avenue"
-housenumber: 167
+street: Hillwood Avenue
+housenumber: "167"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://www.abc.virginia.gov/stores/212"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://www.abc.virginia.gov/stores/212

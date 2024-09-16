@@ -1,11 +1,11 @@
 id: 211213357
-type: way
+type: node
 latitude: 38.89568
 longitude: -77.10724
 postcode: "22207"
 city: Arlington
-street: "Langston Boulevard"
-housenumber: 3920
-phone: "+1-703-664-1350"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-17:00"
-website: "https://www.arlingtonhonda.com/service.htm"
+street: Langston Boulevard
+housenumber: "3920"
+phone: +1-703-664-1350
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-17:00
+website: https://www.arlingtonhonda.com/service.htm

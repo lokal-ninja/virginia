@@ -1,11 +1,11 @@
 id: 407110288
-type: way
+type: node
 latitude: 36.87851
 longitude: -76.26264
-postcode: "23509-1147"
+postcode: 23509-1147
 city: Norfolk
-street: "Tidewater Drive"
-housenumber: 3230
-phone: "+1 757-364-6222"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-20:00"
-website: "https://www.dollartree.com/locations/va/norfolk/4976/"
+street: Tidewater Drive
+housenumber: "3230"
+phone: +1 757-364-6222
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-20:00
+website: https://www.dollartree.com/locations/va/norfolk/4976/

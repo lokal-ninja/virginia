@@ -1,11 +1,11 @@
 id: 1227781458
-type: way
+type: node
 latitude: 36.58833
 longitude: -79.86276
-postcode: "24148-3512"
+postcode: 24148-3512
 city: Ridgeway
-street: "Mica Road"
-housenumber: 1188
-phone: "+1 276-956-2002"
-opening_hours: "Mo-Sa 07:45-19:15; Su 09:45-18:15"
+street: Mica Road
+housenumber: "1188"
+phone: +1 276-956-2002
+opening_hours: Mo-Sa 07:45-19:15; Su 09:45-18:15
 website: ""

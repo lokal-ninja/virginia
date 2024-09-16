@@ -1,11 +1,11 @@
 id: 308472482
-type: way
+type: node
 latitude: 37.26889
 longitude: -77.41114
 postcode: "23834"
 city: Colonial Heights City
-street: "Boulevard"
-housenumber: 3007
-phone: "+1 804-520-4520"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1594"
+street: Boulevard
+housenumber: "3007"
+phone: +1 804-520-4520
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1594

@@ -1,11 +1,11 @@
 id: 225285476
-type: way
+type: node
 latitude: 37.61367
 longitude: -77.90411
 postcode: "23139"
 city: Powhatan
-street: "Maidens Road"
-housenumber: 3460
-phone: "(804) 598-2441"
+street: Maidens Road
+housenumber: "3460"
+phone: (804) 598-2441
 opening_hours: ""
 website: ""

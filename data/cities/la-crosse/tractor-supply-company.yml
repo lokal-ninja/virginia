@@ -1,11 +1,11 @@
 id: 314358189
-type: way
+type: node
 latitude: 36.70661
 longitude: -78.10424
 postcode: "23950"
 city: La Crosse
-street: "East Atlantic Street"
-housenumber: 1275
-phone: "+1 434-757-1050"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: East Atlantic Street
+housenumber: "1275"
+phone: +1 434-757-1050
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

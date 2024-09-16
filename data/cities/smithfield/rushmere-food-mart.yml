@@ -1,11 +1,11 @@
 id: 1128272043
-type: way
+type: node
 latitude: 37.0767
 longitude: -76.68479
 postcode: "23430"
 city: Smithfield
-street: "Old Stage Highway"
-housenumber: 4761
+street: Old Stage Highway
+housenumber: "4761"
 phone: ""
 opening_hours: ""
 website: ""

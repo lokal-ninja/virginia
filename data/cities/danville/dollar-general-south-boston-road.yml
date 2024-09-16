@@ -1,11 +1,11 @@
 id: 1005086947
-type: way
+type: node
 latitude: 36.58161
 longitude: -79.34463
 postcode: "24540"
 city: Danville
-street: "South Boston Road"
-housenumber: 1307
+street: South Boston Road
+housenumber: "1307"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/va/danville/13880"
+website: https://www.dollargeneral.com/store-directory/va/danville/13880

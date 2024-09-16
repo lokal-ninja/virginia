@@ -1,11 +1,11 @@
 id: 256727351
-type: way
+type: node
 latitude: 39.11747
 longitude: -78.19823
 postcode: "22602"
 city: Winchester
-street: "Valley Pike"
-housenumber: 3985
+street: Valley Pike
+housenumber: "3985"
 phone: ""
 opening_hours: ""
-website: "https://www.mymillerhonda.com/"
+website: https://www.mymillerhonda.com/

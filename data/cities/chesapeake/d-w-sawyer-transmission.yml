@@ -1,11 +1,11 @@
 id: 312459422
-type: way
+type: node
 latitude: 36.81281
 longitude: -76.27772
 postcode: "23324"
 city: Chesapeake
-street: "Bainbridge Boulevard"
-housenumber: 1327
+street: Bainbridge Boulevard
+housenumber: "1327"
 phone: ""
 opening_hours: ""
 website: ""

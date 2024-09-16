@@ -1,11 +1,11 @@
 id: 230324984
-type: way
+type: node
 latitude: 38.46952
 longitude: -77.40743
-postcode: "22556-4524"
+postcode: 22556-4524
 city: Stafford
-street: "Stafford Market Place"
-housenumber: 1110
-phone: "+1 540-720-8236"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/va/stafford/4705"
+street: Stafford Market Place
+housenumber: "1110"
+phone: +1 540-720-8236
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/va/stafford/4705

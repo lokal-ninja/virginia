@@ -1,11 +1,11 @@
 id: 369017688
-type: way
+type: node
 latitude: 37.34697
 longitude: -77.34521
 postcode: "23836"
 city: Chester
-street: "East Hundred Road"
-housenumber: 600
-phone: "+1 804-530-0822"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/676"
+street: East Hundred Road
+housenumber: "600"
+phone: +1 804-530-0822
+opening_hours: 24/7
+website: https://www.wawa.com/locations/676

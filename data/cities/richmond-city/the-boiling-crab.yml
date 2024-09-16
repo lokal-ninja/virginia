@@ -1,11 +1,11 @@
 id: 334127283
-type: way
+type: node
 latitude: 37.55767
 longitude: -77.46241
 postcode: "23220"
 city: Richmond City
-street: "West Broad Street"
-housenumber: 2053
+street: West Broad Street
+housenumber: "2053"
 phone: ""
 opening_hours: ""
 website: ""

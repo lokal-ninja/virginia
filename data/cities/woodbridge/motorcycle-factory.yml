@@ -1,11 +1,11 @@
 id: 94847648
-type: way
+type: node
 latitude: 38.66131
 longitude: -77.32508
 postcode: "22192"
 city: Woodbridge
-street: "Prince William Parkway"
-housenumber: 3820
+street: Prince William Parkway
+housenumber: "3820"
 phone: ""
 opening_hours: ""
 website: ""

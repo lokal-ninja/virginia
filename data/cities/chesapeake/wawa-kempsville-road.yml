@@ -1,11 +1,11 @@
 id: 384796050
-type: way
+type: node
 latitude: 36.74282
 longitude: -76.22626
-postcode: "23320-3721"
+postcode: 23320-3721
 city: Chesapeake
-street: "Kempsville Road"
-housenumber: 471
-phone: "+1 757-549-1670"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8632"
+street: Kempsville Road
+housenumber: "471"
+phone: +1 757-549-1670
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8632

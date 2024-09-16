@@ -4,8 +4,8 @@ latitude: 37.54255
 longitude: -77.44102
 postcode: "23219"
 city: Richmond City
-street: "East Franklin Street"
-housenumber: 214
-phone: "+1 804-344-0081"
-opening_hours: "Mo-Fr 09:00-17:30"
-website: "https://clrugs.com/"
+street: East Franklin Street
+housenumber: "214"
+phone: +1 804-344-0081
+opening_hours: Mo-Fr 09:00-17:30
+website: https://clrugs.com/

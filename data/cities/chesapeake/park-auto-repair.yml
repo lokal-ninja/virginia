@@ -1,11 +1,11 @@
 id: 312462154
-type: way
+type: node
 latitude: 36.81399
 longitude: -76.26605
 postcode: "23324"
 city: Chesapeake
-street: "Park Avenue"
-housenumber: 1801
+street: Park Avenue
+housenumber: "1801"
 phone: ""
 opening_hours: ""
 website: ""

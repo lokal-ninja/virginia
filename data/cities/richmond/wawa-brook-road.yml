@@ -1,11 +1,11 @@
 id: 708747429
-type: way
+type: node
 latitude: 37.6045
 longitude: -77.45378
 postcode: "23227"
 city: Richmond
-street: "Brook Road"
-housenumber: 5231
+street: Brook Road
+housenumber: "5231"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/655"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/655

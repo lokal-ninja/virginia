@@ -1,11 +1,11 @@
 id: 205035487
-type: way
+type: node
 latitude: 38.80522
 longitude: -77.04967
 postcode: "22314"
 city: Alexandria
-street: "King Street"
-housenumber: 906
-phone: "703-518-4663"
-opening_hours: "Mo-Sa 11:00-18:00; Su 12:00-17:00"
-website: "https://www.creativeclassics.com/"
+street: King Street
+housenumber: "906"
+phone: 703-518-4663
+opening_hours: Mo-Sa 11:00-18:00; Su 12:00-17:00
+website: https://www.creativeclassics.com/

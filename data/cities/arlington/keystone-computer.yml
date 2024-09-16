@@ -4,8 +4,8 @@ latitude: 38.89882
 longitude: -77.12054
 postcode: "22207"
 city: Arlington
-street: "Old Dominion Drive"
-housenumber: 4615
-phone: "+1-703-516-0300"
-opening_hours: "Mo-Fr 08:30-17:15"
-website: "http://www.keystoneisit.com/"
+street: Old Dominion Drive
+housenumber: "4615"
+phone: +1-703-516-0300
+opening_hours: Mo-Fr 08:30-17:15
+website: http://www.keystoneisit.com/

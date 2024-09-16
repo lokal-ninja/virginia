@@ -1,11 +1,11 @@
 id: 662021096
-type: way
+type: node
 latitude: 37.74426
 longitude: -79.37942
 postcode: "24416"
 city: Buena Vista
-street: "East Midland Trail"
-housenumber: 2177
+street: East Midland Trail
+housenumber: "2177"
 phone: ""
 opening_hours: ""
 website: ""

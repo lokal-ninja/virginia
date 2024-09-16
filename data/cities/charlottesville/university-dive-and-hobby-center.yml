@@ -1,11 +1,11 @@
 id: 1153372816
-type: way
+type: node
 latitude: 38.07083
 longitude: -78.48172
 postcode: "22901"
 city: Charlottesville
-street: "Westfield Road"
-housenumber: 510
+street: Westfield Road
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 700964738
-type: way
+type: node
 latitude: 36.83262
 longitude: -76.34241
 postcode: "23707"
 city: Portsmouth
-street: "Frederick Boulevard"
-housenumber: 700
+street: Frederick Boulevard
+housenumber: "700"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-700+frederick+blvd-portsmouth-va-23707/id=4616"
+website: https://www.walgreens.com/locator/walgreens-700+frederick+blvd-portsmouth-va-23707/id=4616

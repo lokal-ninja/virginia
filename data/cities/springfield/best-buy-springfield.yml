@@ -4,8 +4,8 @@ latitude: 38.77443
 longitude: -77.16961
 postcode: "22150"
 city: Springfield
-street: "Frontier Drive"
-housenumber: 6555
-phone: "+1 703-922-4980"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.bestbuy.com/va/springfield/6555-frontier-dr-269.html"
+street: Frontier Drive
+housenumber: "6555"
+phone: +1 703-922-4980
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.bestbuy.com/va/springfield/6555-frontier-dr-269.html

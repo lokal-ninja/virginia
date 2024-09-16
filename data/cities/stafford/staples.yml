@@ -1,11 +1,11 @@
 id: 626263606
-type: way
+type: node
 latitude: 38.47833
 longitude: -77.4205
 postcode: "22556"
 city: Stafford
-street: "Worth Avenue"
-housenumber: 295
+street: Worth Avenue
+housenumber: "295"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://stores.staples.com/va/stafford/295-worth-ave"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://stores.staples.com/va/stafford/295-worth-ave

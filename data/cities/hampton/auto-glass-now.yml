@@ -1,11 +1,11 @@
 id: 388481939
-type: way
+type: node
 latitude: 37.04307
 longitude: -76.35797
 postcode: "23669"
 city: Hampton
-street: "West Mercury Boulevard"
-housenumber: 205
-phone: "+1-757-732-0027"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.autoglassnow.com/our-locations/hampton-57043/"
+street: West Mercury Boulevard
+housenumber: "205"
+phone: +1-757-732-0027
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.autoglassnow.com/our-locations/hampton-57043/

@@ -1,11 +1,11 @@
 id: 755838900
-type: way
+type: node
 latitude: 37.5043
 longitude: -77.47669
 postcode: "23224"
 city: Richmond
-street: "East Belt Boulevard"
-housenumber: 400
+street: East Belt Boulevard
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 605280019
-type: way
+type: node
 latitude: 36.63464
 longitude: -82.11501
 postcode: "24202"
 city: Bristol
-street: "Forsythe Road"
-housenumber: 400
-phone: "+1 276-466-1015"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/bristol-va/va/bristol/24202/4658"
+street: Forsythe Road
+housenumber: "400"
+phone: +1 276-466-1015
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/bristol-va/va/bristol/24202/4658

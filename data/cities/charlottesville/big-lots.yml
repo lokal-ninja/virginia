@@ -1,11 +1,11 @@
 id: 391138921
-type: way
+type: node
 latitude: 38.07383
 longitude: -78.47879
 postcode: "22901"
 city: Charlottesville
-street: "Branchlands Boulevard"
-housenumber: 590
-phone: "+1 434-326-1108"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/va/charlottesville/590-branchlands-blvd"
+street: Branchlands Boulevard
+housenumber: "590"
+phone: +1 434-326-1108
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/va/charlottesville/590-branchlands-blvd

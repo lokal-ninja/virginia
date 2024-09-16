@@ -1,11 +1,11 @@
 id: 1226581071
-type: way
+type: node
 latitude: 36.71174
 longitude: -82.79708
 postcode: "24244"
 city: Duffield
-street: "Duff Patt Highway"
-housenumber: 354
-phone: "+1-276-325-3954"
-opening_hours: "Mo-Su 08:00-22:00"
+street: Duff Patt Highway
+housenumber: "354"
+phone: +1-276-325-3954
+opening_hours: Mo-Su 08:00-22:00
 website: ""

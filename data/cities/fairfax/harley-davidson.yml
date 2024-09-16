@@ -1,11 +1,11 @@
 id: 153510993
-type: way
+type: node
 latitude: 38.86373
 longitude: -77.28111
 postcode: "22031"
 city: Fairfax
-street: "Fairfax Boulevard"
-housenumber: 9739
+street: Fairfax Boulevard
+housenumber: "9739"
 phone: ""
 opening_hours: ""
 website: ""

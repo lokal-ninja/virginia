@@ -1,11 +1,11 @@
 id: 50979612
-type: way
+type: node
 latitude: 37.22462
 longitude: -79.97174
 postcode: "24018"
 city: Roanoke
-street: "Valley Avenue"
-housenumber: 4224
-phone: "+1 540-725-1883"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/va-roanoke/0664"
+street: Valley Avenue
+housenumber: "4224"
+phone: +1 540-725-1883
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/va-roanoke/0664

@@ -1,11 +1,11 @@
 id: 615397497
-type: way
+type: node
 latitude: 36.9803
 longitude: -76.63561
 postcode: "23430"
 city: Smithfield
-street: "Main Street"
-housenumber: 338
-phone: "+1-757-651-8235"
-opening_hours: "Mo-We 09:30-14:00; Th-Sa 09:30-16:00; Su 13:00-16:00"
-website: "https://www.fleurdefou.com"
+street: Main Street
+housenumber: "338"
+phone: +1-757-651-8235
+opening_hours: Mo-We 09:30-14:00; Th-Sa 09:30-16:00; Su 13:00-16:00
+website: https://www.fleurdefou.com

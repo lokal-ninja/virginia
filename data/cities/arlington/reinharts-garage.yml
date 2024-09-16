@@ -1,11 +1,11 @@
 id: 211211967
-type: way
+type: node
 latitude: 38.89664
 longitude: -77.1009
 postcode: "22207"
 city: Arlington
-street: "Langston Boulevard"
-housenumber: 3203
-phone: "+1-703-528-8820"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Langston Boulevard
+housenumber: "3203"
+phone: +1-703-528-8820
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

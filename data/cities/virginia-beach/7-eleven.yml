@@ -4,8 +4,8 @@ latitude: 36.91061
 longitude: -76.07317
 postcode: "23451"
 city: Virginia Beach
-street: "Red Tide Drive"
-housenumber: 2256
-phone: "+1 757-496-0947"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/va/virginia-beach/2256-red-tide-dr-18184"
+street: Red Tide Drive
+housenumber: "2256"
+phone: +1 757-496-0947
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/va/virginia-beach/2256-red-tide-dr-18184

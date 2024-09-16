@@ -1,11 +1,11 @@
 id: 670099936
-type: way
+type: node
 latitude: 39.1449
 longitude: -78.19045
 postcode: "22601"
 city: Winchester
-street: "Valley Avenue"
-housenumber: 3019
+street: Valley Avenue
+housenumber: "3019"
 phone: ""
 opening_hours: ""
 website: ""

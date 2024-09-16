@@ -1,11 +1,11 @@
 id: 312300564
-type: way
+type: node
 latitude: 36.79091
 longitude: -76.28018
 postcode: "23324"
 city: Chesapeake
-street: "Calloway Avenue"
-housenumber: 1000
+street: Calloway Avenue
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

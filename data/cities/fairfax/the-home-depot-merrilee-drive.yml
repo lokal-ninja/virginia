@@ -1,11 +1,11 @@
 id: 366740299
-type: way
+type: node
 latitude: 38.87446
 longitude: -77.23003
 postcode: "22031"
 city: Fairfax
-street: "Merrilee Drive"
-housenumber: 2815
-phone: "+1 703-205-1245"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Merrifield/VA/Fairfax/22031/4605"
+street: Merrilee Drive
+housenumber: "2815"
+phone: +1 703-205-1245
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Merrifield/VA/Fairfax/22031/4605

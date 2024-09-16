@@ -1,11 +1,11 @@
 id: 383943115
-type: way
+type: node
 latitude: 36.87211
 longitude: -76.46617
 postcode: "23435"
 city: Suffolk
-street: "Knotts Neck Road"
-housenumber: 6120
-phone: "+1-757-483-6383"
+street: Knotts Neck Road
+housenumber: "6120"
+phone: +1-757-483-6383
 opening_hours: ""
-website: "https://knottscreeknursery.com"
+website: https://knottscreeknursery.com

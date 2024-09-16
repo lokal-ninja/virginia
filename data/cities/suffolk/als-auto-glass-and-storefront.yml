@@ -1,11 +1,11 @@
 id: 384053177
-type: way
+type: node
 latitude: 36.72967
 longitude: -76.58758
 postcode: "23434"
 city: Suffolk
-street: "W Washington St"
-housenumber: 416
-phone: "+1 757 9252009"
+street: W Washington St
+housenumber: "416"
+phone: +1 757 9252009
 opening_hours: ""
 website: ""

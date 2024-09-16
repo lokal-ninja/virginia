@@ -1,11 +1,11 @@
 id: 222966412
-type: way
+type: node
 latitude: 38.76936
 longitude: -77.48735
 postcode: "20110"
 city: Manassas
-street: "Sudley Road"
-housenumber: 8625
+street: Sudley Road
+housenumber: "8625"
 phone: ""
 opening_hours: ""
 website: ""

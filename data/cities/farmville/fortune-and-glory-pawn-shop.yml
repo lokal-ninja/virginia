@@ -1,11 +1,11 @@
 id: 215686865
-type: way
+type: node
 latitude: 37.2531
 longitude: -78.42335
 postcode: "23901"
 city: Farmville
-street: "Farmville Road"
-housenumber: 3884
+street: Farmville Road
+housenumber: "3884"
 phone: ""
 opening_hours: ""
 website: ""

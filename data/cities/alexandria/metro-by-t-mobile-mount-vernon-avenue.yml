@@ -1,11 +1,11 @@
 id: 461543126
-type: way
+type: node
 latitude: 38.84347
 longitude: -77.06489
 postcode: "22305"
 city: Alexandria
-street: "Mount Vernon Avenue"
-housenumber: 4108
+street: Mount Vernon Avenue
+housenumber: "4108"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-alexandria-va-10221252/"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-alexandria-va-10221252/

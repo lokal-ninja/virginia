@@ -1,11 +1,11 @@
 id: 1022957998
-type: way
+type: node
 latitude: 38.49249
 longitude: -78.87287
 postcode: "22802"
 city: Harrisonburg
-street: "Harpine Highway"
-housenumber: 2591
+street: Harpine Highway
+housenumber: "2591"
 phone: ""
 opening_hours: ""
-website: "https://www.dansbodyservice.net/"
+website: https://www.dansbodyservice.net/

@@ -1,11 +1,11 @@
 id: 374846919
-type: way
+type: node
 latitude: 38.84024
 longitude: -77.08938
 postcode: "22206"
 city: Arlington
-street: "South Randolph Street"
-housenumber: 2800
+street: South Randolph Street
+housenumber: "2800"
 phone: ""
 opening_hours: ""
-website: "http://www.shirlingtonstudio.com/"
+website: http://www.shirlingtonstudio.com/

@@ -1,11 +1,11 @@
 id: 457974106
-type: way
+type: node
 latitude: 39.0278
 longitude: -77.5095
 postcode: "20148"
 city: Ashburn
-street: "Broadlands Center Plaza"
-housenumber: 43150
-phone: "+1 571-510-8152"
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/va/ashburn/5541/"
+street: Broadlands Center Plaza
+housenumber: "43150"
+phone: +1 571-510-8152
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/va/ashburn/5541/

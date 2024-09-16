@@ -1,11 +1,11 @@
 id: 205604549
-type: way
+type: node
 latitude: 38.3033
 longitude: -77.46093
 postcode: "22401"
 city: Fredericksburg
-street: "William Street"
-housenumber: 305
-phone: "+1 540-373-5858"
+street: William Street
+housenumber: "305"
+phone: +1 540-373-5858
 opening_hours: ""
-website: "http://www.sweetcarolinesinc.com"
+website: http://www.sweetcarolinesinc.com

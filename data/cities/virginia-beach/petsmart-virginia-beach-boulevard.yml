@@ -4,8 +4,8 @@ latitude: 36.84232
 longitude: -76.12825
 postcode: "23462"
 city: Virginia Beach
-street: "Virginia Beach Boulevard"
-housenumber: 4421
-phone: "+1 757-497-1279"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/va/virginia-beach-store1171.html"
+street: Virginia Beach Boulevard
+housenumber: "4421"
+phone: +1 757-497-1279
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/va/virginia-beach-store1171.html

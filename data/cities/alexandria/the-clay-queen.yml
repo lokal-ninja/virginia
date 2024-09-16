@@ -1,11 +1,11 @@
 id: 221384673
-type: way
+type: node
 latitude: 38.82627
 longitude: -77.05855
 postcode: "22301"
 city: Alexandria
-street: "Mount Vernon Avenue"
-housenumber: 2303
+street: Mount Vernon Avenue
+housenumber: "2303"
 phone: ""
 opening_hours: ""
-website: "https://sites.google.com/site/theclayqueenpottery/"
+website: https://sites.google.com/site/theclayqueenpottery/

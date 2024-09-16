@@ -1,11 +1,11 @@
 id: 1079279032
-type: way
+type: node
 latitude: 38.89648
 longitude: -77.10376
 postcode: "22207"
 city: Arlington
-street: "Langston Boulevard"
-housenumber: 3501
-phone: "+1-703-420-5183"
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-17:00"
-website: "https://www.carworldofarlington.com/"
+street: Langston Boulevard
+housenumber: "3501"
+phone: +1-703-420-5183
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-17:00
+website: https://www.carworldofarlington.com/

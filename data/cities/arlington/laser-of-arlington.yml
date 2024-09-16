@@ -4,8 +4,8 @@ latitude: 38.88459
 longitude: -77.09529
 postcode: "22201"
 city: Arlington
-street: "10th Street North"
-housenumber: 3111
-phone: "+1-703-812-5025"
-opening_hours: "Mo 10:00-14:00; Tu-Fr 10:00-19:00; Sa 11:00-17:00"
-website: "https://www.laserofarlington.com/"
+street: 10th Street North
+housenumber: "3111"
+phone: +1-703-812-5025
+opening_hours: Mo 10:00-14:00; Tu-Fr 10:00-19:00; Sa 11:00-17:00
+website: https://www.laserofarlington.com/

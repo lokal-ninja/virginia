@@ -1,11 +1,11 @@
 id: 546461281
-type: way
+type: node
 latitude: 36.59492
 longitude: -82.25174
 postcode: "37621"
 city: Bristol
-street: "Bass Pro Drive"
-housenumber: 1
+street: Bass Pro Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

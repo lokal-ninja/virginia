@@ -1,11 +1,11 @@
 id: 370097016
-type: way
+type: node
 latitude: 37.26621
 longitude: -76.67662
 postcode: "23185"
 city: York County
-street: "Merrimac Trail"
-housenumber: 842
+street: Merrimac Trail
+housenumber: "842"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/699"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/699

@@ -1,11 +1,11 @@
 id: 296933144
-type: way
+type: node
 latitude: 37.28612
 longitude: -76.7204
 postcode: "23185"
 city: Williamsburg
-street: "Richmond Road"
-housenumber: 1351
-phone: "757-229-4056"
-opening_hours: "Mo-Sa 09:30-19:00; Su 09:30-18:00"
+street: Richmond Road
+housenumber: "1351"
+phone: 757-229-4056
+opening_hours: Mo-Sa 09:30-19:00; Su 09:30-18:00
 website: ""

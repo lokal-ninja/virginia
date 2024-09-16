@@ -1,11 +1,11 @@
 id: 333127116
-type: way
+type: node
 latitude: 37.12048
 longitude: -76.48689
 postcode: "23602"
 city: Newport News
-street: "White House Cove"
-housenumber: 2278
-phone: "+1 757-874-6410"
+street: White House Cove
+housenumber: "2278"
+phone: +1 757-874-6410
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/newport-news/1401-kiln-creek-pkwy-39288"
+website: https://www.7-eleven.com/locations/va/newport-news/1401-kiln-creek-pkwy-39288

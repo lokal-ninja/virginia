@@ -1,11 +1,11 @@
 id: 396519051
-type: way
+type: node
 latitude: 38.03914
 longitude: -78.49031
 postcode: "22903"
 city: Charlottesville
-street: "Preston Avenue"
-housenumber: 941
+street: Preston Avenue
+housenumber: "941"
 phone: ""
 opening_hours: ""
-website: "https://www.martinhardwareinc.com"
+website: https://www.martinhardwareinc.com

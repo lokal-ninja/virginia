@@ -1,11 +1,11 @@
 id: 453568200
-type: way
+type: node
 latitude: 38.75272
 longitude: -77.47401
 postcode: "20110"
 city: Manassas
-street: "West Street"
-housenumber: 9320
+street: West Street
+housenumber: "9320"
 phone: ""
 opening_hours: ""
 website: ""

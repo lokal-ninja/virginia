@@ -1,11 +1,11 @@
 id: 230394110
-type: way
+type: node
 latitude: 38.82653
 longitude: -77.05832
 postcode: "22301"
 city: Alexandria
-street: "Mt. Vernon Ave"
-housenumber: 2307
+street: Mt. Vernon Ave
+housenumber: "2307"
 phone: ""
-opening_hours: "Mo,We,Th,Fr 07:00-03:00, Sa-Su 08:00-03:00"
-website: "https://bageluprising.com/"
+opening_hours: Mo,We,Th,Fr 07:00-03:00, Sa-Su 08:00-03:00
+website: https://bageluprising.com/

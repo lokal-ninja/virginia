@@ -1,11 +1,11 @@
 id: 207370937
-type: way
+type: node
 latitude: 38.88597
 longitude: -77.16476
 postcode: "22046"
 city: Falls Church
-street: "West Washington Street"
-housenumber: 501
-phone: "+1 703-534-7799"
+street: West Washington Street
+housenumber: "501"
+phone: +1 703-534-7799
 opening_hours: ""
 website: ""

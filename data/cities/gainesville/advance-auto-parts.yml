@@ -1,11 +1,11 @@
 id: 236349327
-type: way
+type: node
 latitude: 38.79565
 longitude: -77.6177
 postcode: "20155"
 city: Gainesville
-street: "Hillwood Drive"
-housenumber: 7457
-phone: "+1 571-222-6410"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:30-20:00"
-website: "https://stores.advanceautoparts.com/va/gainesville/7457-hillwood-dr"
+street: Hillwood Drive
+housenumber: "7457"
+phone: +1 571-222-6410
+opening_hours: Mo-Sa 07:30-22:00; Su 08:30-20:00
+website: https://stores.advanceautoparts.com/va/gainesville/7457-hillwood-dr

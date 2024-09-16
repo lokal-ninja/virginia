@@ -1,11 +1,11 @@
 id: 259844453
-type: way
+type: node
 latitude: 38.869
 longitude: -78.53029
 postcode: "22664"
 city: Woodstock
-street: "West Reservoir Road"
-housenumber: 461
-phone: "+1 540-459-9229"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2647/woodstock-va/whats-new"
+street: West Reservoir Road
+housenumber: "461"
+phone: +1 540-459-9229
+opening_hours: 24/7
+website: https://www.walmart.com/store/2647/woodstock-va/whats-new

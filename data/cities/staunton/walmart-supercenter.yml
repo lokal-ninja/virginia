@@ -1,11 +1,11 @@
 id: 256400922
-type: way
+type: node
 latitude: 38.13459
 longitude: -79.04962
 postcode: "24401"
 city: Staunton
-street: "Richmond Avenue"
-housenumber: 1028
-phone: "+1 540-886-8566"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1344-staunton-va"
+street: Richmond Avenue
+housenumber: "1028"
+phone: +1 540-886-8566
+opening_hours: 24/7
+website: https://www.walmart.com/store/1344-staunton-va

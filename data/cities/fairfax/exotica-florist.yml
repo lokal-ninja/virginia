@@ -1,11 +1,11 @@
 id: 63221842
-type: way
+type: node
 latitude: 38.84599
 longitude: -77.30433
 postcode: ""
 city: Fairfax
-street: "Main Street"
-housenumber: 10376
-phone: "+1 703-691-0808"
-opening_hours: "Mo-Fr 09:00-16:00; Sa 09:30-14:00; PH closed"
+street: Main Street
+housenumber: "10376"
+phone: +1 703-691-0808
+opening_hours: Mo-Fr 09:00-16:00; Sa 09:30-14:00; PH closed
 website: ""

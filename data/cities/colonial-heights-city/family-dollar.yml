@@ -1,11 +1,11 @@
 id: 1086342236
-type: way
+type: node
 latitude: 37.25475
 longitude: -77.41202
 postcode: "23834"
 city: Colonial Heights City
-street: "Boulevard"
-housenumber: 1604
+street: Boulevard
+housenumber: "1604"
 phone: ""
 opening_hours: ""
 website: ""

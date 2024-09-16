@@ -1,11 +1,11 @@
 id: 604325126
-type: way
+type: node
 latitude: 36.63421
 longitude: -82.12855
 postcode: "24202"
 city: Bristol
-street: "Market Center"
-housenumber: 21486
-phone: "+1 276-466-0212"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Market Center
+housenumber: "21486"
+phone: +1 276-466-0212
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

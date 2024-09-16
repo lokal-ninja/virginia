@@ -1,11 +1,11 @@
 id: 934106606
-type: way
+type: node
 latitude: 36.93284
 longitude: -76.52504
 postcode: "23314"
 city: Carrollton
-street: "Carrollton Boulevard"
-housenumber: 15185
-phone: "+1-757-238-9585"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Carrollton Boulevard
+housenumber: "15185"
+phone: +1-757-238-9585
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

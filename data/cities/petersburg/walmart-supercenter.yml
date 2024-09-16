@@ -1,11 +1,11 @@
 id: 308682943
-type: way
+type: node
 latitude: 37.18035
 longitude: -77.36779
 postcode: "23805"
 city: Petersburg
-street: "South Crater Road"
-housenumber: 3500
-phone: "+1 804-957-6444"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2160/petersburg-va/whats-new"
+street: South Crater Road
+housenumber: "3500"
+phone: +1 804-957-6444
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2160/petersburg-va/whats-new

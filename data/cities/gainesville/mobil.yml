@@ -1,11 +1,11 @@
 id: 222075614
-type: way
+type: node
 latitude: 38.79221
 longitude: -77.6302
 postcode: "20155"
 city: Gainesville
-street: "Somerset Crossing Drive"
-housenumber: 7601
-phone: "+1 571-248-8580"
-opening_hours: "Mo-Su 06:00-24:00"
+street: Somerset Crossing Drive
+housenumber: "7601"
+phone: +1 571-248-8580
+opening_hours: Mo-Su 06:00-24:00
 website: ""

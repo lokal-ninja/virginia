@@ -1,11 +1,11 @@
 id: 144376874
-type: way
+type: node
 latitude: 38.89655
 longitude: -77.10629
 postcode: "22207"
 city: Arlington
-street: "Langston Boulevard"
-housenumber: 3713
-phone: "+1 703-841-1155"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.safeway.com/safeway/va/arlington/3713-langston-blvd.html"
+street: Langston Boulevard
+housenumber: "3713"
+phone: +1 703-841-1155
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.safeway.com/safeway/va/arlington/3713-langston-blvd.html

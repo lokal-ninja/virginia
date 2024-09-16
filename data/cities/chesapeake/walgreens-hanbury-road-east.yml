@@ -1,11 +1,11 @@
 id: 312769698
-type: way
+type: node
 latitude: 36.68764
 longitude: -76.2261
 postcode: "23322"
 city: Chesapeake
-street: "Hanbury Road East"
-housenumber: 201
+street: Hanbury Road East
+housenumber: "201"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-201+hanbury+rd+e-chesapeake-va-23322/id=11213"
+website: https://www.walgreens.com/locator/walgreens-201+hanbury+rd+e-chesapeake-va-23322/id=11213

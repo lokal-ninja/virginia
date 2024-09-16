@@ -1,11 +1,11 @@
 id: 859035695
-type: way
+type: node
 latitude: 37.27921
 longitude: -79.86519
 postcode: "24179"
 city: Vinton
-street: "East Washington Avenue"
-housenumber: 2113
-phone: "+1 540-890-5010"
-opening_hours: "Mo-Sa 07:45-19:15; Su 09:45-18:15"
+street: East Washington Avenue
+housenumber: "2113"
+phone: +1 540-890-5010
+opening_hours: Mo-Sa 07:45-19:15; Su 09:45-18:15
 website: ""

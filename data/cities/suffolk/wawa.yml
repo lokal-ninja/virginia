@@ -1,11 +1,11 @@
 id: 1098933775
-type: way
+type: node
 latitude: 36.77779
 longitude: -76.58202
 postcode: "23434"
 city: Suffolk
-street: "Godwin Boulevard"
-housenumber: 2916
+street: Godwin Boulevard
+housenumber: "2916"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8638"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8638

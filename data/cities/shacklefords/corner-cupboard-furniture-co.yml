@@ -1,11 +1,11 @@
 id: 810562933
-type: way
+type: node
 latitude: 37.54681
 longitude: -76.7161
 postcode: "23156"
 city: Shacklefords
-street: "Centerville Road"
-housenumber: 142
+street: Centerville Road
+housenumber: "142"
 phone: ""
 opening_hours: ""
 website: ""

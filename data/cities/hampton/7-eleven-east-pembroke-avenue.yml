@@ -1,11 +1,11 @@
 id: 388435529
-type: way
+type: node
 latitude: 37.03857
 longitude: -76.31368
 postcode: "23663"
 city: Hampton
-street: "East Pembroke Avenue"
-housenumber: 1605
-phone: "+1 757-722-0484"
+street: East Pembroke Avenue
+housenumber: "1605"
+phone: +1 757-722-0484
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/hampton/1605-e.-pembroke-ave-10826"
+website: https://www.7-eleven.com/locations/va/hampton/1605-e.-pembroke-ave-10826

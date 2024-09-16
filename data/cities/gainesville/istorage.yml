@@ -4,8 +4,9 @@ latitude: 38.79353
 longitude: -77.59398
 postcode: "20155"
 city: Gainesville
-street: "Wellington Road"
-housenumber: 5579
-phone: "+1-703-753-8800"
-opening_hours: "Mo-Sa 09:00-18:00 open Office || Mo-Su 06:00-22:00 open Storage Access"
-website: "https://www.istorage.com/storage/virginia/storage-units-gainesville/5579-Wellington-Road-167"
+street: Wellington Road
+housenumber: "5579"
+phone: +1-703-753-8800
+opening_hours: Mo-Sa 09:00-18:00 open "Office" || Mo-Su 06:00-22:00 open "Storage
+    Access"
+website: https://www.istorage.com/storage/virginia/storage-units-gainesville/5579-Wellington-Road-167

@@ -4,8 +4,8 @@ latitude: 37.0502
 longitude: -80.77951
 postcode: "24301"
 city: Pulaski
-street: "North Washington Avenue"
-housenumber: 400
-phone: "1-540-980-4060"
-opening_hours: "Mo-Fr 09:00-18:00: Sa 09:00-12:00"
+street: North Washington Avenue
+housenumber: "400"
+phone: 1-540-980-4060
+opening_hours: 'Mo-Fr 09:00-18:00: Sa 09:00-12:00'
 website: ""

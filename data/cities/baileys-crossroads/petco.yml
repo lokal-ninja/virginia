@@ -1,11 +1,11 @@
 id: 72646739
-type: way
+type: node
 latitude: 38.85009
 longitude: -77.13314
 postcode: "22041"
 city: Bailey's Crossroads
-street: "Leesburg Pike"
-housenumber: 5825
-phone: "+1 703-845-2780"
-opening_hours: "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/va/baileyscrossroads/pet-supplies-baileyscrossroads-va-1716.html"
+street: Leesburg Pike
+housenumber: "5825"
+phone: +1 703-845-2780
+opening_hours: Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/va/baileyscrossroads/pet-supplies-baileyscrossroads-va-1716.html

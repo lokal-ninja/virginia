@@ -1,11 +1,11 @@
 id: 760798835
-type: way
+type: node
 latitude: 37.53411
 longitude: -77.52515
 postcode: "23225"
 city: Richmond
-street: "Forest Hill Avenue"
-housenumber: 7045
-phone: "+1 804-323-4110"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1636"
+street: Forest Hill Avenue
+housenumber: "7045"
+phone: +1 804-323-4110
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1636

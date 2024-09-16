@@ -4,8 +4,8 @@ latitude: 38.7124
 longitude: -77.79296
 postcode: ""
 city: Warrenton
-street: "Main Street"
-housenumber: 102
-phone: "+1-540-347-7484"
-opening_hours: "Mo-Th 11:00-20:00; Fr-Sa 11:00-18:00"
-website: "https://www.drumnstrum.com/"
+street: Main Street
+housenumber: "102"
+phone: +1-540-347-7484
+opening_hours: Mo-Th 11:00-20:00; Fr-Sa 11:00-18:00
+website: https://www.drumnstrum.com/

@@ -1,11 +1,11 @@
 id: 72646650
-type: way
+type: node
 latitude: 38.8506
 longitude: -77.13166
 postcode: "22041"
 city: Falls Church
-street: "Leesburg Pike"
-housenumber: 5799
-phone: "+1 703-671-0184"
+street: Leesburg Pike
+housenumber: "5799"
+phone: +1 703-671-0184
 opening_hours: ""
-website: "https://stores.bestbuy.com/va/falls-church/5799-leesburg-pike-283.html"
+website: https://stores.bestbuy.com/va/falls-church/5799-leesburg-pike-283.html

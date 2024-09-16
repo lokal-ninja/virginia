@@ -1,11 +1,11 @@
 id: 1124009852
-type: way
+type: node
 latitude: 37.03561
 longitude: -77.09286
 postcode: "23890"
 city: Waverly
-street: "South County Drive"
-housenumber: 108
-phone: "+1-804-834-2276"
+street: South County Drive
+housenumber: "108"
+phone: +1-804-834-2276
 opening_hours: ""
 website: ""

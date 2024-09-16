@@ -1,11 +1,11 @@
 id: 160692012
-type: way
+type: node
 latitude: 38.80435
 longitude: -77.04042
 postcode: "22314"
 city: Alexandria
-street: "King Street"
-housenumber: 101
-phone: "+1 703-549-1797"
-opening_hours: "Mo-Sa 11:00 - 20:00"
-website: "https://www.theluckyknot.com/"
+street: King Street
+housenumber: "101"
+phone: +1 703-549-1797
+opening_hours: Mo-Sa 11:00 - 20:00
+website: https://www.theluckyknot.com/

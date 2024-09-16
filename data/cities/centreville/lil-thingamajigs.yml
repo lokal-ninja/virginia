@@ -1,11 +1,11 @@
 id: 1079802031
-type: way
+type: node
 latitude: 38.83769
 longitude: -77.43425
 postcode: "20121"
 city: Centreville
-street: "Centreville Crest Lane"
-housenumber: 5949
-phone: "+1 703-543-4546"
-opening_hours: "Mo-Su 011:00-21:00"
-website: "https://lilthinga.com/"
+street: Centreville Crest Lane
+housenumber: "5949"
+phone: +1 703-543-4546
+opening_hours: Mo-Su 011:00-21:00
+website: https://lilthinga.com/

@@ -1,11 +1,11 @@
 id: 244645560
-type: way
+type: node
 latitude: 39.13623
 longitude: -77.70434
 postcode: "20132"
 city: Purcellville
-street: "East Main Street"
-housenumber: 700
-phone: "+1 540-338-9200"
+street: East Main Street
+housenumber: "700"
+phone: +1 540-338-9200
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/purcellville/700-e-main-street-24539"
+website: https://www.7-eleven.com/locations/va/purcellville/700-e-main-street-24539

@@ -1,11 +1,11 @@
 id: 310313757
-type: way
+type: node
 latitude: 36.83665
 longitude: -76.31756
 postcode: "23704"
 city: Portsmouth
-street: "London Boulevard"
-housenumber: 1503
+street: London Boulevard
+housenumber: "1503"
 phone: ""
 opening_hours: ""
 website: ""

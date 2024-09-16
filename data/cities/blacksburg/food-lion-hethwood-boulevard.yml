@@ -1,11 +1,11 @@
 id: 519690042
-type: way
+type: node
 latitude: 37.21706
 longitude: -80.45487
 postcode: "24060"
 city: Blacksburg
-street: "Hethwood Boulevard"
-housenumber: 801
-phone: "+1 540-951-1016"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://stores.foodlion.com/va/blacksburg/801-hethwood-blvd"
+street: Hethwood Boulevard
+housenumber: "801"
+phone: +1 540-951-1016
+opening_hours: Mo-Su 07:00-24:00
+website: https://stores.foodlion.com/va/blacksburg/801-hethwood-blvd

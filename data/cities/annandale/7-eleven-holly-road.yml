@@ -1,11 +1,11 @@
 id: 532623348
-type: way
+type: node
 latitude: 38.8542
 longitude: -77.22215
-postcode: "22003-1201"
+postcode: 22003-1201
 city: Annandale
-street: "Holly Road"
-housenumber: 3405
-phone: "+1 703-876-8923"
+street: Holly Road
+housenumber: "3405"
+phone: +1 703-876-8923
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/annandale/3338-gallows-rd-10689"
+website: https://www.7-eleven.com/locations/va/annandale/3338-gallows-rd-10689

@@ -1,11 +1,11 @@
 id: 1293299887
-type: way
+type: node
 latitude: 37.28518
 longitude: -76.71255
 postcode: "23185"
 city: Williamsburg
-street: "Bypass Road"
-housenumber: 317
-phone: "+1-757-703-7274"
-opening_hours: "Mo-Fr 07:30-17:30"
+street: Bypass Road
+housenumber: "317"
+phone: +1-757-703-7274
+opening_hours: Mo-Fr 07:30-17:30
 website: ""

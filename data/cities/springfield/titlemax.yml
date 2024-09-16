@@ -1,11 +1,11 @@
 id: 224210767
-type: way
+type: node
 latitude: 38.78268
 longitude: -77.18301
 postcode: "22150"
 city: Springfield
-street: "Commerce Street"
-housenumber: 6802
+street: Commerce Street
+housenumber: "6802"
 phone: ""
 opening_hours: ""
 website: ""

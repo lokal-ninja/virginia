@@ -1,11 +1,11 @@
 id: 753721561
-type: way
+type: node
 latitude: 37.52896
 longitude: -77.40788
 postcode: "23223"
 city: Richmond
-street: "Chimborazo Boulevard"
-housenumber: 515
-phone: "+1 804 222-0462"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-17:00"
+street: Chimborazo Boulevard
+housenumber: "515"
+phone: +1 804 222-0462
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-17:00
 website: ""

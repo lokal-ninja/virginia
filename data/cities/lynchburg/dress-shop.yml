@@ -4,8 +4,8 @@ latitude: 37.4002
 longitude: -79.16142
 postcode: "24502"
 city: Lynchburg
-street: "12th Street"
-housenumber: 2412
-phone: "+1 919 532 4687"
-opening_hours: "We-Sa 10:15-16:00"
+street: 12th Street
+housenumber: "2412"
+phone: +1 919 532 4687
+opening_hours: We-Sa 10:15-16:00
 website: ""

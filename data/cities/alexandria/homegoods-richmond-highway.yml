@@ -4,8 +4,8 @@ latitude: 38.83863
 longitude: -77.05001
 postcode: "22305"
 city: Alexandria
-street: "Richmond Highway"
-housenumber: 3701
-phone: "+1 703-518-5191"
-opening_hours: "09:00-22:00"
-website: "https://www.homegoods.com/us/store/stores/Alexandria-VA-22305/54/aboutstore"
+street: Richmond Highway
+housenumber: "3701"
+phone: +1 703-518-5191
+opening_hours: 09:00-22:00
+website: https://www.homegoods.com/us/store/stores/Alexandria-VA-22305/54/aboutstore

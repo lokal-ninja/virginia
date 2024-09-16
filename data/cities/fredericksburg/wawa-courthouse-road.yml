@@ -1,11 +1,11 @@
 id: 672990933
-type: way
+type: node
 latitude: 38.24754
 longitude: -77.51489
 postcode: "22407"
 city: Fredericksburg
-street: "Courthouse Road"
-housenumber: 10630
+street: Courthouse Road
+housenumber: "10630"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/663"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/663

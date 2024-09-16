@@ -1,11 +1,11 @@
 id: 407483519
-type: way
+type: node
 latitude: 36.87178
 longitude: -76.1712
 postcode: "23455"
 city: Virginia Beach
-street: "Diamond Springs Road"
-housenumber: 920
+street: Diamond Springs Road
+housenumber: "920"
 phone: ""
 opening_hours: ""
 website: ""

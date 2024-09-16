@@ -1,11 +1,11 @@
 id: 543943073
-type: way
+type: node
 latitude: 38.73699
 longitude: -77.5322
 postcode: "20112"
 city: Manassas
-street: "Nokesville Road"
-housenumber: 11111
-phone: "+1 703-257-1630"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8637"
+street: Nokesville Road
+housenumber: "11111"
+phone: +1 703-257-1630
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8637

@@ -1,11 +1,11 @@
 id: 609825401
-type: way
+type: node
 latitude: 37.10936
 longitude: -76.49344
-postcode: "23602-6908"
+postcode: 23602-6908
 city: Newport News
-street: "Jefferson Avenue"
-housenumber: 12140
-phone: "+1 757-800-1700"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/va/newport-news/5124"
+street: Jefferson Avenue
+housenumber: "12140"
+phone: +1 757-800-1700
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/va/newport-news/5124

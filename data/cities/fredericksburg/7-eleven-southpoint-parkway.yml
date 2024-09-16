@@ -1,11 +1,11 @@
 id: 572898665
-type: way
+type: node
 latitude: 38.2385
 longitude: -77.50592
 postcode: "22407"
 city: Fredericksburg
-street: "Southpoint Parkway"
-housenumber: 10100
+street: Southpoint Parkway
+housenumber: "10100"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

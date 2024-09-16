@@ -1,11 +1,11 @@
 id: 205598421
-type: way
+type: node
 latitude: 38.30353
 longitude: -77.46034
 postcode: "22401"
 city: Fredericksburg
-street: "William Street"
-housenumber: 215
+street: William Street
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 386506009
-type: way
+type: node
 latitude: 37.12369
 longitude: -76.39447
 postcode: "23662"
 city: Poquoson
-street: "Wythe Creek Road"
-housenumber: 425
-phone: "757-868-8029"
-opening_hours: "Mo-Fr 06:00-23:00"
+street: Wythe Creek Road
+housenumber: "425"
+phone: 757-868-8029
+opening_hours: Mo-Fr 06:00-23:00
 website: ""

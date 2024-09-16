@@ -1,11 +1,11 @@
 id: 633335284
-type: way
+type: node
 latitude: 38.80838
 longitude: -77.60968
 postcode: "20155"
 city: Gainesville
-street: "Heathcote Boulevard"
-housenumber: 13821
-phone: "+1 703-753-2250"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/va/gainesville/13821-heathcote-blvd-37108"
+street: Heathcote Boulevard
+housenumber: "13821"
+phone: +1 703-753-2250
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/va/gainesville/13821-heathcote-blvd-37108

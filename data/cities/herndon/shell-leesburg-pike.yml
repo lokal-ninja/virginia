@@ -1,11 +1,11 @@
 id: 949473722
-type: way
+type: node
 latitude: 39.01339
 longitude: -77.3705
 postcode: "20170"
 city: Herndon
-street: "Leesburg Pike"
-housenumber: 12219
+street: Leesburg Pike
+housenumber: "12219"
 phone: ""
 opening_hours: ""
 website: ""

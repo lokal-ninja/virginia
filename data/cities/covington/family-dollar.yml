@@ -1,11 +1,11 @@
 id: 340058597
-type: way
+type: node
 latitude: 37.78039
 longitude: -79.9895
 postcode: ""
 city: Covington
-street: "South Craig Avenue"
-housenumber: 1123
+street: South Craig Avenue
+housenumber: "1123"
 phone: ""
 opening_hours: ""
 website: ""

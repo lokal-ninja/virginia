@@ -4,8 +4,8 @@ latitude: 37.293
 longitude: -80.05752
 postcode: "24153"
 city: Salem
-street: "East Main Street"
-housenumber: 27
+street: East Main Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "http://salonveluxe.com/"
+website: http://salonveluxe.com/

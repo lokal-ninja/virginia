@@ -1,11 +1,11 @@
 id: 303940495
-type: way
+type: node
 latitude: 38.88386
 longitude: -77.11617
 postcode: "22201"
 city: Arlington
-street: "North Glebe Road"
-housenumber: 1105
-phone: "+1-703-685-9312"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.merlexautogroup.com/"
+street: North Glebe Road
+housenumber: "1105"
+phone: +1-703-685-9312
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.merlexautogroup.com/

@@ -4,8 +4,8 @@ latitude: 37.12736
 longitude: -76.53728
 postcode: "23602"
 city: Newport News
-street: "Warwick Boulevard"
-housenumber: 14347
-phone: "757-877-6755"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.qmpolice.com/"
+street: Warwick Boulevard
+housenumber: "14347"
+phone: 757-877-6755
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.qmpolice.com/

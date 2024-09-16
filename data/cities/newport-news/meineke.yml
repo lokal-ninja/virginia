@@ -1,11 +1,11 @@
 id: 333196024
-type: way
+type: node
 latitude: 37.13101
 longitude: -76.53674
 postcode: "23608"
 city: Newport News
-street: "Oriana Road"
-housenumber: 415
-phone: "757-814-2724"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-16:00"
+street: Oriana Road
+housenumber: "415"
+phone: 757-814-2724
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 708067412
-type: way
+type: node
 latitude: 37.5968
 longitude: -77.59373
 postcode: "23238"
 city: Richmond
-street: "Gaskins Road"
-housenumber: 1107
-phone: "+1 804-740-3359"
+street: Gaskins Road
+housenumber: "1107"
+phone: +1 804-740-3359
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/richmond/1107-gaskins-rd-16220"
+website: https://www.7-eleven.com/locations/va/richmond/1107-gaskins-rd-16220

@@ -1,11 +1,11 @@
 id: 971267502
-type: way
+type: node
 latitude: 37.12589
 longitude: -79.70009
 postcode: "24121"
 city: Moneta
-street: "Booker T Washington Highway"
-housenumber: 14190
+street: Booker T Washington Highway
+housenumber: "14190"
 phone: "+15407191670"
-opening_hours: "Mo-Sa 11:00-17:00"
-website: "https://reclaimedsml.com/"
+opening_hours: Mo-Sa 11:00-17:00
+website: https://reclaimedsml.com/

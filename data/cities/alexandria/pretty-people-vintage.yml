@@ -1,11 +1,11 @@
 id: 205180881
-type: way
+type: node
 latitude: 38.80581
 longitude: -77.05033
 postcode: "22314"
 city: Alexandria
-street: "North Patrick Street"
-housenumber: 108
-phone: "703.739.2522"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-17:00"
-website: "https://prettypeoplevintage.com/"
+street: North Patrick Street
+housenumber: "108"
+phone: 703.739.2522
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-17:00
+website: https://prettypeoplevintage.com/

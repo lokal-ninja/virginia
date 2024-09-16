@@ -1,11 +1,11 @@
 id: 710875598
-type: way
+type: node
 latitude: 37.51837
 longitude: -77.36822
 postcode: "23231"
 city: Richmond
-street: "Williamsburg Road"
-housenumber: 3301
-phone: "+1 804-226-2151"
+street: Williamsburg Road
+housenumber: "3301"
+phone: +1 804-226-2151
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 133082651
-type: way
+type: node
 latitude: 38.85697
 longitude: -77.39668
 postcode: "22033"
 city: Fairfax
-street: "Fair Lakes Shopping Center"
-housenumber: 13058
-phone: "+1 703-631-3332"
-opening_hours: "Su 11:00-19:00;Mo-Th 10:00-21:00;Fr-Sa 10:00-22:00"
-website: "https://stores.bestbuy.com/va/fairfax/13058-fairlakes-shopping-ctr-273.html"
+street: Fair Lakes Shopping Center
+housenumber: "13058"
+phone: +1 703-631-3332
+opening_hours: Su 11:00-19:00;Mo-Th 10:00-21:00;Fr-Sa 10:00-22:00
+website: https://stores.bestbuy.com/va/fairfax/13058-fairlakes-shopping-ctr-273.html

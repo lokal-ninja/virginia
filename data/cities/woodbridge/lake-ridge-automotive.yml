@@ -1,11 +1,11 @@
 id: 418398674
-type: way
+type: node
 latitude: 38.65579
 longitude: -77.30946
 postcode: "22192"
 city: Woodbridge
-street: "Minnieville Road"
-housenumber: 13520
+street: Minnieville Road
+housenumber: "13520"
 phone: ""
 opening_hours: ""
-website: "https://lakeridgeautomotive.net/"
+website: https://lakeridgeautomotive.net/

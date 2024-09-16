@@ -1,11 +1,11 @@
 id: 614336831
-type: way
+type: node
 latitude: 36.98148
 longitude: -76.63168
 postcode: "23430"
 city: Smithfield
-street: "Main Street"
-housenumber: 131
+street: Main Street
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 386112887
-type: way
+type: node
 latitude: 38.03062
 longitude: -78.47939
 postcode: "22902"
 city: Charlottesville
-street: "4th Street Northeast"
-housenumber: 111
+street: 4th Street Northeast
+housenumber: "111"
 phone: ""
-opening_hours: "Th-Sa 12:00-17:00"
+opening_hours: Th-Sa 12:00-17:00
 website: ""

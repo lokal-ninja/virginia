@@ -1,11 +1,11 @@
 id: 906685379
-type: way
+type: node
 latitude: 37.49608
 longitude: -76.41166
 postcode: "23050"
 city: Dutton
-street: "Buckley Hall Road"
-housenumber: 2009
-phone: "804-725-7636"
+street: Buckley Hall Road
+housenumber: "2009"
+phone: 804-725-7636
 opening_hours: ""
 website: ""

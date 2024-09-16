@@ -4,8 +4,8 @@ latitude: 38.83892
 longitude: -77.0621
 postcode: "22305"
 city: Alexandria
-street: "Mount Vernon Avenue"
-housenumber: 3705
-phone: "+1 (703) 535-5900"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/va/alexandria/3705-mount-vernon-ave.html"
+street: Mount Vernon Avenue
+housenumber: "3705"
+phone: +1 (703) 535-5900
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/va/alexandria/3705-mount-vernon-ave.html

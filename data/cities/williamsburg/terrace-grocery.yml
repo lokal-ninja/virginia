@@ -1,11 +1,11 @@
 id: 370112418
-type: way
+type: node
 latitude: 37.264
 longitude: -76.66503
 postcode: "23185"
 city: Williamsburg
-street: "Penniman Road"
-housenumber: 1102
+street: Penniman Road
+housenumber: "1102"
 phone: ""
 opening_hours: ""
 website: ""

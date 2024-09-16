@@ -1,11 +1,11 @@
 id: 330956278
-type: way
+type: node
 latitude: 37.5772
 longitude: -79.05765
 postcode: "24521"
 city: Amherst
-street: "South Main Street"
-housenumber: 533
-phone: "(877) 365-6649"
+street: South Main Street
+housenumber: "533"
+phone: (877) 365-6649
 opening_hours: ""
-website: "http://www.brockmansubaru.com/"
+website: http://www.brockmansubaru.com/

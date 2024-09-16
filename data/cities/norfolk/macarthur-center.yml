@@ -1,11 +1,11 @@
 id: 407402658
-type: way
+type: node
 latitude: 36.84979
 longitude: -76.2884
 postcode: "23510"
 city: Norfolk
-street: "Monticello Avenue"
-housenumber: 300
+street: Monticello Avenue
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.shopmacarthur.com/"
+website: https://www.shopmacarthur.com/

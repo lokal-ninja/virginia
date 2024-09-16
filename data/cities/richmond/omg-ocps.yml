@@ -4,8 +4,8 @@ latitude: 37.53359
 longitude: -77.42824
 postcode: "23223"
 city: Richmond
-street: "North 17th Street"
-housenumber: 3
-phone: "804 308 9929"
-opening_hours: "Th-Sa 10:00-20:00; Su-Mo 11:00-19:00"
-website: "https://www.omgocps.com/"
+street: North 17th Street
+housenumber: "3"
+phone: 804 308 9929
+opening_hours: Th-Sa 10:00-20:00; Su-Mo 11:00-19:00
+website: https://www.omgocps.com/

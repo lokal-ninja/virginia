@@ -1,11 +1,11 @@
 id: 496386339
-type: way
+type: node
 latitude: 37.26445
 longitude: -79.94142
 postcode: "24016"
 city: Roanoke
-street: "South Jefferson Street"
-housenumber: 1003
-phone: "+1-540-524-9373"
-opening_hours: "Mo-Fr 06:00-21:00; Su 06:00-15:00"
-website: "https://www.odbb.com/downtown/"
+street: South Jefferson Street
+housenumber: "1003"
+phone: +1-540-524-9373
+opening_hours: Mo-Fr 06:00-21:00; Su 06:00-15:00
+website: https://www.odbb.com/downtown/

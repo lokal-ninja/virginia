@@ -1,11 +1,11 @@
 id: 208057164
-type: way
+type: node
 latitude: 38.8977
 longitude: -77.12417
 postcode: "22207"
 city: Arlington
-street: "Langston Boulevard"
-housenumber: 4745
-phone: "+1 703-525-6132"
+street: Langston Boulevard
+housenumber: "4745"
+phone: +1 703-525-6132
 opening_hours: ""
-website: "https://www.khartframing.com/"
+website: https://www.khartframing.com/

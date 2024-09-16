@@ -1,11 +1,11 @@
 id: 361299763
-type: way
+type: node
 latitude: 38.88843
 longitude: -77.15992
 postcode: "22205"
 city: Arlington
-street: "Langston Boulevard"
-housenumber: 6730
-phone: "+1 703-241-5505"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/va/arlington/6730-lee-hwy-34642"
+street: Langston Boulevard
+housenumber: "6730"
+phone: +1 703-241-5505
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/va/arlington/6730-lee-hwy-34642

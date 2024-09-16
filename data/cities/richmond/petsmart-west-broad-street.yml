@@ -1,11 +1,11 @@
 id: 225760699
-type: way
+type: node
 latitude: 37.6567
 longitude: -77.61471
 postcode: "23233"
 city: Richmond
-street: "West Broad Street"
-housenumber: 11740
-phone: "+1 804-364-2570"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/va/richmond-store1354.html"
+street: West Broad Street
+housenumber: "11740"
+phone: +1 804-364-2570
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/va/richmond-store1354.html

@@ -1,11 +1,11 @@
 id: 822332408
-type: way
+type: node
 latitude: 37.70855
 longitude: -76.38005
 postcode: "22482"
 city: Kilmarnock
-street: "South Main Street"
-housenumber: 125
+street: South Main Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

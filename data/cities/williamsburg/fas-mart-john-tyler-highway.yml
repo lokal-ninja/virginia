@@ -1,11 +1,11 @@
 id: 370442583
-type: way
+type: node
 latitude: 37.2521
 longitude: -76.76607
 postcode: "23185"
 city: Williamsburg
-street: "John Tyler Highway"
-housenumber: 4454
-phone: "+1-757-253-6930"
-opening_hours: "Mo-Su 06:00-22:00"
+street: John Tyler Highway
+housenumber: "4454"
+phone: +1-757-253-6930
+opening_hours: Mo-Su 06:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 94300725
-type: way
+type: node
 latitude: 38.67879
 longitude: -77.25843
 postcode: "22192"
 city: Woodbridge
-street: "Gordon Boulevard"
-housenumber: 12518
+street: Gordon Boulevard
+housenumber: "12518"
 phone: ""
 opening_hours: ""
 website: ""

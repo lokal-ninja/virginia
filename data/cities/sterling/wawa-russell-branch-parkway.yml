@@ -1,11 +1,11 @@
 id: 1086500880
-type: way
+type: node
 latitude: 39.02879
 longitude: -77.43546
 postcode: "20166"
 city: Sterling
-street: "Russell Branch Parkway"
-housenumber: 45950
-phone: "+1 571-520-1622"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8662"
+street: Russell Branch Parkway
+housenumber: "45950"
+phone: +1 571-520-1622
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8662

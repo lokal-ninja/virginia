@@ -1,11 +1,11 @@
 id: 239147374
-type: way
+type: node
 latitude: 38.92045
 longitude: -77.2108
 postcode: "22102"
 city: McLean
-street: "Old Meadow Road"
-housenumber: 1755
+street: Old Meadow Road
+housenumber: "1755"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 102234135
-type: way
+type: node
 latitude: 39.11315
 longitude: -77.5605
 postcode: "20175"
 city: Leesburg
-street: "Loudoun Street Southeast"
-housenumber: 220
+street: Loudoun Street Southeast
+housenumber: "220"
 phone: ""
 opening_hours: ""
-website: "https://www.momsapplepieco.com/"
+website: https://www.momsapplepieco.com/

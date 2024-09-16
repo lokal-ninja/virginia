@@ -4,8 +4,8 @@ latitude: 37.5536
 longitude: -77.45567
 postcode: "23220"
 city: Richmond City
-street: "West Broad Street"
-housenumber: 1379
-phone: "+1-804-888-4333"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-17:00"
+street: West Broad Street
+housenumber: "1379"
+phone: +1-804-888-4333
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-17:00
 website: ""

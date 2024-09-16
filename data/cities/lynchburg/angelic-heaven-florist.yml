@@ -1,11 +1,11 @@
 id: 1160805380
-type: way
+type: node
 latitude: 37.36197
 longitude: -79.21062
 postcode: "24502"
 city: Lynchburg
-street: "Timberlake Road"
-housenumber: 7201
+street: Timberlake Road
+housenumber: "7201"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 402441691
-type: way
+type: node
 latitude: 36.81916
 longitude: -76.12043
 postcode: "23462"
 city: Virginia Beach
-street: "Holland Road"
-housenumber: 4245
+street: Holland Road
+housenumber: "4245"
 phone: ""
 opening_hours: ""
 website: ""

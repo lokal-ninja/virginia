@@ -1,11 +1,11 @@
 id: 1158906679
-type: way
+type: node
 latitude: 37.04917
 longitude: -80.76172
 postcode: "24301"
 city: Pulaski
-street: "East Main Street"
-housenumber: 1001
-phone: "+1-540-440-5859"
-opening_hours: "Mo-Fr 08:30-19:00"
+street: East Main Street
+housenumber: "1001"
+phone: +1-540-440-5859
+opening_hours: Mo-Fr 08:30-19:00
 website: ""

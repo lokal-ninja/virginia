@@ -1,11 +1,11 @@
 id: 384089622
-type: way
+type: node
 latitude: 36.72859
 longitude: -76.62268
 postcode: "23434"
 city: Suffolk
-street: "Holland Road"
-housenumber: 1325
+street: Holland Road
+housenumber: "1325"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 922622750
-type: way
+type: node
 latitude: 36.94205
 longitude: -76.54881
 postcode: "23314"
 city: Carrollton
-street: "Brewers Neck Boulevard"
-housenumber: 22028
-phone: "+1-757-238-3664"
-opening_hours: "Th-Tu 10:00-15:30"
-website: "https://carrolltonfurniture.net/"
+street: Brewers Neck Boulevard
+housenumber: "22028"
+phone: +1-757-238-3664
+opening_hours: Th-Tu 10:00-15:30
+website: https://carrolltonfurniture.net/

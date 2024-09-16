@@ -1,11 +1,11 @@
 id: 569735611
-type: way
+type: node
 latitude: 38.81353
 longitude: -77.12073
 postcode: "22304"
 city: Alexandria
-street: "Duke Street"
-housenumber: 5125
+street: Duke Street
+housenumber: "5125"
 phone: ""
 opening_hours: ""
 website: ""

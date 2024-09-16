@@ -1,11 +1,11 @@
 id: 407549956
-type: way
+type: node
 latitude: 38.91288
 longitude: -78.09987
 postcode: "22642"
 city: Linden
-street: "John Marshall Highway"
-housenumber: 4774
+street: John Marshall Highway
+housenumber: "4774"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

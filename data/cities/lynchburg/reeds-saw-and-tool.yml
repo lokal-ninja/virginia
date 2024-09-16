@@ -1,11 +1,11 @@
 id: 702318456
-type: way
+type: node
 latitude: 37.4119
 longitude: -79.13852
 postcode: ""
 city: Lynchburg
-street: "Commerce Street"
-housenumber: 1315
+street: Commerce Street
+housenumber: "1315"
 phone: ""
 opening_hours: ""
 website: ""

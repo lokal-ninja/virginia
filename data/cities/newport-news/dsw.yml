@@ -1,11 +1,11 @@
 id: 377542589
-type: way
+type: node
 latitude: 37.10291
 longitude: -76.49013
 postcode: "23606"
 city: Newport News
-street: "Jefferson Avenue"
-housenumber: 12080
-phone: "+1 757-847-5172"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.dsw.com/usa/va/newportnews/dsw-designer-shoe-warehouse-the-marketplace-at-tech-center.html"
+street: Jefferson Avenue
+housenumber: "12080"
+phone: +1 757-847-5172
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.dsw.com/usa/va/newportnews/dsw-designer-shoe-warehouse-the-marketplace-at-tech-center.html

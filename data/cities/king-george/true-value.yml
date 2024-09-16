@@ -1,11 +1,11 @@
 id: 546434632
-type: way
+type: node
 latitude: 38.26613
 longitude: -77.14471
 postcode: "22485"
 city: King George
-street: "Ridge Road"
-housenumber: 11475
+street: Ridge Road
+housenumber: "11475"
 phone: ""
 opening_hours: ""
 website: ""

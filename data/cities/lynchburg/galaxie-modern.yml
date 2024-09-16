@@ -4,8 +4,8 @@ latitude: 37.41191
 longitude: -79.13894
 postcode: "24504"
 city: Lynchburg
-street: "13th Street"
-housenumber: 109
-phone: "+1 434-401-3753"
+street: 13th Street
+housenumber: "109"
+phone: +1 434-401-3753
 opening_hours: ""
-website: "https://www.galaxiemodern.com/"
+website: https://www.galaxiemodern.com/

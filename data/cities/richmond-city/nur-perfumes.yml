@@ -1,11 +1,11 @@
 id: 321367850
-type: way
+type: node
 latitude: 37.54482
 longitude: -77.44091
 postcode: "23219"
 city: Richmond City
-street: "East Broad Street"
-housenumber: 107
+street: East Broad Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
-website: "https://nurperfumes.com"
+website: https://nurperfumes.com

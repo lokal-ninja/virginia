@@ -1,11 +1,11 @@
 id: 312462163
-type: way
+type: node
 latitude: 36.82241
 longitude: -76.2747
 postcode: "23324"
 city: Chesapeake
-street: "Liberty Street"
-housenumber: 500
+street: Liberty Street
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 38.88841
 longitude: -77.09223
 postcode: "22201"
 city: Arlington
-street: "Clarendon Boulevard"
-housenumber: 2823
-phone: "+1 703-294-6600"
-opening_hours: "Mo,We,Fr 10:00-19:00; Tu,Th 10:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://www.myeyedr.com/locations/clarendon"
+street: Clarendon Boulevard
+housenumber: "2823"
+phone: +1 703-294-6600
+opening_hours: Mo,We,Fr 10:00-19:00; Tu,Th 10:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://www.myeyedr.com/locations/clarendon

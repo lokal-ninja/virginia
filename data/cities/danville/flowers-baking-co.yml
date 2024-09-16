@@ -1,11 +1,11 @@
 id: 1107553609
-type: way
+type: node
 latitude: 36.58144
 longitude: -79.34864
 postcode: "24540"
 city: Danville
-street: "South Boston Road"
-housenumber: 1276
-phone: "(434) 791-4100"
+street: South Boston Road
+housenumber: "1276"
+phone: (434) 791-4100
 opening_hours: ""
 website: ""

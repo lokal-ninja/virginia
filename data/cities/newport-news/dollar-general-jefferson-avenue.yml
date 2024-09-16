@@ -1,11 +1,11 @@
 id: 333279539
-type: way
+type: node
 latitude: 37.01014
 longitude: -76.43767
 postcode: "23605"
 city: Newport News
-street: "Jefferson Avenue"
-housenumber: 5922
+street: Jefferson Avenue
+housenumber: "5922"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/va/newport-news/4197"
+website: https://www.dollargeneral.com/store-directory/va/newport-news/4197

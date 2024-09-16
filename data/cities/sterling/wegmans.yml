@@ -1,11 +1,11 @@
 id: 45064893
-type: way
+type: node
 latitude: 39.00766
 longitude: -77.44074
 postcode: "20166"
 city: Sterling
-street: "Columbia Place"
-housenumber: 45131
-phone: "+1 703-421-2400"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.wegmans.com/stores/dulles-va.html"
+street: Columbia Place
+housenumber: "45131"
+phone: +1 703-421-2400
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.wegmans.com/stores/dulles-va.html

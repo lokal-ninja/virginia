@@ -1,11 +1,11 @@
 id: 144459184
-type: way
+type: node
 latitude: 38.6746
 longitude: -77.33538
 postcode: "22192"
 city: Woodbridge
-street: "Merchant Plaza"
-housenumber: 4220
-phone: "+1 703-590-1057"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/va/woodbridge/4240-merchant-plaza.html"
+street: Merchant Plaza
+housenumber: "4220"
+phone: +1 703-590-1057
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/va/woodbridge/4240-merchant-plaza.html

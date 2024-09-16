@@ -1,11 +1,11 @@
 id: 388498414
-type: way
+type: node
 latitude: 37.01915
 longitude: -76.4045
 postcode: "23666"
 city: Hampton
-street: "Briarfield Road"
-housenumber: 1599
+street: Briarfield Road
+housenumber: "1599"
 phone: ""
 opening_hours: ""
 website: ""

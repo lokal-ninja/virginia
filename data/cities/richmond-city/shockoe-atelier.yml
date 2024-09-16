@@ -1,11 +1,11 @@
 id: 225586219
-type: way
+type: node
 latitude: 37.5341
 longitude: -77.43073
 postcode: "23219"
 city: Richmond City
-street: "South 15th Street"
-housenumber: 13
-phone: "+1 804-269-0851"
+street: South 15th Street
+housenumber: "13"
+phone: +1 804-269-0851
 opening_hours: ""
-website: "https://shockoeatelier.com/"
+website: https://shockoeatelier.com/

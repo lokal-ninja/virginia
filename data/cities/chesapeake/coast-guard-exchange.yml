@@ -1,11 +1,11 @@
 id: 824982251
-type: way
+type: node
 latitude: 36.77981
 longitude: -76.23611
 postcode: "23320"
 city: Chesapeake
-street: "Crossways Boulevard"
-housenumber: 1589
+street: Crossways Boulevard
+housenumber: "1589"
 phone: ""
 opening_hours: ""
 website: ""

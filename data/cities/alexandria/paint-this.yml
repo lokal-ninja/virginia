@@ -1,11 +1,11 @@
 id: 160690373
-type: way
+type: node
 latitude: 38.80588
 longitude: -77.05085
 postcode: "22314"
 city: Alexandria
-street: "King Street"
-housenumber: 1013
-phone: "703 519 7499"
-opening_hours: "Sa-Mo 12:00-18:00; We-Fr 12:00-20:00"
-website: "http://paintthis.com/paintthis/Welcome.html"
+street: King Street
+housenumber: "1013"
+phone: 703 519 7499
+opening_hours: Sa-Mo 12:00-18:00; We-Fr 12:00-20:00
+website: http://paintthis.com/paintthis/Welcome.html

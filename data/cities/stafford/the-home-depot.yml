@@ -1,11 +1,11 @@
 id: 230360665
-type: way
+type: node
 latitude: 38.47752
 longitude: -77.41968
 postcode: "22556"
 city: Stafford
-street: "Worth Avenue"
-housenumber: 305
-phone: "+1 540-657-6478"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/stafford/va/stafford/22556/4637"
+street: Worth Avenue
+housenumber: "305"
+phone: +1 540-657-6478
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/stafford/va/stafford/22556/4637

@@ -1,11 +1,11 @@
 id: 415943484
-type: way
+type: node
 latitude: 38.95566
 longitude: -77.27303
 postcode: "22182"
 city: Vienna
-street: "Leesburg Pike"
-housenumber: 9439
-phone: "+1 703-759-4244"
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://wolftrapnursery.com/"
+street: Leesburg Pike
+housenumber: "9439"
+phone: +1 703-759-4244
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-18:00
+website: https://wolftrapnursery.com/

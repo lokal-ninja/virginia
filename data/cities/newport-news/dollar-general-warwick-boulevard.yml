@@ -1,11 +1,11 @@
 id: 333115465
-type: way
+type: node
 latitude: 37.19261
 longitude: -76.57293
 postcode: "23603"
 city: Newport News
-street: "Warwick Boulevard"
-housenumber: 17413
+street: Warwick Boulevard
+housenumber: "17413"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/va/newport-news/1543"
+website: https://www.dollargeneral.com/store-directory/va/newport-news/1543

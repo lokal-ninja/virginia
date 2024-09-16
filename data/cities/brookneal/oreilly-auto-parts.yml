@@ -1,11 +1,11 @@
 id: 1263696936
-type: way
+type: node
 latitude: 37.04921
 longitude: -78.94539
 postcode: "24528"
 city: Brookneal
-street: "Lusardi Drive"
-housenumber: 110
+street: Lusardi Drive
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/va/brookneal/autoparts-3948.html"
+website: https://locations.oreillyauto.com/va/brookneal/autoparts-3948.html

@@ -1,11 +1,11 @@
 id: 389126031
-type: way
+type: node
 latitude: 38.96889
 longitude: -78.18735
 postcode: "22630"
 city: Front Royal
-street: "Winchester Road"
-housenumber: 9071
-phone: "+1 540-636-8420"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://www.84lumber.com/store-locator/store-detail/?storeId=1724"
+street: Winchester Road
+housenumber: "9071"
+phone: +1 540-636-8420
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://www.84lumber.com/store-locator/store-detail/?storeId=1724

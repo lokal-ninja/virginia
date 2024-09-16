@@ -4,8 +4,8 @@ latitude: 38.86778
 longitude: -77.11726
 postcode: "22203"
 city: Arlington
-street: "1st Street North"
-housenumber: 4817
-phone: "+1 703-243-7222"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 11:00-18:00"
+street: 1st Street North
+housenumber: "4817"
+phone: +1 703-243-7222
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 11:00-18:00
 website: ""

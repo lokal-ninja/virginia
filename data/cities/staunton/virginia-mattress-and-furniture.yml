@@ -1,11 +1,11 @@
 id: 169788300
-type: way
+type: node
 latitude: 38.14599
 longitude: -79.06298
 postcode: ""
 city: Staunton
-street: "Richmond Avenue"
-housenumber: 510
+street: Richmond Avenue
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

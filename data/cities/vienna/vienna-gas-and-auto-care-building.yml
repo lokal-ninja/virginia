@@ -1,11 +1,11 @@
 id: 584890044
-type: way
+type: node
 latitude: 38.90785
 longitude: -77.25798
 postcode: "22180"
 city: Vienna
-street: "Maple Avenue East"
-housenumber: 410
+street: Maple Avenue East
+housenumber: "410"
 phone: ""
 opening_hours: ""
-website: "https://www.viennagasautocare.com/"
+website: https://www.viennagasautocare.com/

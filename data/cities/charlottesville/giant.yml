@@ -1,11 +1,11 @@
 id: 169788890
-type: way
+type: node
 latitude: 38.02946
 longitude: -78.44672
 postcode: "22911"
 city: Charlottesville
-street: "Abbey Road"
-housenumber: 1900
-phone: "+1 434-244-4300"
-opening_hours: "Mo-Sa 06:00-23:00; Su 06:00-22:00"
-website: "https://stores.giantfood.com/va/charlottesville/1900-abbey-road"
+street: Abbey Road
+housenumber: "1900"
+phone: +1 434-244-4300
+opening_hours: Mo-Sa 06:00-23:00; Su 06:00-22:00
+website: https://stores.giantfood.com/va/charlottesville/1900-abbey-road

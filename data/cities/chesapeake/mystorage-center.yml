@@ -1,11 +1,11 @@
 id: 1112694159
-type: way
+type: node
 latitude: 36.74326
 longitude: -76.22276
 postcode: "23320"
 city: Chesapeake
-street: "Kempsville Road"
-housenumber: 504
+street: Kempsville Road
+housenumber: "504"
 phone: ""
 opening_hours: ""
-website: "https://mystoragecenters.com/self-storage/chesapeake-va-23320"
+website: https://mystoragecenters.com/self-storage/chesapeake-va-23320

@@ -4,8 +4,8 @@ latitude: 38.90212
 longitude: -77.267
 postcode: "22180"
 city: Vienna
-street: "Church Street Northwest"
-housenumber: 111
-phone: "+1-540-878-9859"
+street: Church Street Northwest
+housenumber: "111"
+phone: +1-540-878-9859
 opening_hours: ""
-website: "https://www.salonandcompanyva.com/"
+website: https://www.salonandcompanyva.com/

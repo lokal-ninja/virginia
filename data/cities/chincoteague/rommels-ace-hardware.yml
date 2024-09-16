@@ -1,11 +1,11 @@
 id: 192552505
-type: way
+type: node
 latitude: 37.92761
 longitude: -75.35394
 postcode: "23336"
 city: Chincoteague
-street: "Maddox Boulevard"
-housenumber: 6735
-phone: "+1 757-336-5808"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://www.acehardware.com/"
+street: Maddox Boulevard
+housenumber: "6735"
+phone: +1 757-336-5808
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-17:00
+website: https://www.acehardware.com/

@@ -1,11 +1,11 @@
 id: 44819163
-type: way
+type: node
 latitude: 37.27265
 longitude: -79.91004
 postcode: "24013"
 city: Roanoke
-street: "Dale Avenue"
-housenumber: 2141
-phone: "+1 540-613-6644"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3614/roanoke-va/whats-new"
+street: Dale Avenue
+housenumber: "2141"
+phone: +1 540-613-6644
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3614/roanoke-va/whats-new

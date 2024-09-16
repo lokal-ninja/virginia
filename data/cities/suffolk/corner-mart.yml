@@ -1,11 +1,11 @@
 id: 384057684
-type: way
+type: node
 latitude: 36.7331
 longitude: -76.59777
 postcode: "23434"
 city: Suffolk
-street: "Constance Road"
-housenumber: 801
+street: Constance Road
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

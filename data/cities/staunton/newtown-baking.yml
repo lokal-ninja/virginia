@@ -1,11 +1,11 @@
 id: 850623085
-type: way
+type: node
 latitude: 38.14977
 longitude: -79.08277
 postcode: ""
 city: Staunton
-street: "West Beverly Street"
-housenumber: 960
-phone: "(540) 885-3799"
+street: West Beverly Street
+housenumber: "960"
+phone: (540) 885-3799
 opening_hours: ""
-website: "https://www.newtownbaking.com/menu/"
+website: https://www.newtownbaking.com/menu/

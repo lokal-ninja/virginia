@@ -1,11 +1,11 @@
 id: 48189178
-type: way
+type: node
 latitude: 39.02417
 longitude: -77.40164
-postcode: "20164-6607"
+postcode: 20164-6607
 city: Sterling
-street: "Price Cascades Plaza"
-housenumber: 21398
-phone: "+1 703-406-6500"
-opening_hours: "Su 10:00-18:00; Mo-Fr 10:00-20:30; Sa 09:30-18:00"
-website: "https://www.costco.com/warehouse-locations/sterling-va-218.html"
+street: Price Cascades Plaza
+housenumber: "21398"
+phone: +1 703-406-6500
+opening_hours: Su 10:00-18:00; Mo-Fr 10:00-20:30; Sa 09:30-18:00
+website: https://www.costco.com/warehouse-locations/sterling-va-218.html

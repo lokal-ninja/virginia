@@ -1,11 +1,11 @@
 id: 311055539
-type: way
+type: node
 latitude: 38.71925
 longitude: -77.80646
 postcode: "20186"
 city: Warrenton
-street: "Broadview Avenue"
-housenumber: 81
+street: Broadview Avenue
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

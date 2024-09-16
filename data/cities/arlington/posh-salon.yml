@@ -4,8 +4,8 @@ latitude: 38.86308
 longitude: -77.05216
 postcode: "22202"
 city: Arlington
-street: "12th Street South"
-housenumber: 401
-phone: "+1 703-412-2800"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.poshsalonva.com/"
+street: 12th Street South
+housenumber: "401"
+phone: +1 703-412-2800
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.poshsalonva.com/

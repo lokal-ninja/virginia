@@ -1,11 +1,11 @@
 id: 689113686
-type: way
+type: node
 latitude: 38.25697
 longitude: -77.58336
 postcode: "22407"
 city: Fredericksburg
-street: "Smith Station Road"
-housenumber: 7530
+street: Smith Station Road
+housenumber: "7530"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/va/fredericksburg/14856"
+website: https://www.dollargeneral.com/store-directory/va/fredericksburg/14856

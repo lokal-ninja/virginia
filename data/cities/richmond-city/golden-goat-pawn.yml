@@ -1,11 +1,11 @@
 id: 756805534
-type: way
+type: node
 latitude: 37.56247
 longitude: -77.44747
 postcode: "23220"
 city: Richmond City
-street: "Brook Road"
-housenumber: 2201
+street: Brook Road
+housenumber: "2201"
 phone: ""
 opening_hours: ""
 website: ""

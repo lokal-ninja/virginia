@@ -1,11 +1,11 @@
 id: 1118316643
-type: way
+type: node
 latitude: 36.91345
 longitude: -76.90426
 postcode: "23866"
 city: Ivor
-street: "General Mahone Boulevard"
-housenumber: 35198
+street: General Mahone Boulevard
+housenumber: "35198"
 phone: ""
 opening_hours: ""
-website: "https://www.selfstorageivor.com"
+website: https://www.selfstorageivor.com

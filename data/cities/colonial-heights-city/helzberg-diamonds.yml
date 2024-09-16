@@ -1,11 +1,11 @@
 id: 905594275
-type: way
+type: node
 latitude: 37.24793
 longitude: -77.38965
 postcode: "23834"
 city: Colonial Heights City
-street: "Southpark Boulevard"
-housenumber: 690
-phone: "+1-804-520-0471"
+street: Southpark Boulevard
+housenumber: "690"
+phone: +1-804-520-0471
 opening_hours: ""
-website: "https://stores.helzberg.com/va/colonialheights/jewelry-store-639.html"
+website: https://stores.helzberg.com/va/colonialheights/jewelry-store-639.html

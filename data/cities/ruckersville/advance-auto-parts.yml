@@ -1,11 +1,11 @@
 id: 889264716
-type: way
+type: node
 latitude: 38.20957
 longitude: -78.38599
 postcode: "22968"
 city: Ruckersville
-street: "Seminole Trail"
-housenumber: 7093
-phone: "+1 (434) 985-3684"
-opening_hours: "Mo-We 07:30-20:00; Th-Fr 07:30-18:00; Sa 07:30-20:00; Su 09:00-19:00"
-website: "https://stores.advanceautoparts.com/va/ruckersville/7093-seminole-trail"
+street: Seminole Trail
+housenumber: "7093"
+phone: +1 (434) 985-3684
+opening_hours: Mo-We 07:30-20:00; Th-Fr 07:30-18:00; Sa 07:30-20:00; Su 09:00-19:00
+website: https://stores.advanceautoparts.com/va/ruckersville/7093-seminole-trail

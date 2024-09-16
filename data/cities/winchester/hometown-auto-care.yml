@@ -1,11 +1,11 @@
 id: 713758093
-type: way
+type: node
 latitude: 39.17698
 longitude: -78.16808
 postcode: "22601"
 city: Winchester
-street: "South Loudoun Street"
-housenumber: 824
-phone: "+1-540-665-0626"
-opening_hours: "Mo-Th 07:30-20:00; Fr 07:30-17:30"
-website: "https://hometownautocarewinchester.com/"
+street: South Loudoun Street
+housenumber: "824"
+phone: +1-540-665-0626
+opening_hours: Mo-Th 07:30-20:00; Fr 07:30-17:30
+website: https://hometownautocarewinchester.com/

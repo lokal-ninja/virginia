@@ -1,11 +1,11 @@
 id: 242905034
-type: way
+type: node
 latitude: 37.99092
 longitude: -78.50407
 postcode: "22902"
 city: Charlottesville
-street: "Avon Street Extd"
-housenumber: 1875
+street: Avon Street Extd
+housenumber: "1875"
 phone: ""
 opening_hours: ""
-website: "https://www.snowknows.com"
+website: https://www.snowknows.com

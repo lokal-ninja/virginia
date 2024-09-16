@@ -1,11 +1,11 @@
 id: 39256861
-type: way
+type: node
 latitude: 38.25114
 longitude: -77.5072
 postcode: "22408"
 city: Fredericksburg
-street: "Courthouse Road"
-housenumber: 10734
+street: Courthouse Road
+housenumber: "10734"
 phone: ""
 opening_hours: ""
 website: ""

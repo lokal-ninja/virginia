@@ -1,11 +1,11 @@
 id: 1088311933
-type: way
+type: node
 latitude: 37.71208
 longitude: -75.74941
 postcode: "23417"
 city: Onancock
-street: "Market Street"
-housenumber: 36
+street: Market Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

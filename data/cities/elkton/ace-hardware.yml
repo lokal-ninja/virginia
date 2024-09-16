@@ -1,11 +1,11 @@
 id: 673022980
-type: way
+type: node
 latitude: 38.40739
 longitude: -78.61865
-postcode: "22827-1534"
+postcode: 22827-1534
 city: Elkton
-street: "South Stuart Avenue"
-housenumber: 300
-phone: "+1 540-298-9144"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-16:00"
+street: South Stuart Avenue
+housenumber: "300"
+phone: +1 540-298-9144
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1153372818
-type: way
+type: node
 latitude: 38.07182
 longitude: -78.48234
 postcode: "22901"
 city: Charlottesville
-street: "Seminole Trail"
-housenumber: 1295
+street: Seminole Trail
+housenumber: "1295"
 phone: ""
 opening_hours: ""
 website: ""

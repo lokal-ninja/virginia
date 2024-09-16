@@ -1,11 +1,11 @@
 id: 247674285
-type: way
+type: node
 latitude: 37.38323
 longitude: -79.16422
 postcode: "24506"
 city: Lynchburg
-street: "Harris Lane"
-housenumber: 3900
-phone: "+1 434 845-5981"
-opening_hours: "Mo-Fr 07:00-17:00"
+street: Harris Lane
+housenumber: "3900"
+phone: +1 434 845-5981
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

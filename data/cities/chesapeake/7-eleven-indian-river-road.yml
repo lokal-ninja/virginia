@@ -1,11 +1,11 @@
 id: 312478993
-type: way
+type: node
 latitude: 36.82227
 longitude: -76.23389
 postcode: "23325"
 city: Chesapeake
-street: "Indian River Road"
-housenumber: 3711
-phone: "+1 757-420-2472"
+street: Indian River Road
+housenumber: "3711"
+phone: +1 757-420-2472
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/chesapeake/3711-indian-river-rd-10884"
+website: https://www.7-eleven.com/locations/va/chesapeake/3711-indian-river-rd-10884

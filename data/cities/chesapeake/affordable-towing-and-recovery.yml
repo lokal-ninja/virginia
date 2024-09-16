@@ -1,11 +1,11 @@
 id: 312466946
-type: way
+type: node
 latitude: 36.81179
 longitude: -76.2573
 postcode: "23324"
 city: Chesapeake
-street: "Campostella Road"
-housenumber: 2648
+street: Campostella Road
+housenumber: "2648"
 phone: ""
 opening_hours: ""
 website: ""

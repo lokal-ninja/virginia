@@ -1,11 +1,11 @@
 id: 207124546
-type: way
+type: node
 latitude: 38.88952
 longitude: -77.18266
 postcode: "22046"
 city: Falls Church
-street: "West Broad Street"
-housenumber: 909
+street: West Broad Street
+housenumber: "909"
 phone: ""
 opening_hours: ""
 website: ""

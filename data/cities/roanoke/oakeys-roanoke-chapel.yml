@@ -1,11 +1,11 @@
 id: 549561362
-type: way
+type: node
 latitude: 37.27035
 longitude: -79.94668
 postcode: "24016"
 city: Roanoke
-street: "Church Avenue Southwest"
-housenumber: 318
-phone: "+1 (540) 982-2100"
-opening_hours: "24/7"
-website: "https://www.oakeys.com/page/roanoke-chapel"
+street: Church Avenue Southwest
+housenumber: "318"
+phone: +1 (540) 982-2100
+opening_hours: 24/7
+website: https://www.oakeys.com/page/roanoke-chapel

@@ -1,11 +1,11 @@
 id: 981687377
-type: way
+type: node
 latitude: 38.07019
 longitude: -78.48308
 postcode: "22901"
 city: Charlottesville
-street: "Greenbrier Drive"
-housenumber: 450
+street: Greenbrier Drive
+housenumber: "450"
 phone: ""
 opening_hours: ""
 website: ""

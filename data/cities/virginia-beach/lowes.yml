@@ -1,11 +1,11 @@
 id: 402371772
-type: way
+type: node
 latitude: 36.84024
 longitude: -76.05494
 postcode: "23454"
 city: Virginia Beach
-street: "Virginia Beach Boulevard"
-housenumber: 2403
-phone: "+1 757-448-6220"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=1546"
+street: Virginia Beach Boulevard
+housenumber: "2403"
+phone: +1 757-448-6220
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=1546

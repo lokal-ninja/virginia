@@ -1,11 +1,11 @@
 id: 205346153
-type: way
+type: node
 latitude: 38.30412
 longitude: -77.45977
 postcode: "22401"
 city: Fredericksburg
-street: "Caroline Street"
-housenumber: 1013
+street: Caroline Street
+housenumber: "1013"
 phone: ""
-opening_hours: "Mo-We 10:00-18:00; Fr-Sa 10:00-18:00; Su 11:00-18:00"
-website: "https://www.facebook.com/PaDutchTeaSpiceCompany"
+opening_hours: Mo-We 10:00-18:00; Fr-Sa 10:00-18:00; Su 11:00-18:00
+website: https://www.facebook.com/PaDutchTeaSpiceCompany

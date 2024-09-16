@@ -1,11 +1,11 @@
 id: 844273957
-type: way
+type: node
 latitude: 38.48131
 longitude: -77.99272
 postcode: "22701"
 city: Culpeper
-street: "North Main Street"
-housenumber: 883
+street: North Main Street
+housenumber: "883"
 phone: ""
 opening_hours: ""
 website: ""

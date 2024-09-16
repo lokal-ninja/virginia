@@ -1,11 +1,11 @@
 id: 370426735
-type: way
+type: node
 latitude: 37.27291
 longitude: -76.74887
 postcode: "23188"
 city: Williamsburg
-street: "Ironbound Road"
-housenumber: 4010
-phone: "+1-757-564-0195"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 09:00-16:00"
+street: Ironbound Road
+housenumber: "4010"
+phone: +1-757-564-0195
+opening_hours: Mo-Fr 08:30-17:30; Sa 09:00-16:00
 website: ""

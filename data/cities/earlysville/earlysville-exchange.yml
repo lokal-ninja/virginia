@@ -1,11 +1,11 @@
 id: 1220177896
-type: way
+type: node
 latitude: 38.15044
 longitude: -78.47806
 postcode: "22936"
 city: Earlysville
-street: "Earlysville Road"
-housenumber: 4006
+street: Earlysville Road
+housenumber: "4006"
 phone: "+14349750375"
 opening_hours: ""
 website: ""

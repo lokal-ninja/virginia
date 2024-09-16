@@ -1,11 +1,11 @@
 id: 448056540
-type: way
+type: node
 latitude: 38.91859
 longitude: -77.22246
 postcode: "22102"
 city: McLean
-street: "Tysons Corner"
-housenumber: 8000
-phone: "+1-703-893-4900"
+street: Tysons Corner
+housenumber: "8000"
+phone: +1-703-893-4900
 opening_hours: ""
-website: "https://www.macys.com/stores/va/mclean/tysons-corner-center_23.html"
+website: https://www.macys.com/stores/va/mclean/tysons-corner-center_23.html

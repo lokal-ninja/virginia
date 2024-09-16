@@ -1,11 +1,11 @@
 id: 1185039928
-type: way
+type: node
 latitude: 38.26414
 longitude: -77.49641
 postcode: "22408"
 city: Fredericksburg
-street: "Wallace Lane"
-housenumber: 203
+street: Wallace Lane
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

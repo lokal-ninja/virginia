@@ -1,11 +1,11 @@
 id: 207123594
-type: way
+type: node
 latitude: 38.87921
 longitude: -77.17377
 postcode: "22046"
 city: Falls Church
-street: "East Annandale Road"
-housenumber: 302
+street: East Annandale Road
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

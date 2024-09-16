@@ -4,8 +4,9 @@ latitude: 36.7123
 longitude: -76.23889
 postcode: "23322"
 city: Chesapeake
-street: "Battlefield Boulevard South"
-housenumber: 344
+street: Battlefield Boulevard South
+housenumber: "344"
 phone: "7574821900"
-opening_hours: "Mo 11:00-19:00; Tu 09:00-20:00; We 09:00-17:00; Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-15:00"
+opening_hours: Mo 11:00-19:00; Tu 09:00-20:00; We 09:00-17:00; Th 09:00-20:00; Fr
+    09:00-18:00; Sa 09:00-15:00
 website: ""

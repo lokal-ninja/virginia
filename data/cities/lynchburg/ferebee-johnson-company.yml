@@ -1,11 +1,11 @@
 id: 471276000
-type: way
+type: node
 latitude: 37.40952
 longitude: -79.1347
 postcode: ""
 city: Lynchburg
-street: "Concord Turnpike"
-housenumber: 1611
-phone: "+1 434 847 6651"
+street: Concord Turnpike
+housenumber: "1611"
+phone: +1 434 847 6651
 opening_hours: ""
 website: ""

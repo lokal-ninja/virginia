@@ -1,11 +1,11 @@
 id: 244646771
-type: way
+type: node
 latitude: 37.28287
 longitude: -78.39809
 postcode: "23901"
 city: Farmville
-street: "South Main Street"
-housenumber: 1504
-phone: "+1 434-392-1594"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: South Main Street
+housenumber: "1504"
+phone: +1 434-392-1594
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

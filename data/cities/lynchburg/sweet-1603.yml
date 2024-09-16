@@ -4,8 +4,8 @@ latitude: 37.40518
 longitude: -79.15323
 postcode: ""
 city: Lynchburg
-street: "12th Street"
-housenumber: 1603
-phone: "+1 434-229-6803"
-opening_hours: "temporarily closed"
-website: "https://www.sweet1603bakery.shop/"
+street: 12th Street
+housenumber: "1603"
+phone: +1 434-229-6803
+opening_hours: '"temporarily closed"'
+website: https://www.sweet1603bakery.shop/

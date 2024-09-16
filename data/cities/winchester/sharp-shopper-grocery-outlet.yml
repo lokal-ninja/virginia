@@ -1,11 +1,11 @@
 id: 210676497
-type: way
+type: node
 latitude: 39.18737
 longitude: -78.14717
 postcode: "22601"
 city: Winchester
-street: "Berryville Avenue"
-housenumber: 802
+street: Berryville Avenue
+housenumber: "802"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 263127161
-type: way
+type: node
 latitude: 37.5394
 longitude: -77.43702
 postcode: "23219"
 city: Richmond City
-street: "North 8th Street"
-housenumber: 14
+street: North 8th Street
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 10:00-16:00"
-website: "http://www.tomkirklandopticiansrva.com/"
+opening_hours: Mo-Tu,Th-Fr 10:00-16:00
+website: http://www.tomkirklandopticiansrva.com/

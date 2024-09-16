@@ -1,11 +1,11 @@
 id: 1077551527
-type: way
+type: node
 latitude: 38.66196
 longitude: -77.63624
 postcode: "20119"
 city: Catlett
-street: "Catlett Road"
-housenumber: 3388
-phone: "+1 540-788-9023"
-opening_hours: "24/7"
+street: Catlett Road
+housenumber: "3388"
+phone: +1 540-788-9023
+opening_hours: 24/7
 website: ""

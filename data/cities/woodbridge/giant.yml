@@ -1,11 +1,11 @@
 id: 316243399
-type: way
+type: node
 latitude: 38.64596
 longitude: -77.33999
 postcode: "22193"
 city: Woodbridge
-street: "Dale Boulevard"
-housenumber: 4309
-phone: "+1 703-670-5407"
-opening_hours: "Mo-Sa 06:00-23:00; Su 06:00-22:00"
-website: "https://stores.giantfood.com/va/dale-city/4309-dale-blvd"
+street: Dale Boulevard
+housenumber: "4309"
+phone: +1 703-670-5407
+opening_hours: Mo-Sa 06:00-23:00; Su 06:00-22:00
+website: https://stores.giantfood.com/va/dale-city/4309-dale-blvd

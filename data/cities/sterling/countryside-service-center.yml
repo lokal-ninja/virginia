@@ -1,11 +1,11 @@
 id: 45065829
-type: way
+type: node
 latitude: 39.03874
 longitude: -77.41361
 postcode: "20165"
 city: Sterling
-street: "Pidgeon Hill Drive"
-housenumber: 1
+street: Pidgeon Hill Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

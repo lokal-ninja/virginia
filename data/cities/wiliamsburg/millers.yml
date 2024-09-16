@@ -1,11 +1,11 @@
 id: 368377831
-type: way
+type: node
 latitude: 37.31584
 longitude: -76.78939
 postcode: "23188"
 city: Wiliamsburg
-street: "Centerville Road"
-housenumber: 5534
-phone: "757-585-2775"
-opening_hours: "Mo-Su 05:00-24:00"
+street: Centerville Road
+housenumber: "5534"
+phone: 757-585-2775
+opening_hours: Mo-Su 05:00-24:00
 website: ""

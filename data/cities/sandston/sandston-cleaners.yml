@@ -1,11 +1,11 @@
 id: 710442093
-type: way
+type: node
 latitude: 37.52275
 longitude: -77.31177
 postcode: "23150"
 city: Sandston
-street: "East Williamsburg Road"
-housenumber: 32
-phone: "+1 804-737-4011"
+street: East Williamsburg Road
+housenumber: "32"
+phone: +1 804-737-4011
 opening_hours: ""
 website: ""

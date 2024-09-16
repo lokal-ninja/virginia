@@ -1,11 +1,11 @@
 id: 568787832
-type: way
+type: node
 latitude: 38.20139
 longitude: -77.58941
 postcode: "22553"
 city: Spotsylvania
-street: "Courthouse Road"
-housenumber: 9100
+street: Courthouse Road
+housenumber: "9100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 597045924
-type: way
+type: node
 latitude: 36.71198
 longitude: -76.18463
 postcode: "23322"
 city: Chesapeake
-street: "Centerville Turnpike South"
-housenumber: 433
-phone: "+1 757-482-0100"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Centerville Turnpike South
+housenumber: "433"
+phone: +1 757-482-0100
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

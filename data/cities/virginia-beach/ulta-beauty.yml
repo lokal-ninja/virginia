@@ -4,8 +4,8 @@ latitude: 36.77273
 longitude: -76.08537
 postcode: "23456"
 city: Virginia Beach
-street: "Princess Anne Road"
-housenumber: 3300
-phone: "+1 757-368-2089"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/virginia-beach-va-380"
+street: Princess Anne Road
+housenumber: "3300"
+phone: +1 757-368-2089
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/virginia-beach-va-380

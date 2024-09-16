@@ -1,11 +1,11 @@
 id: 676942069
-type: way
+type: node
 latitude: 38.02562
 longitude: -78.5156
 postcode: "22903"
 city: Charlottesville
-street: "Jefferson Park Avenue"
-housenumber: 2211
-phone: "+1-434-295-6591"
-opening_hours: "Mo-Sa 08:00-17:00"
+street: Jefferson Park Avenue
+housenumber: "2211"
+phone: +1-434-295-6591
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

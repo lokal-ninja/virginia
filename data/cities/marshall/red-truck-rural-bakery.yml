@@ -1,11 +1,11 @@
 id: 545094637
-type: way
+type: node
 latitude: 38.86498
 longitude: -77.85756
 postcode: "20115"
 city: Marshall
-street: "West Main Street"
-housenumber: 8368
+street: West Main Street
+housenumber: "8368"
 phone: ""
-opening_hours: "Mo-Su 08:00-17:00"
-website: "https://www.redtruckbakery.com/visit-us#Marshall"
+opening_hours: Mo-Su 08:00-17:00
+website: https://www.redtruckbakery.com/visit-us#Marshall

@@ -1,11 +1,11 @@
 id: 402277979
-type: way
+type: node
 latitude: 36.83773
 longitude: -76.063
 postcode: "23452"
 city: Virginia Beach
-street: "Dean Drive"
-housenumber: 2681
+street: Dean Drive
+housenumber: "2681"
 phone: ""
 opening_hours: ""
 website: ""

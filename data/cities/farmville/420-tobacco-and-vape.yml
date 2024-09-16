@@ -1,11 +1,11 @@
 id: 1305039799
-type: way
+type: node
 latitude: 37.28358
 longitude: -78.39357
 postcode: "23901"
 city: Farmville
-street: "South Main Street"
-housenumber: 1506
+street: South Main Street
+housenumber: "1506"
 phone: ""
 opening_hours: ""
 website: ""

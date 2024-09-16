@@ -1,11 +1,11 @@
 id: 1312615621
-type: way
+type: node
 latitude: 38.04548
 longitude: -78.51893
 postcode: "22903"
 city: Charlottesville
-street: "Ivy Road"
-housenumber: 2260
+street: Ivy Road
+housenumber: "2260"
 phone: ""
 opening_hours: ""
 website: ""

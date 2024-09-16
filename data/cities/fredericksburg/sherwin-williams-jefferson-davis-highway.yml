@@ -1,11 +1,11 @@
 id: 573739271
-type: way
+type: node
 latitude: 38.25923
 longitude: -77.49646
 postcode: "22408"
 city: Fredericksburg
-street: "Jefferson Davis Highway"
-housenumber: 4806
+street: Jefferson Davis Highway
+housenumber: "4806"
 phone: ""
 opening_hours: ""
 website: ""

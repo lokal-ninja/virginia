@@ -1,11 +1,11 @@
 id: 568650803
-type: way
+type: node
 latitude: 38.28635
 longitude: -77.43756
 postcode: "22405"
 city: Fredericksburg
-street: "Washington Square Plaza"
-housenumber: 10
-phone: "+1 540-368-1209"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/264"
+street: Washington Square Plaza
+housenumber: "10"
+phone: +1 540-368-1209
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/264

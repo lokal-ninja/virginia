@@ -1,11 +1,11 @@
 id: 386111802
-type: way
+type: node
 latitude: 38.02996
 longitude: -78.47791
 postcode: "22902"
 city: Charlottesville
-street: "East Main Street"
-housenumber: 505
+street: East Main Street
+housenumber: "505"
 phone: ""
-opening_hours: "Mo-Fr 11:00-17:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 11:00-17:00; Sa 10:00-17:00
 website: ""

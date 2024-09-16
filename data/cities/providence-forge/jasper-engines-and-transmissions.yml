@@ -1,11 +1,11 @@
 id: 788210110
-type: way
+type: node
 latitude: 37.496
 longitude: -77.09157
 postcode: "23140"
 city: Providence Forge
-street: "Emmaus Church Road"
-housenumber: 6653
-phone: "+1 800-827-7455"
+street: Emmaus Church Road
+housenumber: "6653"
+phone: +1 800-827-7455
 opening_hours: ""
-website: "https://www.jasperengines.com/find-an-installer"
+website: https://www.jasperengines.com/find-an-installer

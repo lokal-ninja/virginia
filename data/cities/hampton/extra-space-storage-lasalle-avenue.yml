@@ -1,11 +1,11 @@
 id: 388516365
-type: way
+type: node
 latitude: 37.02433
 longitude: -76.36477
 postcode: "23661"
 city: Hampton
-street: "Lasalle Avenue"
-housenumber: 815
+street: Lasalle Avenue
+housenumber: "815"
 phone: ""
 opening_hours: ""
 website: ""

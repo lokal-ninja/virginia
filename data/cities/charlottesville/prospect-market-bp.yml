@@ -1,11 +1,11 @@
 id: 382396551
-type: way
+type: node
 latitude: 38.02851
 longitude: -78.49474
 postcode: "22903"
 city: Charlottesville
-street: "Cherry Avenue"
-housenumber: 832
+street: Cherry Avenue
+housenumber: "832"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 364565846
-type: way
+type: node
 latitude: 38.6848
 longitude: -77.31573
 postcode: "22192"
 city: Woodbridge
-street: "Cape Cod Court"
-housenumber: 12417
-phone: "+1 703-670-6984"
+street: Cape Cod Court
+housenumber: "12417"
+phone: +1 703-670-6984
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/lake-ridge/12417-cape-cod-court-34916"
+website: https://www.7-eleven.com/locations/va/lake-ridge/12417-cape-cod-court-34916

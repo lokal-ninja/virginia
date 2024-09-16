@@ -2,10 +2,10 @@ id: 3093065029
 type: node
 latitude: 38.0514
 longitude: -78.50289
-postcode: "22903-4834"
+postcode: 22903-4834
 city: Charlottesville
-street: "Emmet Street North, Barracks Road"
-housenumber: 1035
-phone: "+1 434-971-1072"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-07:00"
-website: "https://locations.michaels.com/va/charlottesville/8807"
+street: Emmet Street North, Barracks Road
+housenumber: "1035"
+phone: +1 434-971-1072
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-07:00
+website: https://locations.michaels.com/va/charlottesville/8807

@@ -4,8 +4,8 @@ latitude: 36.7981
 longitude: -76.25741
 postcode: "23324"
 city: Chesapeake
-street: "Providence Road"
-housenumber: 100
-phone: "+1-757-543-0982"
-opening_hours: "24/7"
+street: Providence Road
+housenumber: "100"
+phone: +1-757-543-0982
+opening_hours: 24/7
 website: ""

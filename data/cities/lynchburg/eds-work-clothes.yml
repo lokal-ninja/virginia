@@ -1,11 +1,11 @@
 id: 1202675044
-type: way
+type: node
 latitude: 37.38303
 longitude: -79.14157
 postcode: "24501"
 city: Lynchburg
-street: "Campbell Avenue"
-housenumber: 3521
+street: Campbell Avenue
+housenumber: "3521"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 38.84354
 longitude: -77.27584
 postcode: "22031"
 city: Fairfax
-street: "Main Street"
-housenumber: 9652
-phone: "+1 276-209-9079"
-opening_hours: "Mo-Th 09:00-22:00; Fr,Sa 09:00-23:30; Su 09:00-23:00"
-website: "https://www.burlington.com/store-details/fairfax-va-1317"
+street: Main Street
+housenumber: "9652"
+phone: +1 276-209-9079
+opening_hours: Mo-Th 09:00-22:00; Fr,Sa 09:00-23:30; Su 09:00-23:00
+website: https://www.burlington.com/store-details/fairfax-va-1317

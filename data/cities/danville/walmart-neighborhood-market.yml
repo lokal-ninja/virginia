@@ -1,11 +1,11 @@
 id: 1012559744
-type: way
+type: node
 latitude: 36.62693
 longitude: -79.39955
 postcode: "24540"
 city: Danville
-street: "Nor Dan Drive"
-housenumber: 211
-phone: "+1 434-441-4253"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5829/danville-va/whats-new"
+street: Nor Dan Drive
+housenumber: "211"
+phone: +1 434-441-4253
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5829/danville-va/whats-new

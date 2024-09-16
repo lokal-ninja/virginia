@@ -1,11 +1,11 @@
 id: 1224539927
-type: way
+type: node
 latitude: 36.94699
 longitude: -80.95101
 postcode: "24382"
 city: Wytheville
-street: "East Lee Highway"
-housenumber: 2622
+street: East Lee Highway
+housenumber: "2622"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

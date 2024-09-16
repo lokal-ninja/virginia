@@ -1,11 +1,11 @@
 id: 657976433
-type: way
+type: node
 latitude: 38.8709
 longitude: -77.17149
 postcode: "22042"
 city: Falls Church
-street: "Arlington Boulevard"
-housenumber: 6610
+street: Arlington Boulevard
+housenumber: "6610"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

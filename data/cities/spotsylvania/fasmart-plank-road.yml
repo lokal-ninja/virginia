@@ -1,11 +1,11 @@
 id: 600367173
-type: way
+type: node
 latitude: 38.32217
 longitude: -77.70822
 postcode: "22553"
 city: Spotsylvania
-street: "Plank Road"
-housenumber: 10750
+street: Plank Road
+housenumber: "10750"
 phone: ""
 opening_hours: ""
 website: ""

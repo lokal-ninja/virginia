@@ -1,11 +1,11 @@
 id: 253737213
-type: way
+type: node
 latitude: 38.03611
 longitude: -78.48632
 postcode: "22903"
 city: Charlottesville
-street: "Preston Avenue"
-housenumber: 701
+street: Preston Avenue
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

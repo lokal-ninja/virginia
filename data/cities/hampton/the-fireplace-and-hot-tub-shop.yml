@@ -1,11 +1,11 @@
 id: 388509808
-type: way
+type: node
 latitude: 37.00834
 longitude: -76.36268
 postcode: "23661"
 city: Hampton
-street: "Kecoughtan Road"
-housenumber: 3515
+street: Kecoughtan Road
+housenumber: "3515"
 phone: ""
-opening_hours: "10:00-17:00"
+opening_hours: 10:00-17:00
 website: ""

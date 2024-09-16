@@ -1,11 +1,11 @@
 id: 395714530
-type: way
+type: node
 latitude: 38.03688
 longitude: -78.48872
 postcode: "22903"
 city: Charlottesville
-street: "Preston Avenue"
-housenumber: 824
+street: Preston Avenue
+housenumber: "824"
 phone: ""
 opening_hours: ""
-website: "https://www.settletire.com"
+website: https://www.settletire.com

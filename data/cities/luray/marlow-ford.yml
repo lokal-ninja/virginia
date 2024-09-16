@@ -1,11 +1,11 @@
 id: 557749441
-type: way
+type: node
 latitude: 38.66019
 longitude: -78.4894
 postcode: "22835"
 city: Luray
-street: "us-hwy 211"
-housenumber: 1021
-phone: "1-877-627-5692"
+street: us-hwy 211
+housenumber: "1021"
+phone: 1-877-627-5692
 opening_hours: ""
 website: ""

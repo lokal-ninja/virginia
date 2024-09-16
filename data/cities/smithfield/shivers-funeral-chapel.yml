@@ -1,11 +1,11 @@
 id: 935349517
-type: way
+type: node
 latitude: 36.9665
 longitude: -76.6601
 postcode: "23430"
 city: Smithfield
-street: "Courthouse Highway"
-housenumber: 12749
-phone: "+1-757-357-9500"
+street: Courthouse Highway
+housenumber: "12749"
+phone: +1-757-357-9500
 opening_hours: ""
-website: "https://www.shiversfuneralchapel.com"
+website: https://www.shiversfuneralchapel.com

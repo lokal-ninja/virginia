@@ -1,11 +1,11 @@
 id: 960836113
-type: way
+type: node
 latitude: 37.37135
 longitude: -79.19622
 postcode: "24502"
 city: Lynchburg
-street: "Fort Avenue"
-housenumber: 6015
+street: Fort Avenue
+housenumber: "6015"
 phone: ""
-opening_hours: "Mo-Su 05:30-24:00"
+opening_hours: Mo-Su 05:30-24:00
 website: ""

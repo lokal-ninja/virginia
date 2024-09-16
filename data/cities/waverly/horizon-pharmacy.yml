@@ -1,11 +1,11 @@
 id: 1124038968
-type: way
+type: node
 latitude: 37.03592
 longitude: -77.0957
 postcode: "23890"
 city: Waverly
-street: "West Main Street"
-housenumber: 328
+street: West Main Street
+housenumber: "328"
 phone: ""
 opening_hours: ""
 website: ""

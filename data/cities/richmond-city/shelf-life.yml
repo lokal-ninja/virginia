@@ -4,8 +4,9 @@ latitude: 37.55219
 longitude: -77.47827
 postcode: "23221"
 city: Richmond City
-street: "West Cary Street"
-housenumber: 2913
-phone: "+1 804-422-8066"
-opening_hours: "Mo 11:00-18:00; Tu-Th 12:00-18:00; Fr 11:00-18:00; Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://shelflifebooksrva.com/"
+street: West Cary Street
+housenumber: "2913"
+phone: +1 804-422-8066
+opening_hours: Mo 11:00-18:00; Tu-Th 12:00-18:00; Fr 11:00-18:00; Sa 10:00-18:00;
+    Su 12:00-17:00
+website: https://shelflifebooksrva.com/

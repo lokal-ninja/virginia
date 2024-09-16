@@ -1,11 +1,11 @@
 id: 386506007
-type: way
+type: node
 latitude: 37.12569
 longitude: -76.39075
 postcode: "23662"
 city: Poquoson
-street: "Wythe Creek Road"
-housenumber: 460
-phone: "(757) 231-2000"
-opening_hours: "Mo-Fr 09:00-20:00"
-website: "https://www.dollartree.com/locations/va/poquoson/4470/"
+street: Wythe Creek Road
+housenumber: "460"
+phone: (757) 231-2000
+opening_hours: Mo-Fr 09:00-20:00
+website: https://www.dollartree.com/locations/va/poquoson/4470/

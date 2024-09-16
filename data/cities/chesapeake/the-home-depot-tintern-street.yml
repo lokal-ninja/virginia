@@ -1,11 +1,11 @@
 id: 312645890
-type: way
+type: node
 latitude: 36.76531
 longitude: -76.25541
 postcode: "23320"
 city: Chesapeake
-street: "Tintern Street"
-housenumber: 1400
-phone: "+1 757-548-8478"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Chesapeake/VA/Chesapeake/23320/4619"
+street: Tintern Street
+housenumber: "1400"
+phone: +1 757-548-8478
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Chesapeake/VA/Chesapeake/23320/4619

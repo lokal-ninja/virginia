@@ -1,11 +1,11 @@
 id: 822352258
-type: way
+type: node
 latitude: 37.7087
 longitude: -76.38244
 postcode: "22482"
 city: Kilmarnock
-street: "Irvington Road"
-housenumber: 81
+street: Irvington Road
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 253315141
-type: way
+type: node
 latitude: 38.89548
 longitude: -77.44387
 postcode: "20151"
 city: Chantilly
-street: "Chantilly Crossing Lane"
-housenumber: 14390
-phone: "+1 703-885-5544"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/chantilly-va-334.html"
+street: Chantilly Crossing Lane
+housenumber: "14390"
+phone: +1 703-885-5544
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/chantilly-va-334.html

@@ -1,11 +1,11 @@
 id: 671362516
-type: way
+type: node
 latitude: 37.52
 longitude: -77.60643
-postcode: "23235-4888"
+postcode: 23235-4888
 city: North Chesterfield
-street: "Mall Drive"
-housenumber: 1670
-phone: "+1 833-480-1006"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://stores.aldi.us/va/north-chesterfield/1670-mall-drive"
+street: Mall Drive
+housenumber: "1670"
+phone: +1 833-480-1006
+opening_hours: Mo-Su 08:00-21:00
+website: https://stores.aldi.us/va/north-chesterfield/1670-mall-drive

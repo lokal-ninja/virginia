@@ -1,11 +1,11 @@
 id: 312700584
-type: way
+type: node
 latitude: 36.71159
 longitude: -76.23609
 postcode: "23322"
 city: Chesapeake
-street: "Mount Pleasant Road"
-housenumber: 160
+street: Mount Pleasant Road
+housenumber: "160"
 phone: ""
 opening_hours: ""
 website: ""

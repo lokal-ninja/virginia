@@ -1,11 +1,11 @@
 id: 312298175
-type: way
+type: node
 latitude: 36.78614
 longitude: -76.29024
 postcode: "23324"
 city: Chesapeake
-street: "Freeman Avenue"
-housenumber: 500
+street: Freeman Avenue
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1223681704
-type: way
+type: node
 latitude: 37.11552
 longitude: -79.28087
 postcode: "24517"
 city: Altavista
-street: "Main Street"
-housenumber: 1028
+street: Main Street
+housenumber: "1028"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1043615974
-type: way
+type: node
 latitude: 39.08217
 longitude: -77.56328
 postcode: "20175"
 city: Leesburg
-street: "Compass Point Plaza"
-housenumber: 595
-phone: "+1 703-771-7061"
-opening_hours: "Mo-Fr 05:00-23:00; Sa-Su 06:00-23:00"
+street: Compass Point Plaza
+housenumber: "595"
+phone: +1 703-771-7061
+opening_hours: Mo-Fr 05:00-23:00; Sa-Su 06:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 248943192
-type: way
+type: node
 latitude: 37.10965
 longitude: -76.49667
 postcode: "23602"
 city: Newport News
-street: "Jefferson Avenue"
-housenumber: 12170
-phone: "757-249-2488"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
+street: Jefferson Avenue
+housenumber: "12170"
+phone: 757-249-2488
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
 website: ""

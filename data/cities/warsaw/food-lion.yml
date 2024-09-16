@@ -4,8 +4,8 @@ latitude: 37.96338
 longitude: -76.77714
 postcode: "22572"
 city: Warsaw
-street: "Richmond Road"
-housenumber: 4665
-phone: "804-333-6368"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Richmond Road
+housenumber: "4665"
+phone: 804-333-6368
+opening_hours: Mo-Su 07:00-22:00
 website: ""

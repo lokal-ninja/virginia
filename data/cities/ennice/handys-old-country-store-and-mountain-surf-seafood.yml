@@ -1,11 +1,11 @@
 id: 632267023
-type: way
+type: node
 latitude: 36.56092
 longitude: -80.94314
 postcode: "28623"
 city: Ennice
-street: "NC-18"
-housenumber: 12789
+street: NC-18
+housenumber: "12789"
 phone: "+13366573222"
 opening_hours: ""
 website: ""

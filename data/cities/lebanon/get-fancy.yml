@@ -1,11 +1,11 @@
 id: 312160473
-type: way
+type: node
 latitude: 36.90118
 longitude: -82.08218
 postcode: "24266"
 city: Lebanon
-street: "West Main Street"
-housenumber: 110
+street: West Main Street
+housenumber: "110"
 phone: "+12762025229"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-14:00"
-website: "https://get-fancy.business.site/"
+opening_hours: Mo-Fr 11:00-18:00; Sa 10:00-14:00
+website: https://get-fancy.business.site/

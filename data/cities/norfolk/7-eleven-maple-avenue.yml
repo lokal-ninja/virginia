@@ -1,11 +1,11 @@
 id: 407015414
-type: way
+type: node
 latitude: 36.94711
 longitude: -76.25874
 postcode: "23503"
 city: Norfolk
-street: "Maple Avenue"
-housenumber: 124
-phone: "+1 757-588-5529"
+street: Maple Avenue
+housenumber: "124"
+phone: +1 757-588-5529
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/norfolk/124-maple-ave-10806"
+website: https://www.7-eleven.com/locations/va/norfolk/124-maple-ave-10806

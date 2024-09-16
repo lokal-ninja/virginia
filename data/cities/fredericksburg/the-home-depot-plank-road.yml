@@ -1,11 +1,11 @@
 id: 206190185
-type: way
+type: node
 latitude: 38.29429
 longitude: -77.57096
 postcode: "22407"
 city: Fredericksburg
-street: "Plank Road"
-housenumber: 5771
-phone: "+1 540-785-8871"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/spotsylvania/va/fredericksburg/22407/4660"
+street: Plank Road
+housenumber: "5771"
+phone: +1 540-785-8871
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/spotsylvania/va/fredericksburg/22407/4660

@@ -1,11 +1,11 @@
 id: 230394113
-type: way
+type: node
 latitude: 38.82629
 longitude: -77.05833
 postcode: "22301"
 city: Alexandria
-street: "Mount Vernon Avenue"
-housenumber: 2301
+street: Mount Vernon Avenue
+housenumber: "2301"
 phone: ""
-opening_hours: "Mo,We-Fr 11:00-20:00; Tu 11:00-19:00; Sa 09:00-20:00; Su 10:00-20:00"
+opening_hours: Mo,We-Fr 11:00-20:00; Tu 11:00-19:00; Sa 09:00-20:00; Su 10:00-20:00
 website: ""

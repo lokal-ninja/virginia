@@ -1,11 +1,11 @@
 id: 705910285
-type: way
+type: node
 latitude: 37.61217
 longitude: -77.33231
 postcode: "23111"
 city: Mechanicsville
-street: "Mechanicsville Turnpike"
-housenumber: 6523
-phone: "+1 804-259-0213"
+street: Mechanicsville Turnpike
+housenumber: "6523"
+phone: +1 804-259-0213
 opening_hours: ""
-website: "https://www.hartnissan.com/schedule-service.html"
+website: https://www.hartnissan.com/schedule-service.html

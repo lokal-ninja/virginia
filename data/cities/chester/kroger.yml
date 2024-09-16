@@ -1,11 +1,11 @@
 id: 528860418
-type: way
+type: node
 latitude: 37.36782
 longitude: -77.50169
 postcode: "23831"
 city: Chester
-street: "Iron Bridge Road"
-housenumber: 10800
-phone: "+1 804-318-5004"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/va/chester/iron-bridge-marketplace/029/00524"
+street: Iron Bridge Road
+housenumber: "10800"
+phone: +1 804-318-5004
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/va/chester/iron-bridge-marketplace/029/00524

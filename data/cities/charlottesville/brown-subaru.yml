@@ -1,11 +1,11 @@
 id: 1118216548
-type: way
+type: node
 latitude: 38.09796
 longitude: -78.46505
 postcode: "22901"
 city: Charlottesville
-street: "Hilton Heights Road"
-housenumber: 960
+street: Hilton Heights Road
+housenumber: "960"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1055108031
-type: way
+type: node
 latitude: 37.27918
 longitude: -79.89782
 postcode: "24179"
 city: Vinton
-street: "South Pollard Street"
-housenumber: 228
+street: South Pollard Street
+housenumber: "228"
 phone: ""
 opening_hours: ""
 website: ""

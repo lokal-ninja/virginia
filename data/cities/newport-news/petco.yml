@@ -1,11 +1,11 @@
 id: 321472645
-type: way
+type: node
 latitude: 37.13101
 longitude: -76.51678
 postcode: "23602"
 city: Newport News
-street: "Jefferson Avenue"
-housenumber: 12551
-phone: "+1 757-833-0925"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/va/newportnews/pet-supplies-newportnews-va-2730.html"
+street: Jefferson Avenue
+housenumber: "12551"
+phone: +1 757-833-0925
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/va/newportnews/pet-supplies-newportnews-va-2730.html

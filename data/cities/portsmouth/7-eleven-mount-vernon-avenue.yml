@@ -1,11 +1,11 @@
 id: 700534563
-type: way
+type: node
 latitude: 36.8425
 longitude: -76.33684
 postcode: "23707"
 city: Portsmouth
-street: "Mount Vernon Avenue"
-housenumber: 700
+street: Mount Vernon Avenue
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

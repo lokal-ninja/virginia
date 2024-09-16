@@ -1,11 +1,11 @@
 id: 374860681
-type: way
+type: node
 latitude: 38.8408
 longitude: -77.08919
 postcode: "22206"
 city: Arlington
-street: "South Randolph Street"
-housenumber: 2800
-phone: "+1 703-379-4444"
-opening_hours: "Tu-Sa 11:00-19:00; Su 11:00-17:00"
-website: "https://www.levillagemarche.com/"
+street: South Randolph Street
+housenumber: "2800"
+phone: +1 703-379-4444
+opening_hours: Tu-Sa 11:00-19:00; Su 11:00-17:00
+website: https://www.levillagemarche.com/

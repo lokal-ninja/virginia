@@ -1,11 +1,11 @@
 id: 605358355
-type: way
+type: node
 latitude: 37.16603
 longitude: -80.42822
 postcode: "24073"
 city: Christiansburg
-street: "New River Road"
-housenumber: 782
-phone: "+1 540-382-2970"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/va/christiansburg-1518.shtml"
+street: New River Road
+housenumber: "782"
+phone: +1 540-382-2970
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/va/christiansburg-1518.shtml

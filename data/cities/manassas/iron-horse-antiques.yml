@@ -1,11 +1,11 @@
 id: 222945272
-type: way
+type: node
 latitude: 38.75518
 longitude: -77.46624
 postcode: "20110"
 city: Manassas
-street: "Prescott Avenue"
-housenumber: 9200
-phone: "+1 703-335-6676"
-opening_hours: "Mo-Su 10:00-18:00"
+street: Prescott Avenue
+housenumber: "9200"
+phone: +1 703-335-6676
+opening_hours: Mo-Su 10:00-18:00
 website: ""

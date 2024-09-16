@@ -1,11 +1,11 @@
 id: 942740855
-type: way
+type: node
 latitude: 36.8567
 longitude: -76.02716
 postcode: "23454"
 city: Virginia Beach
-street: "First Colonial Road"
-housenumber: 929
-phone: "+1 833-480-1062"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://stores.aldi.us/va/virginia-beach/929-first-colonial-rd"
+street: First Colonial Road
+housenumber: "929"
+phone: +1 833-480-1062
+opening_hours: Mo-Su 08:00-21:00
+website: https://stores.aldi.us/va/virginia-beach/929-first-colonial-rd

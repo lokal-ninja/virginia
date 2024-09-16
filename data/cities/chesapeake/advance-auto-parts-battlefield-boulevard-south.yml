@@ -1,11 +1,11 @@
 id: 312700572
-type: way
+type: node
 latitude: 36.70389
 longitude: -76.2346
 postcode: "23322"
 city: Chesapeake
-street: "Battlefield Boulevard South"
-housenumber: 621
+street: Battlefield Boulevard South
+housenumber: "621"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/va/chesapeake/621-battlefield-blvd-s"
+website: https://stores.advanceautoparts.com/va/chesapeake/621-battlefield-blvd-s

@@ -1,11 +1,11 @@
 id: 945654816
-type: way
+type: node
 latitude: 38.75845
 longitude: -77.46371
 postcode: "20110"
 city: Manassas
-street: "Centreville Road"
-housenumber: 9020
-phone: "+1 (703) 369-6700"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.napaonline.com/en/va/manassas/store/25167?sdref=modal"
+street: Centreville Road
+housenumber: "9020"
+phone: +1 (703) 369-6700
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.napaonline.com/en/va/manassas/store/25167?sdref=modal

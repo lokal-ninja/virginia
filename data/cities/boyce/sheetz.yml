@@ -1,11 +1,11 @@
 id: 560747267
-type: way
+type: node
 latitude: 39.08386
 longitude: -78.08426
 postcode: "22620"
 city: Boyce
-street: "Lord Fairfax Highway"
-housenumber: 12582
-phone: "+1 540-837-1426"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/192"
+street: Lord Fairfax Highway
+housenumber: "12582"
+phone: +1 540-837-1426
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/192

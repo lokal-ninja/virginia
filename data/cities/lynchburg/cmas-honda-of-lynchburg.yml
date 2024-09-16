@@ -1,11 +1,11 @@
 id: 991312130
-type: way
+type: node
 latitude: 37.39667
 longitude: -79.23188
 postcode: "24501"
 city: Lynchburg
-street: "Lakeside Drive"
-housenumber: 2634
-phone: "1 434 385 6045"
+street: Lakeside Drive
+housenumber: "2634"
+phone: 1 434 385 6045
 opening_hours: ""
-website: "https://www.cmashondaoflynchburg.com/"
+website: https://www.cmashondaoflynchburg.com/

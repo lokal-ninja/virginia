@@ -1,11 +1,11 @@
 id: 312169782
-type: way
+type: node
 latitude: 36.82819
 longitude: -76.40693
 postcode: "23321"
 city: Chesapeake
-street: "Old Taylor Road"
-housenumber: 2421
-phone: "+1 757-465-9166"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Portsmouth-VA/VA/Chesapeake/23321/4622"
+street: Old Taylor Road
+housenumber: "2421"
+phone: +1 757-465-9166
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Portsmouth-VA/VA/Chesapeake/23321/4622

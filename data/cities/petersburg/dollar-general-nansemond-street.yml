@@ -1,11 +1,11 @@
 id: 780045270
-type: way
+type: node
 latitude: 37.24024
 longitude: -77.3681
 postcode: "23803"
 city: Petersburg
-street: "Nansemond Street"
-housenumber: 210
+street: Nansemond Street
+housenumber: "210"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/va/petersburg/13408"
+website: https://www.dollargeneral.com/store-directory/va/petersburg/13408

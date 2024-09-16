@@ -4,8 +4,9 @@ latitude: 38.9339
 longitude: -77.17843
 postcode: "22101"
 city: McLean
-street: "Center Street"
-housenumber: 1427
+street: Center Street
+housenumber: "1427"
 phone: ""
-opening_hours: "Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 10:00-21:00; Sa 10:00-21:00; Su 11:00-20:00"
+opening_hours: Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr
+    10:00-21:00; Sa 10:00-21:00; Su 11:00-20:00
 website: ""

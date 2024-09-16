@@ -1,11 +1,11 @@
 id: 48189435
-type: way
+type: node
 latitude: 39.02521
 longitude: -77.39731
-postcode: "20164-6614"
+postcode: 20164-6614
 city: Sterling
-street: "Potomac"
-housenumber: 46301
-phone: "+1 703-430-8645"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/va/sterling/8808"
+street: Potomac
+housenumber: "46301"
+phone: +1 703-430-8645
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/va/sterling/8808

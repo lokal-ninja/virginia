@@ -1,11 +1,11 @@
 id: 453564305
-type: way
+type: node
 latitude: 38.78427
 longitude: -77.65116
 postcode: "20155"
 city: Gainesville
-street: "Stonewall Shops Square"
-housenumber: 8171
-phone: "+1 703-754-1362"
-opening_hours: "Mo-We 09:00-22:00; Fr 07:00-22:00; Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://locations.michaels.com/va/gainesville/8748/"
+street: Stonewall Shops Square
+housenumber: "8171"
+phone: +1 703-754-1362
+opening_hours: Mo-We 09:00-22:00; Fr 07:00-22:00; Sa 09:00-22:00; Su 10:00-20:00
+website: https://locations.michaels.com/va/gainesville/8748/

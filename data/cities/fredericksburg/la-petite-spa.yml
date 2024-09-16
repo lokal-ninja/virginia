@@ -1,11 +1,11 @@
 id: 953742448
-type: way
+type: node
 latitude: 38.31752
 longitude: -77.47377
 postcode: "22401"
 city: Fredericksburg
-street: "Wallace Street"
-housenumber: 321
+street: Wallace Street
+housenumber: "321"
 phone: ""
 opening_hours: ""
 website: ""

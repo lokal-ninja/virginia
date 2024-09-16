@@ -4,8 +4,8 @@ latitude: 36.8423
 longitude: -76.13
 postcode: "23462"
 city: Virginia Beach
-street: "Virginia Beach Boulevard"
-housenumber: 4485
-phone: "+1 757-499-4681"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/virginia-beach-va-677"
+street: Virginia Beach Boulevard
+housenumber: "4485"
+phone: +1 757-499-4681
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/virginia-beach-va-677

@@ -1,11 +1,11 @@
 id: 333244394
-type: way
+type: node
 latitude: 37.12802
 longitude: -76.54015
 postcode: "23608"
 city: Newport News
-street: "Denbigh Boulevard"
-housenumber: 367
-phone: "+1 757-989-8945"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/va/newport-news/367-denbigh-blvd-35713"
+street: Denbigh Boulevard
+housenumber: "367"
+phone: +1 757-989-8945
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/va/newport-news/367-denbigh-blvd-35713

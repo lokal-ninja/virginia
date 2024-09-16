@@ -1,11 +1,11 @@
 id: 600480337
-type: way
+type: node
 latitude: 36.70675
 longitude: -78.88707
 postcode: "24592"
 city: South Boston
-street: "John Randolph Boulevard`"
-housenumber: 910
+street: John Randolph Boulevard`
+housenumber: "910"
 phone: ""
 opening_hours: ""
 website: ""

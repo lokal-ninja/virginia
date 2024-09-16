@@ -1,11 +1,11 @@
 id: 144374824
-type: way
+type: node
 latitude: 38.99631
 longitude: -77.28808
 postcode: "22066"
 city: Great Falls
-street: "Georgetown Pike"
-housenumber: 9881
-phone: "+1 703-759-3802"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/va/great-falls/9881-georgetown-pike.html"
+street: Georgetown Pike
+housenumber: "9881"
+phone: +1 703-759-3802
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/va/great-falls/9881-georgetown-pike.html

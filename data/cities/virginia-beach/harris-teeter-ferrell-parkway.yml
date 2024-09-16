@@ -1,11 +1,11 @@
 id: 402686502
-type: way
+type: node
 latitude: 36.79394
 longitude: -76.16967
 postcode: "23464"
 city: Virginia Beach
-street: "Ferrell Parkway"
-housenumber: 5060
-phone: "+1 757-467-0529"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.harristeeter.com/stores/grocery/va/virginia-beach/indian-lakes-crossing/097/00350"
+street: Ferrell Parkway
+housenumber: "5060"
+phone: +1 757-467-0529
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.harristeeter.com/stores/grocery/va/virginia-beach/indian-lakes-crossing/097/00350

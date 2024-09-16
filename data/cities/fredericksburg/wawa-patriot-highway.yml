@@ -1,11 +1,11 @@
 id: 80966942
-type: way
+type: node
 latitude: 38.22572
 longitude: -77.50686
 postcode: "22407"
 city: Fredericksburg
-street: "Patriot Highway"
-housenumber: 10060
+street: Patriot Highway
+housenumber: "10060"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8617"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8617

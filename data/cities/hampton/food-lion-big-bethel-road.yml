@@ -1,11 +1,11 @@
 id: 388571898
-type: way
+type: node
 latitude: 37.05831
 longitude: -76.42543
 postcode: "23666"
 city: Hampton
-street: "Big Bethel Road"
-housenumber: 1164
-phone: "757-262-0956"
+street: Big Bethel Road
+housenumber: "1164"
+phone: 757-262-0956
 opening_hours: ""
-website: "https://www.foodlion.com/"
+website: https://www.foodlion.com/

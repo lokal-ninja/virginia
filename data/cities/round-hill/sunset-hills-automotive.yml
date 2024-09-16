@@ -1,11 +1,11 @@
 id: 545394578
-type: way
+type: node
 latitude: 39.133
 longitude: -77.76813
 postcode: "20141"
 city: Round Hill
-street: "East Loudoun Street"
-housenumber: 4
+street: East Loudoun Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

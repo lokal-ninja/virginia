@@ -4,8 +4,8 @@ latitude: 38.80625
 longitude: -77.05767
 postcode: "22314"
 city: Alexandria
-street: "King Street"
-housenumber: 1630
-phone: "+1-571-312-5936"
-opening_hours: "Mo-Th 09:00-18:00, Fr 08:00-18:00, Sa 08:00-17:00"
-website: "https://www.industry10.net/"
+street: King Street
+housenumber: "1630"
+phone: +1-571-312-5936
+opening_hours: Mo-Th 09:00-18:00, Fr 08:00-18:00, Sa 08:00-17:00
+website: https://www.industry10.net/

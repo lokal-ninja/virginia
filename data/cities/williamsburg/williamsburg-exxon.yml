@@ -4,8 +4,8 @@ latitude: 37.31275
 longitude: -76.73295
 postcode: "23188"
 city: Williamsburg
-street: "Richmond Road"
-housenumber: 5443
-phone: "+1-757-332-5922"
-opening_hours: "Mo-Su 07:00-23:00"
+street: Richmond Road
+housenumber: "5443"
+phone: +1-757-332-5922
+opening_hours: Mo-Su 07:00-23:00
 website: ""

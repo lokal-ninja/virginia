@@ -1,11 +1,11 @@
 id: 746476082
-type: way
+type: node
 latitude: 37.51518
 longitude: -77.39488
 postcode: "23231"
 city: Richmond
-street: "Government Road"
-housenumber: 5005
-phone: "+1-804-226-1217"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Government Road
+housenumber: "5005"
+phone: +1-804-226-1217
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 228923719
-type: way
+type: node
 latitude: 38.77532
 longitude: -77.08212
 postcode: "22306"
 city: Alexandria
-street: "Richmond Highway"
-housenumber: 6612
-phone: "+1 703-660-1300"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/va/alexandria/pet-supplies-alexandria-va-767.html"
+street: Richmond Highway
+housenumber: "6612"
+phone: +1 703-660-1300
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/va/alexandria/pet-supplies-alexandria-va-767.html

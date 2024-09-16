@@ -1,11 +1,11 @@
 id: 722341834
-type: way
+type: node
 latitude: 37.04339
 longitude: -78.944
 postcode: "24528"
 city: Brookneal
-street: "Lusardi Drive"
-housenumber: 425
+street: Lusardi Drive
+housenumber: "425"
 phone: ""
 opening_hours: ""
 website: ""

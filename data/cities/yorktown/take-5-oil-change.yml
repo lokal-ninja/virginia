@@ -1,11 +1,11 @@
 id: 1274650877
-type: way
+type: node
 latitude: 37.14784
 longitude: -76.45948
 postcode: "23692"
 city: Yorktown
-street: "George Washington Memorial Highway"
-housenumber: 4507
-phone: "+1-757-932-8380"
-opening_hours: "Mo-Sa 07:00-20:00; Su 09:00-17:00"
+street: George Washington Memorial Highway
+housenumber: "4507"
+phone: +1-757-932-8380
+opening_hours: Mo-Sa 07:00-20:00; Su 09:00-17:00
 website: ""

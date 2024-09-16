@@ -1,11 +1,11 @@
 id: 213365518
-type: way
+type: node
 latitude: 39.18463
 longitude: -78.13961
 postcode: "22601"
 city: Winchester
-street: "Berryville Avenue"
-housenumber: 1333
-phone: "+1-540-667-2210"
-opening_hours: "Mo-Su 05:00-21:00"
-website: "https://www.interstatelibertyservice.com/"
+street: Berryville Avenue
+housenumber: "1333"
+phone: +1-540-667-2210
+opening_hours: Mo-Su 05:00-21:00
+website: https://www.interstatelibertyservice.com/

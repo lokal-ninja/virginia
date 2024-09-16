@@ -1,11 +1,11 @@
 id: 951348566
-type: way
+type: node
 latitude: 38.89715
 longitude: -77.44662
 postcode: "20151"
 city: Chantilly
-street: "Lee Road"
-housenumber: 14509
-phone: "+1 844-747-5435"
+street: Lee Road
+housenumber: "14509"
+phone: +1 844-747-5435
 opening_hours: ""
 website: ""

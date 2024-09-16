@@ -1,11 +1,11 @@
 id: 813180639
-type: way
+type: node
 latitude: 37.6365
 longitude: -76.57565
 postcode: "23175"
 city: Urbanna
-street: "Old Virginia Street"
-housenumber: 231
+street: Old Virginia Street
+housenumber: "231"
 phone: ""
 opening_hours: ""
 website: ""

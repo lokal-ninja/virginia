@@ -1,11 +1,11 @@
 id: 237610193
-type: way
+type: node
 latitude: 38.82022
 longitude: -77.16189
 postcode: "22312"
 city: Alexandria
-street: "Little River Turnpike"
-housenumber: 6555
-phone: "+1 703-642-3660"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Annandale/VA/Alexandria/22312/4640"
+street: Little River Turnpike
+housenumber: "6555"
+phone: +1 703-642-3660
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Annandale/VA/Alexandria/22312/4640

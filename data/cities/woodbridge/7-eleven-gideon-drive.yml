@@ -1,11 +1,11 @@
 id: 94030516
-type: way
+type: node
 latitude: 38.64019
 longitude: -77.29611
 postcode: "22192"
 city: Woodbridge
-street: "Gideon Drive"
-housenumber: 14400
-phone: "+1 703-491-2679"
+street: Gideon Drive
+housenumber: "14400"
+phone: +1 703-491-2679
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/woodbridge/14400-gideon-dr-34914"
+website: https://www.7-eleven.com/locations/va/woodbridge/14400-gideon-dr-34914

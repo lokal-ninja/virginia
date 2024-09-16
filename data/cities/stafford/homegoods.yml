@@ -1,11 +1,11 @@
 id: 230326656
-type: way
+type: node
 latitude: 38.47131
 longitude: -77.40817
 postcode: "22556"
 city: Stafford
-street: "Stafford Marketplace"
-housenumber: 1190
-phone: "+1 540-659-2571"
-opening_hours: "09:00-22:00"
+street: Stafford Marketplace
+housenumber: "1190"
+phone: +1 540-659-2571
+opening_hours: 09:00-22:00
 website: ""

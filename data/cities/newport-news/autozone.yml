@@ -4,8 +4,8 @@ latitude: 37.11204
 longitude: -76.51691
 postcode: "23602"
 city: Newport News
-street: "Warwick Boulevard"
-housenumber: 13200
-phone: "757-527-6235"
-opening_hours: "Mo-Su 07:30-21:00"
-website: "https://www.autozone.com/locations/va/newport-news/13200-warwick-blvd.html"
+street: Warwick Boulevard
+housenumber: "13200"
+phone: 757-527-6235
+opening_hours: Mo-Su 07:30-21:00
+website: https://www.autozone.com/locations/va/newport-news/13200-warwick-blvd.html

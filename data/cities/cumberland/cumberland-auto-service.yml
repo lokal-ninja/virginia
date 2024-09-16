@@ -1,11 +1,11 @@
 id: 717129330
-type: way
+type: node
 latitude: 37.50922
 longitude: -78.23356
 postcode: "23040"
 city: Cumberland
-street: "Anderson Highway"
-housenumber: 1296
+street: Anderson Highway
+housenumber: "1296"
 phone: ""
 opening_hours: ""
 website: ""

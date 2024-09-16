@@ -1,11 +1,11 @@
 id: 659437587
-type: way
+type: node
 latitude: 38.03556
 longitude: -78.45876
 postcode: "22901"
 city: Charlottesville City
-street: "River Road"
-housenumber: 910
+street: River Road
+housenumber: "910"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/va/charlottesville/910-river-rd.html"
+website: https://www.autozone.com/locations/va/charlottesville/910-river-rd.html

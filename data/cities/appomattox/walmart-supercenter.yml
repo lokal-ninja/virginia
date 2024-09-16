@@ -1,11 +1,11 @@
 id: 645341824
-type: way
+type: node
 latitude: 37.3657
 longitude: -78.84197
 postcode: "24522"
 city: Appomattox
-street: "Oakville Road"
-housenumber: 505
-phone: "+1 434-352-6066"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4636/appomattox-va/whats-new"
+street: Oakville Road
+housenumber: "505"
+phone: +1 434-352-6066
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4636/appomattox-va/whats-new

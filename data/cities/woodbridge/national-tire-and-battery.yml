@@ -1,11 +1,11 @@
 id: 94053156
-type: way
+type: node
 latitude: 38.63958
 longitude: -77.29038
 postcode: "22192"
 city: Woodbridge
-street: "Telegraph Road"
-housenumber: 14501
+street: Telegraph Road
+housenumber: "14501"
 phone: ""
 opening_hours: ""
-website: "https://www.ntb.com/store/va/woodbridge/14501-telegraph-rd-22192/4587"
+website: https://www.ntb.com/store/va/woodbridge/14501-telegraph-rd-22192/4587

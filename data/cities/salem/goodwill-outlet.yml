@@ -1,11 +1,11 @@
 id: 222601289
-type: way
+type: node
 latitude: 37.2989
 longitude: -80.03023
 postcode: "24153"
 city: Salem
-street: "East Main Street"
-housenumber: 1493
+street: East Main Street
+housenumber: "1493"
 phone: ""
 opening_hours: ""
 website: ""

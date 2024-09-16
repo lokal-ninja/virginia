@@ -1,11 +1,11 @@
 id: 1035565382
-type: way
+type: node
 latitude: 36.90103
 longitude: -82.08101
 postcode: "24266"
 city: Lebanon
-street: "West Main Street"
-housenumber: 40
+street: West Main Street
+housenumber: "40"
 phone: "+12768893021"
-opening_hours: "Tu-Sa 09:00-17:00"
+opening_hours: Tu-Sa 09:00-17:00
 website: ""

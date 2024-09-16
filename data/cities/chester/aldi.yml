@@ -1,11 +1,11 @@
 id: 720915959
-type: way
+type: node
 latitude: 37.363
 longitude: -77.49934
-postcode: "23831-1647"
+postcode: 23831-1647
 city: Chester
-street: "Iron Bridge Road"
-housenumber: 11100
-phone: "+1 833-480-1014"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://stores.aldi.us/va/chester/11100-iron-bridge-rd"
+street: Iron Bridge Road
+housenumber: "11100"
+phone: +1 833-480-1014
+opening_hours: Mo-Su 08:00-21:00
+website: https://stores.aldi.us/va/chester/11100-iron-bridge-rd

@@ -1,11 +1,11 @@
 id: 261170354
-type: way
+type: node
 latitude: 38.35129
 longitude: -77.05778
 postcode: "22485"
 city: King George
-street: "Merchants Lane"
-housenumber: 16375
-phone: "+1 540-413-3037"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5779/king-george-va/whats-new"
+street: Merchants Lane
+housenumber: "16375"
+phone: +1 540-413-3037
+opening_hours: 24/7
+website: https://www.walmart.com/store/5779/king-george-va/whats-new

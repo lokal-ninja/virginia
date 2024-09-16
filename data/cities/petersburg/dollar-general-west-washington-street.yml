@@ -1,11 +1,11 @@
 id: 780324117
-type: way
+type: node
 latitude: 37.21845
 longitude: -77.44113
 postcode: "23803"
 city: Petersburg
-street: "West Washington Street"
-housenumber: 2201
+street: West Washington Street
+housenumber: "2201"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/va/petersburg/11974"
+website: https://www.dollargeneral.com/store-directory/va/petersburg/11974

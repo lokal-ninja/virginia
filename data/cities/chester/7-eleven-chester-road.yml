@@ -1,11 +1,11 @@
 id: 720519408
-type: way
+type: node
 latitude: 37.38116
 longitude: -77.45283
 postcode: "23831"
 city: Chester
-street: "Chester Road"
-housenumber: 10121
+street: Chester Road
+housenumber: "10121"
 phone: ""
 opening_hours: ""
 website: ""

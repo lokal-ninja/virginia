@@ -1,11 +1,11 @@
 id: 328482493
-type: way
+type: node
 latitude: 37.11387
 longitude: -76.51746
 postcode: "23602"
 city: Newport News
-street: "Warwick Boulevard"
-housenumber: 13276
+street: Warwick Boulevard
+housenumber: "13276"
 phone: ""
 opening_hours: ""
 website: ""

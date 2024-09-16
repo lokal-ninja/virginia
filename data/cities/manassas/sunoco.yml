@@ -1,11 +1,11 @@
 id: 225443333
-type: way
+type: node
 latitude: 38.7486
 longitude: -77.4505
 postcode: "20110"
 city: Manassas
-street: "Liberia Avenue"
-housenumber: 9640
+street: Liberia Avenue
+housenumber: "9640"
 phone: ""
 opening_hours: ""
 website: ""

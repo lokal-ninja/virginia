@@ -1,11 +1,11 @@
 id: 95530735
-type: way
+type: node
 latitude: 38.57507
 longitude: -77.31534
 postcode: "22026"
 city: Dumfries
-street: "Jefferson Davis Highway"
-housenumber: 17400
-phone: "+1 703-441-3500"
-opening_hours: "24/7"
+street: Jefferson Davis Highway
+housenumber: "17400"
+phone: +1 703-441-3500
+opening_hours: 24/7
 website: ""

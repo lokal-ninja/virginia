@@ -1,11 +1,11 @@
 id: 340058600
-type: way
+type: node
 latitude: 37.79274
 longitude: -79.99479
 postcode: ""
 city: Covington
-street: "West Main Street"
-housenumber: 229
-phone: "(540) 965-0037"
+street: West Main Street
+housenumber: "229"
+phone: (540) 965-0037
 opening_hours: ""
 website: ""

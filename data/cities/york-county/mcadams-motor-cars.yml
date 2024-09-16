@@ -1,11 +1,11 @@
 id: 370063876
-type: way
+type: node
 latitude: 37.18092
 longitude: -76.4774
 postcode: "23692"
 city: York County
-street: "Redoubt Road"
-housenumber: 215
+street: Redoubt Road
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

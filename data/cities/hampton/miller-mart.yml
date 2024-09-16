@@ -1,11 +1,11 @@
 id: 388598390
-type: way
+type: node
 latitude: 37.03854
 longitude: -76.4003
 postcode: "23666"
 city: Hampton
-street: "West Mercury Boulevard"
-housenumber: 2129
+street: West Mercury Boulevard
+housenumber: "2129"
 phone: ""
 opening_hours: ""
 website: ""

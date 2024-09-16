@@ -1,11 +1,11 @@
 id: 923077330
-type: way
+type: node
 latitude: 36.95638
 longitude: -76.6014
 postcode: "23430"
 city: Smithfield
-street: "Benns Church Boulevard"
-housenumber: 1271
+street: Benns Church Boulevard
+housenumber: "1271"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/va/smithfield/1271-benns-church-blvd"
+website: https://stores.advanceautoparts.com/va/smithfield/1271-benns-church-blvd

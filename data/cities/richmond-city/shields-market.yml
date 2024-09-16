@@ -1,11 +1,11 @@
 id: 368972281
-type: way
+type: node
 latitude: 37.55312
 longitude: -77.46713
 postcode: "23220"
 city: Richmond City
-street: "North Shields Avenue"
-housenumber: 206
-phone: "+1 804-353-9880"
-opening_hours: "08:00-23:30"
-website: "https://shieldsmarketrva.com"
+street: North Shields Avenue
+housenumber: "206"
+phone: +1 804-353-9880
+opening_hours: 08:00-23:30
+website: https://shieldsmarketrva.com

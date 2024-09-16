@@ -4,8 +4,8 @@ latitude: 37.35778
 longitude: -79.24073
 postcode: "24502"
 city: Lynchburg
-street: "Enterprise Drive"
-housenumber: 1507
+street: Enterprise Drive
+housenumber: "1507"
 phone: ""
-opening_hours: "Mo-Fr 12:00-21:00; Sa 11:00-21:00; Su 13:00-21:00"
+opening_hours: Mo-Fr 12:00-21:00; Sa 11:00-21:00; Su 13:00-21:00
 website: ""

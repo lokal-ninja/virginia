@@ -1,11 +1,11 @@
 id: 478768374
-type: way
+type: node
 latitude: 37.1474
 longitude: -80.5871
 postcode: "24141"
 city: Fairlawn
-street: "Lee Highway"
-housenumber: 7335
-phone: "+1 540-731-4903"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/358"
+street: Lee Highway
+housenumber: "7335"
+phone: +1 540-731-4903
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/358

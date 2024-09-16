@@ -1,11 +1,11 @@
 id: 232933558
-type: way
+type: node
 latitude: 37.37362
 longitude: -79.23819
 postcode: "24551"
 city: Lynchburg
-street: "Millrace Drive"
-housenumber: 25
+street: Millrace Drive
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

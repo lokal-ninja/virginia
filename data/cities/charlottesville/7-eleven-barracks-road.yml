@@ -1,11 +1,11 @@
 id: 1064856075
-type: way
+type: node
 latitude: 38.05637
 longitude: -78.50191
-postcode: "22903-4812"
+postcode: 22903-4812
 city: Charlottesville
-street: "Barracks Road"
-housenumber: 2155
-phone: "+1 434-293-7070"
+street: Barracks Road
+housenumber: "2155"
+phone: +1 434-293-7070
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/charlottesville/2218-barracks-rd-16728"
+website: https://www.7-eleven.com/locations/va/charlottesville/2218-barracks-rd-16728

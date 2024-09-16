@@ -1,11 +1,11 @@
 id: 370807567
-type: way
+type: node
 latitude: 38.63407
 longitude: -77.43343
 postcode: "20112"
 city: Manassas
-street: "Bristow Road"
-housenumber: 14718
+street: Bristow Road
+housenumber: "14718"
 phone: ""
 opening_hours: ""
 website: ""

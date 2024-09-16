@@ -4,8 +4,8 @@ latitude: 38.43173
 longitude: -78.84087
 postcode: "22801"
 city: Harrisonburg
-street: "East Market Street"
-housenumber: 1790
-phone: "+1 540-432-1830"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/va/harrisonburg/harrisonburg/029/00310"
+street: East Market Street
+housenumber: "1790"
+phone: +1 540-432-1830
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/va/harrisonburg/harrisonburg/029/00310

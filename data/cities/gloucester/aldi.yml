@@ -1,11 +1,11 @@
 id: 943068078
-type: way
+type: node
 latitude: 37.39615
 longitude: -76.52776
 postcode: "23061"
 city: Gloucester
-street: "George Washington Memorial Highway"
-housenumber: 7176
-phone: "+1 833-480-1028"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://stores.aldi.us/va/gloucester/7176-george-washington-mem"
+street: George Washington Memorial Highway
+housenumber: "7176"
+phone: +1 833-480-1028
+opening_hours: Mo-Su 08:00-20:00
+website: https://stores.aldi.us/va/gloucester/7176-george-washington-mem

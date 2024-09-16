@@ -1,11 +1,11 @@
 id: 383920661
-type: way
+type: node
 latitude: 36.88004
 longitude: -76.42916
 postcode: "23435"
 city: Suffolk
-street: "College Drive"
-housenumber: 6253
+street: College Drive
+housenumber: "6253"
 phone: ""
 opening_hours: ""
 website: ""

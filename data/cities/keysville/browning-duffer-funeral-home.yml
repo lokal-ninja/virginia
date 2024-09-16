@@ -1,11 +1,11 @@
 id: 1104968230
-type: way
+type: node
 latitude: 37.03981
 longitude: -78.47858
 postcode: "23947"
 city: Keysville
-street: "H Street"
-housenumber: 110
+street: H Street
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

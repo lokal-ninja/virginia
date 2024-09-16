@@ -4,8 +4,8 @@ latitude: 37.33489
 longitude: -79.52358
 postcode: "24523"
 city: Bedford
-street: "North Bridge Street"
-housenumber: 111
+street: North Bridge Street
+housenumber: "111"
 phone: "5405868034"
-opening_hours: "Tu-Fr 09:00-17:30; Sa 09:00-15:00"
-website: "https://www.arthursjewelry.com/"
+opening_hours: Tu-Fr 09:00-17:30; Sa 09:00-15:00
+website: https://www.arthursjewelry.com/

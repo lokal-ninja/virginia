@@ -1,11 +1,11 @@
 id: 905634257
-type: way
+type: node
 latitude: 37.25009
 longitude: -77.3931
 postcode: "23834"
 city: Colonial Heights City
-street: "Southpark Boulevard"
-housenumber: 830
+street: Southpark Boulevard
+housenumber: "830"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/va/colonial-heights/63/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/va/colonial-heights/63/

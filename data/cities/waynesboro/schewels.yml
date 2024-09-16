@@ -1,11 +1,11 @@
 id: 1292991984
-type: way
+type: node
 latitude: 38.08002
 longitude: -78.92272
 postcode: ""
 city: Waynesboro
-street: "Barksdale Road"
-housenumber: 100
+street: Barksdale Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

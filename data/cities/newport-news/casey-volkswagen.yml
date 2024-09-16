@@ -1,11 +1,11 @@
 id: 310895167
-type: way
+type: node
 latitude: 37.08205
 longitude: -76.46123
 postcode: "23601"
 city: Newport News
-street: "J Clyde Morris Boulevard"
-housenumber: 777
-phone: "+1-757-504-0949"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su 12:00-17:00"
+street: J Clyde Morris Boulevard
+housenumber: "777"
+phone: +1-757-504-0949
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su 12:00-17:00
 website: ""

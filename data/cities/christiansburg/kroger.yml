@@ -1,11 +1,11 @@
 id: 221423877
-type: way
+type: node
 latitude: 37.1354
 longitude: -80.41193
 postcode: "24073"
 city: Christiansburg
-street: "North Franklin Street"
-housenumber: 555
-phone: "+1 540-381-8710"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.kroger.com/stores/grocery/va/christiansburg/christiansburg/029/00345"
+street: North Franklin Street
+housenumber: "555"
+phone: +1 540-381-8710
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.kroger.com/stores/grocery/va/christiansburg/christiansburg/029/00345

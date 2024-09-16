@@ -1,11 +1,11 @@
 id: 372628164
-type: way
+type: node
 latitude: 38.87715
 longitude: -77.10752
 postcode: ""
 city: Arlington
-street: "5th Road North"
-housenumber: 4000
+street: 5th Road North
+housenumber: "4000"
 phone: ""
 opening_hours: ""
-website: "https://arlingtonautobodyshopva.com"
+website: https://arlingtonautobodyshopva.com

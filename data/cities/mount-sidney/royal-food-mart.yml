@@ -1,11 +1,11 @@
 id: 531141195
-type: way
+type: node
 latitude: 38.25944
 longitude: -78.9579
 postcode: "24467"
 city: Mount Sidney
-street: "Lee Highway"
-housenumber: 2395
+street: Lee Highway
+housenumber: "2395"
 phone: ""
 opening_hours: ""
 website: ""

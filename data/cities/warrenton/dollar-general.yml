@@ -1,11 +1,11 @@
 id: 215870420
-type: way
+type: node
 latitude: 38.71736
 longitude: -77.8122
 postcode: "20186"
 city: Warrenton
-street: "Frost Avenue"
-housenumber: 599
+street: Frost Avenue
+housenumber: "599"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/va/warrenton/464"
+website: https://www.dollargeneral.com/store-directory/va/warrenton/464

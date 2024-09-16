@@ -1,11 +1,11 @@
 id: 690940468
-type: way
+type: node
 latitude: 39.08117
 longitude: -77.56235
 postcode: "20175"
 city: Leesburg
-street: "Compass Creek Parkway Southeast"
-housenumber: 19360
-phone: "+1 703-779-0102"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/1904-leesburg-va"
+street: Compass Creek Parkway Southeast
+housenumber: "19360"
+phone: +1 703-779-0102
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/1904-leesburg-va

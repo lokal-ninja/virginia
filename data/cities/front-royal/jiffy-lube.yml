@@ -1,11 +1,11 @@
 id: 1150139781
-type: way
+type: node
 latitude: 38.912
 longitude: -78.19136
-postcode: "22630-2112"
+postcode: 22630-2112
 city: Front Royal
-street: "South Street"
-housenumber: 220
-phone: "+1 540-631-0000"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 08:00-16:00"
-website: "https://www.jiffylube.com/locations/va/front-royal/3315"
+street: South Street
+housenumber: "220"
+phone: +1 540-631-0000
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 08:00-16:00
+website: https://www.jiffylube.com/locations/va/front-royal/3315

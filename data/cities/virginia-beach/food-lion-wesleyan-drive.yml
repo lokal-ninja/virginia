@@ -1,11 +1,11 @@
 id: 407481108
-type: way
+type: node
 latitude: 36.86996
 longitude: -76.16973
 postcode: "23462"
 city: Virginia Beach
-street: "Wesleyan Drive"
-housenumber: 5461
+street: Wesleyan Drive
+housenumber: "5461"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 574900218
-type: way
+type: node
 latitude: 38.77274
 longitude: -77.18354
 postcode: "22150"
 city: Springfield
-street: "Backlick Road"
-housenumber: 6701
+street: Backlick Road
+housenumber: "6701"
 phone: ""
 opening_hours: ""
 website: ""

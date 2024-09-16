@@ -1,11 +1,11 @@
 id: 81028693
-type: way
+type: node
 latitude: 38.85294
 longitude: -77.05909
 postcode: "22202"
 city: Arlington
-street: "23rd Street South"
-housenumber: 768
-phone: "+1 703-909-3855"
+street: 23rd Street South
+housenumber: "768"
+phone: +1 703-909-3855
 opening_hours: ""
-website: "https://www.crystalwatermassage.net/"
+website: https://www.crystalwatermassage.net/

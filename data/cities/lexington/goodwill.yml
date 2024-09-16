@@ -1,11 +1,11 @@
 id: 390531581
-type: way
+type: node
 latitude: 37.77047
 longitude: -79.42924
 postcode: "24450"
 city: Lexington
-street: "Woodcote Lane"
-housenumber: 8
+street: Woodcote Lane
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

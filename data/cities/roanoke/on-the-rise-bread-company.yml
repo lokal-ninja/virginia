@@ -4,8 +4,8 @@ latitude: 37.27098
 longitude: -79.93922
 postcode: "24011"
 city: Roanoke
-street: "Market Street Southeast"
-housenumber: 303
+street: Market Street Southeast
+housenumber: "303"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00; Sa 08:00-16:00"
-website: "https://ontherisebread.com/"
+opening_hours: Mo-Fr 07:00-16:00; Sa 08:00-16:00
+website: https://ontherisebread.com/

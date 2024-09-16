@@ -1,11 +1,11 @@
 id: 1060348509
-type: way
+type: node
 latitude: 38.07769
 longitude: -79.38492
 postcode: "24430"
 city: Craigsville
-street: "West Craig Street"
-housenumber: 101
-phone: "(540)9974450"
+street: West Craig Street
+housenumber: "101"
+phone: (540)9974450
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 560605907
-type: way
+type: node
 latitude: 38.8666
 longitude: -77.85542
-postcode: "20115-3222"
+postcode: 20115-3222
 city: Marshall
-street: "West Main Street"
-housenumber: 8324
-phone: "+1 540-364-1669"
+street: West Main Street
+housenumber: "8324"
+phone: +1 540-364-1669
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/marshall/8324-w-main-st-18050"
+website: https://www.7-eleven.com/locations/va/marshall/8324-w-main-st-18050

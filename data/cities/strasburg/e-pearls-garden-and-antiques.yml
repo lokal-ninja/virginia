@@ -1,11 +1,11 @@
 id: 240588014
-type: way
+type: node
 latitude: 38.98969
 longitude: -78.36305
 postcode: ""
 city: Strasburg
-street: "West King Street"
-housenumber: 188
-phone: "+1 540-247-0929"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-17:00"
-website: "https://www.facebook.com/EPearls"
+street: West King Street
+housenumber: "188"
+phone: +1 540-247-0929
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-17:00
+website: https://www.facebook.com/EPearls

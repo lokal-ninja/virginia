@@ -1,11 +1,11 @@
 id: 312595406
-type: way
+type: node
 latitude: 36.7928
 longitude: -76.24398
 postcode: "23320"
 city: Chesapeake
-street: "South Military Highway"
-housenumber: 1717
+street: South Military Highway
+housenumber: "1717"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 719638838
-type: way
+type: node
 latitude: 38.88075
 longitude: -77.39927
 postcode: "20151"
 city: Chantilly
-street: "Route 50"
-housenumber: 13065
-phone: "+1 703-818-2180"
-opening_hours: "Mo-Th 09:30-23:00; Fr-Sa 09:00-23:30; Su 09:30-22:00"
+street: Route 50
+housenumber: "13065"
+phone: +1 703-818-2180
+opening_hours: Mo-Th 09:30-23:00; Fr-Sa 09:00-23:30; Su 09:30-22:00
 website: ""

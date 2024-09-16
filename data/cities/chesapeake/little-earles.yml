@@ -1,11 +1,11 @@
 id: 312795715
-type: way
+type: node
 latitude: 36.63256
 longitude: -76.20823
 postcode: "23322"
 city: Chesapeake
-street: "Benefit Road"
-housenumber: 104
+street: Benefit Road
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

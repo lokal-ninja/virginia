@@ -1,11 +1,11 @@
 id: 1104929264
-type: way
+type: node
 latitude: 37.03913
 longitude: -78.48328
 postcode: "23947"
 city: Keysville
-street: "Osborne Street"
-housenumber: 239
+street: Osborne Street
+housenumber: "239"
 phone: ""
 opening_hours: ""
 website: ""

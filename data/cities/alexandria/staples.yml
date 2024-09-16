@@ -4,8 +4,8 @@ latitude: 38.83509
 longitude: -77.04975
 postcode: "22305"
 city: Alexandria
-street: "Richmond Highway"
-housenumber: 3301
+street: Richmond Highway
+housenumber: "3301"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.staples.com/va/alexandria/3301-jefferson-davis-hwy"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.staples.com/va/alexandria/3301-jefferson-davis-hwy

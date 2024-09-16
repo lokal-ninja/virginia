@@ -1,11 +1,11 @@
 id: 664708899
-type: way
+type: node
 latitude: 37.13014
 longitude: -80.39928
 postcode: "24073"
 city: Christiansburg
-street: "Roanoke Street"
-housenumber: 415
+street: Roanoke Street
+housenumber: "415"
 phone: ""
 opening_hours: ""
 website: ""

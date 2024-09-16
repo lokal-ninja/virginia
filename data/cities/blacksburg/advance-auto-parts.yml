@@ -1,11 +1,11 @@
 id: 54784636
-type: way
+type: node
 latitude: 37.23666
 longitude: -80.42047
 postcode: "24060"
 city: Blacksburg
-street: "North Main Street"
-housenumber: 800
-phone: "+1 540-552-8888"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/va/blacksburg/800-n-main-st"
+street: North Main Street
+housenumber: "800"
+phone: +1 540-552-8888
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/va/blacksburg/800-n-main-st

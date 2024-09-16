@@ -1,11 +1,11 @@
 id: 383925095
-type: way
+type: node
 latitude: 37.77888
 longitude: -79.43709
 postcode: "24450"
 city: Lexington
-street: "East Nelson Street"
-housenumber: 517
-phone: "+1 540-463-9880"
+street: East Nelson Street
+housenumber: "517"
+phone: +1 540-463-9880
 opening_hours: ""
-website: "https://www.truevalue.com/buddiestruevalue"
+website: https://www.truevalue.com/buddiestruevalue

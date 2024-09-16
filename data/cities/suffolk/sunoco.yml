@@ -1,11 +1,11 @@
 id: 384002984
-type: way
+type: node
 latitude: 36.77028
 longitude: -76.58352
 postcode: "23434"
 city: Suffolk
-street: "Godwin Boulevard"
-housenumber: 2700
+street: Godwin Boulevard
+housenumber: "2700"
 phone: ""
 opening_hours: ""
 website: ""

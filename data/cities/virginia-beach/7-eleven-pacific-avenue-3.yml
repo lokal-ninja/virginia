@@ -1,11 +1,11 @@
 id: 402406939
-type: way
+type: node
 latitude: 36.85214
 longitude: -75.9777
 postcode: "23451"
 city: Virginia Beach
-street: "Pacific Avenue"
-housenumber: 2402
-phone: "+1 757-422-4275"
+street: Pacific Avenue
+housenumber: "2402"
+phone: +1 757-422-4275
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/virginia-beach/2400-pacific-ave-20967"
+website: https://www.7-eleven.com/locations/va/virginia-beach/2400-pacific-ave-20967

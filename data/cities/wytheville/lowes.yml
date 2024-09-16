@@ -1,11 +1,11 @@
 id: 1116638290
-type: way
+type: node
 latitude: 36.95794
 longitude: -81.10314
 postcode: "24382"
 city: Wytheville
-street: "Dominion Street"
-housenumber: 185
-phone: "+1 276-223-9880"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/va-wytheville/1164"
+street: Dominion Street
+housenumber: "185"
+phone: +1 276-223-9880
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/va-wytheville/1164

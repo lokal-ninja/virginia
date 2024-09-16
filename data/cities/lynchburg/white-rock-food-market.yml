@@ -1,11 +1,11 @@
 id: 1133595042
-type: way
+type: node
 latitude: 37.40193
 longitude: -79.13692
 postcode: "24504"
 city: Lynchburg
-street: "Florida Avenue"
-housenumber: 818
+street: Florida Avenue
+housenumber: "818"
 phone: ""
 opening_hours: ""
 website: ""

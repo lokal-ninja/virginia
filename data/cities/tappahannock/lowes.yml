@@ -1,11 +1,11 @@
 id: 227604488
-type: way
+type: node
 latitude: 37.89828
 longitude: -76.8687
 postcode: "22560"
 city: Tappahannock
-street: "Tappahannock Boulevard"
-housenumber: 2000
-phone: "+1 804-443-9110"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=2624"
+street: Tappahannock Boulevard
+housenumber: "2000"
+phone: +1 804-443-9110
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=2624

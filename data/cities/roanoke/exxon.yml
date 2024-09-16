@@ -1,11 +1,11 @@
 id: 1237860178
-type: way
+type: node
 latitude: 37.23267
 longitude: -79.92807
 postcode: "24014"
 city: Roanoke
-street: "Garden City Boulevard Southeast"
-housenumber: 3314
+street: Garden City Boulevard Southeast
+housenumber: "3314"
 phone: ""
 opening_hours: ""
 website: ""

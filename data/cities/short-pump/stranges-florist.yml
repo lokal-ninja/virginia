@@ -1,11 +1,11 @@
 id: 264221846
-type: way
+type: node
 latitude: 37.65764
 longitude: -77.63445
 postcode: "23233"
 city: Short Pump
-street: "West Broad Street"
-housenumber: 12111
+street: West Broad Street
+housenumber: "12111"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-17:00"
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-17:00
 website: ""

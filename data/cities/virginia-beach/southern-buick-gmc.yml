@@ -4,8 +4,8 @@ latitude: 36.84156
 longitude: -76.05169
 postcode: "23454"
 city: Virginia Beach
-street: "Virginia Beach Boulevard"
-housenumber: 2375
-phone: "+1 888-757-7584"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-19:00; PH closed; Su 11:00-18:00"
-website: "http://www.southernlincolnlynnhaven.com"
+street: Virginia Beach Boulevard
+housenumber: "2375"
+phone: +1 888-757-7584
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-19:00; PH closed; Su 11:00-18:00
+website: http://www.southernlincolnlynnhaven.com

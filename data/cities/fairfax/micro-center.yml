@@ -4,8 +4,8 @@ latitude: 38.86923
 longitude: -77.26155
 postcode: "22031"
 city: Fairfax
-street: "Nutley Street"
-housenumber: 3089
+street: Nutley Street
+housenumber: "3089"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.microcenter.com/"
+opening_hours: Mo-Fr 09:00-21:00; Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.microcenter.com/

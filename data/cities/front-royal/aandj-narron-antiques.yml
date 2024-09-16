@@ -1,11 +1,11 @@
 id: 240413482
-type: way
+type: node
 latitude: 38.91757
 longitude: -78.19063
 postcode: "22630"
 city: Front Royal
-street: "East Main Street"
-housenumber: 301
+street: East Main Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

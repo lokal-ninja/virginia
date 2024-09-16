@@ -1,11 +1,11 @@
 id: 315415143
-type: way
+type: node
 latitude: 38.66545
 longitude: -78.4599
 postcode: ""
 city: Luray
-street: "East Main Street"
-housenumber: 4
+street: East Main Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

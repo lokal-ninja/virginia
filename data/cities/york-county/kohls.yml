@@ -1,11 +1,11 @@
 id: 235064500
-type: way
+type: node
 latitude: 37.2556
 longitude: -76.64118
 postcode: "23185"
 city: York County
-street: "Gristmill Plaza"
-housenumber: 100
-phone: "+1 757-564-0111"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/va/williamsburg-1175.shtml"
+street: Gristmill Plaza
+housenumber: "100"
+phone: +1 757-564-0111
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/va/williamsburg-1175.shtml

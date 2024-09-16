@@ -1,11 +1,11 @@
 id: 436236802
-type: way
+type: node
 latitude: 39.05648
 longitude: -77.74037
 postcode: ""
 city: Philomont
-street: "Jeb Stuart Road"
-housenumber: 36550
-phone: "+1 540-338-5792"
-opening_hours: "Mo-Sa 08:00-19:00, Su 12:00-17:00"
+street: Jeb Stuart Road
+housenumber: "36550"
+phone: +1 540-338-5792
+opening_hours: Mo-Sa 08:00-19:00, Su 12:00-17:00
 website: ""

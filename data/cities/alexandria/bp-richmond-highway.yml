@@ -1,11 +1,11 @@
 id: 708036085
-type: way
+type: node
 latitude: 38.73285
 longitude: -77.09989
 postcode: "22309"
 city: Alexandria
-street: "Richmond Highway"
-housenumber: 8263
-phone: "+1 703-360-7553"
-opening_hours: "Mo-Su 06:00-23:00"
+street: Richmond Highway
+housenumber: "8263"
+phone: +1 703-360-7553
+opening_hours: Mo-Su 06:00-23:00
 website: ""

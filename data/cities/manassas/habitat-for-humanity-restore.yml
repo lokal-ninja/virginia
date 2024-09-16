@@ -1,11 +1,11 @@
 id: 225859138
-type: way
+type: node
 latitude: 38.7329
 longitude: -77.47645
 postcode: "20110"
 city: Manassas
-street: "Hastings Drive"
-housenumber: 10159
+street: Hastings Drive
+housenumber: "10159"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-17:00"
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-17:00
 website: ""

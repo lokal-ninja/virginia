@@ -1,11 +1,11 @@
 id: 1212509030
-type: way
+type: node
 latitude: 39.19792
 longitude: -78.15919
-postcode: "22601-4946"
+postcode: 22601-4946
 city: Winchester
-street: "North Loudoun Street"
-housenumber: 704
-phone: "+1 540-665-0775"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/va/winchester/704-n-loudoun-st-10640"
+street: North Loudoun Street
+housenumber: "704"
+phone: +1 540-665-0775
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/va/winchester/704-n-loudoun-st-10640

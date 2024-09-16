@@ -1,11 +1,11 @@
 id: 402279058
-type: way
+type: node
 latitude: 36.84448
 longitude: -76.08817
 postcode: "23452"
 city: Virginia Beach
-street: "Virginia Beach Boulevard"
-housenumber: 3330
-phone: "+1 757-486-0040"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/va/virginia-beach/kroger-king-richard/029/00539"
+street: Virginia Beach Boulevard
+housenumber: "3330"
+phone: +1 757-486-0040
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/va/virginia-beach/kroger-king-richard/029/00539

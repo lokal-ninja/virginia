@@ -1,11 +1,11 @@
 id: 117564270
-type: way
+type: node
 latitude: 38.88623
 longitude: -77.10404
 postcode: "22201"
 city: Arlington
-street: "Washington Boulevard"
-housenumber: 3501
+street: Washington Boulevard
+housenumber: "3501"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00
 website: ""

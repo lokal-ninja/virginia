@@ -1,11 +1,11 @@
 id: 760798834
-type: way
+type: node
 latitude: 37.53494
 longitude: -77.52673
 postcode: "23225"
 city: Richmond
-street: "Forest Hill Avenue"
-housenumber: 7107
-phone: "+1 804-330-7365"
-opening_hours: "Mo-Sa 08:00-22:00; Su 08:00-21:00"
-website: "https://www.target.com/sl/forest-hill/1931"
+street: Forest Hill Avenue
+housenumber: "7107"
+phone: +1 804-330-7365
+opening_hours: Mo-Sa 08:00-22:00; Su 08:00-21:00
+website: https://www.target.com/sl/forest-hill/1931

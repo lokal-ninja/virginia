@@ -1,11 +1,11 @@
 id: 240237605
-type: way
+type: node
 latitude: 37.75882
 longitude: -77.48084
 postcode: ""
 city: Ashland
-street: "England Street"
-housenumber: 105
+street: England Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

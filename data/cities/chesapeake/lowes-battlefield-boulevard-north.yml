@@ -1,11 +1,11 @@
 id: 312648859
-type: way
+type: node
 latitude: 36.76366
 longitude: -76.25314
 postcode: "23320"
 city: Chesapeake
-street: "Battlefield Boulevard North"
-housenumber: 1308
-phone: "+1 757-436-0707"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/va-chesapeake/0439"
+street: Battlefield Boulevard North
+housenumber: "1308"
+phone: +1 757-436-0707
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/va-chesapeake/0439

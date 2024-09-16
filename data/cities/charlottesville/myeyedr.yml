@@ -1,11 +1,11 @@
 id: 1307048830
-type: way
+type: node
 latitude: 38.05649
 longitude: -78.50203
 postcode: "22903"
 city: Charlottesville
-street: "Barracks Road"
-housenumber: 2159
+street: Barracks Road
+housenumber: "2159"
 phone: ""
 opening_hours: ""
-website: "https://www.myeyedr.com/locations/charlottesville-barracks-rd"
+website: https://www.myeyedr.com/locations/charlottesville-barracks-rd

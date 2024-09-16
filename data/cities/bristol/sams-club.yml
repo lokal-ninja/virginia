@@ -1,11 +1,11 @@
 id: 604325122
-type: way
+type: node
 latitude: 36.63611
 longitude: -82.12672
 postcode: "24202"
 city: Bristol
-street: "Market Center"
-housenumber: 21483
-phone: "+1 276-466-7390"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/bristol-va-sams-club/6518"
+street: Market Center
+housenumber: "21483"
+phone: +1 276-466-7390
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/bristol-va-sams-club/6518

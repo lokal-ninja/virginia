@@ -1,11 +1,11 @@
 id: 144471489
-type: way
+type: node
 latitude: 38.79992
 longitude: -77.04424
 postcode: "22314"
 city: Alexandria
-street: "South Royal Street"
-housenumber: 500
-phone: "+1 703-836-0380"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://local.safeway.com/safeway/va/alexandria/500-s-royal-st.html"
+street: South Royal Street
+housenumber: "500"
+phone: +1 703-836-0380
+opening_hours: Mo-Su 07:00-22:00
+website: https://local.safeway.com/safeway/va/alexandria/500-s-royal-st.html

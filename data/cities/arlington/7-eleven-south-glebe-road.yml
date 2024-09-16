@@ -1,11 +1,11 @@
 id: 211190321
-type: way
+type: node
 latitude: 38.86847
 longitude: -77.09726
-postcode: "22204-1693"
+postcode: 22204-1693
 city: Arlington
-street: "South Glebe Road"
-housenumber: 201
-phone: "+1 703-271-0646"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/va/arlington/201-s-glebe-rd-27004"
+street: South Glebe Road
+housenumber: "201"
+phone: +1 703-271-0646
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/va/arlington/201-s-glebe-rd-27004

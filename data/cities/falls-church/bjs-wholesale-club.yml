@@ -1,11 +1,11 @@
 id: 144673855
-type: way
+type: node
 latitude: 38.8754
 longitude: -77.15107
 postcode: "22044"
 city: Falls Church
-street: "Wilson Boulevard"
-housenumber: 6607
-phone: "+1 703-286-3380"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00"
-website: "https://www.bjs.com/cl/falls-church/0351"
+street: Wilson Boulevard
+housenumber: "6607"
+phone: +1 703-286-3380
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00
+website: https://www.bjs.com/cl/falls-church/0351

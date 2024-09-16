@@ -1,11 +1,11 @@
 id: 205373848
-type: way
+type: node
 latitude: 38.30208
 longitude: -77.45846
 postcode: "22401"
 city: Fredericksburg
-street: "Caroline Street"
-housenumber: 805
+street: Caroline Street
+housenumber: "805"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.riverbybooks.com/"
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.riverbybooks.com/

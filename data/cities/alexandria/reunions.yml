@@ -1,11 +1,11 @@
 id: 236027323
-type: way
+type: node
 latitude: 38.82925
 longitude: -77.08506
 postcode: "22302"
 city: Alexandria
-street: "Centre Plaza"
-housenumber: 1709
-phone: "703-931-8161"
-opening_hours: "Mo-We 10:00-18:00; Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:00-17:00"
-website: "http://www.reunionsva.com/"
+street: Centre Plaza
+housenumber: "1709"
+phone: 703-931-8161
+opening_hours: Mo-We 10:00-18:00; Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:00-17:00
+website: http://www.reunionsva.com/

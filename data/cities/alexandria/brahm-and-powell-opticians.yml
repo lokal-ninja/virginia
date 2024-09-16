@@ -1,11 +1,11 @@
 id: 205314888
-type: way
+type: node
 latitude: 38.80543
 longitude: -77.04671
 postcode: "22314"
 city: Alexandria
-street: "North Washington Street"
-housenumber: 113
-phone: "+1 703-596-0200"
-opening_hours: "Mo, We-Fr 09:30-17:30, Tu 09:30-19:00; Sa 09:30-16:00"
-website: "https://www.alexandria-optical.com/"
+street: North Washington Street
+housenumber: "113"
+phone: +1 703-596-0200
+opening_hours: Mo, We-Fr 09:30-17:30, Tu 09:30-19:00; Sa 09:30-16:00
+website: https://www.alexandria-optical.com/

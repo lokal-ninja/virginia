@@ -1,11 +1,11 @@
 id: 609825399
-type: way
+type: node
 latitude: 37.11163
 longitude: -76.49408
 postcode: "23602"
 city: Newport News
-street: "Jefferson Avenue"
-housenumber: 12300
+street: Jefferson Avenue
+housenumber: "12300"
 phone: ""
 opening_hours: ""
 website: ""

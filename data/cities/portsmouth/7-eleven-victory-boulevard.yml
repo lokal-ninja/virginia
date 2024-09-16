@@ -1,11 +1,11 @@
 id: 693883367
-type: way
+type: node
 latitude: 36.80834
 longitude: -76.3581
 postcode: "23701"
 city: Portsmouth
-street: "Victory Boulevard"
-housenumber: 3903
+street: Victory Boulevard
+housenumber: "3903"
 phone: ""
 opening_hours: ""
 website: ""

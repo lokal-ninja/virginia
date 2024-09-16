@@ -1,11 +1,11 @@
 id: 188633673
-type: way
+type: node
 latitude: 38.86184
 longitude: -77.09031
 postcode: "22204"
 city: Arlington
-street: "Columbia Pike"
-housenumber: 3211
-phone: "+1 703-302-6480"
+street: Columbia Pike
+housenumber: "3211"
+phone: +1 703-302-6480
 opening_hours: ""
-website: "https://www.t-mobile.com/store-locator/va/arlington/columbia-pike-s-glebe-rd"
+website: https://www.t-mobile.com/store-locator/va/arlington/columbia-pike-s-glebe-rd

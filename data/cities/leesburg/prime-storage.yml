@@ -1,11 +1,11 @@
 id: 1155888159
-type: way
+type: node
 latitude: 39.08218
 longitude: -77.55221
 postcode: "20175"
 city: Leesburg
-street: "Tavistock Drive Southeast"
-housenumber: 830
-phone: "+1 703-270-0271"
+street: Tavistock Drive Southeast
+housenumber: "830"
+phone: +1 703-270-0271
 opening_hours: ""
-website: "https://primestorage.com/locations/VA/leesburg/VA24/"
+website: https://primestorage.com/locations/VA/leesburg/VA24/

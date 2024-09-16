@@ -1,11 +1,11 @@
 id: 1080810416
-type: way
+type: node
 latitude: 37.41436
 longitude: -79.20902
 postcode: "24501"
 city: Lynchburg
-street: "Old Forest Road"
-housenumber: 3139
+street: Old Forest Road
+housenumber: "3139"
 phone: ""
 opening_hours: ""
 website: ""

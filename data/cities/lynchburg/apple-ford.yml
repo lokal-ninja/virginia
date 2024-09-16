@@ -1,11 +1,11 @@
 id: 1024891671
-type: way
+type: node
 latitude: 37.40047
 longitude: -79.20058
 postcode: "24501"
 city: Lynchburg
-street: "Lakeside Drive"
-housenumber: 2113
+street: Lakeside Drive
+housenumber: "2113"
 phone: ""
-opening_hours: "Mo-Th 09:00-19:00; Fr-Sa 09:00-18:00; Su off"
+opening_hours: Mo-Th 09:00-19:00; Fr-Sa 09:00-18:00; Su off
 website: ""

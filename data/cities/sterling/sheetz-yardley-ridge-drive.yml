@@ -1,11 +1,11 @@
 id: 990537831
-type: way
+type: node
 latitude: 38.94606
 longitude: -77.52022
 postcode: "20166"
 city: Sterling
-street: "Yardley Ridge Drive"
-housenumber: 42855
-phone: "+1 703-327-0161"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/649"
+street: Yardley Ridge Drive
+housenumber: "42855"
+phone: +1 703-327-0161
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/649

@@ -1,11 +1,11 @@
 id: 488944969
-type: way
+type: node
 latitude: 38.87372
 longitude: -77.15247
 postcode: "22044"
 city: Falls Church
-street: "Wilson Boulevard"
-housenumber: 
+street: Wilson Boulevard
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://edencenter.com/"
+website: https://edencenter.com/

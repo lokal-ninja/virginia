@@ -1,11 +1,11 @@
 id: 1007403456
-type: way
+type: node
 latitude: 37.26341
 longitude: -79.97757
 postcode: "24015"
 city: Roanoke
-street: "Grandin Road Southwest"
-housenumber: 1504
+street: Grandin Road Southwest
+housenumber: "1504"
 phone: "5409856469"
 opening_hours: ""
-website: "toomanybooksroanoke.com"
+website: toomanybooksroanoke.com

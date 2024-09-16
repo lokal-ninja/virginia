@@ -1,11 +1,11 @@
 id: 360956964
-type: way
+type: node
 latitude: 37.24622
 longitude: -77.38534
 postcode: "23834"
 city: Colonial Heights City
-street: "Southpark Boulevard"
-housenumber: 671
-phone: "+1 804-526-0844"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1424/colonial-heights-va/whats-new"
+street: Southpark Boulevard
+housenumber: "671"
+phone: +1 804-526-0844
+opening_hours: 24/7
+website: https://www.walmart.com/store/1424/colonial-heights-va/whats-new

@@ -1,11 +1,11 @@
 id: 684813402
-type: way
+type: node
 latitude: 36.87272
 longitude: -76.43862
 postcode: "23435"
 city: Suffolk
-street: "Community Drive"
-housenumber: 1001
-phone: "+1 844-747-5435"
+street: Community Drive
+housenumber: "1001"
+phone: +1 844-747-5435
 opening_hours: ""
 website: ""

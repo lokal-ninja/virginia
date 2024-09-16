@@ -1,11 +1,11 @@
 id: 1103323519
-type: way
+type: node
 latitude: 39.20248
 longitude: -77.53693
 postcode: "20176"
 city: Leesburg
-street: "James Monroe Highway"
-housenumber: 14920
-phone: "+1-703-777-4040"
+street: James Monroe Highway
+housenumber: "14920"
+phone: +1-703-777-4040
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1240945175
-type: way
+type: node
 latitude: 36.84897
 longitude: -76.1809
 postcode: "23502"
 city: Norfolk
-street: "North Newtown Road"
-housenumber: 701
-phone: "+1 757-785-4462"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8661"
+street: North Newtown Road
+housenumber: "701"
+phone: +1 757-785-4462
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8661

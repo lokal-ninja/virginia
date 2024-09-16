@@ -1,11 +1,11 @@
 id: 208102892
-type: way
+type: node
 latitude: 38.89548
 longitude: -77.14298
 postcode: "22207"
 city: Arlington
-street: "Langston Boulevard"
-housenumber: 5713
-phone: "+1 703-533-7574"
+street: Langston Boulevard
+housenumber: "5713"
+phone: +1 703-533-7574
 opening_hours: ""
-website: "http://www.marysbarbershop.com/about.html"
+website: http://www.marysbarbershop.com/about.html

@@ -1,11 +1,11 @@
 id: 561346006
-type: way
+type: node
 latitude: 38.66678
 longitude: -78.44089
 postcode: "22835"
 city: Luray
-street: "East Main Street"
-housenumber: 1018
+street: East Main Street
+housenumber: "1018"
 phone: ""
 opening_hours: ""
 website: ""

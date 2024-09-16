@@ -1,11 +1,11 @@
 id: 312482134
-type: way
+type: node
 latitude: 36.82183
 longitude: -76.23153
 postcode: "23325"
 city: Chesapeake
-street: "Indian River Road"
-housenumber: 3905
+street: Indian River Road
+housenumber: "3905"
 phone: ""
 opening_hours: ""
 website: ""

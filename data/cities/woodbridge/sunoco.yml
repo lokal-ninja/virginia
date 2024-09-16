@@ -1,11 +1,11 @@
 id: 94053804
-type: way
+type: node
 latitude: 38.65256
 longitude: -77.28699
 postcode: "22192"
 city: Woodbridge
-street: "Prince William Parkway"
-housenumber: 2495
+street: Prince William Parkway
+housenumber: "2495"
 phone: ""
 opening_hours: ""
-website: "https://www.sunoco.com/locations/va/2495-prince-william-parkway-woodbridge-va-22192/"
+website: https://www.sunoco.com/locations/va/2495-prince-william-parkway-woodbridge-va-22192/

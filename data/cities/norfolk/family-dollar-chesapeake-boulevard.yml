@@ -1,11 +1,11 @@
 id: 407115090
-type: way
+type: node
 latitude: 36.89082
 longitude: -76.237
-postcode: "23513-2004"
+postcode: 23513-2004
 city: Norfolk
-street: "Chesapeake Boulevard"
-housenumber: 6130
-phone: "+1 757-364-6587"
-opening_hours: "08:00-22:00"
-website: "https://www.familydollar.com/locations/va/norfolk/25524/"
+street: Chesapeake Boulevard
+housenumber: "6130"
+phone: +1 757-364-6587
+opening_hours: 08:00-22:00
+website: https://www.familydollar.com/locations/va/norfolk/25524/

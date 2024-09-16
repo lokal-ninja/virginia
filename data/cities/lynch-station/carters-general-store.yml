@@ -1,11 +1,11 @@
 id: 1226036284
-type: way
+type: node
 latitude: 37.11856
 longitude: -79.3873
 postcode: "24571"
 city: Lynch Station
-street: "Bedford Highway"
-housenumber: 6376
-phone: "+1-434-309-1753"
-opening_hours: "Tu-Th, Sa 08:00-18:00; Fr 08:00-19:30; Su-Mo off"
-website: "https://cartersstoreva.com/"
+street: Bedford Highway
+housenumber: "6376"
+phone: +1-434-309-1753
+opening_hours: Tu-Th, Sa 08:00-18:00; Fr 08:00-19:30; Su-Mo off
+website: https://cartersstoreva.com/

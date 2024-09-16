@@ -1,11 +1,11 @@
 id: 877643629
-type: way
+type: node
 latitude: 38.83405
 longitude: -77.41455
 postcode: "20124"
 city: Clifton
-street: "Union Mill Road"
-housenumber: 5728
-phone: "+1 703-825-1069"
+street: Union Mill Road
+housenumber: "5728"
+phone: +1 703-825-1069
 opening_hours: ""
 website: ""

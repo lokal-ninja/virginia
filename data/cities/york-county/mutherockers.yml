@@ -1,11 +1,11 @@
 id: 370123080
-type: way
+type: node
 latitude: 37.1497
 longitude: -76.46027
 postcode: "23692"
 city: York County
-street: "Charlene Court"
-housenumber: 101
+street: Charlene Court
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

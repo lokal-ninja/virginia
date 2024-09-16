@@ -1,11 +1,11 @@
 id: 781888584
-type: way
+type: node
 latitude: 37.12564
 longitude: -77.22878
 postcode: "23842"
 city: Disputanta
-street: "County Drive"
-housenumber: 9909
+street: County Drive
+housenumber: "9909"
 phone: "+18048946559"
 opening_hours: ""
-website: "https://thesouthernsheshed.com/"
+website: https://thesouthernsheshed.com/

@@ -1,11 +1,11 @@
 id: 788212346
-type: way
+type: node
 latitude: 37.52141
 longitude: -77.18072
 postcode: "23141"
 city: Quinton
-street: "New Kent Highway"
-housenumber: 2733
-phone: "+1 804-932-3434"
+street: New Kent Highway
+housenumber: "2733"
+phone: +1 804-932-3434
 opening_hours: ""
-website: "https://www.pleasantshardware.com/"
+website: https://www.pleasantshardware.com/

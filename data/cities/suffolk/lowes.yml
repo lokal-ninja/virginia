@@ -1,11 +1,11 @@
 id: 384004525
-type: way
+type: node
 latitude: 36.74844
 longitude: -76.57939
 postcode: "23434"
 city: Suffolk
-street: "North Main Street"
-housenumber: 1216
-phone: "+1 757-923-1420"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/va-suffolk/1126"
+street: North Main Street
+housenumber: "1216"
+phone: +1 757-923-1420
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/va-suffolk/1126

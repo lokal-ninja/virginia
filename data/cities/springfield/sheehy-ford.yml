@@ -1,11 +1,11 @@
 id: 223500234
-type: way
+type: node
 latitude: 38.77223
 longitude: -77.18
 postcode: "22150"
 city: Springfield
-street: "Loisdale Road"
-housenumber: 6727
+street: Loisdale Road
+housenumber: "6727"
 phone: ""
 opening_hours: ""
 website: ""

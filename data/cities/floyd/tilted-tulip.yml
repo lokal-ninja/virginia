@@ -1,11 +1,11 @@
 id: 749320780
-type: way
+type: node
 latitude: 36.90838
 longitude: -80.32924
 postcode: "24091"
 city: Floyd
-street: "Floyd Highway South"
-housenumber: 204
-phone: "+1-540-745-2091"
+street: Floyd Highway South
+housenumber: "204"
+phone: +1-540-745-2091
 opening_hours: ""
-website: "https://www.tiltedtulipva.com/"
+website: https://www.tiltedtulipva.com/

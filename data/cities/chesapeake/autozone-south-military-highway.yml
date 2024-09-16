@@ -1,11 +1,11 @@
 id: 312595341
-type: way
+type: node
 latitude: 36.80712
 longitude: -76.22218
 postcode: "23320"
 city: Chesapeake
-street: "South Military Highway"
-housenumber: 1137
+street: South Military Highway
+housenumber: "1137"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/va/chesapeake/1137-s-military-hwy.html"
+website: https://www.autozone.com/locations/va/chesapeake/1137-s-military-hwy.html

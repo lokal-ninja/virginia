@@ -1,11 +1,11 @@
 id: 51965615
-type: way
+type: node
 latitude: 39.01156
 longitude: -77.43757
 postcode: "20166"
 city: Sterling
-street: "Pacific Boulevard"
-housenumber: 21830
+street: Pacific Boulevard
+housenumber: "21830"
 phone: ""
 opening_hours: ""
 website: ""

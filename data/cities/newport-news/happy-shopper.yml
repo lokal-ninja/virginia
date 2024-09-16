@@ -1,11 +1,11 @@
 id: 333067468
-type: way
+type: node
 latitude: 36.99772
 longitude: -76.42359
 postcode: "23607"
 city: Newport News
-street: "Marshall Avenue"
-housenumber: 4710
+street: Marshall Avenue
+housenumber: "4710"
 phone: ""
 opening_hours: ""
 website: ""

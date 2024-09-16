@@ -1,11 +1,11 @@
 id: 332914586
-type: way
+type: node
 latitude: 38.03011
 longitude: -78.47565
 postcode: "22902"
 city: Charlottesville
-street: "East Market Street"
-housenumber: 801
+street: East Market Street
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

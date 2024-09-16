@@ -1,11 +1,11 @@
 id: 762171975
-type: way
+type: node
 latitude: 37.48367
 longitude: -77.4459
 postcode: "23234"
 city: Richmond
-street: "Jefferson Davis Highway"
-housenumber: 2916
+street: Jefferson Davis Highway
+housenumber: "2916"
 phone: ""
 opening_hours: ""
 website: ""

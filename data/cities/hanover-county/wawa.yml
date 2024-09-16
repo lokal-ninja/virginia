@@ -1,11 +1,11 @@
 id: 379226864
-type: way
+type: node
 latitude: 37.68626
 longitude: -77.46043
 postcode: "23005"
 city: Hanover County
-street: "Sliding Hill Road"
-housenumber: 10373
+street: Sliding Hill Road
+housenumber: "10373"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8607"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8607

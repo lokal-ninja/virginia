@@ -4,8 +4,8 @@ latitude: 37.55401
 longitude: -77.48275
 postcode: "23221"
 city: Richmond City
-street: "West Cary Street"
-housenumber: 3202
+street: West Cary Street
+housenumber: "3202"
 phone: ""
-opening_hours: "Tu-Sa 11:00-19:00; Su-Mo By appointment"
+opening_hours: Tu-Sa 11:00-19:00; Su-Mo "By appointment"
 website: ""

@@ -1,11 +1,11 @@
 id: 617102323
-type: way
+type: node
 latitude: 37.43691
 longitude: -76.321
 postcode: "23109"
 city: Mathews
-street: "Buckley Hall Road"
-housenumber: 10896
-phone: "804-725-3339"
-opening_hours: "Mo-Fr 06:00-20:00; Sa 06:00-21:00; Su 06:00-18:00"
+street: Buckley Hall Road
+housenumber: "10896"
+phone: 804-725-3339
+opening_hours: Mo-Fr 06:00-20:00; Sa 06:00-21:00; Su 06:00-18:00
 website: ""

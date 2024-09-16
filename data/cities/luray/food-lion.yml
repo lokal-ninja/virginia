@@ -1,11 +1,11 @@
 id: 313638416
-type: way
+type: node
 latitude: 38.6615
 longitude: -78.49698
 postcode: "22835"
 city: Luray
-street: "US-211"
-housenumber: 1400
+street: US-211
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

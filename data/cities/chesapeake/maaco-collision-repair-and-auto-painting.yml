@@ -1,11 +1,11 @@
 id: 312598096
-type: way
+type: node
 latitude: 36.79943
 longitude: -76.22923
 postcode: "23320"
 city: Chesapeake
-street: "Smith Avenue"
-housenumber: 2207
+street: Smith Avenue
+housenumber: "2207"
 phone: ""
 opening_hours: ""
 website: ""

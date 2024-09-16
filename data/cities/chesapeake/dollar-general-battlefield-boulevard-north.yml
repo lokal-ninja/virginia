@@ -1,11 +1,11 @@
 id: 384591557
-type: way
+type: node
 latitude: 36.74448
 longitude: -76.24194
 postcode: "23320"
 city: Chesapeake
-street: "Battlefield Boulevard North"
-housenumber: 701
+street: Battlefield Boulevard North
+housenumber: "701"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/va/chesapeake/7827"
+website: https://www.dollargeneral.com/store-directory/va/chesapeake/7827

@@ -1,11 +1,11 @@
 id: 943535362
-type: way
+type: node
 latitude: 38.76275
 longitude: -77.46195
 postcode: "20110"
 city: Manassas
-street: "Mathis Avenue"
-housenumber: 8850
+street: Mathis Avenue
+housenumber: "8850"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 231509584
-type: way
+type: node
 latitude: 38.84365
 longitude: -77.37971
 postcode: "22030"
 city: Fairfax
-street: "Route 29"
-housenumber: 12507
-phone: "+1 703-830-8687"
-opening_hours: "Mo-Sa 08:00-17:30; Su 09:00-17:00"
-website: "https://www.bettysazalearanch.com/"
+street: Route 29
+housenumber: "12507"
+phone: +1 703-830-8687
+opening_hours: Mo-Sa 08:00-17:30; Su 09:00-17:00
+website: https://www.bettysazalearanch.com/

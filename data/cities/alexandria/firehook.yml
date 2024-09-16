@@ -1,11 +1,11 @@
 id: 204598309
-type: way
+type: node
 latitude: 38.80393
 longitude: -77.04068
 postcode: "22314"
 city: Alexandria
-street: "South Union Street"
-housenumber: 105
+street: South Union Street
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Fr 6:30-19:00; Sa-Su 7:00-19:00"
-website: "https://www.firehook.com/"
+opening_hours: Mo-Fr 6:30-19:00; Sa-Su 7:00-19:00
+website: https://www.firehook.com/

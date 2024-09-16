@@ -1,11 +1,11 @@
 id: 45574344
-type: way
+type: node
 latitude: 38.78975
 longitude: -77.51209
 postcode: "20109"
 city: Manassas
-street: "Sudley Road"
-housenumber: 7685
-phone: "+1 703-368-6355"
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://www.burlington.com/store-details?store=188"
+street: Sudley Road
+housenumber: "7685"
+phone: +1 703-368-6355
+opening_hours: Mo-Su 08:00-23:00
+website: https://www.burlington.com/store-details?store=188

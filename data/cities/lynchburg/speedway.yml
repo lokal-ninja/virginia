@@ -1,11 +1,11 @@
 id: 1004615796
-type: way
+type: node
 latitude: 37.38142
 longitude: -79.13519
 postcode: "24501"
 city: Lynchburg
-street: "Campbell Avenue"
-housenumber: 3732
+street: Campbell Avenue
+housenumber: "3732"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/VA/Lynchburg/3732-Campbell-Avenue"
+website: https://www.speedway.com/locations/VA/Lynchburg/3732-Campbell-Avenue

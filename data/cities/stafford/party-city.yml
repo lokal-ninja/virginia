@@ -1,11 +1,11 @@
 id: 230326654
-type: way
+type: node
 latitude: 38.4724
 longitude: -77.40917
 postcode: "22556"
 city: Stafford
-street: "Stafford Market Place"
-housenumber: 1240
-phone: "+1 540-242-8172"
+street: Stafford Market Place
+housenumber: "1240"
+phone: +1 540-242-8172
 opening_hours: ""
-website: "https://stores.partycity.com/us/va/stafford/party-store-pc827.html"
+website: https://stores.partycity.com/us/va/stafford/party-store-pc827.html

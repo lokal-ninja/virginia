@@ -1,11 +1,11 @@
 id: 256796306
-type: way
+type: node
 latitude: 37.75315
 longitude: -77.47058
 postcode: "23005"
 city: Hanover County
-street: "South Washington Highway"
-housenumber: 307
+street: South Washington Highway
+housenumber: "307"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/va/ashland/307-s-washington-hwy"
+website: https://stores.advanceautoparts.com/va/ashland/307-s-washington-hwy

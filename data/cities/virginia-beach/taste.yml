@@ -4,8 +4,8 @@ latitude: 36.84147
 longitude: -76.13464
 postcode: "23462"
 city: Virginia Beach
-street: "Commerce Street"
-housenumber: 4513
+street: Commerce Street
+housenumber: "4513"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00; Su 10:00-16:00"
-website: "https://www.tasteunlimited.com/"
+opening_hours: Mo-Sa 10:00-17:00; Su 10:00-16:00
+website: https://www.tasteunlimited.com/

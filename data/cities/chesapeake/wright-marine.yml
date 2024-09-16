@@ -1,11 +1,11 @@
 id: 312625489
-type: way
+type: node
 latitude: 36.72471
 longitude: -76.24477
 postcode: "23320"
 city: Chesapeake
-street: "Tilden Avenue"
-housenumber: 143
-phone: "+1-757-547-2337"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
-website: "https://www.wrightmarine.us/"
+street: Tilden Avenue
+housenumber: "143"
+phone: +1-757-547-2337
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
+website: https://www.wrightmarine.us/

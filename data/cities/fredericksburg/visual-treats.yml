@@ -1,11 +1,11 @@
 id: 205608825
-type: way
+type: node
 latitude: 38.30343
 longitude: -77.46101
 postcode: "22401"
 city: Fredericksburg
-street: "Princess Anne Street"
-housenumber: 1002
+street: Princess Anne Street
+housenumber: "1002"
 phone: ""
 opening_hours: ""
-website: "https://www.joniulmanlewis.com/"
+website: https://www.joniulmanlewis.com/

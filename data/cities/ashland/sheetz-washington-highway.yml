@@ -1,11 +1,11 @@
 id: 760249908
-type: way
+type: node
 latitude: 37.74578
 longitude: -77.47221
 postcode: "23005"
 city: Ashland
-street: "Washington Highway"
-housenumber: 12341
-phone: "+1 804-798-3000"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/315"
+street: Washington Highway
+housenumber: "12341"
+phone: +1 804-798-3000
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/315

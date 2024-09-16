@@ -1,11 +1,11 @@
 id: 932626941
-type: way
+type: node
 latitude: 36.93096
 longitude: -76.52245
 postcode: "23314"
 city: Carrollton
-street: "Sugar Hill Road"
-housenumber: 23305
-phone: "+1-757-745-7207"
+street: Sugar Hill Road
+housenumber: "23305"
+phone: +1-757-745-7207
 opening_hours: ""
-website: "https://www.finleysva.com"
+website: https://www.finleysva.com

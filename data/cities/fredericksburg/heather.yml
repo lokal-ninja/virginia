@@ -1,11 +1,11 @@
 id: 205430695
-type: way
+type: node
 latitude: 38.30158
 longitude: -77.45815
 postcode: "22401"
 city: Fredericksburg
-street: "Caroline Street"
-housenumber: 721
+street: Caroline Street
+housenumber: "721"
 phone: ""
 opening_hours: ""
 website: ""

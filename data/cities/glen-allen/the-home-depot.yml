@@ -1,11 +1,11 @@
 id: 154253088
-type: way
+type: node
 latitude: 37.65179
 longitude: -77.60435
 postcode: "23060"
 city: Glen Allen
-street: "West Broad Street"
-housenumber: 11260
-phone: "+1 804-364-0782"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/richmond-w-broad/va/glen-allen/23060/4611"
+street: West Broad Street
+housenumber: "11260"
+phone: +1 804-364-0782
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/richmond-w-broad/va/glen-allen/23060/4611

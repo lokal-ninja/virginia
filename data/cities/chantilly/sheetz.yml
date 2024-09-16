@@ -1,11 +1,11 @@
 id: 956628953
-type: way
+type: node
 latitude: 38.91971
 longitude: -77.49619
 postcode: "20152"
 city: Chantilly
-street: "Poland Road"
-housenumber: 25224
-phone: "+1 571-367-2757"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/304"
+street: Poland Road
+housenumber: "25224"
+phone: +1 571-367-2757
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/304

@@ -1,11 +1,11 @@
 id: 372360143
-type: way
+type: node
 latitude: 37.57806
 longitude: -77.48968
 postcode: "23230"
 city: Richmond
-street: "Westmoreland Street"
-housenumber: 1810
-phone: "+1 804-359-8207"
+street: Westmoreland Street
+housenumber: "1810"
+phone: +1 804-359-8207
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/richmond/4601-west-broad-st-24395"
+website: https://www.7-eleven.com/locations/va/richmond/4601-west-broad-st-24395

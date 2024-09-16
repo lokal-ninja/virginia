@@ -1,11 +1,11 @@
 id: 1003188152
-type: way
+type: node
 latitude: 37.37711
 longitude: -79.15107
 postcode: "24501"
 city: Lynchburg
-street: "Odd Fellows Road"
-housenumber: 3109
+street: Odd Fellows Road
+housenumber: "3109"
 phone: ""
 opening_hours: ""
-website: "https://vamac.com"
+website: https://vamac.com

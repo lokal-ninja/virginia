@@ -1,11 +1,11 @@
 id: 1314981341
-type: way
+type: node
 latitude: 36.86756
 longitude: -82.77525
 postcode: "24219"
 city: Big Stone Gap
-street: "Wood Avenue East"
-housenumber: 401
+street: Wood Avenue East
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

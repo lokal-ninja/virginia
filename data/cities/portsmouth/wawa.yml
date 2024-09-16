@@ -1,11 +1,11 @@
 id: 604751022
-type: way
+type: node
 latitude: 36.82835
 longitude: -76.33996
-postcode: "23707-4119"
+postcode: 23707-4119
 city: Portsmouth
-street: "Frederick Boulevard"
-housenumber: 1200
-phone: "+1 757-393-0189"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8636"
+street: Frederick Boulevard
+housenumber: "1200"
+phone: +1 757-393-0189
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8636

@@ -1,11 +1,11 @@
 id: 54782261
-type: way
+type: node
 latitude: 37.22166
 longitude: -80.44807
 postcode: ""
 city: Blacksburg
-street: "Heather Drive"
-housenumber: 820
+street: Heather Drive
+housenumber: "820"
 phone: ""
 opening_hours: ""
-website: "https://hethwoodmarket.com"
+website: https://hethwoodmarket.com

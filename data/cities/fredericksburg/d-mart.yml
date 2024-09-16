@@ -1,11 +1,11 @@
 id: 587876566
-type: way
+type: node
 latitude: 38.27226
 longitude: -77.48368
 postcode: "22408"
 city: Fredericksburg
-street: "Lafayette Boulevard"
-housenumber: 2700
+street: Lafayette Boulevard
+housenumber: "2700"
 phone: ""
 opening_hours: ""
 website: ""

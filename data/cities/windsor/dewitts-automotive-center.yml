@@ -1,11 +1,11 @@
 id: 1127732284
-type: way
+type: node
 latitude: 36.79077
 longitude: -76.78324
 postcode: "23487"
 city: Windsor
-street: "Walters Highway"
-housenumber: 25780
-phone: "+1-757-242-9444"
+street: Walters Highway
+housenumber: "25780"
+phone: +1-757-242-9444
 opening_hours: ""
-website: "https://www.dewittsautomotivecenter.net/"
+website: https://www.dewittsautomotivecenter.net/

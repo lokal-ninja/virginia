@@ -1,11 +1,11 @@
 id: 720552796
-type: way
+type: node
 latitude: 37.34806
 longitude: -77.35735
 postcode: "23836"
 city: Chester
-street: "East Hundred Road"
-housenumber: 221
-phone: "+1-804-530-1172"
-opening_hours: "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/chester-va-pharmacies/221-e-hundred-rd-chester-va-23836/storeid=1656"
+street: East Hundred Road
+housenumber: "221"
+phone: +1-804-530-1172
+opening_hours: Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00
+website: https://www.cvs.com/store-locator/chester-va-pharmacies/221-e-hundred-rd-chester-va-23836/storeid=1656

@@ -1,11 +1,11 @@
 id: 244672881
-type: way
+type: node
 latitude: 39.13675
 longitude: -77.70793
 postcode: "20132"
 city: Purcellville
-street: "East Main Street"
-housenumber: 501
+street: East Main Street
+housenumber: "501"
 phone: ""
 opening_hours: ""
-website: "https://mrprint.net/"
+website: https://mrprint.net/

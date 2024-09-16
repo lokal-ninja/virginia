@@ -1,11 +1,11 @@
 id: 205173793
-type: way
+type: node
 latitude: 38.80579
 longitude: -77.05189
 postcode: "22314"
 city: Alexandria
-street: "King Street"
-housenumber: 
+street: King Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.artsafire.com/"
+website: http://www.artsafire.com/

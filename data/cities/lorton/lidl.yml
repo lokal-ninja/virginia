@@ -1,11 +1,11 @@
 id: 1195378380
-type: way
+type: node
 latitude: 38.71343
 longitude: -77.23319
 postcode: "22079"
 city: Lorton
-street: "White Spruce Way"
-housenumber: 9001
-phone: "+1 844-747-5435"
+street: White Spruce Way
+housenumber: "9001"
+phone: +1 844-747-5435
 opening_hours: ""
 website: ""

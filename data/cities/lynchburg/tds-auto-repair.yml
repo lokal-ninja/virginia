@@ -1,11 +1,11 @@
 id: 1001484977
-type: way
+type: node
 latitude: 37.40458
 longitude: -79.15332
 postcode: "24501"
 city: Lynchburg
-street: "12th Street"
-housenumber: 1622
+street: 12th Street
+housenumber: "1622"
 phone: ""
 opening_hours: ""
 website: ""

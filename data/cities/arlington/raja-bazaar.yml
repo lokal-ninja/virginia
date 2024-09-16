@@ -1,11 +1,11 @@
 id: 304294855
-type: way
+type: node
 latitude: 38.89657
 longitude: -77.13179
 postcode: "22207"
 city: Arlington
-street: "Langston Boulevard"
-housenumber: 5135
+street: Langston Boulevard
+housenumber: "5135"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 402441780
-type: way
+type: node
 latitude: 36.82222
 longitude: -76.12613
 postcode: "23462"
 city: Virginia Beach
-street: "Holland Road"
-housenumber: 4377
-phone: "+1 757-326-6464"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/690"
+street: Holland Road
+housenumber: "4377"
+phone: +1 757-326-6464
+opening_hours: 24/7
+website: https://www.wawa.com/locations/690

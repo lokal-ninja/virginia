@@ -1,11 +1,11 @@
 id: 554659508
-type: way
+type: node
 latitude: 36.95668
 longitude: -81.09933
 postcode: "24382"
 city: Wytheville
-street: "Commonwealth Drive"
-housenumber: 345
-phone: "+1 276-228-2190"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3270/wytheville-va/whats-new"
+street: Commonwealth Drive
+housenumber: "345"
+phone: +1 276-228-2190
+opening_hours: 24/7
+website: https://www.walmart.com/store/3270/wytheville-va/whats-new

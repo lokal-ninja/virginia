@@ -1,11 +1,11 @@
 id: 361053519
-type: way
+type: node
 latitude: 38.81258
 longitude: -77.05029
 postcode: "22314"
 city: Alexandria
-street: "North Henry Street"
-housenumber: 700
+street: North Henry Street
+housenumber: "700"
 phone: ""
 opening_hours: ""
-website: "http://www.europeanauto-alexandria-VA.com"
+website: http://www.europeanauto-alexandria-VA.com

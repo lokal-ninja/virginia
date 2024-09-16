@@ -1,11 +1,11 @@
 id: 970978177
-type: way
+type: node
 latitude: 37.46765
 longitude: -79.11663
 postcode: "24572"
 city: Madison Heights
-street: "Amelon Square"
-housenumber: 192
-phone: "+1 434-929-6863"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.foodlion.com/va/madison-heights/192-amelon-square"
+street: Amelon Square
+housenumber: "192"
+phone: +1 434-929-6863
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.foodlion.com/va/madison-heights/192-amelon-square

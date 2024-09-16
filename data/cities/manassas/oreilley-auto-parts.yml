@@ -1,11 +1,11 @@
 id: 461272995
-type: way
+type: node
 latitude: 38.75991
 longitude: -77.46536
 postcode: "20110"
 city: Manassas
-street: "Mathis Avenue"
-housenumber: 9000
+street: Mathis Avenue
+housenumber: "9000"
 phone: ""
 opening_hours: ""
-website: "https://www.oreillyauto.com/"
+website: https://www.oreillyauto.com/

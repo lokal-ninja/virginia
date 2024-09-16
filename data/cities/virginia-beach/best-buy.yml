@@ -4,8 +4,8 @@ latitude: 36.77374
 longitude: -76.0871
 postcode: "23456"
 city: Virginia Beach
-street: "Princess Anne Road"
-housenumber: 3334
-phone: "+1 757-368-5312"
+street: Princess Anne Road
+housenumber: "3334"
+phone: +1 757-368-5312
 opening_hours: ""
-website: "https://stores.bestbuy.com/va/virginia-beach/3334-princess-anne-rd-1460.html"
+website: https://stores.bestbuy.com/va/virginia-beach/3334-princess-anne-rd-1460.html

@@ -1,11 +1,11 @@
 id: 751158266
-type: way
+type: node
 latitude: 37.54917
 longitude: -77.41399
 postcode: "23223"
 city: Richmond
-street: "Mechanicsville Turnpike"
-housenumber: 1601
+street: Mechanicsville Turnpike
+housenumber: "1601"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

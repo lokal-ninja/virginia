@@ -1,11 +1,11 @@
 id: 880604826
-type: way
+type: node
 latitude: 38.29436
 longitude: -77.59359
 postcode: "22407"
 city: Fredericksburg
-street: "Plank Road"
-housenumber: 6150
+street: Plank Road
+housenumber: "6150"
 phone: ""
 opening_hours: ""
 website: ""

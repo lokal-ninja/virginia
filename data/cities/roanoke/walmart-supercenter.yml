@@ -1,11 +1,11 @@
 id: 63519540
-type: way
+type: node
 latitude: 37.32538
 longitude: -79.87451
 postcode: "24012"
 city: Roanoke
-street: "Challenger Avenue"
-housenumber: 4524
-phone: "+1 540-977-3745"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3243/roanoke-va/whats-new"
+street: Challenger Avenue
+housenumber: "4524"
+phone: +1 540-977-3745
+opening_hours: 24/7
+website: https://www.walmart.com/store/3243/roanoke-va/whats-new

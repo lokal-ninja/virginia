@@ -1,11 +1,11 @@
 id: 1006012302
-type: way
+type: node
 latitude: 36.60114
 longitude: -79.4158
 postcode: "24540"
 city: Danville
-street: "Holt Garrison Parkway"
-housenumber: 194
-phone: "+1 434-799-5950"
+street: Holt Garrison Parkway
+housenumber: "194"
+phone: +1 434-799-5950
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/va/danville/017176/"
+website: https://www.mattressfirm.com/en-us/stores/va/danville/017176/

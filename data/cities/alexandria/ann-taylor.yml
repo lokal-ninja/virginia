@@ -1,11 +1,11 @@
 id: 205314887
-type: way
+type: node
 latitude: 38.80556
 longitude: -77.04668
 postcode: "22314"
 city: Alexandria
-street: "North Washington Street"
-housenumber: 115
+street: North Washington Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "https://www.anntaylor.com/"
+website: https://www.anntaylor.com/

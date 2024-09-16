@@ -1,11 +1,11 @@
 id: 713758094
-type: way
+type: node
 latitude: 39.17715
 longitude: -78.16798
-postcode: "22601-4597"
+postcode: 22601-4597
 city: Winchester
-street: "South Loudoun Street"
-housenumber: 814
-phone: "+1 540-662-1220"
+street: South Loudoun Street
+housenumber: "814"
+phone: +1 540-662-1220
 opening_hours: ""
-website: "https://www.sherwin-williams.com/store-locator/paint-store/winchester/va/705251?storeNumber=22292&from="
+website: https://www.sherwin-williams.com/store-locator/paint-store/winchester/va/705251?storeNumber=22292&from=

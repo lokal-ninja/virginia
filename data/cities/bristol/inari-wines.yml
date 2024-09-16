@@ -1,11 +1,11 @@
 id: 240916465
-type: way
+type: node
 latitude: 36.59592
 longitude: -82.18452
 postcode: ""
 city: Bristol
-street: "Piedmont Avenue"
-housenumber: 39
-phone: "(276) 8219463"
+street: Piedmont Avenue
+housenumber: "39"
+phone: (276) 8219463
 opening_hours: ""
-website: "https://inariwines.com/"
+website: https://inariwines.com/

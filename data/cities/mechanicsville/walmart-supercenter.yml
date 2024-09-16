@@ -1,11 +1,11 @@
 id: 302350332
-type: way
+type: node
 latitude: 37.61311
 longitude: -77.35603
 postcode: "23111"
 city: Mechanicsville
-street: "Bell Creek Road"
-housenumber: 7430
-phone: "+1 804-730-8877"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1525/mechanicsville-va/whats-new"
+street: Bell Creek Road
+housenumber: "7430"
+phone: +1 804-730-8877
+opening_hours: 24/7
+website: https://www.walmart.com/store/1525/mechanicsville-va/whats-new

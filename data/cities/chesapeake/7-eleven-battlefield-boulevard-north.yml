@@ -1,11 +1,11 @@
 id: 312582714
-type: way
+type: node
 latitude: 36.7862
 longitude: -76.26002
 postcode: "23324"
 city: Chesapeake
-street: "Battlefield Boulevard North"
-housenumber: 1928
+street: Battlefield Boulevard North
+housenumber: "1928"
 phone: ""
 opening_hours: ""
 website: ""

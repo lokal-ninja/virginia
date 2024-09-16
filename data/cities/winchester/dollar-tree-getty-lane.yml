@@ -1,11 +1,11 @@
 id: 210672832
-type: way
+type: node
 latitude: 39.1881
 longitude: -78.13006
-postcode: "22603-4835"
+postcode: 22603-4835
 city: Winchester
-street: "Getty Lane"
-housenumber: 160
-phone: "+1 931-313-4161"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollartree.com/locations/va/winchester/3961/"
+street: Getty Lane
+housenumber: "160"
+phone: +1 931-313-4161
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollartree.com/locations/va/winchester/3961/

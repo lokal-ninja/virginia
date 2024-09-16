@@ -1,11 +1,11 @@
 id: 702081860
-type: way
+type: node
 latitude: 36.79344
 longitude: -76.3288
 postcode: "23702"
 city: Portsmouth
-street: "George Washington Highway"
-housenumber: 5200
+street: George Washington Highway
+housenumber: "5200"
 phone: "+17574877172"
 opening_hours: ""
-website: "http://www.bluehorseshoe-tattoo.com/"
+website: http://www.bluehorseshoe-tattoo.com/

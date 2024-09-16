@@ -1,11 +1,11 @@
 id: 1246865256
-type: way
+type: node
 latitude: 38.27647
 longitude: -77.45239
 postcode: "22401"
 city: Fredericksburg
-street: "Airport Avenue"
-housenumber: 2514
+street: Airport Avenue
+housenumber: "2514"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 312251863
-type: way
+type: node
 latitude: 36.78549
 longitude: -76.36618
 postcode: "23323"
 city: Chesapeake
-street: "Cook Boulevard"
-housenumber: 3712
+street: Cook Boulevard
+housenumber: "3712"
 phone: ""
 opening_hours: ""
 website: ""

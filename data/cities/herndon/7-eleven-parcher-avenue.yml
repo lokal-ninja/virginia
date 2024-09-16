@@ -1,11 +1,11 @@
 id: 152164979
-type: way
+type: node
 latitude: 38.96032
 longitude: -77.40293
-postcode: "20170-4332"
+postcode: 20170-4332
 city: Herndon
-street: "Parcher Avenue"
-housenumber: 13190
-phone: "+1 703-689-3602"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/va/herndon/13190-parcher-ave-16091"
+street: Parcher Avenue
+housenumber: "13190"
+phone: +1 703-689-3602
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/va/herndon/13190-parcher-ave-16091

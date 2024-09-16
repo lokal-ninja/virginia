@@ -1,11 +1,11 @@
 id: 762367864
-type: way
+type: node
 latitude: 39.08194
 longitude: -78.2174
 postcode: "22655"
 city: Stephens City
-street: "Fairfax Street"
-housenumber: 747
-phone: "+1 540-508-2774"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/197"
+street: Fairfax Street
+housenumber: "747"
+phone: +1 540-508-2774
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/197

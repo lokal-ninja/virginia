@@ -1,11 +1,11 @@
 id: 746447609
-type: way
+type: node
 latitude: 37.53465
 longitude: -77.4194
 postcode: "23223"
 city: Richmond
-street: "East Clay Street"
-housenumber: 2225
-phone: "+1-804-466-3166"
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-17:00"
-website: "https://itswheelsimple.com/"
+street: East Clay Street
+housenumber: "2225"
+phone: +1-804-466-3166
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-17:00
+website: https://itswheelsimple.com/

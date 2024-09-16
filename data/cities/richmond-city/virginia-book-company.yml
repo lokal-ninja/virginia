@@ -4,8 +4,8 @@ latitude: 37.54932
 longitude: -77.45226
 postcode: "23220"
 city: Richmond City
-street: "West Franklin Street"
-housenumber: 900
+street: West Franklin Street
+housenumber: "900"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-17:00; PH,Su off"
-website: "https://vabookco.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-17:00; PH,Su off
+website: https://vabookco.com/

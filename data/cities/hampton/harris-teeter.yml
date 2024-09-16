@@ -1,11 +1,11 @@
 id: 388349957
-type: way
+type: node
 latitude: 37.05785
 longitude: -76.32764
 postcode: "23669"
 city: Hampton
-street: "Fox Hill Road"
-housenumber: 227
-phone: "+1 757-850-0156"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/va/hampton/willow-oaks-village-square/097/00460"
+street: Fox Hill Road
+housenumber: "227"
+phone: +1 757-850-0156
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/va/hampton/willow-oaks-village-square/097/00460

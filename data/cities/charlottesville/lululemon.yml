@@ -1,11 +1,11 @@
 id: 389639082
-type: way
+type: node
 latitude: 38.03147
 longitude: -78.48845
 postcode: "22903"
 city: Charlottesville
-street: "West Main Street"
-housenumber: 605
+street: West Main Street
+housenumber: "605"
 phone: ""
 opening_hours: ""
 website: ""

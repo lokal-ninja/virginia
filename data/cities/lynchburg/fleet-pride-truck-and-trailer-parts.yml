@@ -1,11 +1,11 @@
 id: 928879567
-type: way
+type: node
 latitude: 37.38078
 longitude: -79.15904
 postcode: "24501"
 city: Lynchburg
-street: "Mayflower Drive"
-housenumber: 3310
+street: Mayflower Drive
+housenumber: "3310"
 phone: ""
 opening_hours: ""
 website: ""

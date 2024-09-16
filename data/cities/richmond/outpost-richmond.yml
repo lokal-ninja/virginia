@@ -1,11 +1,11 @@
 id: 745232218
-type: way
+type: node
 latitude: 37.52124
 longitude: -77.4877
 postcode: "23225"
 city: Richmond
-street: "Forest Hill Avenue"
-housenumber: 4813
+street: Forest Hill Avenue
+housenumber: "4813"
 phone: ""
 opening_hours: ""
 website: ""

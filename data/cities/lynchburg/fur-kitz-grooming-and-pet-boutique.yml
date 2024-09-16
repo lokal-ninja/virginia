@@ -1,11 +1,11 @@
 id: 1079873295
-type: way
+type: node
 latitude: 37.43507
 longitude: -79.17088
 postcode: "24503"
 city: Lynchburg
-street: "Rivermont Avenue"
-housenumber: 2486
+street: Rivermont Avenue
+housenumber: "2486"
 phone: ""
 opening_hours: ""
 website: ""

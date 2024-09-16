@@ -1,11 +1,11 @@
 id: 720548334
-type: way
+type: node
 latitude: 37.35422
 longitude: -77.44756
 postcode: "23831"
 city: Chester
-street: "Harrowgate Road"
-housenumber: 12120
-phone: "+1 804-748-0529"
+street: Harrowgate Road
+housenumber: "12120"
+phone: +1 804-748-0529
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/chester/12120-harrowgate-rd-19675"
+website: https://www.7-eleven.com/locations/va/chester/12120-harrowgate-rd-19675

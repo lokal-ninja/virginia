@@ -1,11 +1,11 @@
 id: 962089801
-type: way
+type: node
 latitude: 36.92119
 longitude: -76.51299
 postcode: "23314"
 city: Carrollton
-street: "Carrollton Boulevard"
-housenumber: 15727
-phone: "+1-757-238-8746"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
-website: "http://www.troymarine.com"
+street: Carrollton Boulevard
+housenumber: "15727"
+phone: +1-757-238-8746
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
+website: http://www.troymarine.com

@@ -1,11 +1,11 @@
 id: 210882354
-type: way
+type: node
 latitude: 39.16862
 longitude: -78.13268
 postcode: "22601"
 city: Winchester
-street: "Senseny Road"
-housenumber: 1611
+street: Senseny Road
+housenumber: "1611"
 phone: ""
-opening_hours: "Mo-Sa 05:00-22:00; Su 07:00-22:00"
+opening_hours: Mo-Sa 05:00-22:00; Su 07:00-22:00
 website: ""

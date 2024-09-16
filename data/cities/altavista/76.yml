@@ -1,11 +1,11 @@
 id: 1240341899
-type: way
+type: node
 latitude: 37.13734
 longitude: -79.2509
 postcode: "24517"
 city: Altavista
-street: "Main Street"
-housenumber: 1562
-phone: "+1-434-369-5100"
+street: Main Street
+housenumber: "1562"
+phone: +1-434-369-5100
 opening_hours: ""
 website: ""

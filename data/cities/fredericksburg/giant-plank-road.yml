@@ -1,11 +1,11 @@
 id: 206190184
-type: way
+type: node
 latitude: 38.29375
 longitude: -77.56726
 postcode: "22407"
 city: Fredericksburg
-street: "Plank Road"
-housenumber: 5701
-phone: "+1 540-785-1020"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://stores.giantfood.com/va/fredericksburg/5701-plank-road"
+street: Plank Road
+housenumber: "5701"
+phone: +1 540-785-1020
+opening_hours: Mo-Su 06:00-23:00
+website: https://stores.giantfood.com/va/fredericksburg/5701-plank-road

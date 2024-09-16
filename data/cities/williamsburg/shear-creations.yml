@@ -1,11 +1,11 @@
 id: 667330976
-type: way
+type: node
 latitude: 37.24647
 longitude: -76.6595
 postcode: "23185"
 city: Williamsburg
-street: "McLaws Circle"
-housenumber: 240
+street: McLaws Circle
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

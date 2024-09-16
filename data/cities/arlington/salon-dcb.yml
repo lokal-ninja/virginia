@@ -4,8 +4,8 @@ latitude: 38.8978
 longitude: -77.13901
 postcode: "22207"
 city: Arlington
-street: "North Harrison Street"
-housenumber: 2505
-phone: "+1-571-732-3050"
-opening_hours: "Tu-Th 11:00-20:00; Fr 11:00-19:00; Sa 10:00-18:00"
-website: "https://salondcb.net/"
+street: North Harrison Street
+housenumber: "2505"
+phone: +1-571-732-3050
+opening_hours: Tu-Th 11:00-20:00; Fr 11:00-19:00; Sa 10:00-18:00
+website: https://salondcb.net/

@@ -1,11 +1,11 @@
 id: 39256835
-type: way
+type: node
 latitude: 38.25216
 longitude: -77.50027
 postcode: "22408"
 city: Fredericksburg
-street: "Jefferson Davis Highway"
-housenumber: 10640
-phone: "+1 540-898-5227"
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "https://www.bldr.com/location/fredericksburg-va-yard/FREDVAYD"
+street: Jefferson Davis Highway
+housenumber: "10640"
+phone: +1 540-898-5227
+opening_hours: Mo-Fr 07:00-16:00
+website: https://www.bldr.com/location/fredericksburg-va-yard/FREDVAYD

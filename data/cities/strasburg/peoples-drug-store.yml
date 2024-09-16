@@ -1,11 +1,11 @@
 id: 240514493
-type: way
+type: node
 latitude: 38.98915
 longitude: -78.3611
 postcode: ""
 city: Strasburg
-street: "East King Street"
-housenumber: 145
-phone: "+1 540-465-5193"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00"
-website: "https://peoplesdrugstorerx.com/"
+street: East King Street
+housenumber: "145"
+phone: +1 540-465-5193
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-14:00
+website: https://peoplesdrugstorerx.com/

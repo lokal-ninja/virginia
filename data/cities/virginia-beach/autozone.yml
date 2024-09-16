@@ -1,11 +1,11 @@
 id: 402285059
-type: way
+type: node
 latitude: 36.84192
 longitude: -76.09184
 postcode: "23452"
 city: Virginia Beach
-street: "Virginia Beach Boulevard"
-housenumber: 3420
+street: Virginia Beach Boulevard
+housenumber: "3420"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/va/virginia-beach/3420-virginia-beach-blvd.html"
+website: https://www.autozone.com/locations/va/virginia-beach/3420-virginia-beach-blvd.html

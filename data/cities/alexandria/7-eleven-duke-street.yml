@@ -1,11 +1,11 @@
 id: 217366044
-type: way
+type: node
 latitude: 38.80793
 longitude: -77.08218
-postcode: "22314-4516"
+postcode: 22314-4516
 city: Alexandria
-street: "Duke Street"
-housenumber: 3023
-phone: "+1 703-461-1900"
+street: Duke Street
+housenumber: "3023"
+phone: +1 703-461-1900
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/alexandria/3023-duke-st-10780"
+website: https://www.7-eleven.com/locations/va/alexandria/3023-duke-st-10780

@@ -1,11 +1,11 @@
 id: 1065370011
-type: way
+type: node
 latitude: 37.52181
 longitude: -77.4903
 postcode: "23225"
 city: Richmond
-street: "Forest Hill Avenue"
-housenumber: 4930
+street: Forest Hill Avenue
+housenumber: "4930"
 phone: ""
 opening_hours: ""
-website: "https://stellasgrocery.com/"
+website: https://stellasgrocery.com/

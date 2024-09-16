@@ -1,11 +1,11 @@
 id: 482561173
-type: way
+type: node
 latitude: 38.86222
 longitude: -77.35759
 postcode: "22033"
 city: Fairfax
-street: "Fair Oaks Mall"
-housenumber: 11700
-phone: "+1-703-591-3900"
+street: Fair Oaks Mall
+housenumber: "11700"
+phone: +1-703-591-3900
 opening_hours: ""
-website: "https://www.macys.com/stores/va/fairfax/fair-oaks-mall_216.html"
+website: https://www.macys.com/stores/va/fairfax/fair-oaks-mall_216.html

@@ -1,11 +1,11 @@
 id: 414718331
-type: way
+type: node
 latitude: 37.79614
 longitude: -79.42022
 postcode: "24450"
 city: Lexington
-street: "North Lee Highway"
-housenumber: 770
+street: North Lee Highway
+housenumber: "770"
 phone: ""
 opening_hours: ""
 website: ""

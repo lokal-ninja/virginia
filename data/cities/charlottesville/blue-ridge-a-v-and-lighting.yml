@@ -1,11 +1,11 @@
 id: 254293062
-type: way
+type: node
 latitude: 38.01563
 longitude: -78.47122
 postcode: "22902"
 city: Charlottesville
-street: "Linden Avenue"
-housenumber: 1011
+street: Linden Avenue
+housenumber: "1011"
 phone: ""
 opening_hours: ""
 website: ""

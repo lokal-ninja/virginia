@@ -1,11 +1,11 @@
 id: 328396084
-type: way
+type: node
 latitude: 38.77964
 longitude: -77.23444
 postcode: "22152"
 city: West Springfield
-street: "Old Keene Mill Road"
-housenumber: 8400
-phone: "+1 703-912-2900"
+street: Old Keene Mill Road
+housenumber: "8400"
+phone: +1 703-912-2900
 opening_hours: ""
 website: ""

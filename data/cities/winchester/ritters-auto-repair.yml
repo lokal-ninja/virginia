@@ -1,11 +1,11 @@
 id: 733100423
-type: way
+type: node
 latitude: 39.16378
 longitude: -78.16984
 postcode: "22601"
 city: Winchester
-street: "Abrams Creek Drive"
-housenumber: 1951
-phone: "540-323-7569"
+street: Abrams Creek Drive
+housenumber: "1951"
+phone: 540-323-7569
 opening_hours: ""
-website: "http://rittersautorepair.net"
+website: http://rittersautorepair.net

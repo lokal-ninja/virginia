@@ -1,11 +1,11 @@
 id: 312289048
-type: way
+type: node
 latitude: 36.77598
 longitude: -76.32575
 postcode: "23323"
 city: Chesapeake
-street: "Canal Drive"
-housenumber: 944
+street: Canal Drive
+housenumber: "944"
 phone: ""
 opening_hours: ""
 website: ""

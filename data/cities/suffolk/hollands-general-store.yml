@@ -1,11 +1,11 @@
 id: 384100646
-type: way
+type: node
 latitude: 36.68053
 longitude: -76.78098
 postcode: "23437"
 city: Suffolk
-street: "Quay Road"
-housenumber: 6704
+street: Quay Road
+housenumber: "6704"
 phone: ""
 opening_hours: ""
 website: ""

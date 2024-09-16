@@ -2,10 +2,10 @@ id: 2304260975
 type: node
 latitude: 38.78707
 longitude: -77.51856
-postcode: "20109-2834"
+postcode: 20109-2834
 city: Manassas
 street: ""
-housenumber: 10828
-phone: "+1 703-365-2589"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/va/manassas/8801"
+housenumber: "10828"
+phone: +1 703-365-2589
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/va/manassas/8801

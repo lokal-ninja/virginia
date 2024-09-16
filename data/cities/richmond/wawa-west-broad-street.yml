@@ -1,11 +1,11 @@
 id: 263148667
-type: way
+type: node
 latitude: 37.64846
 longitude: -77.58982
 postcode: "23060"
 city: Richmond
-street: "West Broad Street"
-housenumber: 11052
+street: West Broad Street
+housenumber: "11052"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8615"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8615

@@ -1,11 +1,11 @@
 id: 705502375
-type: way
+type: node
 latitude: 37.60785
 longitude: -77.31214
 postcode: "23111"
 city: Mechanicsville
-street: "Creighton Park"
-housenumber: 7300
-phone: "+1 804-427-2000"
+street: Creighton Park
+housenumber: "7300"
+phone: +1 804-427-2000
 opening_hours: ""
-website: "https://www.monaghanfunerals.com/"
+website: https://www.monaghanfunerals.com/

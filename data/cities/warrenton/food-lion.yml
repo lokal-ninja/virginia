@@ -1,11 +1,11 @@
 id: 215692844
-type: way
+type: node
 latitude: 38.71819
 longitude: -77.81375
 postcode: "20186"
 city: Warrenton
-street: "Frost Avenue"
-housenumber: 613
-phone: "+1 540-349-8222"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://stores.foodlion.com/va/warrenton/613-frost-ave."
+street: Frost Avenue
+housenumber: "613"
+phone: +1 540-349-8222
+opening_hours: Mo-Su 07:00-23:00
+website: https://stores.foodlion.com/va/warrenton/613-frost-ave.

@@ -1,11 +1,11 @@
 id: 160691992
-type: way
+type: node
 latitude: 38.80533
 longitude: -77.04604
 postcode: "22314"
 city: Alexandria
-street: "North Saint Asaph Street"
-housenumber: 106
-phone: "+1-571-970-6931"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "www.patricksdesigns.co"
+street: North Saint Asaph Street
+housenumber: "106"
+phone: +1-571-970-6931
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: www.patricksdesigns.co

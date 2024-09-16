@@ -1,11 +1,11 @@
 id: 50249503
-type: way
+type: node
 latitude: 38.24979
 longitude: -77.49312
 postcode: "22408"
 city: Fredericksburg
-street: "Falcon Drive"
-housenumber: 99
+street: Falcon Drive
+housenumber: "99"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/691"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/691

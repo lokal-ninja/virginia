@@ -1,11 +1,11 @@
 id: 94046205
-type: way
+type: node
 latitude: 38.64912
 longitude: -77.30153
 postcode: "22192"
 city: Woodbridge
-street: "Smoketown Road"
-housenumber: 13887
+street: Smoketown Road
+housenumber: "13887"
 phone: ""
 opening_hours: ""
 website: ""

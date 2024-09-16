@@ -1,11 +1,11 @@
 id: 320128915
-type: way
+type: node
 latitude: 36.63539
 longitude: -78.54149
 postcode: "23927"
 city: Clarksville
-street: "VA 49"
-housenumber: 8098
+street: VA 49
+housenumber: "8098"
 phone: ""
 opening_hours: ""
 website: ""

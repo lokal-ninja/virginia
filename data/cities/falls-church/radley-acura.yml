@@ -1,11 +1,11 @@
 id: 72646728
-type: way
+type: node
 latitude: 38.84905
 longitude: -77.13123
 postcode: "22041"
 city: Falls Church
-street: "Columbia Pike"
-housenumber: 5823
-phone: "+1 703-650-0619"
+street: Columbia Pike
+housenumber: "5823"
+phone: +1 703-650-0619
 opening_hours: ""
-website: "https://www.radleyacura.com/"
+website: https://www.radleyacura.com/

@@ -1,11 +1,11 @@
 id: 383922320
-type: way
+type: node
 latitude: 36.87196
 longitude: -76.42076
 postcode: "23435"
 city: Suffolk
-street: "University Boulevard"
-housenumber: 1017
-phone: "+1 757-335-4536"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/va/suffolk/university-suffolk/029/00554"
+street: University Boulevard
+housenumber: "1017"
+phone: +1 757-335-4536
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/va/suffolk/university-suffolk/029/00554

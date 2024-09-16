@@ -1,11 +1,11 @@
 id: 1137079568
-type: way
+type: node
 latitude: 37.25756
 longitude: -79.9252
-postcode: "24013-2713"
+postcode: 24013-2713
 city: Roanoke
-street: "9th Street"
-housenumber: 1701
-phone: "+1 540-982-1729"
+street: 9th Street
+housenumber: "1701"
+phone: +1 540-982-1729
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/roanoke/1701-9th-st-21878"
+website: https://www.7-eleven.com/locations/va/roanoke/1701-9th-st-21878

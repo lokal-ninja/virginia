@@ -1,11 +1,11 @@
 id: 238275674
-type: way
+type: node
 latitude: 38.87492
 longitude: -77.22668
 postcode: "22042"
 city: Falls Church
-street: "Route 29"
-housenumber: 8132
+street: Route 29
+housenumber: "8132"
 phone: ""
 opening_hours: ""
-website: "https://www.merrifieldgardencenter.com/"
+website: https://www.merrifieldgardencenter.com/

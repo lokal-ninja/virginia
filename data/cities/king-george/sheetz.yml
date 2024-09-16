@@ -1,11 +1,11 @@
 id: 100493940
-type: way
+type: node
 latitude: 38.35309
 longitude: -77.04883
 postcode: "22485"
 city: King George
-street: "Owens Drive"
-housenumber: 17188
-phone: "+1 540-644-1111"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/259"
+street: Owens Drive
+housenumber: "17188"
+phone: +1 540-644-1111
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/259

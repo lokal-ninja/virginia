@@ -1,11 +1,11 @@
 id: 80966950
-type: way
+type: node
 latitude: 38.22469
 longitude: -77.50796
 postcode: "22407"
 city: Fredericksburg
-street: "Patriot Highway"
-housenumber: 10070
+street: Patriot Highway
+housenumber: "10070"
 phone: ""
 opening_hours: ""
 website: ""

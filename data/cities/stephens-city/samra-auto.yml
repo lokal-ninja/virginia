@@ -1,11 +1,11 @@
 id: 906288146
-type: way
+type: node
 latitude: 39.08243
 longitude: -78.21689
 postcode: "22655"
 city: Stephens City
-street: "Fairfax Street"
-housenumber: 790
+street: Fairfax Street
+housenumber: "790"
 phone: ""
 opening_hours: ""
 website: ""

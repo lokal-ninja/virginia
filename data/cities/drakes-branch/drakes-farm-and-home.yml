@@ -1,11 +1,11 @@
 id: 930251027
-type: way
+type: node
 latitude: 37.00136
 longitude: -78.60639
 postcode: "23937"
 city: Drakes Branch
-street: "Drakes Main Street"
-housenumber: 4224
+street: Drakes Main Street
+housenumber: "4224"
 phone: ""
 opening_hours: ""
 website: ""

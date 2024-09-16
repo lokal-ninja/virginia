@@ -1,11 +1,11 @@
 id: 558873528
-type: way
+type: node
 latitude: 38.58487
 longitude: -78.42733
 postcode: "22835"
 city: Luray
-street: "Ida Road"
-housenumber: 4729
+street: Ida Road
+housenumber: "4729"
 phone: ""
-opening_hours: "Fr-Su 09:00-18:00"
+opening_hours: Fr-Su 09:00-18:00
 website: ""

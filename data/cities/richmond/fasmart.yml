@@ -1,11 +1,11 @@
 id: 746456413
-type: way
+type: node
 latitude: 37.51627
 longitude: -77.38963
 postcode: "23231"
 city: Richmond
-street: "Williamsburg Road"
-housenumber: 2003
+street: Williamsburg Road
+housenumber: "2003"
 phone: ""
 opening_hours: ""
 website: ""

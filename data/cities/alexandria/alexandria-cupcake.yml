@@ -1,11 +1,11 @@
 id: 205040127
-type: way
+type: node
 latitude: 38.80551
 longitude: -77.05112
 postcode: "22314"
 city: Alexandria
-street: "King Street"
-housenumber: 1022
+street: King Street
+housenumber: "1022"
 phone: ""
-opening_hours: "Tu-We 11:00-19:00; Th 11:00-21:00; Fr-Sa 11:00-10:00; Su 12:00-20:00"
-website: "http://www.alexandriacupcake.com/"
+opening_hours: Tu-We 11:00-19:00; Th 11:00-21:00; Fr-Sa 11:00-10:00; Su 12:00-20:00
+website: http://www.alexandriacupcake.com/

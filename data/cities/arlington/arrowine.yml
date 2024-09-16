@@ -1,11 +1,11 @@
 id: 207947429
-type: way
+type: node
 latitude: 38.89844
 longitude: -77.11843
 postcode: "22207"
 city: Arlington
-street: "Cherry Hill Road"
-housenumber: 4508
-phone: "+1-703-525-0990"
-opening_hours: "Mo-Th 11:00-19:00; Fr-Sa 10:00-19:00; Su 10:00-17:00"
-website: "https://www.arrowine.com/"
+street: Cherry Hill Road
+housenumber: "4508"
+phone: +1-703-525-0990
+opening_hours: Mo-Th 11:00-19:00; Fr-Sa 10:00-19:00; Su 10:00-17:00
+website: https://www.arrowine.com/

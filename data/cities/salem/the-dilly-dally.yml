@@ -1,11 +1,11 @@
 id: 1055102745
-type: way
+type: node
 latitude: 37.28165
 longitude: -80.06142
 postcode: "24153"
 city: Salem
-street: "Eddy Avenue"
-housenumber: 1511
+street: Eddy Avenue
+housenumber: "1511"
 phone: ""
 opening_hours: ""
 website: ""

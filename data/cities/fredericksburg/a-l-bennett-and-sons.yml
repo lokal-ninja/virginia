@@ -1,11 +1,11 @@
 id: 751192286
-type: way
+type: node
 latitude: 38.26472
 longitude: -77.49148
 postcode: "22408"
 city: Fredericksburg
-street: "Butternut Drive"
-housenumber: 200
+street: Butternut Drive
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

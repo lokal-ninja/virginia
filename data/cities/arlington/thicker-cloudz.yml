@@ -1,11 +1,11 @@
 id: 304294868
-type: way
+type: node
 latitude: 38.89657
 longitude: -77.13251
 postcode: "22207"
 city: Arlington
-street: "Langston Boulevard"
-housenumber: 5157
-phone: "+1-703-488-7888"
-opening_hours: "Mo-Sa 09:00-23:00; Su 10:00-22:00"
-website: "https://www.thickercloudz.com/"
+street: Langston Boulevard
+housenumber: "5157"
+phone: +1-703-488-7888
+opening_hours: Mo-Sa 09:00-23:00; Su 10:00-22:00
+website: https://www.thickercloudz.com/

@@ -1,11 +1,11 @@
 id: 211303151
-type: way
+type: node
 latitude: 38.84553
 longitude: -77.06838
 postcode: "22206"
 city: Arlington
-street: "South Glebe Road"
-housenumber: 2901
-phone: "+1 703-836-0245"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://stores.giantfood.com/va/arlington/2901-11-s-glebe-rd"
+street: South Glebe Road
+housenumber: "2901"
+phone: +1 703-836-0245
+opening_hours: Mo-Su 06:00-23:00
+website: https://stores.giantfood.com/va/arlington/2901-11-s-glebe-rd

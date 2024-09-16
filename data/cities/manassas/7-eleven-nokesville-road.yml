@@ -1,11 +1,11 @@
 id: 222437741
-type: way
+type: node
 latitude: 38.73877
 longitude: -77.52681
-postcode: "20110-2023"
+postcode: 20110-2023
 city: Manassas
-street: "Nokesville Road"
-housenumber: 11007
-phone: "+1 703-392-6629"
+street: Nokesville Road
+housenumber: "11007"
+phone: +1 703-392-6629
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/manassas/11007-nokesville-rd-29104"
+website: https://www.7-eleven.com/locations/va/manassas/11007-nokesville-rd-29104

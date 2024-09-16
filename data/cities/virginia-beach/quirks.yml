@@ -4,8 +4,8 @@ latitude: 36.84202
 longitude: -76.13456
 postcode: "23462"
 city: Virginia Beach
-street: "Central Park Avenue"
-housenumber: 189
+street: Central Park Avenue
+housenumber: "189"
 phone: ""
-opening_hours: "Mo-Th 11:00-22:00; Fr 11:00-23:30; Sa 10:00-24:00; Su 10:00-22:00"
-website: "https://quirkstowncentervb.com/"
+opening_hours: Mo-Th 11:00-22:00; Fr 11:00-23:30; Sa 10:00-24:00; Su 10:00-22:00
+website: https://quirkstowncentervb.com/

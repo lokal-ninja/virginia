@@ -1,11 +1,11 @@
 id: 230724677
-type: way
+type: node
 latitude: 38.77123
 longitude: -77.45394
 postcode: "20111"
 city: Manassas Park
-street: "Hardees Drive"
-housenumber: 98
+street: Hardees Drive
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

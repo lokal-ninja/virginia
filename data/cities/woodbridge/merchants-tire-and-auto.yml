@@ -1,11 +1,11 @@
 id: 381122209
-type: way
+type: node
 latitude: 38.64695
 longitude: -77.33715
 postcode: "22193"
 city: Woodbridge
-street: "Dale Boulevard"
-housenumber: 4302
+street: Dale Boulevard
+housenumber: "4302"
 phone: ""
 opening_hours: ""
 website: ""

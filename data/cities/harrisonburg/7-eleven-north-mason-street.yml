@@ -1,11 +1,11 @@
 id: 996111578
-type: way
+type: node
 latitude: 38.45279
 longitude: -78.86504
-postcode: "22801-4146"
+postcode: 22801-4146
 city: Harrisonburg
-street: "North Mason Street"
-housenumber: 380
-phone: "+1 540-433-1407"
+street: North Mason Street
+housenumber: "380"
+phone: +1 540-433-1407
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/harrisonburg/380-north-mason-street-23904"
+website: https://www.7-eleven.com/locations/va/harrisonburg/380-north-mason-street-23904

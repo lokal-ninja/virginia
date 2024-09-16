@@ -1,11 +1,11 @@
 id: 788213054
-type: way
+type: node
 latitude: 37.53309
 longitude: -77.12425
 postcode: "23141"
 city: Quinton
-street: "New Kent Highway"
-housenumber: 5241
+street: New Kent Highway
+housenumber: "5241"
 phone: "+18049329003"
 opening_hours: ""
 website: ""

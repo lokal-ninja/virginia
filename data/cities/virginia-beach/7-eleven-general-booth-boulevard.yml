@@ -1,11 +1,11 @@
 id: 402526825
-type: way
+type: node
 latitude: 36.81062
 longitude: -75.99041
 postcode: "23451"
 city: Virginia Beach
-street: "General Booth Boulevard"
-housenumber: 901
-phone: "+1 757-491-2161"
+street: General Booth Boulevard
+housenumber: "901"
+phone: +1 757-491-2161
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/virginia-beach/901-general-booth-blvd-17451"
+website: https://www.7-eleven.com/locations/va/virginia-beach/901-general-booth-blvd-17451

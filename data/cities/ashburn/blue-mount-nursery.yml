@@ -1,11 +1,11 @@
 id: 189152748
-type: way
+type: node
 latitude: 39.06111
 longitude: -77.45763
 postcode: "20147"
 city: Ashburn
-street: "Garden Center Court"
-housenumber: 20052
-phone: "+1-703-729-6600"
-opening_hours: "Mo-Sa 09:00 - 18:30; Su 09:00-17:30"
-website: "https://www.bluemountnursery.com/"
+street: Garden Center Court
+housenumber: "20052"
+phone: +1-703-729-6600
+opening_hours: Mo-Sa 09:00 - 18:30; Su 09:00-17:30
+website: https://www.bluemountnursery.com/

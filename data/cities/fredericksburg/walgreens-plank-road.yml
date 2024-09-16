@@ -1,11 +1,11 @@
 id: 316619819
-type: way
+type: node
 latitude: 38.29086
 longitude: -77.56743
 postcode: "22407"
 city: Fredericksburg
-street: "Plank Road"
-housenumber: 5650
+street: Plank Road
+housenumber: "5650"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5650+plank+rd-fredericksburg-va-22407/id=11571"
+website: https://www.walgreens.com/locator/walgreens-5650+plank+rd-fredericksburg-va-22407/id=11571

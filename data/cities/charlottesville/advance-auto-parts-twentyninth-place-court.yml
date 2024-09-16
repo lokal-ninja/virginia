@@ -1,11 +1,11 @@
 id: 393073365
-type: way
+type: node
 latitude: 38.07798
 longitude: -78.48038
 postcode: "22901"
 city: Charlottesville
-street: "Twentyninth Place Court"
-housenumber: 540
-phone: "+1 (434) 974-6165"
-opening_hours: "Mo-We 07:30-21:00; Th-Fr 07:30-18:00; Sa 07:30-21:00; Su 09:00-19:00"
-website: "https://stores.advanceautoparts.com/va/charlottesville/540-twentyninth-place-ct"
+street: Twentyninth Place Court
+housenumber: "540"
+phone: +1 (434) 974-6165
+opening_hours: Mo-We 07:30-21:00; Th-Fr 07:30-18:00; Sa 07:30-21:00; Su 09:00-19:00
+website: https://stores.advanceautoparts.com/va/charlottesville/540-twentyninth-place-ct

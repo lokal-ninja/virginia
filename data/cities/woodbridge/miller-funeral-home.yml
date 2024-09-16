@@ -1,11 +1,11 @@
 id: 94231979
-type: way
+type: node
 latitude: 38.65136
 longitude: -77.30861
 postcode: "22192"
 city: Woodbridge
-street: "Golansky Boulevard"
-housenumber: 3200
+street: Golansky Boulevard
+housenumber: "3200"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1242175862
-type: way
+type: node
 latitude: 36.79951
 longitude: -76.39265
 postcode: "23321"
 city: Chesapeake
-street: "Ahoy Drive"
-housenumber: 3736
+street: Ahoy Drive
+housenumber: "3736"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 160778833
-type: way
+type: node
 latitude: 38.80286
 longitude: -77.04006
 postcode: "22314"
 city: Alexandria
-street: "Prince Street"
-housenumber: 2
+street: Prince Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.bigwheelbikes.com"
+website: https://www.bigwheelbikes.com

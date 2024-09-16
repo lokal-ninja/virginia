@@ -1,11 +1,11 @@
 id: 850003433
-type: way
+type: node
 latitude: 37.06642
 longitude: -80.44178
 postcode: "24149"
 city: Riner
-street: "Riner Road"
-housenumber: 4021
-phone: "+1-540-385-5510"
-opening_hours: "08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/va/riner/15650"
+street: Riner Road
+housenumber: "4021"
+phone: +1-540-385-5510
+opening_hours: 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/va/riner/15650

@@ -1,11 +1,11 @@
 id: 833687374
-type: way
+type: node
 latitude: 37.55352
 longitude: -76.35263
 postcode: "23043"
 city: Deltaville
-street: "General Puller Highway"
-housenumber: 16507
-phone: "(804) 776-9811"
+street: General Puller Highway
+housenumber: "16507"
+phone: (804) 776-9811
 opening_hours: ""
-website: "http://nautinell.com/"
+website: http://nautinell.com/

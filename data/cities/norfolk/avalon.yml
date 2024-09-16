@@ -1,11 +1,11 @@
 id: 407011173
-type: way
+type: node
 latitude: 36.95335
 longitude: -76.25665
 postcode: "23503"
 city: Norfolk
-street: "1st View Street"
-housenumber: 9537
+street: 1st View Street
+housenumber: "9537"
 phone: ""
 opening_hours: ""
 website: ""

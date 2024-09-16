@@ -1,11 +1,11 @@
 id: 230831643
-type: way
+type: node
 latitude: 38.85688
 longitude: -77.33536
 postcode: "22030"
 city: Fairfax
-street: "Waples Mill Road"
-housenumber: 11226
-phone: "+1 703-293-8917"
+street: Waples Mill Road
+housenumber: "11226"
+phone: +1 703-293-8917
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/va/fairfax/179039/"
+website: https://www.mattressfirm.com/en-us/stores/va/fairfax/179039/

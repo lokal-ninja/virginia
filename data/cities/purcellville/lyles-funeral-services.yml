@@ -1,11 +1,11 @@
 id: 723026651
-type: way
+type: node
 latitude: 39.13017
 longitude: -77.71282
 postcode: "20132"
 city: Purcellville
-street: "South 20th Street"
-housenumber: 630
+street: South 20th Street
+housenumber: "630"
 phone: ""
 opening_hours: ""
 website: ""

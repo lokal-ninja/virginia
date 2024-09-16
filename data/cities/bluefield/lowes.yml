@@ -1,11 +1,11 @@
 id: 479967755
-type: way
+type: node
 latitude: 37.23777
 longitude: -81.25094
 postcode: "24605"
 city: Bluefield
-street: "Commerce Drive"
-housenumber: 515
-phone: "+1 276-326-4560"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-19:00"
-website: "https://www.lowes.com/store/VA-Bluefield/1959"
+street: Commerce Drive
+housenumber: "515"
+phone: +1 276-326-4560
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-19:00
+website: https://www.lowes.com/store/VA-Bluefield/1959

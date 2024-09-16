@@ -2,10 +2,10 @@ id: 6535436248
 type: node
 latitude: 37.64527
 longitude: -77.58225
-postcode: "23060;23233"
+postcode: 23060;23233
 city: Glen Allen
-street: "West Broad Street"
-housenumber: 10819
+street: West Broad Street
+housenumber: "10819"
 phone: ""
 opening_hours: ""
 website: ""

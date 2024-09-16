@@ -2,10 +2,10 @@ id: 7765743292
 type: node
 latitude: 38.75742
 longitude: -77.08419
-postcode: "22306-2106"
+postcode: 22306-2106
 city: Alexandria
-street: "Richmond Highway"
-housenumber: 7330
-phone: "+1 703-765-0168"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/va/alexandria/7330-richmond-hwy-10759"
+street: Richmond Highway
+housenumber: "7330"
+phone: +1 703-765-0168
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/va/alexandria/7330-richmond-hwy-10759

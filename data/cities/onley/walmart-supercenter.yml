@@ -1,11 +1,11 @@
 id: 993477346
-type: way
+type: node
 latitude: 37.68601
 longitude: -75.72436
 postcode: "23418"
 city: Onley
-street: "Lankford Highway"
-housenumber: 26036
-phone: "+1 757-302-4089"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4378/onley-va/whats-new"
+street: Lankford Highway
+housenumber: "26036"
+phone: +1 757-302-4089
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4378/onley-va/whats-new

@@ -4,8 +4,8 @@ latitude: 37.54672
 longitude: -77.45927
 postcode: "23220"
 city: Richmond City
-street: "West Main Street"
-housenumber: 1423
-phone: "+1 804-353-0903"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
+street: West Main Street
+housenumber: "1423"
+phone: +1 804-353-0903
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

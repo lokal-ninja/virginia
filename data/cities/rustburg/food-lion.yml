@@ -4,8 +4,8 @@ latitude: 37.27614
 longitude: -79.09722
 postcode: "24588"
 city: Rustburg
-street: "Village Highway"
-housenumber: 1051
-phone: "+1 434-332-1029"
-opening_hours: "07:00-23:00"
-website: "https://stores.foodlion.com/va/rustburg/1051b-village-hwy"
+street: Village Highway
+housenumber: "1051"
+phone: +1 434-332-1029
+opening_hours: 07:00-23:00
+website: https://stores.foodlion.com/va/rustburg/1051b-village-hwy

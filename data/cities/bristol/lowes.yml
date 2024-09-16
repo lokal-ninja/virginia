@@ -1,11 +1,11 @@
 id: 604325066
-type: way
+type: node
 latitude: 36.62619
 longitude: -82.14618
 postcode: "24202"
 city: Bristol
-street: "Merchant Trace"
-housenumber: 401
-phone: "+1 276-466-7280"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/VA-Bristol/3456"
+street: Merchant Trace
+housenumber: "401"
+phone: +1 276-466-7280
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/VA-Bristol/3456

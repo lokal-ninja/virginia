@@ -1,11 +1,11 @@
 id: 384035619
-type: way
+type: node
 latitude: 36.74814
 longitude: -76.53573
 postcode: "23434"
 city: Suffolk
-street: "Portsmouth Boulevard"
-housenumber: 1216
+street: Portsmouth Boulevard
+housenumber: "1216"
 phone: ""
 opening_hours: ""
 website: ""

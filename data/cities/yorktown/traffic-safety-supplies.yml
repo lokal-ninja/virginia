@@ -1,11 +1,11 @@
 id: 370122610
-type: way
+type: node
 latitude: 37.15198
 longitude: -76.46179
 postcode: "23692"
 city: Yorktown
-street: "George Washington Memorial Highway"
-housenumber: 4815
-phone: "+1-757-879-6899"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"
-website: "https://www.tssincva.com/"
+street: George Washington Memorial Highway
+housenumber: "4815"
+phone: +1-757-879-6899
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00
+website: https://www.tssincva.com/

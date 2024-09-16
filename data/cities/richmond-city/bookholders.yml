@@ -1,11 +1,11 @@
 id: 229623378
-type: way
+type: node
 latitude: 37.54891
 longitude: -77.44948
 postcode: "23220"
 city: Richmond City
-street: "West Grace Street"
-housenumber: 720
-phone: "+1 804-767-1699"
+street: West Grace Street
+housenumber: "720"
+phone: +1 804-767-1699
 opening_hours: ""
-website: "https://www.bookholders.com/"
+website: https://www.bookholders.com/

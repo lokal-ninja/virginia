@@ -1,11 +1,11 @@
 id: 266956506
-type: way
+type: node
 latitude: 37.53075
 longitude: -77.42203
 postcode: "23223"
 city: Richmond City
-street: "East Main Street"
-housenumber: 2320
+street: East Main Street
+housenumber: "2320"
 phone: ""
 opening_hours: ""
 website: ""

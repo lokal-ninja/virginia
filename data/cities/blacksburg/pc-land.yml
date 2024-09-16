@@ -4,8 +4,8 @@ latitude: 37.21677
 longitude: -80.39992
 postcode: ""
 city: Blacksburg
-street: "South Main Street"
-housenumber: 1333
+street: South Main Street
+housenumber: "1333"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-18:30; Su 11:00-16:00"
-website: "https://www.pclandonline.com/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-18:30; Su 11:00-16:00
+website: https://www.pclandonline.com/

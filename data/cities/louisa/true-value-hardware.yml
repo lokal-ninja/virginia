@@ -1,11 +1,11 @@
 id: 305804726
-type: way
+type: node
 latitude: 38.02103
 longitude: -77.996
-postcode: "23093-6518"
+postcode: 23093-6518
 city: Louisa
-street: "East Main Street"
-housenumber: 401
-phone: "+1 540-967-2827"
+street: East Main Street
+housenumber: "401"
+phone: +1 540-967-2827
 opening_hours: ""
-website: "http://www.louisatruevalue.com"
+website: http://www.louisatruevalue.com

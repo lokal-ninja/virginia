@@ -1,11 +1,11 @@
 id: 705514323
-type: way
+type: node
 latitude: 37.60228
 longitude: -77.37332
 postcode: "23111"
 city: Mechanicsville
-street: "Mechanicsville Turnpike"
-housenumber: 8055
-phone: "+1 804-746-9328"
+street: Mechanicsville Turnpike
+housenumber: "8055"
+phone: +1 804-746-9328
 opening_hours: ""
-website: "https://www.carquest.com/stores/va/mechanicsville/2868"
+website: https://www.carquest.com/stores/va/mechanicsville/2868

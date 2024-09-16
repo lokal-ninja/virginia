@@ -1,11 +1,11 @@
 id: 149968523
-type: way
+type: node
 latitude: 37.97746
 longitude: -78.21015
 postcode: "22942"
 city: Zion Crossroads
-street: "Camp Creek Parkway"
-housenumber: 164
-phone: "+1 540-832-1259"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/4682/gordonsville-va/whats-new"
+street: Camp Creek Parkway
+housenumber: "164"
+phone: +1 540-832-1259
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/4682/gordonsville-va/whats-new

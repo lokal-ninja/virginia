@@ -1,11 +1,11 @@
 id: 384057680
-type: way
+type: node
 latitude: 36.73018
 longitude: -76.59675
 postcode: "23434"
 city: Suffolk
-street: "Washington Street"
-housenumber: 813
+street: Washington Street
+housenumber: "813"
 phone: ""
 opening_hours: ""
 website: ""

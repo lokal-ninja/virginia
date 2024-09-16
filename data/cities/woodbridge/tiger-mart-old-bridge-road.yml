@@ -1,11 +1,11 @@
 id: 1159769654
-type: way
+type: node
 latitude: 38.68159
 longitude: -77.32057
 postcode: ""
 city: Woodbridge
-street: "Old Bridge Road"
-housenumber: 3514
+street: Old Bridge Road
+housenumber: "3514"
 phone: ""
 opening_hours: ""
 website: ""

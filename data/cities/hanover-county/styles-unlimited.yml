@@ -1,11 +1,11 @@
 id: 256795816
-type: way
+type: node
 latitude: 37.74678
 longitude: -77.4708
 postcode: "23005"
 city: Hanover County
-street: "South Washington Highway"
-housenumber: 519
+street: South Washington Highway
+housenumber: "519"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 36.77704
 longitude: -76.08685
 postcode: "23456"
 city: Virginia Beach
-street: "Princess Anne Road"
-housenumber: 3364
-phone: "+1 757-368-3606"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/va/virginia-beach-store1838.html"
+street: Princess Anne Road
+housenumber: "3364"
+phone: +1 757-368-3606
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/va/virginia-beach-store1838.html

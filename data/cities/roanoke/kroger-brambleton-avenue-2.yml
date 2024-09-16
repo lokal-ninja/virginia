@@ -1,11 +1,11 @@
 id: 258499005
-type: way
+type: node
 latitude: 37.22395
 longitude: -80.01232
 postcode: "24018"
 city: Roanoke
-street: "Brambleton Avenue"
-housenumber: 4404
-phone: "+1 540-776-8820"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/va/roanoke/brambleton/029/00401"
+street: Brambleton Avenue
+housenumber: "4404"
+phone: +1 540-776-8820
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/va/roanoke/brambleton/029/00401

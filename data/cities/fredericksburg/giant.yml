@@ -1,11 +1,11 @@
 id: 43131423
-type: way
+type: node
 latitude: 38.36027
 longitude: -77.52158
 postcode: "22406"
 city: Fredericksburg
-street: "Celebrate Virginia Parkway"
-housenumber: 550
-phone: "+1 540-286-1721"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://stores.giantfood.com/va/fredericksburg/550-celebrate-virginia-parkway"
+street: Celebrate Virginia Parkway
+housenumber: "550"
+phone: +1 540-286-1721
+opening_hours: Mo-Su 06:00-22:00
+website: https://stores.giantfood.com/va/fredericksburg/550-celebrate-virginia-parkway

@@ -1,11 +1,11 @@
 id: 240921411
-type: way
+type: node
 latitude: 36.59517
 longitude: -82.18689
 postcode: ""
 city: Bristol
-street: "State Street"
-housenumber: 809
-phone: "+1 423-571-9220"
+street: State Street
+housenumber: "809"
+phone: +1 423-571-9220
 opening_hours: ""
-website: "https://www.facebook.com/pages/Sweet-Stix-Golf/181481119631"
+website: https://www.facebook.com/pages/Sweet-Stix-Golf/181481119631

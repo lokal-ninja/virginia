@@ -1,11 +1,11 @@
 id: 363611574
-type: way
+type: node
 latitude: 37.75892
 longitude: -77.46462
 postcode: "23005"
 city: Hanover County
-street: "England Street"
-housenumber: 812
+street: England Street
+housenumber: "812"
 phone: ""
 opening_hours: ""
 website: ""

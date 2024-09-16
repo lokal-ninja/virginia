@@ -1,11 +1,11 @@
 id: 1225894899
-type: way
+type: node
 latitude: 37.55636
 longitude: -78.58592
 postcode: "23921"
 city: Buckingham
-street: "West James Anderson Highway"
-housenumber: 10442
+street: West James Anderson Highway
+housenumber: "10442"
 phone: ""
 opening_hours: ""
 website: ""

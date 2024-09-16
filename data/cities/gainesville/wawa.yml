@@ -1,11 +1,11 @@
 id: 222077605
-type: way
+type: node
 latitude: 38.79259
 longitude: -77.62259
 postcode: "20155"
 city: Gainesville
-street: "Lee Highway"
-housenumber: 14461
-phone: "+1 571-261-4089"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/651"
+street: Lee Highway
+housenumber: "14461"
+phone: +1 571-261-4089
+opening_hours: 24/7
+website: https://www.wawa.com/locations/651

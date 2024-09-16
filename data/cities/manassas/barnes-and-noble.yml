@@ -1,11 +1,11 @@
 id: 45759830
-type: way
+type: node
 latitude: 38.78042
 longitude: -77.50899
 postcode: "20109"
 city: Manassas
-street: "Sudley Road"
-housenumber: 8117
+street: Sudley Road
+housenumber: "8117"
 phone: ""
-opening_hours: "Mo-Su,PH 10:00-21:00"
+opening_hours: Mo-Su,PH 10:00-21:00
 website: ""

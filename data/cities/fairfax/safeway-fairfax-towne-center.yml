@@ -1,11 +1,11 @@
 id: 133066935
-type: way
+type: node
 latitude: 38.8664
 longitude: -77.36944
 postcode: "22033"
 city: Fairfax
-street: "Fairfax Towne Center"
-housenumber: 12200
-phone: "+1 703-359-0523"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.safeway.com/safeway/va/fairfax/12200-fairfax-towne-center.html"
+street: Fairfax Towne Center
+housenumber: "12200"
+phone: +1 703-359-0523
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.safeway.com/safeway/va/fairfax/12200-fairfax-towne-center.html

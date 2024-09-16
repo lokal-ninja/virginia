@@ -1,11 +1,11 @@
 id: 402555804
-type: way
+type: node
 latitude: 36.75334
 longitude: -76.00959
 postcode: "23456"
 city: Virginia Beach
-street: "Upton Drive"
-housenumber: 2293
+street: Upton Drive
+housenumber: "2293"
 phone: ""
 opening_hours: ""
 website: ""

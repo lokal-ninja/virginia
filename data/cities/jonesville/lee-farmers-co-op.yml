@@ -1,11 +1,11 @@
 id: 97861837
-type: way
+type: node
 latitude: 36.68875
 longitude: -83.11104
 postcode: "24263"
 city: Jonesville
-street: "Wilderness Road"
-housenumber: 33634
-phone: "+1-276-346-2311"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+street: Wilderness Road
+housenumber: "33634"
+phone: +1-276-346-2311
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

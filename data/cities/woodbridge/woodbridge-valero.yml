@@ -1,11 +1,11 @@
 id: 94847646
-type: way
+type: node
 latitude: 38.66586
 longitude: -77.33028
 postcode: "22192"
 city: Woodbridge
-street: "Trowbbridge Drive"
-housenumber: 13295
-phone: "+1 703-750-6810"
-opening_hours: "24/7"
-website: "https://locations.valero.com/en-us/LocationDetails/Index/13295-TROWBRIDGE-DRIVE/0000012371"
+street: Trowbbridge Drive
+housenumber: "13295"
+phone: +1 703-750-6810
+opening_hours: 24/7
+website: https://locations.valero.com/en-us/LocationDetails/Index/13295-TROWBRIDGE-DRIVE/0000012371

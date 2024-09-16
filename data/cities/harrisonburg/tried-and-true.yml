@@ -4,8 +4,8 @@ latitude: 38.42842
 longitude: -78.85804
 postcode: "22801"
 city: Harrisonburg
-street: "University Boulevard"
-housenumber: 600
+street: University Boulevard
+housenumber: "600"
 phone: ""
 opening_hours: ""
-website: "https://www.triedandtruethrift.org/"
+website: https://www.triedandtruethrift.org/

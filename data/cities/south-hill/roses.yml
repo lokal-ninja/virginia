@@ -1,11 +1,11 @@
 id: 308810133
-type: way
+type: node
 latitude: 36.71872
 longitude: -78.11929
 postcode: "23970"
 city: South Hill
-street: "East Atlantic Street"
-housenumber: 830
+street: East Atlantic Street
+housenumber: "830"
 phone: ""
 opening_hours: ""
 website: ""

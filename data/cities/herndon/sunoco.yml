@@ -1,11 +1,11 @@
 id: 143500254
-type: way
+type: node
 latitude: 38.94828
 longitude: -77.4122
 postcode: "20171"
 city: Herndon
-street: "Coppermine Road"
-housenumber: 13470
-phone: "+1-571-643-0050"
-opening_hours: "24/7"
+street: Coppermine Road
+housenumber: "13470"
+phone: +1-571-643-0050
+opening_hours: 24/7
 website: ""

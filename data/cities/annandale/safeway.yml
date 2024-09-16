@@ -1,11 +1,11 @@
 id: 144450323
-type: way
+type: node
 latitude: 38.83272
 longitude: -77.20144
 postcode: "22003"
 city: Annandale
-street: "Little River Turnpike"
-housenumber: 7414
-phone: "+1 703-941-3874"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/va/annandale/7414-little-river-turnpike.html"
+street: Little River Turnpike
+housenumber: "7414"
+phone: +1 703-941-3874
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/va/annandale/7414-little-river-turnpike.html

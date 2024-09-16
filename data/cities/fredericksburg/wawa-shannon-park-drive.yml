@@ -1,11 +1,11 @@
 id: 582075819
-type: way
+type: node
 latitude: 38.27139
 longitude: -77.44794
 postcode: "22408"
 city: Fredericksburg
-street: "Shannon Park Drive"
-housenumber: 3302
+street: Shannon Park Drive
+housenumber: "3302"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/658"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/658

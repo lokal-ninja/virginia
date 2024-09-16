@@ -1,11 +1,11 @@
 id: 1028820285
-type: way
+type: node
 latitude: 36.77486
 longitude: -76.58426
 postcode: "23434"
 city: Suffolk
-street: "Godwin Boulevard"
-housenumber: 2775
+street: Godwin Boulevard
+housenumber: "2775"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/suffolk-va-pharmacies/2775-godwin-blvd-suffolk-va-23434/storeid=11056"
+website: https://www.cvs.com/store-locator/suffolk-va-pharmacies/2775-godwin-blvd-suffolk-va-23434/storeid=11056

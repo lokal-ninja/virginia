@@ -1,11 +1,11 @@
 id: 236145346
-type: way
+type: node
 latitude: 39.02168
 longitude: -77.47919
 postcode: "20147"
 city: Ashburn
-street: "Pipeline Plaza"
-housenumber: 43974
-phone: "+1 703-858-5419"
+street: Pipeline Plaza
+housenumber: "43974"
+phone: +1 703-858-5419
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/va/ashburn/43971-farmwell-hunt-plaza-40047"
+website: https://www.7-eleven.com/locations/va/ashburn/43971-farmwell-hunt-plaza-40047

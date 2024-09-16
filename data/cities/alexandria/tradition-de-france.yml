@@ -1,11 +1,11 @@
 id: 205173804
-type: way
+type: node
 latitude: 38.80578
 longitude: -77.05182
 postcode: "22314"
 city: Alexandria
-street: "King Street"
-housenumber: 1113
-phone: "703-836-5340"
+street: King Street
+housenumber: "1113"
+phone: 703-836-5340
 opening_hours: ""
-website: "tdf.teeknet.com"
+website: tdf.teeknet.com

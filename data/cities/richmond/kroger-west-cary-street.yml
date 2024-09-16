@@ -1,11 +1,11 @@
 id: 46420574
-type: way
+type: node
 latitude: 37.5551
 longitude: -77.48863
 postcode: "23221"
 city: Richmond
-street: "West Cary Street"
-housenumber: 3507
-phone: "+1 804-254-6400"
-opening_hours: "PH,Mo-Su 06:00-24:00+"
-website: "https://www.kroger.com/stores/grocery/va/richmond/carytown/029/00504"
+street: West Cary Street
+housenumber: "3507"
+phone: +1 804-254-6400
+opening_hours: PH,Mo-Su 06:00-24:00+
+website: https://www.kroger.com/stores/grocery/va/richmond/carytown/029/00504

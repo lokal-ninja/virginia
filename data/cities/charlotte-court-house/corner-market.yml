@@ -1,11 +1,11 @@
 id: 953413326
-type: way
+type: node
 latitude: 37.05754
 longitude: -78.63565
 postcode: "23923"
 city: Charlotte Court House
-street: "George Washington Highway"
-housenumber: 145
+street: George Washington Highway
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

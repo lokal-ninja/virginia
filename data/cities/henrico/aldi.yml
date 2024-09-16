@@ -1,11 +1,11 @@
 id: 465954813
-type: way
+type: node
 latitude: 37.63775
 longitude: -77.5108
-postcode: "23228-2020"
+postcode: 23228-2020
 city: Henrico
-street: "Staples Mill Road"
-housenumber: 8951
-phone: "+1 833-480-1002"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://stores.aldi.us/va/henrico/8951-staples-mill-road"
+street: Staples Mill Road
+housenumber: "8951"
+phone: +1 833-480-1002
+opening_hours: Mo-Su 08:00-21:00
+website: https://stores.aldi.us/va/henrico/8951-staples-mill-road

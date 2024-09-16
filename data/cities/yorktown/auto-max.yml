@@ -1,11 +1,11 @@
 id: 370122596
-type: way
+type: node
 latitude: 37.1513
 longitude: -76.46082
 postcode: "23692"
 city: Yorktown
-street: "George Washington Memorial Highway"
-housenumber: 4727
-phone: "+1-757-877-6471"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-14:00"
-website: "https://www.automaxofyorkcounty.net/"
+street: George Washington Memorial Highway
+housenumber: "4727"
+phone: +1-757-877-6471
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-14:00
+website: https://www.automaxofyorkcounty.net/

@@ -1,11 +1,11 @@
 id: 925859060
-type: way
+type: node
 latitude: 36.96856
 longitude: -76.60874
 postcode: "23430"
 city: Smithfield
-street: "South Church Street"
-housenumber: 1510
+street: South Church Street
+housenumber: "1510"
 phone: ""
 opening_hours: ""
 website: ""

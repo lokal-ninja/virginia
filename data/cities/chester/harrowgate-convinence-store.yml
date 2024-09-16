@@ -1,11 +1,11 @@
 id: 720054186
-type: way
+type: node
 latitude: 37.29793
 longitude: -77.42331
 postcode: "23831"
 city: Chester
-street: "Harrowgate Road"
-housenumber: 16025
+street: Harrowgate Road
+housenumber: "16025"
 phone: ""
 opening_hours: ""
 website: ""

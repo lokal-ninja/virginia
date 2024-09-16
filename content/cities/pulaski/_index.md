@@ -1,6 +1,6 @@
 ---
 title: Pulaski
 url: /pulaski/
-latitude: 37.052
-longitude: -80.749
+latitude: 37.048
+longitude: -80.768
 ---

@@ -1,11 +1,11 @@
 id: 402380937
-type: way
+type: node
 latitude: 36.84965
 longitude: -76.02402
 postcode: "23454"
 city: Virginia Beach
-street: "Laskin Road"
-housenumber: 1727
+street: Laskin Road
+housenumber: "1727"
 phone: ""
 opening_hours: ""
 website: ""

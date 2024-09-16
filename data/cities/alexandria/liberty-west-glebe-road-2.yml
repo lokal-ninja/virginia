@@ -1,11 +1,11 @@
 id: 329765828
-type: way
+type: node
 latitude: 38.84284
 longitude: -77.07502
 postcode: "22305"
 city: Alexandria
-street: "West Glebe Road"
-housenumber: 1015
+street: West Glebe Road
+housenumber: "1015"
 phone: ""
 opening_hours: ""
 website: ""

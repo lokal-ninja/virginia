@@ -1,11 +1,11 @@
 id: 614336888
-type: way
+type: node
 latitude: 36.98181
 longitude: -76.63263
 postcode: "23430"
 city: Smithfield
-street: "Main Street"
-housenumber: 202
-phone: "+1-757-542-3818"
-opening_hours: "Mo-Fr 10:30-17:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.perfectlynaturalsoap.com"
+street: Main Street
+housenumber: "202"
+phone: +1-757-542-3818
+opening_hours: Mo-Fr 10:30-17:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.perfectlynaturalsoap.com

@@ -1,11 +1,11 @@
 id: 914163136
-type: way
+type: node
 latitude: 37.37584
 longitude: -79.15619
 postcode: "24501"
 city: Lynchburg
-street: "Bradley Drive"
-housenumber: 141
+street: Bradley Drive
+housenumber: "141"
 phone: ""
 opening_hours: ""
-website: "https://www.cityelectricsupply.com/branch/615"
+website: https://www.cityelectricsupply.com/branch/615

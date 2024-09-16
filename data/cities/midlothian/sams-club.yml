@@ -1,11 +1,11 @@
 id: 96421954
-type: way
+type: node
 latitude: 37.50437
 longitude: -77.62534
 postcode: "23113"
 city: Midlothian
-street: "Walmart Way"
-housenumber: 901
-phone: "+1 804-378-7654"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/midlothian-va-sams-club/6354"
+street: Walmart Way
+housenumber: "901"
+phone: +1 804-378-7654
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/midlothian-va-sams-club/6354

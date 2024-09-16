@@ -4,8 +4,8 @@ latitude: 37.49925
 longitude: -77.54164
 postcode: "23235"
 city: Richmond
-street: "Midlothian Tpke"
-housenumber: 7810
-phone: "+1 -804-320-5060"
-opening_hours: "Monday-Friday: 9:00AM to 6:00PM, Saturday: 8:00AM to 4:00PM"
-website: "https://nutribebarbershop.com"
+street: Midlothian Tpke
+housenumber: "7810"
+phone: +1 -804-320-5060
+opening_hours: 'Monday-Friday: 9:00AM to 6:00PM, Saturday: 8:00AM to 4:00PM'
+website: https://nutribebarbershop.com

@@ -1,11 +1,11 @@
 id: 908580407
-type: way
+type: node
 latitude: 38.99282
 longitude: -77.42082
 postcode: "20164"
 city: Sterling
-street: "Davis Drive"
-housenumber: 200
+street: Davis Drive
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

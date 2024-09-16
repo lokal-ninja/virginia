@@ -1,11 +1,11 @@
 id: 747477140
-type: way
+type: node
 latitude: 38.58128
 longitude: -77.76631
 postcode: "22712"
 city: Bealeton
-street: "Marsh Road"
-housenumber: 11037
-phone: "+1 540-439-9742"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-20:00"
-website: "https://www.walgreens.com/locator/walgreens-11037+marsh+road-bealeton-va-22712/id=18298"
+street: Marsh Road
+housenumber: "11037"
+phone: +1 540-439-9742
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-20:00
+website: https://www.walgreens.com/locator/walgreens-11037+marsh+road-bealeton-va-22712/id=18298

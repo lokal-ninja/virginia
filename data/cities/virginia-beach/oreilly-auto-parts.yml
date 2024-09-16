@@ -1,11 +1,11 @@
 id: 402393122
-type: way
+type: node
 latitude: 36.84136
 longitude: -75.9943
 postcode: "23451"
 city: Virginia Beach
-street: "Virginia Beach Boulevard"
-housenumber: 1061
+street: Virginia Beach Boulevard
+housenumber: "1061"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/va/virginiabeach/autoparts-4902.html"
+website: https://locations.oreillyauto.com/va/virginiabeach/autoparts-4902.html

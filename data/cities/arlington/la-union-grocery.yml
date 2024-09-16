@@ -1,11 +1,11 @@
 id: 211214074
-type: way
+type: node
 latitude: 38.89689
 longitude: -77.11365
 postcode: "22207"
 city: Arlington
-street: "Cherry Hill Road"
-housenumber: 4308
-phone: "+1-703-812-9484"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 10:00-19:00"
-website: "https://launiongroceryva.com/"
+street: Cherry Hill Road
+housenumber: "4308"
+phone: +1-703-812-9484
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 10:00-19:00
+website: https://launiongroceryva.com/

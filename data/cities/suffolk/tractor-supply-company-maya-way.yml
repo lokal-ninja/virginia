@@ -1,11 +1,11 @@
 id: 1244871491
-type: way
+type: node
 latitude: 36.81959
 longitude: -76.47178
 postcode: "23435"
 city: Suffolk
-street: "Maya Way"
-housenumber: 120
-phone: "+1 757-394-1129"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Maya Way
+housenumber: "120"
+phone: +1 757-394-1129
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

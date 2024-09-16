@@ -1,11 +1,11 @@
 id: 340058555
-type: way
+type: node
 latitude: 37.7899
 longitude: -79.99517
 postcode: ""
 city: Covington
-street: "North Maple Avenue"
-housenumber: 131
+street: North Maple Avenue
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

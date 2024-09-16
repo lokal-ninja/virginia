@@ -4,8 +4,8 @@ latitude: 38.433
 longitude: -78.85242
 postcode: "22801"
 city: Harrisonburg
-street: "Burgess Road"
-housenumber: 265
+street: Burgess Road
+housenumber: "265"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/va/harrisonburg/265-burgess-road"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/va/harrisonburg/265-burgess-road

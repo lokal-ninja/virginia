@@ -1,11 +1,11 @@
 id: 231041637
-type: way
+type: node
 latitude: 38.78927
 longitude: -77.44822
 postcode: "20111"
 city: Manassas
-street: "Centreville Road"
-housenumber: 7605
+street: Centreville Road
+housenumber: "7605"
 phone: ""
 opening_hours: ""
 website: ""

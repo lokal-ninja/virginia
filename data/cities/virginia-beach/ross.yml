@@ -4,8 +4,8 @@ latitude: 36.77473
 longitude: -76.08587
 postcode: "23456"
 city: Virginia Beach
-street: "Princess Anne Road"
-housenumber: 3312
-phone: "+1 757-368-0407"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 08:30-24:00; Su 09:00-23:00"
+street: Princess Anne Road
+housenumber: "3312"
+phone: +1 757-368-0407
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 08:30-24:00; Su 09:00-23:00
 website: ""

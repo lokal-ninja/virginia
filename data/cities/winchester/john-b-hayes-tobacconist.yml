@@ -1,11 +1,11 @@
 id: 816971592
-type: way
+type: node
 latitude: 39.1863
 longitude: -78.16347
 postcode: "22601"
 city: Winchester
-street: "East Piccadilly Street"
-housenumber: 50
-phone: "540-545-7000"
+street: East Piccadilly Street
+housenumber: "50"
+phone: 540-545-7000
 opening_hours: ""
-website: "http://www.hayestobacconist.com/"
+website: http://www.hayestobacconist.com/

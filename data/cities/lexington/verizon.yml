@@ -4,8 +4,8 @@ latitude: 37.8046
 longitude: -79.41064
 postcode: "24450"
 city: Lexington
-street: "North Lee Highway"
-housenumber: 1221
+street: North Lee Highway
+housenumber: "1221"
 phone: ""
 opening_hours: ""
-website: "https://victra.com/stores/va-lexington/"
+website: https://victra.com/stores/va-lexington/

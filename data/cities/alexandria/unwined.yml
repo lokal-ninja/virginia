@@ -4,8 +4,8 @@ latitude: 38.77614
 longitude: -77.05977
 postcode: "22307"
 city: Alexandria
-street: "Belle View Boulevard"
-housenumber: 1600
-phone: "+1 571-384-6880"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-17:00"
-website: "https://www.unwinedva.com"
+street: Belle View Boulevard
+housenumber: "1600"
+phone: +1 571-384-6880
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-17:00
+website: https://www.unwinedva.com

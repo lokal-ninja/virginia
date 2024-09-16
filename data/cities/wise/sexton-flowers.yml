@@ -1,11 +1,11 @@
 id: 548659072
-type: way
+type: node
 latitude: 36.9827
 longitude: -82.58662
 postcode: "24293"
 city: Wise
-street: "West Main Street"
-housenumber: 528
-phone: "276-328-6501"
+street: West Main Street
+housenumber: "528"
+phone: 276-328-6501
 opening_hours: ""
-website: "https://www.sextonsflowersinc.com/"
+website: https://www.sextonsflowersinc.com/

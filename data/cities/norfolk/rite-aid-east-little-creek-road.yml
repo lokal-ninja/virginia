@@ -1,11 +1,11 @@
 id: 407093289
-type: way
+type: node
 latitude: 36.91384
 longitude: -76.24101
 postcode: "23513"
 city: Norfolk
-street: "East Little Creek Road"
-housenumber: 1101
+street: East Little Creek Road
+housenumber: "1101"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://www.riteaid.com/locations/va/norfolk/1101-east-little-creek-road.html"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://www.riteaid.com/locations/va/norfolk/1101-east-little-creek-road.html

@@ -1,11 +1,11 @@
 id: 1103977214
-type: way
+type: node
 latitude: 38.35255
 longitude: -77.05421
 postcode: "22485"
 city: King George
-street: "Merchants Lane"
-housenumber: 16471
+street: Merchants Lane
+housenumber: "16471"
 phone: ""
 opening_hours: ""
 website: ""

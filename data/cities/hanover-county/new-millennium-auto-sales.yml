@@ -1,11 +1,11 @@
 id: 254446031
-type: way
+type: node
 latitude: 37.69873
 longitude: -77.46323
 postcode: "23059"
 city: Hanover County
-street: "Washington Highway"
-housenumber: 10472
+street: Washington Highway
+housenumber: "10472"
 phone: ""
 opening_hours: ""
 website: ""

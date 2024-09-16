@@ -1,11 +1,11 @@
 id: 370049211
-type: way
+type: node
 latitude: 37.34341
 longitude: -76.73989
 postcode: "23188"
 city: York County
-street: "East Rochambeau Drive"
-housenumber: 810
+street: East Rochambeau Drive
+housenumber: "810"
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/va/williamsburg/6467/cedar-valley-shopping-center-gamestop"
+website: https://www.gamestop.com/store/us/va/williamsburg/6467/cedar-valley-shopping-center-gamestop

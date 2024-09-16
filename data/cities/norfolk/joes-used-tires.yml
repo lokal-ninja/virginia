@@ -1,11 +1,11 @@
 id: 407402656
-type: way
+type: node
 latitude: 36.86118
 longitude: -76.28683
 postcode: "23510"
 city: Norfolk
-street: "Monticello Avenue"
-housenumber: 1209
+street: Monticello Avenue
+housenumber: "1209"
 phone: ""
 opening_hours: ""
 website: ""

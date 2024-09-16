@@ -1,11 +1,11 @@
 id: 1126769791
-type: way
+type: node
 latitude: 37.15095
 longitude: -76.55286
 postcode: "23608"
 city: Newport News
-street: "Warwick Boulevard"
-housenumber: 15428
-phone: "+1-757-800-9899"
-opening_hours: "Mo-Su 07:00-23:00"
+street: Warwick Boulevard
+housenumber: "15428"
+phone: +1-757-800-9899
+opening_hours: Mo-Su 07:00-23:00
 website: ""

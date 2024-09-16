@@ -1,11 +1,11 @@
 id: 370078970
-type: way
+type: node
 latitude: 37.23695
 longitude: -76.50862
 postcode: "23690"
 city: York County
-street: "Ballard Street"
-housenumber: 
+street: Ballard Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

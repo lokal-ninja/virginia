@@ -4,8 +4,8 @@ latitude: 36.90365
 longitude: -76.1371
 postcode: "23455"
 city: Virginia Beach
-street: "Shore Drive"
-housenumber: 4803
-phone: "+1 833-480-1025"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/va/virginia-beach/4803-shore-drive"
+street: Shore Drive
+housenumber: "4803"
+phone: +1 833-480-1025
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/va/virginia-beach/4803-shore-drive

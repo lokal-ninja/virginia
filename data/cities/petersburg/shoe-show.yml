@@ -1,11 +1,11 @@
 id: 782248807
-type: way
+type: node
 latitude: 37.18167
 longitude: -77.36481
 postcode: "23805"
 city: Petersburg
-street: "South Crater Road"
-housenumber: 3401
+street: South Crater Road
+housenumber: "3401"
 phone: ""
 opening_hours: ""
 website: ""

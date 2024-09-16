@@ -1,11 +1,11 @@
 id: 576891037
-type: way
+type: node
 latitude: 38.85739
 longitude: -77.10757
 postcode: "22204"
 city: Arlington
-street: "Columbia Pike"
-housenumber: 4625
+street: Columbia Pike
+housenumber: "4625"
 phone: ""
 opening_hours: ""
 website: ""

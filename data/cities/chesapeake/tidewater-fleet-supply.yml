@@ -1,11 +1,11 @@
 id: 312584642
-type: way
+type: node
 latitude: 36.77433
 longitude: -76.25804
 postcode: "23320"
 city: Chesapeake
-street: "Lindale Drive"
-housenumber: 1324
+street: Lindale Drive
+housenumber: "1324"
 phone: ""
 opening_hours: ""
 website: ""

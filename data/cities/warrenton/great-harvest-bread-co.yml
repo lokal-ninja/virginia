@@ -1,11 +1,11 @@
 id: 583385702
-type: way
+type: node
 latitude: 38.71237
 longitude: -77.79287
 postcode: ""
 city: Warrenton
-street: "Main Street"
-housenumber: 108
-phone: "+1 540-878-5200"
-opening_hours: "Mo-Th 08:00-17:00; Fr-Sa 08:00-18:00; Su 08:00-16:00"
-website: "http://www.warrentonbread.com/"
+street: Main Street
+housenumber: "108"
+phone: +1 540-878-5200
+opening_hours: Mo-Th 08:00-17:00; Fr-Sa 08:00-18:00; Su 08:00-16:00
+website: http://www.warrentonbread.com/

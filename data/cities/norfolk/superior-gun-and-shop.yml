@@ -1,11 +1,11 @@
 id: 407103223
-type: way
+type: node
 latitude: 36.91572
 longitude: -76.28967
 postcode: "23505"
 city: Norfolk
-street: "West Little Creek Road"
-housenumber: 805
+street: West Little Creek Road
+housenumber: "805"
 phone: ""
 opening_hours: ""
 website: ""

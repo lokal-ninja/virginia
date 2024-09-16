@@ -1,11 +1,11 @@
 id: 60114809
-type: way
+type: node
 latitude: 37.12115
 longitude: -76.51313
 postcode: "23602"
 city: Newport News
-street: "Chatham Drive"
-housenumber: 325
-phone: "+1 757-833-8101"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/newport-news/va/newport-news/23602/4613"
+street: Chatham Drive
+housenumber: "325"
+phone: +1 757-833-8101
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/newport-news/va/newport-news/23602/4613

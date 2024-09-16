@@ -1,11 +1,11 @@
 id: 82745589
-type: way
+type: node
 latitude: 38.42798
 longitude: -78.858
 postcode: "22801"
 city: Harrisonburg
-street: "Reservoir Road"
-housenumber: 1830
-phone: "+1 540-432-8989"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/harrisonburg-va-238.html"
+street: Reservoir Road
+housenumber: "1830"
+phone: +1 540-432-8989
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/harrisonburg-va-238.html

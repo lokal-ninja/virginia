@@ -1,11 +1,11 @@
 id: 1292991287
-type: way
+type: node
 latitude: 38.07953
 longitude: -78.91948
 postcode: ""
 city: Waynesboro
-street: "West Main Street"
-housenumber: 2401
+street: West Main Street
+housenumber: "2401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 384004256
-type: way
+type: node
 latitude: 36.74126
 longitude: -76.58313
 postcode: "23434"
 city: Suffolk
-street: "Main Street"
-housenumber: 800
+street: Main Street
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

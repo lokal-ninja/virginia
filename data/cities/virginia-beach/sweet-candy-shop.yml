@@ -1,11 +1,11 @@
 id: 402400717
-type: way
+type: node
 latitude: 36.84349
 longitude: -75.97223
 postcode: "23451"
 city: Virginia Beach
-street: "Atlantic Avenue"
-housenumber: 1415
+street: Atlantic Avenue
+housenumber: "1415"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 38.84509
 longitude: -77.27404
 postcode: "22031"
 city: Fairfax
-street: "Main Street"
-housenumber: 9622
-phone: "+1 703-995-5644"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/va/fairfax/9622-main-st.html"
+street: Main Street
+housenumber: "9622"
+phone: +1 703-995-5644
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/va/fairfax/9622-main-st.html

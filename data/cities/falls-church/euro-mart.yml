@@ -1,11 +1,11 @@
 id: 72596045
-type: way
+type: node
 latitude: 38.87144
 longitude: -77.15454
 postcode: "22044"
 city: Falls Church
-street: "Leesburg Pike"
-housenumber: 6318
+street: Leesburg Pike
+housenumber: "6318"
 phone: ""
-opening_hours: "Su 06:00-24:00; Mo-Sa 05:00-24:00"
-website: "http://euromarketva.com/"
+opening_hours: Su 06:00-24:00; Mo-Sa 05:00-24:00
+website: http://euromarketva.com/

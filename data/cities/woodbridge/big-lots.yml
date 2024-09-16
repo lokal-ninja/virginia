@@ -1,11 +1,11 @@
 id: 94027301
-type: way
+type: node
 latitude: 38.63777
 longitude: -77.29145
 postcode: "22192"
 city: Woodbridge
-street: "Telegraph Road"
-housenumber: 14603
-phone: "+1 703-496-9362"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/va/woodbridge/14603-telegraph-rd"
+street: Telegraph Road
+housenumber: "14603"
+phone: +1 703-496-9362
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/va/woodbridge/14603-telegraph-rd

@@ -1,11 +1,11 @@
 id: 388531296
-type: way
+type: node
 latitude: 37.03711
 longitude: -76.40345
 postcode: "23666"
 city: Hampton
-street: "Marketplace Drive"
-housenumber: 117
-phone: "+1 757-637-4861"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3156/hampton-va/whats-new"
+street: Marketplace Drive
+housenumber: "117"
+phone: +1 757-637-4861
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3156/hampton-va/whats-new

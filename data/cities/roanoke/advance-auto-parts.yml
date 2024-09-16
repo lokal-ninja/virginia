@@ -1,11 +1,11 @@
 id: 1190422224
-type: way
+type: node
 latitude: 37.27032
 longitude: -79.92081
 postcode: "24013"
 city: Roanoke
-street: "13th Street Southeast"
-housenumber: 1010
-phone: "540-981-0830"
+street: 13th Street Southeast
+housenumber: "1010"
+phone: 540-981-0830
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/va/roanoke/1010-13th-st-se"
+website: https://stores.advanceautoparts.com/va/roanoke/1010-13th-st-se

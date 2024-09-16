@@ -1,11 +1,11 @@
 id: 551299830
-type: way
+type: node
 latitude: 36.60037
 longitude: -82.1943
 postcode: "24201"
 city: Bristol
-street: "Little Creek Crossing"
-housenumber: 1320
-phone: "(276) 466-2330"
+street: Little Creek Crossing
+housenumber: "1320"
+phone: (276) 466-2330
 opening_hours: ""
-website: "https://www.foodcity.com/stores/store-details/821/"
+website: https://www.foodcity.com/stores/store-details/821/

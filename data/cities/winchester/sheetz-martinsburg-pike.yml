@@ -1,11 +1,11 @@
 id: 724813726
-type: way
+type: node
 latitude: 39.21584
 longitude: -78.14005
 postcode: "22602"
 city: Winchester
-street: "Martinsburg Pike"
-housenumber: 1574
-phone: "+1 540-773-3873"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/309"
+street: Martinsburg Pike
+housenumber: "1574"
+phone: +1 540-773-3873
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/309

@@ -1,11 +1,11 @@
 id: 312595381
-type: way
+type: node
 latitude: 36.79172
 longitude: -76.24093
 postcode: "23320"
 city: Chesapeake
-street: "Greenbrier Parkway"
-housenumber: 1800
+street: Greenbrier Parkway
+housenumber: "1800"
 phone: ""
 opening_hours: ""
 website: ""

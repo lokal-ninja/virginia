@@ -4,8 +4,8 @@ latitude: 37.55323
 longitude: -77.48119
 postcode: "23221"
 city: Richmond City
-street: "West Cary Street"
-housenumber: 3117
+street: West Cary Street
+housenumber: "3117"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.westelm.com/"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.westelm.com/

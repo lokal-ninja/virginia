@@ -1,11 +1,11 @@
 id: 78734807
-type: way
+type: node
 latitude: 38.95017
 longitude: -77.3334
 postcode: "20190"
 city: Reston
-street: "Michael Faraday Court"
-housenumber: 1808
+street: Michael Faraday Court
+housenumber: "1808"
 phone: ""
 opening_hours: ""
 website: ""

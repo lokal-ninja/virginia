@@ -1,11 +1,11 @@
 id: 384264077
-type: way
+type: node
 latitude: 36.79957
 longitude: -76.39392
 postcode: "23321"
 city: Chesapeake
-street: "Airline Boulevard"
-housenumber: 4000
+street: Airline Boulevard
+housenumber: "4000"
 phone: ""
 opening_hours: ""
 website: ""

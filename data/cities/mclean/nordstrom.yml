@@ -1,11 +1,11 @@
 id: 533177809
-type: way
+type: node
 latitude: 38.91741
 longitude: -77.22208
 postcode: "22102"
 city: McLean
-street: "Tysons Boulevard"
-housenumber: 8075
-phone: "+1 703-761-1121"
+street: Tysons Boulevard
+housenumber: "8075"
+phone: +1 703-761-1121
 opening_hours: ""
-website: "https://www.nordstrom.com/store-details/united-states/va/mclean/nordstrom-tysons-corner-center"
+website: https://www.nordstrom.com/store-details/united-states/va/mclean/nordstrom-tysons-corner-center

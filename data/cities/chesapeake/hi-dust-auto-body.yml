@@ -1,11 +1,11 @@
 id: 312595418
-type: way
+type: node
 latitude: 36.79857
 longitude: -76.22379
 postcode: "23320"
 city: Chesapeake
-street: "Business Park Drive"
-housenumber: 920
+street: Business Park Drive
+housenumber: "920"
 phone: ""
 opening_hours: ""
 website: ""

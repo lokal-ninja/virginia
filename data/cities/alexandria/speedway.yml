@@ -1,11 +1,11 @@
 id: 1031458417
-type: way
+type: node
 latitude: 38.84326
 longitude: -77.1114
 postcode: "22302"
 city: Alexandria
-street: "King Street"
-housenumber: 4808
-phone: "+1-703-671-4923"
+street: King Street
+housenumber: "4808"
+phone: +1-703-671-4923
 opening_hours: ""
-website: "https://www.speedway.com/locations/VA/Alexandria/4808-KING-ST"
+website: https://www.speedway.com/locations/VA/Alexandria/4808-KING-ST

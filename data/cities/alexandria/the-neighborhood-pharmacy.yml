@@ -1,11 +1,11 @@
 id: 1232066132
-type: way
+type: node
 latitude: 38.82558
 longitude: -77.05867
 postcode: "22301"
 city: Alexandria
-street: "Mount Vernon Avenue"
-housenumber: 2204
-phone: "+1 703-836-1700"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su 10:00-13:00"
-website: "https://delraypharmacy.com/"
+street: Mount Vernon Avenue
+housenumber: "2204"
+phone: +1 703-836-1700
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su 10:00-13:00
+website: https://delraypharmacy.com/

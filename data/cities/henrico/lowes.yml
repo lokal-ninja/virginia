@@ -1,11 +1,11 @@
 id: 253555355
-type: way
+type: node
 latitude: 37.53013
 longitude: -77.35221
 postcode: "23231"
 city: Henrico
-street: "South Laburnum Avenue"
-housenumber: 4551
-phone: "+1 804-226-5440"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/va-henrico/2691"
+street: South Laburnum Avenue
+housenumber: "4551"
+phone: +1 804-226-5440
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/va-henrico/2691

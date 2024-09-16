@@ -1,11 +1,11 @@
 id: 681208541
-type: way
+type: node
 latitude: 37.41705
 longitude: -79.20303
 postcode: "24503"
 city: Lynchburg
-street: "Linkhorne Drive"
-housenumber: 2820
+street: Linkhorne Drive
+housenumber: "2820"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

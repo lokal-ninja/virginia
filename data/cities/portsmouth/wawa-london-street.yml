@@ -1,11 +1,11 @@
 id: 1065326828
-type: way
+type: node
 latitude: 36.83737
 longitude: -76.30618
 postcode: "23704"
 city: Portsmouth
-street: "London Street"
-housenumber: 720
+street: London Street
+housenumber: "720"
 phone: ""
-opening_hours: "03:30-00:00"
-website: "https://www.wawa.com/locations/8672"
+opening_hours: 03:30-00:00
+website: https://www.wawa.com/locations/8672

@@ -1,11 +1,11 @@
 id: 1254450246
-type: way
+type: node
 latitude: 36.86813
 longitude: -76.21347
 postcode: "23502"
 city: Norfolk
-street: "North Military Highway"
-housenumber: 1275
-phone: "+1 757-459-6712"
-opening_hours: "Mo-Sa 9:00-21:00,Su 9:00-19:00"
-website: "https://www.petsmart.com/stores/us/va/norfolk-store1541.html"
+street: North Military Highway
+housenumber: "1275"
+phone: +1 757-459-6712
+opening_hours: Mo-Sa 9:00-21:00,Su 9:00-19:00
+website: https://www.petsmart.com/stores/us/va/norfolk-store1541.html

@@ -1,11 +1,11 @@
 id: 212022803
-type: way
+type: node
 latitude: 38.88243
 longitude: -77.10118
 postcode: "22201"
 city: Arlington
-street: "North Lincoln Street"
-housenumber: 830
+street: North Lincoln Street
+housenumber: "830"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 396519068
-type: way
+type: node
 latitude: 38.03812
 longitude: -78.48258
 postcode: "22903"
 city: Charlottesville
-street: "Concord Avenue"
-housenumber: 601
+street: Concord Avenue
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

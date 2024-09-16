@@ -1,11 +1,11 @@
 id: 333274701
-type: way
+type: node
 latitude: 37.02747
 longitude: -76.4499
 postcode: "23605"
 city: Newport News
-street: "Jefferson Avenue"
-housenumber: 9501
-phone: "757-595-5537"
+street: Jefferson Avenue
+housenumber: "9501"
+phone: 757-595-5537
 opening_hours: ""
-website: "https://www.wilcoxbaitandtackle.com"
+website: https://www.wilcoxbaitandtackle.com

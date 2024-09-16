@@ -1,11 +1,11 @@
 id: 545763176
-type: way
+type: node
 latitude: 37.40113
 longitude: -77.67668
 postcode: "23832"
 city: West Chesterfield
-street: "Hancock Village Street"
-housenumber: 14629
-phone: "+1 804-639-1107"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/va/west-chesterfield/646/"
+street: Hancock Village Street
+housenumber: "14629"
+phone: +1 804-639-1107
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/va/west-chesterfield/646/

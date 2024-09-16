@@ -1,11 +1,11 @@
 id: 631873955
-type: way
+type: node
 latitude: 37.03294
 longitude: -76.32443
 postcode: "23663"
 city: Hampton
-street: "East Mercury Boulevard"
-housenumber: 301
-phone: "+1 757-589-4169"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8642"
+street: East Mercury Boulevard
+housenumber: "301"
+phone: +1 757-589-4169
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8642

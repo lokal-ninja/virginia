@@ -1,11 +1,11 @@
 id: 1216955361
-type: way
+type: node
 latitude: 37.11813
 longitude: -79.27567
 postcode: "24517"
 city: Altavista
-street: "Wood Lane Circle"
-housenumber: 103
-phone: "+1-434-941-1318"
+street: Wood Lane Circle
+housenumber: "103"
+phone: +1-434-941-1318
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 407409072
-type: way
+type: node
 latitude: 36.88452
 longitude: -76.18289
 postcode: "23455"
 city: Virginia Beach
-street: "Northampton Boulevard"
-housenumber: 5756
+street: Northampton Boulevard
+housenumber: "5756"
 phone: ""
 opening_hours: ""
 website: ""

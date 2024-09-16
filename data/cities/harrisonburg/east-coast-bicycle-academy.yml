@@ -1,11 +1,11 @@
 id: 1301869883
-type: way
+type: node
 latitude: 38.46341
 longitude: -78.87826
 postcode: "22802"
 city: Harrisonburg
-street: "Greystone Street"
-housenumber: 1010
-phone: "+1-540-433-3013"
+street: Greystone Street
+housenumber: "1010"
+phone: +1-540-433-3013
 opening_hours: ""
-website: "https://www.angelfire.com/va3/ecba/"
+website: https://www.angelfire.com/va3/ecba/

@@ -1,11 +1,11 @@
 id: 132150633
-type: way
+type: node
 latitude: 39.11073
 longitude: -77.53399
 postcode: "20176"
 city: Leesburg
-street: "Fort Evans Road Northeast"
-housenumber: 280
-phone: "+1 703-737-0255"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/leesburg/va/leesburg/20176/4621"
+street: Fort Evans Road Northeast
+housenumber: "280"
+phone: +1 703-737-0255
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/leesburg/va/leesburg/20176/4621

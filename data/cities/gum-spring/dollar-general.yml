@@ -1,11 +1,11 @@
 id: 1110455549
-type: way
+type: node
 latitude: 37.77611
 longitude: -77.89848
 postcode: "23065"
 city: Gum Spring
-street: "Broad Street Road"
-housenumber: 3259
-phone: "+1-804-424-2140"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/va/gum-spring/18123"
+street: Broad Street Road
+housenumber: "3259"
+phone: +1-804-424-2140
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/va/gum-spring/18123

@@ -1,11 +1,11 @@
 id: 474098476
-type: way
+type: node
 latitude: 37.1767
 longitude: -80.4186
 postcode: "24060"
 city: Blacksburg
-street: "Ferguson Drive"
-housenumber: 305
-phone: "+1-540-552-2581"
+street: Ferguson Drive
+housenumber: "305"
+phone: +1-540-552-2581
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 396519091
-type: way
+type: node
 latitude: 38.04079
 longitude: -78.47861
 postcode: "22903"
 city: Charlottesville
-street: "Allied Street"
-housenumber: 1724
+street: Allied Street
+housenumber: "1724"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 604325098
-type: way
+type: node
 latitude: 36.62808
 longitude: -82.14953
 postcode: "24202"
 city: Bristol
-street: "Lee Highway"
-housenumber: 3103
-phone: "+1 276-642-0030"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/599"
+street: Lee Highway
+housenumber: "3103"
+phone: +1 276-642-0030
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/599

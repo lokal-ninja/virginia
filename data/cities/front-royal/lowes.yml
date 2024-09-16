@@ -1,11 +1,11 @@
 id: 389125773
-type: way
+type: node
 latitude: 38.96134
 longitude: -78.18665
 postcode: "22630"
 city: Front Royal
-street: "Riverton Commons Drive"
-housenumber: 80
-phone: "+1 540-305-2030"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
-website: "https://www.lowes.com/store/VA-Front-Royal/2555"
+street: Riverton Commons Drive
+housenumber: "80"
+phone: +1 540-305-2030
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
+website: https://www.lowes.com/store/VA-Front-Royal/2555

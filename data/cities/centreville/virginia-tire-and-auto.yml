@@ -1,11 +1,11 @@
 id: 231354505
-type: way
+type: node
 latitude: 38.83514
 longitude: -77.4535
 postcode: "20121"
 city: Centreville
-street: "Route 29"
-housenumber: 14611
+street: Route 29
+housenumber: "14611"
 phone: ""
 opening_hours: ""
 website: ""

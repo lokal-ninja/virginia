@@ -1,11 +1,11 @@
 id: 308797562
-type: way
+type: node
 latitude: 37.44524
 longitude: -77.44328
 postcode: "23234"
 city: North Chesterfield
-street: "Jefferson Davis Highway"
-housenumber: 5702
+street: Jefferson Davis Highway
+housenumber: "5702"
 phone: ""
 opening_hours: ""
 website: ""

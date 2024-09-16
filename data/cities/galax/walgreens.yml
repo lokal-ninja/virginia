@@ -1,11 +1,11 @@
 id: 893138111
-type: way
+type: node
 latitude: 36.6703
 longitude: -80.91951
 postcode: "24333"
 city: Galax
-street: "East Stuart Drive"
-housenumber: 425
+street: East Stuart Drive
+housenumber: "425"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 205349823
-type: way
+type: node
 latitude: 38.30502
 longitude: -77.46028
 postcode: "22401"
 city: Fredericksburg
-street: "Caroline Street"
-housenumber: 1107
-phone: "540.373.4271"
+street: Caroline Street
+housenumber: "1107"
+phone: 540.373.4271
 opening_hours: ""
-website: "https://www.carterhairdesign.com/"
+website: https://www.carterhairdesign.com/

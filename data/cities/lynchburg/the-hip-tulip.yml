@@ -4,8 +4,8 @@ latitude: 37.41187
 longitude: -79.13949
 postcode: "24504"
 city: Lynchburg
-street: "Main Street"
-housenumber: 1220
-phone: "+1 434-944-4233"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su off"
-website: "https://www.thehiptulip.com/"
+street: Main Street
+housenumber: "1220"
+phone: +1 434-944-4233
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su off
+website: https://www.thehiptulip.com/

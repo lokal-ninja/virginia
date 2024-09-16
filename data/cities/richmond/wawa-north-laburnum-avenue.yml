@@ -1,11 +1,11 @@
 id: 708738325
-type: way
+type: node
 latitude: 37.56209
 longitude: -77.37676
 postcode: "23223"
 city: Richmond
-street: "North Laburnum Avenue"
-housenumber: 1300
-phone: "+1 804-225-8104"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8635"
+street: North Laburnum Avenue
+housenumber: "1300"
+phone: +1 804-225-8104
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8635

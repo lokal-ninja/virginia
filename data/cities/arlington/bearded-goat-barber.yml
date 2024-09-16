@@ -1,11 +1,11 @@
 id: 957578703
-type: way
+type: node
 latitude: 38.84082
 longitude: -77.08974
 postcode: "22206"
 city: Arlington
-street: "Campbell Avenue"
-housenumber: 4150
+street: Campbell Avenue
+housenumber: "4150"
 phone: ""
 opening_hours: ""
-website: "https://www.beardedgoatbarber.com"
+website: https://www.beardedgoatbarber.com

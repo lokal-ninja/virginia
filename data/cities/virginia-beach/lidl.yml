@@ -1,11 +1,11 @@
 id: 682989503
-type: way
+type: node
 latitude: 36.81263
 longitude: -76.2085
 postcode: "23464"
 city: Virginia Beach
-street: "Providence Road"
-housenumber: 6196
-phone: "+1 844-747-5435"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.lidl.com/stores/US01057"
+street: Providence Road
+housenumber: "6196"
+phone: +1 844-747-5435
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.lidl.com/stores/US01057

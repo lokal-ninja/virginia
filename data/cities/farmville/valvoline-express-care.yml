@@ -1,11 +1,11 @@
 id: 188002096
-type: way
+type: node
 latitude: 37.27711
 longitude: -78.40055
 postcode: "23901"
 city: Farmville
-street: "Peery Drive"
-housenumber: 1806
+street: Peery Drive
+housenumber: "1806"
 phone: ""
 opening_hours: ""
 website: ""

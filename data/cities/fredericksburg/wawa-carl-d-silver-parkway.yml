@@ -1,11 +1,11 @@
 id: 39359564
-type: way
+type: node
 latitude: 38.29736
 longitude: -77.51374
 postcode: "22401"
 city: Fredericksburg
-street: "Carl D. Silver Parkway"
-housenumber: 1140
-phone: "+1 540-785-3438"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/660"
+street: Carl D. Silver Parkway
+housenumber: "1140"
+phone: +1 540-785-3438
+opening_hours: 24/7
+website: https://www.wawa.com/locations/660

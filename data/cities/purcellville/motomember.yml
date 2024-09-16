@@ -1,11 +1,11 @@
 id: 724192377
-type: way
+type: node
 latitude: 39.14408
 longitude: -77.72155
 postcode: "20132"
 city: Purcellville
-street: "Browning Court"
-housenumber: 405
+street: Browning Court
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

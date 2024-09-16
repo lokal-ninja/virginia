@@ -1,11 +1,11 @@
 id: 675841008
-type: way
+type: node
 latitude: 39.05881
 longitude: -77.46013
 postcode: "20147"
 city: Ashburn
-street: "Atwater Drive"
-housenumber: 44540
-phone: "+1 703-653-0878"
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:00-17:30"
-website: "https://www.extraspace.com/Storage/Facilities/US/Virginia/Ashburn/1000001236/Facility7.aspx"
+street: Atwater Drive
+housenumber: "44540"
+phone: +1 703-653-0878
+opening_hours: Mo-Fr 09:30-18:00, Sa 09:00-17:30
+website: https://www.extraspace.com/Storage/Facilities/US/Virginia/Ashburn/1000001236/Facility7.aspx

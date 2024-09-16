@@ -1,11 +1,11 @@
 id: 407337940
-type: way
+type: node
 latitude: 36.87356
 longitude: -76.2974
 postcode: "23517"
 city: Norfolk
-street: "Colley Avenue"
-housenumber: 2401
+street: Colley Avenue
+housenumber: "2401"
 phone: ""
 opening_hours: ""
 website: ""

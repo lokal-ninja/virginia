@@ -1,11 +1,11 @@
 id: 1049256093
-type: way
+type: node
 latitude: 37.69951
 longitude: -75.71352
 postcode: "23418"
 city: Onley
-street: "Lankford Highway"
-housenumber: 25105
-phone: "+1 757-551-4001"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/va/onley/6716/"
+street: Lankford Highway
+housenumber: "25105"
+phone: +1 757-551-4001
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/va/onley/6716/

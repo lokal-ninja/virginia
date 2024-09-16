@@ -1,11 +1,11 @@
 id: 1158472309
-type: way
+type: node
 latitude: 37.10387
 longitude: -80.68755
 postcode: "24084"
 city: Dublin
-street: "Broad Street"
-housenumber: 180
-phone: "1-540-518-7088"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
+street: Broad Street
+housenumber: "180"
+phone: 1-540-518-7088
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

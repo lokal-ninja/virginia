@@ -1,11 +1,11 @@
 id: 929404252
-type: way
+type: node
 latitude: 38.81068
 longitude: -77.63646
 postcode: "20169"
 city: Haymarket
-street: "Madison Street"
-housenumber: 6710
+street: Madison Street
+housenumber: "6710"
 phone: ""
 opening_hours: ""
 website: ""

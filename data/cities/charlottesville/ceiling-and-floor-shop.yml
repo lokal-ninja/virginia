@@ -1,11 +1,11 @@
 id: 385361664
-type: way
+type: node
 latitude: 38.01381
 longitude: -78.47135
 postcode: "22902"
 city: Charlottesville
-street: "Keystone Place"
-housenumber: 105
+street: Keystone Place
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

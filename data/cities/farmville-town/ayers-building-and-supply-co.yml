@@ -1,11 +1,11 @@
 id: 192168058
-type: way
+type: node
 latitude: 37.30968
 longitude: -78.38729
 postcode: "23901"
 city: Farmville Town
-street: "North Main Street"
-housenumber: 710
+street: North Main Street
+housenumber: "710"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 574688119
-type: way
+type: node
 latitude: 37.75524
 longitude: -77.46628
 postcode: "23005"
 city: Hanover County
-street: "Junction Drive"
-housenumber: 201
-phone: "+1 804-798-0500"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Junction Drive
+housenumber: "201"
+phone: +1 804-798-0500
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

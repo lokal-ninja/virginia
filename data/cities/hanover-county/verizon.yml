@@ -1,11 +1,11 @@
 id: 924357576
-type: way
+type: node
 latitude: 37.75998
 longitude: -77.47198
 postcode: "23005"
 city: Hanover County
-street: "North Washington Highway"
-housenumber: 200
+street: North Washington Highway
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""
