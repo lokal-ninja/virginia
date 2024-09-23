@@ -1,6 +1,6 @@
 ---
 title: Farmville
 url: /farmville/
-latitude: 37.302
-longitude: -78.392
+latitude: 37.277
+longitude: -78.402
 ---

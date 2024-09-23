@@ -1,6 +1,6 @@
 ---
 title: Pennington Gap
 url: /pennington-gap/
-latitude: 36.71
-longitude: -82.963
+latitude: 36.763
+longitude: -83.015
 ---
