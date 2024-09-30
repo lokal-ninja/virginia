@@ -1,6 +1,6 @@
 ---
 title: Clifton Forge
 url: /clifton-forge/
-latitude: 37.817
-longitude: -79.809
+latitude: 37.816
+longitude: -79.826
 ---
