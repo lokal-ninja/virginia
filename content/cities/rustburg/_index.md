@@ -1,6 +1,6 @@
 ---
 title: Rustburg
 url: /rustburg/
-latitude: 37.231
-longitude: -79.186
+latitude: 37.28
+longitude: -79.169
 ---

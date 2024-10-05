@@ -1,6 +1,6 @@
 ---
 title: Covington
 url: /covington/
-latitude: 37.783
-longitude: -79.986
+latitude: 37.769
+longitude: -79.99
 ---
