@@ -1,6 +1,6 @@
 ---
 title: Culpeper
 url: /culpeper/
-latitude: 38.479
-longitude: -77.989
+latitude: 38.484
+longitude: -77.975
 ---
