@@ -1,6 +1,6 @@
 ---
 title: Raphine
 url: /raphine/
-latitude: 37.93
-longitude: -79.236
+latitude: 37.932
+longitude: -79.233
 ---

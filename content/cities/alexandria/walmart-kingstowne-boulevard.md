@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /alexandria/walmart-kingstowne-boulevard/
-shop: supermarket
+shop: department store
 ---

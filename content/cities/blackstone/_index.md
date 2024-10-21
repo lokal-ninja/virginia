@@ -1,6 +1,6 @@
 ---
 title: Blackstone
 url: /blackstone/
-latitude: 37.061
-longitude: -78.005
+latitude: 37.08
+longitude: -77.998
 ---
