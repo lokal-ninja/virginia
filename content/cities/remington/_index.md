@@ -1,6 +1,6 @@
 ---
 title: Remington
 url: /remington/
-latitude: 38.533
-longitude: -77.807
+latitude: 38.535
+longitude: -77.808
 ---
