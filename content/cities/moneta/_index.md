@@ -1,6 +1,6 @@
 ---
 title: Moneta
 url: /moneta/
-latitude: 37.188
-longitude: -79.616
+latitude: 37.194
+longitude: -79.686
 ---

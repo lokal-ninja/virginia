@@ -1,6 +1,6 @@
 ---
 title: Hillsville
 url: /hillsville/
-latitude: 36.763
-longitude: -80.733
+latitude: 36.764
+longitude: -80.735
 ---
