@@ -1,6 +1,6 @@
 ---
 title: Brookneal
 url: /brookneal/
-latitude: 37.051
-longitude: -78.945
+latitude: 37.058
+longitude: -78.95
 ---
