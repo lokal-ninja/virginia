@@ -1,6 +1,6 @@
 ---
 title: Irvington
 url: /irvington/
-latitude: 37.664
-longitude: -76.418
+latitude: 37.662
+longitude: -76.421
 ---
