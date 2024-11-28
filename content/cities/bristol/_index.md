@@ -1,6 +1,6 @@
 ---
 title: Bristol
 url: /bristol/
-latitude: 36.592
-longitude: -82.261
+latitude: 36.595
+longitude: -82.258
 ---
