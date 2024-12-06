@@ -1,6 +1,6 @@
 ---
 title: Norton
 url: /norton/
-latitude: 36.955
-longitude: -82.603
+latitude: 36.939
+longitude: -82.609
 ---

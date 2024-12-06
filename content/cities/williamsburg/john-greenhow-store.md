@@ -1,5 +1,5 @@
 ---
 title: "John Greenhow Store"
 url: /williamsburg/john-greenhow-store/
-shop: shop
+shop: gift
 ---
