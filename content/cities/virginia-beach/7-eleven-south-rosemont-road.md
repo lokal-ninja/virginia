@@ -1,5 +1,0 @@
----
-title: "7-Eleven"
-url: /virginia-beach/7-eleven-south-rosemont-road/
-shop: convenience
----
