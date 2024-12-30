@@ -1,6 +1,6 @@
 ---
 title: Chesapeake
 url: /chesapeake/
-latitude: 36.716
+latitude: 36.789
 longitude: -76.237
 ---
