@@ -7,5 +7,8 @@ city: Lynchburg
 street: Lakeside Drive
 housenumber: "2625"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Fr 07:30-08:30 open "Service Only"; Sa 08:00-09:00 open "Service
+    Only" || Mo-Fr 08:30-17:30 open "Service and Sales"; Sa 09:00-12:00 open "Service
+    and Sales" || Mo-Fr 17:30-19:00 open "Sales Only"; Sa 12:00-16:00 open "Sales
+    Only"
 website: https://www.crafthyundai.com/

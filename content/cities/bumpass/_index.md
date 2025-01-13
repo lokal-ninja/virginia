@@ -1,6 +1,6 @@
 ---
 title: Bumpass
 url: /bumpass/
-latitude: 37.867
-longitude: -77.785
+latitude: 37.923
+longitude: -77.7
 ---
