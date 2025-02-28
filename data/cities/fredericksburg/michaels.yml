@@ -4,8 +4,8 @@ latitude: 38.29504
 longitude: -77.51351
 postcode: 22407-4900
 city: Fredericksburg
-street: Spotsylvania Mall Drive;Plank Road
-housenumber: 3100;3102
+street: Spotsylvania Mall Drive
+housenumber: "3100"
 phone: +1 540-785-8540
 opening_hours: ""
 website: https://locations.michaels.com/va/fredericksburg/8806
