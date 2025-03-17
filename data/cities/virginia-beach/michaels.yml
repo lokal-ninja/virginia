@@ -1,12 +1,11 @@
 id: 6173924197
 type: node
 latitude: 36.84484
-longitude: -76.13015
+longitude: -76.13011
 postcode: "23462"
 city: Virginia Beach
 street: Constitution Drive
 housenumber: "304"
 phone: +1 757-552-0772
-opening_hours: Su 10:00-19:00, Mo 09:00-18:00, Tu 10:00-19:00, We 09:00-21:00, Th-Sa
-    09:00-21:00
+opening_hours: Su 10:00-19:00; Mo-Sa 09:00-21:00
 website: https://locations.michaels.com/va/virginia-beach/2203/

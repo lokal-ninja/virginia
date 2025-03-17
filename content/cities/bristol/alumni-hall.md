@@ -1,5 +1,5 @@
 ---
 title: "Alumni Hall"
 url: /bristol/alumni-hall/
-shop: shop
+shop: clothes
 ---
