@@ -1,6 +1,6 @@
 ---
 title: Hopewell City
 url: /hopewell-city/
-latitude: 37.291
-longitude: -77.294
+latitude: 37.276
+longitude: -77.312
 ---
