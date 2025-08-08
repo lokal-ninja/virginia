@@ -1,6 +1,6 @@
 ---
 title: Fairlawn
 url: /fairlawn/
-latitude: 37.147
-longitude: -80.587
+latitude: 37.153
+longitude: -80.585
 ---

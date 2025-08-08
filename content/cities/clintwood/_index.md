@@ -1,6 +1,6 @@
 ---
 title: Clintwood
 url: /clintwood/
-latitude: 37.151
-longitude: -82.455
+latitude: 37.15
+longitude: -82.463
 ---

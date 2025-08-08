@@ -1,6 +1,6 @@
 ---
 title: Mappsville
 url: /mappsville/
-latitude: 37.838
-longitude: -75.572
+latitude: 37.846
+longitude: -75.567
 ---
