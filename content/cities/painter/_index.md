@@ -1,6 +1,6 @@
 ---
 title: Painter
 url: /painter/
-latitude: 37.59
-longitude: -75.783
+latitude: 37.588
+longitude: -75.784
 ---
