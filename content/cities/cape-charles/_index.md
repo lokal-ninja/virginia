@@ -1,6 +1,6 @@
 ---
 title: Cape Charles
 url: /cape-charles/
-latitude: 37.27
-longitude: -75.974
+latitude: 37.276
+longitude: -75.972
 ---
