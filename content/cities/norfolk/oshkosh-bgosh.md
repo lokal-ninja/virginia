@@ -1,5 +1,5 @@
 ---
-title: "OshKosh B'Gosh"
+title: "OshKosh B'gosh"
 url: /norfolk/oshkosh-bgosh/
-shop: baby goods
+shop: clothes
 ---

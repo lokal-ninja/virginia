@@ -1,6 +1,6 @@
 ---
 title: Norfolk
 url: /norfolk/
-latitude: 36.858
-longitude: -76.212
+latitude: 36.846
+longitude: -76.29
 ---
