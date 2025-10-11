@@ -1,6 +1,6 @@
 ---
 title: Grundy
 url: /grundy/
-latitude: 37.278
+latitude: 37.277
 longitude: -82.102
 ---
