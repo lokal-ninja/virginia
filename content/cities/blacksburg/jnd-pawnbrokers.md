@@ -1,5 +1,5 @@
 ---
-title: "Jnd Pawnbrokers"
+title: "JND Pawnbrokers"
 url: /blacksburg/jnd-pawnbrokers/
 shop: pawnbroker
 ---
