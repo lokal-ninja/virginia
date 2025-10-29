@@ -1,6 +1,6 @@
 ---
 title: Woodford
 url: /woodford/
-latitude: 38.126
-longitude: -77.513
+latitude: 38.132
+longitude: -77.523
 ---
