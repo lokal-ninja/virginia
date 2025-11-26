@@ -1,6 +1,6 @@
 ---
 title: New Church
 url: /new-church/
-latitude: 37.98
+latitude: 37.979
 longitude: -75.531
 ---
