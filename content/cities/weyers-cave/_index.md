@@ -1,6 +1,6 @@
 ---
 title: Weyers Cave
 url: /weyers-cave/
-latitude: 38.293
-longitude: -78.936
+latitude: 38.285
+longitude: -78.916
 ---
