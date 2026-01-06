@@ -1,6 +1,6 @@
 ---
 title: Virginia Beach
 url: /virginia-beach/
-latitude: 36.775
-longitude: -76.086
+latitude: 36.818
+longitude: -76.07
 ---
