@@ -1,6 +1,6 @@
 ---
 title: Heathsville
 url: /heathsville/
-latitude: 37.915
-longitude: -76.466
+latitude: 37.884
+longitude: -76.35
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rural Retreat
 url: /rural-retreat/
-latitude: 36.895
-longitude: -81.276
+latitude: 36.915
+longitude: -81.273
 ---
