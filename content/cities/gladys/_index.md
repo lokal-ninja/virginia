@@ -1,6 +1,6 @@
 ---
 title: Gladys
 url: /gladys/
-latitude: 37.163
-longitude: -79.074
+latitude: 37.129
+longitude: -79.161
 ---
