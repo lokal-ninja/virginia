@@ -1,6 +1,6 @@
 ---
 title: Warrenton
 url: /warrenton/
-latitude: 38.718
-longitude: -77.814
+latitude: 38.623
+longitude: -77.8
 ---
