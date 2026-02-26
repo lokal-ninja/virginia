@@ -1,6 +1,6 @@
 ---
 title: Blacksburg
 url: /blacksburg/
-latitude: 37.234
-longitude: -80.432
+latitude: 37.229
+longitude: -80.424
 ---
