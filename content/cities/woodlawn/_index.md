@@ -1,6 +1,6 @@
 ---
 title: Woodlawn
 url: /woodlawn/
-latitude: 36.718
-longitude: -80.823
+latitude: 36.739
+longitude: -80.786
 ---
