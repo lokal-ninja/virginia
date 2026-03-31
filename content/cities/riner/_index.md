@@ -1,6 +1,6 @@
 ---
 title: Riner
 url: /riner/
-latitude: 37.066
-longitude: -80.442
+latitude: 36.971
+longitude: -80.418
 ---
