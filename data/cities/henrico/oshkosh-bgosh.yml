@@ -5,7 +5,7 @@ longitude: -77.62226
 postcode: "23233"
 city: Henrico
 street: West Broad Street
-housenumber: "11809"
-phone: ""
-opening_hours: ""
+housenumber: 11809;11813
+phone: +1-804-360-4313
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

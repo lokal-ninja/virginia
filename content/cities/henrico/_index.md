@@ -1,6 +1,6 @@
 ---
 title: Henrico
 url: /henrico/
-latitude: 37.652
-longitude: -77.618
+latitude: 37.654
+longitude: -77.623
 ---
