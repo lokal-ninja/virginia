@@ -1,5 +1,5 @@
 ---
-title: "Stop and Go"
+title: "Stop & Go"
 url: /hampton/stop-and-go/
 shop: convenience
 ---

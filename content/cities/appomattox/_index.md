@@ -1,6 +1,6 @@
 ---
 title: Appomattox
 url: /appomattox/
-latitude: 37.366
-longitude: -78.844
+latitude: 37.354
+longitude: -78.828
 ---
