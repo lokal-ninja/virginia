@@ -1,6 +1,6 @@
 ---
 title: Catlett
 url: /catlett/
-latitude: 38.654
-longitude: -77.64
+latitude: 38.662
+longitude: -77.636
 ---
