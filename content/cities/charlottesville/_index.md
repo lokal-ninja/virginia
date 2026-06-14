@@ -1,6 +1,6 @@
 ---
 title: Charlottesville
 url: /charlottesville/
-latitude: 38.063
-longitude: -78.491
+latitude: 38.054
+longitude: -78.501
 ---
