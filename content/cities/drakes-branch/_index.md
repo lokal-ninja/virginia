@@ -1,6 +1,6 @@
 ---
 title: Drakes Branch
 url: /drakes-branch/
-latitude: 36.995
-longitude: -78.603
+latitude: 37.004
+longitude: -78.607
 ---
