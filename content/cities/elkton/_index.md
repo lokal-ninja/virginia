@@ -1,6 +1,6 @@
 ---
 title: Elkton
 url: /elkton/
-latitude: 38.407
-longitude: -78.619
+latitude: 38.406
+longitude: -78.652
 ---
