@@ -1,6 +1,6 @@
 ---
 title: Wytheville
 url: /wytheville/
-latitude: 36.951
-longitude: -81.081
+latitude: 36.96
+longitude: -81.076
 ---
