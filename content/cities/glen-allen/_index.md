@@ -1,6 +1,6 @@
 ---
 title: Glen Allen
 url: /glen-allen/
-latitude: 37.682
-longitude: -77.591
+latitude: 37.67
+longitude: -77.462
 ---
