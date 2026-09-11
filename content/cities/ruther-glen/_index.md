@@ -1,6 +1,6 @@
 ---
 title: Ruther Glen
 url: /ruther-glen/
-latitude: 38.02
-longitude: -77.514
+latitude: 38.019
+longitude: -77.516
 ---
