@@ -1,6 +1,6 @@
 ---
 title: Staunton
 url: /staunton/
-latitude: 38.15
-longitude: -79.073
+latitude: 38.149
+longitude: -79.072
 ---
