@@ -1,6 +1,6 @@
 ---
 title: Spotsylvania
 url: /spotsylvania/
-latitude: 38.199
-longitude: -77.587
+latitude: 38.233
+longitude: -77.557
 ---
